@@ -367,5 +367,17 @@ https://cdnfe1.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xN
 https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MzE6MDMgUE0maGFzaF92YWx1ZT1UUFhZMGg3d1dqU3NnVkJoZmlXY2N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/77.m3u8
-#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/77.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/28.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTE6NDAgUE0maGFzaF92YWx1ZT1sSkdyejBmQ1d5aWU0SEI2WExJcGZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="foxsports2" tvg-name="Fox Sports 2" group-title="Esportes",Fox Sports 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/29.m3u8
+#EXTINF:-1 tvg-ID="foxsports2" tvg-name="Fox Sports 2" group-title="Esportes",Fox Sports 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTM6MTIgUE0maGFzaF92YWx1ZT1BaHhpYnNhcmRuZFJObk9XVTVzVkZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="fespnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/32.m3u8
+#EXTINF:-1 tvg-ID="fespnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTQ6MzUgUE0maGFzaF92YWx1ZT1RZHJLZ05zSEQ5STdtc1pWT0x0YVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="fespnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/32.m3u8
