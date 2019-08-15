@@ -375,9 +375,47 @@ https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/29.m3u8
 #EXTINF:-1 tvg-ID="foxsports2" tvg-name="Fox Sports 2" group-title="Esportes",Fox Sports 2 | TechRuthes.com
 https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTM6MTIgUE0maGFzaF92YWx1ZT1BaHhpYnNhcmRuZFJObk9XVTVzVkZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-ID="fespnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
+#EXTINF:-1 tvg-ID="espnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/32.m3u8
-#EXTINF:-1 tvg-ID="fespnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
+#EXTINF:-1 tvg-ID="espnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
 https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTQ6MzUgUE0maGFzaF92YWx1ZT1RZHJLZ05zSEQ5STdtc1pWT0x0YVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1 tvg-ID="fespnbrasil" tvg-name="Espn Brasil" group-title="Esportes",Espn Brasil | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/32.m3u8
+#EXTINF:-1 tvg-ID="espn" tvg-name="Espn" group-title="Esportes",Espn | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTc6NDQgUE0maGFzaF92YWx1ZT0vYkNCVkJCUjBGbk10UEpmZWhSeEZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="espn" tvg-name="Espn" group-title="Esportes",Espn | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTg6MjggUE0maGFzaF92YWx1ZT1uQkdJbkRPYnZqZFlSVkowSWl6aGJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="espn2" tvg-name="Espn 2" group-title="Esportes",Espn 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/31.m3u8
+#EXTINF:-1 tvg-ID="espn2" tvg-name="Espn 2" group-title="Esportes",Espn 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDY6NTk6MzYgUE0maGFzaF92YWx1ZT1Va05mSWlHNUppY3ladFlldzdIVE1RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="espnextra" tvg-name="Espn Extra" group-title="Esportes",Espn Extra | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/33.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDE6MjggUE0maGFzaF92YWx1ZT1oaExERWFaczNaMkw5a0E1S0lBTE1RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDI6MTYgUE0maGFzaF92YWx1ZT12V2R1VGc1b2tTN1BKQUE4MG03cnRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDU6MDAgUE0maGFzaF92YWx1ZT1BdkswdnhWaEovN0FIWmpYYzBVOWp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/36.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDU6MjYgUE0maGFzaF92YWx1ZT1rU2twbndLVXZwVGloMXA0ZERBUE9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDU6NDYgUE0maGFzaF92YWx1ZT11R1ZwTy9iMXl1SFhUb1JoTjBOYmdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDY6MzkgUE0maGFzaF92YWx1ZT03SndrbmRhWExHVUllYk4wVlNBWUl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/38.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDc6MjMgUE0maGFzaF92YWx1ZT1xZjNKU3NhQlJNRlhha2hpZXh1ODlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDg6MDQgUE0maGFzaF92YWx1ZT1sMndnNk9IMW1HL0lxVmQ3TFFRQkFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDk6MTYgUE0maGFzaF92YWx1ZT1VSnRSTGo4cnJCc0RxTkVrNUV5Rm1BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDk6MzAgUE0maGFzaF92YWx1ZT05SVdSTkRKZlRBOHdva1ZDcDBvVDJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MDk6NTMgUE0maGFzaF92YWx1ZT03SytVU0IrbkMwWHJXWVllNG9OVkZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDc6MTA6MDkgUE0maGFzaF92YWx1ZT1qRjJ1UmkxdEhpazBOcHVYQXdmcjh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="allsports" tvg-name="All Sports" group-title="Esportes",All Sports | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/24.m3u8
