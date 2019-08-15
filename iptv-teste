@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD - top | TechRuthes.com
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/17.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
 https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MDQ6MTggUE0maGFzaF92YWx1ZT1TemxWbXRGZytwUlN1VzEzeUxyY3V3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
