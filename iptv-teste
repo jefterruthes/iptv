@@ -1,0 +1,371 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/17.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MDQ6MTggUE0maGFzaF92YWx1ZT1TemxWbXRGZytwUlN1VzEzeUxyY3V3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6MjI6NTMgUE0maGFzaF92YWx1ZT1XNURGOGE0dDVlbXJpU0wrMWhyQlZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais Abertos",SBT HD | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempre/SempreHoje/2.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT SP" group-title="Canais Abertos",SBT SP | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sbt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6NTI6MDggUE0maGFzaF92YWx1ZT1HeDFYNitWbG5vZVNFM0ZmQ0wydWhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT SP" group-title="Canais Abertos",SBT SP | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sbt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDg6NTM6NTggUE0maGFzaF92YWx1ZT0yYzNFMXlMNmMyMHdKa0ZCaUU0YkFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT PERNAMBUCO" group-title="Canais Abertos",SBT PERNAMBUCO | TechRuthes.com
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w171051050_b216000_sleng.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT PERNAMBUCO" group-title="Canais Abertos",SBT PERNAMBUCO | TechRuthes.com
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1890053455_b216000_sleng.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band HD | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempre/SempreHoje/4.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band HD | TechRuthes.com
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band HD | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/11684
+#EXTINF:-1 tvg-ID="record" tvg-name="Record SP" group-title="Canais Abertos",Record SP | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempre/SempreHoje/3.m3u8
+#EXTINF:-1 tvg-ID="record" tvg-name="Record SP" group-title="Canais Abertos",Record SP | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4611
+#EXTINF:-1 tvg-ID="record" tvg-name="Record RJ" group-title="Canais Abertos",Record RJ | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/5573
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV SP" group-title="Canais Abertos",RedeTV SP | TechRuthes.com
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w988592995.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV | TechRuthes.com
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1689893019.m3u8
+#EXTINF:-1 tvg-ID="tvgazeta" tvg-name="TV Gazeta" group-title="Canais Abertos",TV Gazeta | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempre/SempreHoje/9.m3u8
+#EXTINF:-1 tvg-ID="tvcultura" tvg-name="TV Cultura" group-title="Canais Abertos",TV Cultura | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tvcultura.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDk6MzM6NTAgUE0maGFzaF92YWx1ZT1VeGNnWXZiV3VFazFGTzNGcWZQdjdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="tvcultura" tvg-name="TV Cultura" group-title="Canais Abertos",TV Cultura | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tvcultura.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDk6MzQ6MjMgUE0maGFzaF92YWx1ZT1WUmFzc3EvalZzWVZ1SlRXVTE3aXR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="tvescola" tvg-name="TV Escola" group-title="Canais Abertos",TV Escola | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4928
+#EXTINF:-1 tvg-ID="redefamilia" tvg-name="Rede Familia" group-title="Canais Abertos",Rede Familia | TechRuthes.com
+https://cdn0.showcase.com.br/hls/redefamilia/index.m3u8
+#EXTINF:-1 tvg-ID="valedoaco" tvg-name="TV Cultura - Vale do Aço" group-title="Canais Abertos",TV Cultura - Vale do Aço | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11332
+#EXTINF:-1 tvg-ID="tvaparecida" tvg-name="TV Aparecida" group-title="Religiosos",TV Aparecida | TechRuthes.com
+https://caikron.com.br:8082/tvap/tvap/tvap/720p/chunks.m3u8?nimblesessionid=5426826
+#EXTINF:-1 tvg-ID="tvaparecida" tvg-name="TV Aparecida" group-title="Religiosos",TV Aparecida | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4863
+#EXTINF:-1 tvg-ID="tvevangelizar" tvg-name="TV Evangelizar" group-title="Religiosos",TV Evangelizar | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11337
+#EXTINF:-1 tvg-ID="cancaonova" tvg-name="Canção Nova" group-title="Religiosos",Canção Nova | TechRuthes.com
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-ID="tvevangelizar" tvg-name="TV Evangelizar" group-title="Religiosos",TV Evangelizar | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11337
+#EXTINF:-1 tvg-ID="redegospel" tvg-name="Rede Gospel" group-title="Religiosos",Rede Gospel | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/11347
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News" group-title="Variedades",Globo News | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempre/SempreHoje/97.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News" group-title="Variedades",Globo News | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/globonews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjA3OjI0IFBNJmhhc2hfdmFsdWU9ZFB6eUlaUWFidmJ1ZlFBU0Zua3p5UT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Variedades",Band News | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bandnews.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjA4OjU0IFBNJmhhc2hfdmFsdWU9WkdjWklEcnZhVjJHTFhqOTdFR3dsQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Variedades",Band News | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/4962
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News" group-title="Variedades",Record News | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5015
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News" group-title="Variedades",Record News | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5016
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades",Arte 1 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/arte1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjE1OjA3IFBNJmhhc2hfdmFsdWU9Vmt1dTBkQXRYZDQzd21xSGx0VkJaQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades",Arte 1 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/arte1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjE1OjQ3IFBNJmhhc2hfdmFsdWU9eHplVGhISjZIdS9jaUphekg1SGM3UT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="curta" tvg-name="Curta!" group-title="Variedades",Curta! | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjE2OjM4IFBNJmhhc2hfdmFsdWU9dVpQU0ZyQllsMVEybEJhOFlGeWZjZz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="curta" tvg-name="Curta!" group-title="Variedades",Curta! | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/curta.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjE3OjE4IFBNJmhhc2hfdmFsdWU9UzFKZ24zeTdHeUhua2EwdFB2TU9nUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="fishtv" tvg-name="Fish TV" group-title="Variedades",Fish TV | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/4987
+#EXTINF:-1 tvg-ID="foodnetwork" tvg-name="FOOD NETWORK" group-title="Variedades",FOOD NETWORK | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjIxOjU4IFBNJmhhc2hfdmFsdWU9WnMxTFBwSXNtSExQR2lnTGJMNnNaZz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="foodnetwork" tvg-name="FOOD NETWORK" group-title="Variedades",FOOD NETWORK | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjIyOjQyIFBNJmhhc2hfdmFsdWU9anVUTFJwWFRVQ2dxcUVuZFNGMEw5UT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="foodnetwork" tvg-name="FOOD NETWORK" group-title="Variedades",FOOD NETWORK | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/4986
+#EXTINF:-1 tvg-ID="canaloff" tvg-name="Canal OFF" group-title="Variedades",Canal OFF | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4218
+#EXTINF:-1 tvg-ID="canaloff" tvg-name="Canal OFF" group-title="Variedades",Canal OFF | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/off.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjI1OjE2IFBNJmhhc2hfdmFsdWU9RWtvcFZ6bFJZY2ZLYnlzL2tnQStwdz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="comedycentral" tvg-name="Comedy Central" group-title="Variedades",Comedy Central | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjI2OjA4IFBNJmhhc2hfdmFsdWU9RWl1YlFjdStYbS9maGg0VWc4M3lGdz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="comedycentral" tvg-name="Comedy Central" group-title="Variedades",Comedy Central | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDE5IDExOjI3OjA2IFBNJmhhc2hfdmFsdWU9MlpBS3djdWhxRG9ZdDQ5N3NmeWhuUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="canale" tvg-name="Canal E!" group-title="Variedades",Canal E! | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6Mzg6NTMgUE0maGFzaF92YWx1ZT01WnhsNkppLzUzQXozRjN2Z3dxNU1BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="canale" tvg-name="Canal E!" group-title="Variedades",Canal E! | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6NDA6MDYgUE0maGFzaF92YWx1ZT1LVkFKM2prK3FOVDBGcTdDeW80RGxnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades",GNT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDI6MTk6MzggUE0maGFzaF92YWx1ZT05Y0Npd1hwcnpFZGc2Z2ZUNGZuYnN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades",GNT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDI6MTk6NTggUE0maGFzaF92YWx1ZT1qeXRWVjVxOXduVjcvdGUrUXFlc3hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="tbs" tvg-name="TBS" group-title="Variedades",TBS | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4926
+#EXTINF:-1 tvg-ID="viva" tvg-name="VIVA" group-title="Variedades",VIVA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDEyOjAxOjEwIEFNJmhhc2hfdmFsdWU9TVRwTnZ1TzJMSW9MZVBtbGVXeTkzQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="viva" tvg-name="VIVA" group-title="Variedades",VIVA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6Mjk6NDkgUE0maGFzaF92YWx1ZT1mZmdCbHZkNXZNT2ZNenNBUXJ1bXZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="maisglobosat" tvg-name="MAIS GLOBOSAT" group-title="Variedades",MAIS GLOBOSAT | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4403
+#EXTINF:-1 tvg-ID="maisglobosat" tvg-name="MAIS GLOBOSAT" group-title="Variedades",MAIS GLOBOSAT | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4620
+#EXTINF:-1 tvg-ID="tlc" tvg-name="TLC" group-title="Variedades",TLC | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDEyOjIwOjQ1IEFNJmhhc2hfdmFsdWU9bmtmNUxZYmViUFp5VzMxbTdDTTRGQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="tlc" tvg-name="TLC" group-title="Variedades",TLC | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MzI6NTAgUE0maGFzaF92YWx1ZT1HNjEzeFF2Q3l6NW1wTWJ0RkdUNlhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="foxlife" tvg-name="Fox Life" group-title="Variedades",Fox Life | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDEyOjIyOjEyIEFNJmhhc2hfdmFsdWU9bVVjbVUvcXR1VkgwbDFBaEE0TlZ2Zz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-ID="foxlife" tvg-name="Fox Life" group-title="Variedades",Fox Life | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/11675
+#EXTINF:-1 tvg-ID="syfy" tvg-name="Syfy" group-title="Variedades",Syfy | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/4399
+#EXTINF:-1 tvg-ID="syfy" tvg-name="Syfy" group-title="Variedades",Syfy | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/5169
+#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantis",Cartoon Network | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6MjI6MTYgQU0maGFzaF92YWx1ZT1TMllWOVM3bnNaZFNoQjlUb3ptcVhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantis",Cartoon Network | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/4960
+#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantis",Cartoon Network | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/4961
+#EXTINF:-1 tvg-ID="boomerang" tvg-name="Boomerang" group-title="Infantis",Boomerang | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/127.m3u8
+#EXTINF:-1 tvg-ID="boomerang" tvg-name="Boomerang" group-title="Infantis",Boomerang | TechRuthes.com
+http://goiptv.co:8080/live:jackyshow2000/DcdM26Ve7m/5002
+#EXTINF:-1 tvg-ID="boomerang" tvg-name="Boomerang" group-title="Infantis",Boomerang | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6Mjc6NTIgQU0maGFzaF92YWx1ZT1QUFBpWnpCTkFFQ242cVUxUFR4NFRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="nickelodeon" tvg-name="Nickelodeon" group-title="Infantis",Nickelodeon | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6Mjk6MDYgQU0maGFzaF92YWx1ZT02bFFRTEZtZzM0aUJtRkU5L0N2SzV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="nickelodeon" tvg-name="Nickelodeon" group-title="Infantis",Nickelodeon | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6MzE6NDcgQU0maGFzaF92YWx1ZT0rSW0rL3gycVVINERmd1dHYWM4R0NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="nickelodeon" tvg-name="Nickelodeon" group-title="Infantis",Nickelodeon | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/123.m3u8
+#EXTINF:-1 tvg-ID="nickjr" tvg-name="Nick JR" group-title="Infantis",Nick JR | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/5026
+#EXTINF:-1 tvg-ID="nickjr" tvg-name="Nick JR" group-title="Infantis",Nick JR | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6Mzg6MTggQU0maGFzaF92YWx1ZT0yTEM3U3dYSzB3aVR6S1BUTWx6ZTJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob" group-title="Infantis",Gloob | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/121.m3u8
+#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob" group-title="Infantis",Gloob | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/gloob.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NDI6MjUgQU0maGFzaF92YWx1ZT1mYnJDV25aWngwMGpjalNxemgrYXZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob" group-title="Infantis",Gloob | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/gloob.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NDM6MDQgQU0maGFzaF92YWx1ZT13a0hoTHNEUTRuYW92Sm5GZUp6NHFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="gloobiho" tvg-name="Gloobinho" group-title="Infantis",Gloobinho | TechRuthes.com
+http://iptv.csvix.net:8080/Gustavo/12345/9644
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel" group-title="Infantis",Disney Channel | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/120.m3u8
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel" group-title="Infantis",Disney Channel | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NDc6MzkgQU0maGFzaF92YWx1ZT0ya0RIVjJaa0xpMFRpRVlOQkFvRklBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel" group-title="Infantis",Disney Channel | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NDg6MTIgQU0maGFzaF92YWx1ZT1yaGxmem5OWHZONVRYdjAzc0NLVGtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Junior" group-title="Infantis",Disney Junior | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/119.m3u8
+#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Junior" group-title="Infantis",Disney Junior | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/disneyjunior.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NDk6NTMgQU0maGFzaF92YWx1ZT03dnVvTnVHWkVzVnpoRG84Zm5GZW9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Junior" group-title="Infantis",Disney Junior | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/disneyjunior.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NTE6MDggQU0maGFzaF92YWx1ZT1MYlhadFhLTEp2bFIvMjRjcXNieTZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids" group-title="Infantis",Discovery Kids | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NTM6MTEgQU0maGFzaF92YWx1ZT1KRkEyRHJuUFkyRUFkcmZvNS9xcnN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids" group-title="Infantis",Discovery Kids | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/111.m3u8
+#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids" group-title="Infantis",Discovery Kids | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverykids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NTQ6MjQgQU0maGFzaF92YWx1ZT1kSlFYSnlLQmphcXFXb016YndGaFhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="natgeokids" tvg-name="Natgeo Kids" group-title="Infantis",Natgeo Kids | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/114.m3u8
+#EXTINF:-1 tvg-ID="natgeokids" tvg-name="Natgeo Kids" group-title="Infantis",Natgeo Kids | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/natgeokids.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6NDU6NTAgQU0maGFzaF92YWx1ZT1sKy9SYmVKbENWZ2MyMWVuNDRWeUhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="zoomoo" tvg-name="Zoomoo" group-title="Infantis",Zoomoo | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/zoomoo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MzU6MjkgQU0maGFzaF92YWx1ZT1yZnVSRnJDdENBbjY2VXJSVzhMbWN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="zoomoo" tvg-name="Zoomoo" group-title="Infantis",Zoomoo | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/124.m3u8
+#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Nat Geo Wild" group-title="Documentários",Nat Geo Wild | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/113.m3u8
+#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Nat Geo Wild" group-title="Documentários",Nat Geo Wild | TechRuthes.com
+hhttps://cdnfe1.azureedge.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzU6MDUgQU0maGFzaF92YWx1ZT12OGlIVmFxcnJHZW1kaHBkcGFNM2ZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="natgeo" tvg-name="Nat Geo" group-title="Documentários",Nat Geo | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/112.m3u8
+#EXTINF:-1 tvg-ID="natgeo" tvg-name="Nat Geo" group-title="Documentários",Nat Geo | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6Mzk6MjkgQU0maGFzaF92YWx1ZT1rNGVuS1hNYWJtQnJtTjRDZGZxYyt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World" group-title="Documentários",Discovery World | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/110.m3u8
+#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World" group-title="Documentários",Discovery World | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6MjE6NTUgQU0maGFzaF92YWx1ZT1GUHBPbFVyY0EwM0JhY09landkRDdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/109.m3u8
+#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/108.m3u8
+#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverytheater.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6Mjc6MDUgQU0maGFzaF92YWx1ZT1EUjVJN1V2dUdMeVRnNHRFNGovdmFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/107.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6Mjk6NDcgQU0maGFzaF92YWx1ZT1SSG5oSFhMN3hOQkNZSnVRSGNCUVBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoveryh&h" tvg-name="Discovery Home & Health" group-title="Documentários",Discovery Home & Health | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6MzE6MTQgQU0maGFzaF92YWx1ZT1BSUk5RWRYN0VweFFoOG1rUC91UTlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoveryh&h" tvg-name="Discovery Home & Health" group-title="Documentários",Discovery Home & Health | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6MzE6MzYgQU0maGFzaF92YWx1ZT1JTDFQSEJWaVhmVXFaQkRpWnE3M1VnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilization" group-title="Documentários",Discovery Civilization | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/105.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilization" group-title="Documentários",Discovery Civilization | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6MzQ6NDUgQU0maGFzaF92YWx1ZT1HU1N4cXVUdWgyWjN3UzJYQlM4SEt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/104.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6Mzc6MjkgQU0maGFzaF92YWx1ZT1hLy9CbW5RLzFKTEV0V0ZNeHBKd1Z3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="history" tvg-name="History" group-title="Documentários",History | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6NDA6NDggQU0maGFzaF92YWx1ZT1sUWt1Wmx6TFZxMVZ4STE4L3VFOHFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="history" tvg-name="History" group-title="Documentários",History | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/102.m3u8
+#EXTINF:-1 tvg-ID="h2" tvg-name="H2" group-title="Documentários",H2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/103.m3u8
+#EXTINF:-1 tvg-ID="h2" tvg-name="H2" group-title="Documentários",H2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6NDM6NTkgQU0maGFzaF92YWx1ZT1remxBS29tV25nOG5Qd1piZXRLei93PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="id" tvg-name="ID" group-title="Documentários",ID | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/115.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/101.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6NDY6MzggQU0maGFzaF92YWx1ZT0vUEZrWnVldzBFY0xCVkluR29XNlZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDM6NDY6MzggQU0maGFzaF92YWx1ZT0vUEZrWnVldzBFY0xCVkluR29XNlZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="telecinepremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/48.m3u8
+#EXTINF:-1 tvg-ID="telecinepremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NTI6MDUgUE0maGFzaF92YWx1ZT10QXdheGlnQnBZVHFhVzZIaXIwS21BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="telecinepipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/49.m3u8
+#EXTINF:-1 tvg-ID="telecinepipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NTM6MDYgUE0maGFzaF92YWx1ZT1FS1pScjd4dElxVzZ2dFJjUjRKbXBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="telecineaction" tvg-name="Telecine Action" group-title="Filmes e Séries",Telecine Action | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDE6NTc6MTggUE0maGFzaF92YWx1ZT0xK2hiVmE3d29GS2cyQTB5OTRYTkNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="telecineaction" tvg-name="Telecine Action" group-title="Filmes e Séries",Telecine Action | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/51.m3u8
+#EXTINF:-1 tvg-ID="telecinefun" tvg-name="Telecine Fun" group-title="Filmes e Séries",Telecine Fun | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/50.m3u8
+#EXTINF:-1 tvg-ID="telecinefun" tvg-name="Telecine Fun" group-title="Filmes e Séries",Telecine Fun | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MDA6MDYgUE0maGFzaF92YWx1ZT1zZWVhVE8zS2NFek9pV2VMUExKcVRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="telecinetouch" tvg-name="Telecine Touch" group-title="Filmes e Séries",Telecine Touch | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/52.m3u8
+#EXTINF:-1 tvg-ID="telecinetouch" tvg-name="Telecine Touch" group-title="Filmes e Séries",Telecine Touch | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MDI6MDcgUE0maGFzaF92YWx1ZT0wajl5Tk91OFljVXVxTnNpbnlzNDhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="telecinecult" tvg-name="Telecine Cult" group-title="Filmes e Séries",Telecine Cult | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/53.m3u8
+#EXTINF:-1 tvg-ID="telecinecult" tvg-name="Telecine Cult" group-title="Filmes e Séries",Telecine Cult | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MDQ6MDAgUE0maGFzaF92YWx1ZT1HaVhLMU1uelJMbWtCQzA5VDJlbHd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/54.m3u8
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MDU6MzAgUE0maGFzaF92YWx1ZT04bDFqNXpIMmxFalJ3aXN6U25abnVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbo2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MDY6MzggUE0maGFzaF92YWx1ZT1zckdpK09xWG11SlRWNmJGby9YSFBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/55.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/56.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MDg6MTQgUE0maGFzaF92YWx1ZT1CSDhVTmdLbWVNN25ROXg1TWI2cnVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MDk6MjYgUE0maGFzaF92YWx1ZT1nNU9mdnJNWE9aemxMUXRrdkg1N3RnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/57.m3u8
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MTA6NDggUE0maGFzaF92YWx1ZT0rN2JTcENuaWNOWUljdnUvUzhNUldRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/58.m3u8
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/61.m3u8
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MTM6MDQgUE0maGFzaF92YWx1ZT1oKzBzSS9EaUJVc3YzdGxYTm5BUUtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MTQ6MzQgUE0maGFzaF92YWx1ZT0zVzh6M3c3WnhBb3hMbnhVR3ZSbmZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/62.m3u8
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/63.m3u8
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MTY6NDIgUE0maGFzaF92YWx1ZT1TbkdrWWszenpnd1Npbmo3WDBpR2JBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="max" tvg-name="MAX" group-title="Filmes e Séries",MAX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MjI6MjUgUE0maGFzaF92YWx1ZT1WWTF1cmlremVodnE2b1d3ekdyR3hRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="max" tvg-name="MAX" group-title="Filmes e Séries",MAX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MjQ6MzAgUE0maGFzaF92YWx1ZT1MSWN2NUZtNmJMNnR6VVVZV3J5bm5RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="maxup" tvg-name="MAX Up" group-title="Filmes e Séries",MAX Up | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/80.m3u8
+#EXTINF:-1 tvg-ID="maxup" tvg-name="MAX Up" group-title="Filmes e Séries",MAX Up | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MjU6MDggUE0maGFzaF92YWx1ZT1IZHJ6V0lvSkZ6SkZmTEhZS0V2MGpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="maxprime" tvg-name="MAX Prime" group-title="Filmes e Séries",MAX Prime | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/79.m3u8
+#EXTINF:-1 tvg-ID="megapix" tvg-name="Megapix" group-title="Filmes e Séries",Megapix | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/68.m3u8
+#EXTINF:-1 tvg-ID="megapix" tvg-name="Megapix" group-title="Filmes e Séries",Megapix | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MzE6MDYgUE0maGFzaF92YWx1ZT1vSjMzKzVZRU52Y1pJYitlMk9majFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="space" tvg-name="Space" group-title="Filmes e Séries",Space | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/67.m3u8
+#EXTINF:-1 tvg-ID="space" tvg-name="Space" group-title="Filmes e Séries",Space | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/space.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6MzI6MjkgUE0maGFzaF92YWx1ZT1iVDJadTV0MnQ5QmhLSEI1QjhYelp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="cinemax" tvg-name="Cinemax" group-title="Filmes e Séries",Cinemax | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/76.m3u8
+#EXTINF:-1 tvg-ID="axn" tvg-name="AXN" group-title="Filmes e Séries",AXN | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/70.m3u8
+#EXTINF:-1 tvg-ID="axn" tvg-name="AXN" group-title="Filmes e Séries",AXN | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6Mzc6MzQgUE0maGFzaF92YWx1ZT1IZGIvY0l5elpjWDBlM1gwQStOL3VRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="amc" tvg-name="AMC" group-title="Filmes e Séries",AMC | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/69.m3u8
+#EXTINF:-1 tvg-ID="amc" tvg-name="AMC" group-title="Filmes e Séries",AMC | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/amc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6NDE6NDkgUE0maGFzaF92YWx1ZT1VVFRPU2Jsa2E2N3dKZnQ1U2ZSdGh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="warner" tvg-name="Warner" group-title="Filmes e Séries",Warner | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/116.m3u8
+#EXTINF:-1 tvg-ID="warner" tvg-name="Warner" group-title="Filmes e Séries",Warner | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/warner.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDI6NDY6MjUgUE0maGFzaF92YWx1ZT1Nd3pRNnkwVlk2ZEtoY2xUbi8vZ0VRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Life Time" group-title="Filmes e Séries",Life Time | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/88.m3u8
+#EXTINF:-1 tvg-ID="studiouniversal" tvg-name="Studio Universal" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/73.m3u8
+#EXTINF:-1 tvg-ID="studiouniversal" tvg-name="Studio Universal" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NDA6NDkgUE0maGFzaF92YWx1ZT1ETGZDRWszK2sxV3pLMWZQc3Y1TkFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="universal" tvg-name="Universal" group-title="Filmes e Séries",Universal | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/universal.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NDM6MDIgUE0maGFzaF92YWx1ZT1mQkdJbUg4ZWYxWHdFdnVmUmFHR0xRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="universal" tvg-name="Universal" group-title="Filmes e Séries",Universal | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/74.m3u8
+#EXTINF:-1 tvg-ID="tcm" tvg-name="TCM" group-title="Filmes e Séries",TCM | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/72.m3u8
+#EXTINF:-1 tvg-ID="tcm" tvg-name="TCM" group-title="Filmes e Séries",TCM | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tcm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NDQ6NTcgUE0maGFzaF92YWx1ZT1iUmlDMkZlZFNyTWlmY3N6RjMwMFBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount" group-title="Filmes e Séries",Paramount | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/75.m3u8
+#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount" group-title="Filmes e Séries",Paramount | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NDU6NTYgUE0maGFzaF92YWx1ZT0zNC9zUWU2QksydE4wakxNRXRFYnJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="tnt" tvg-name="TNT" group-title="Filmes e Séries",TNT | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/65.m3u8
+#EXTINF:-1 tvg-ID="tnt" tvg-name="TNT" group-title="Filmes e Séries",TNT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NTE6MDggUE0maGFzaF92YWx1ZT11UDB2UmxaSGJ3QzhzVFh4YWN2NlhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="tntseries" tvg-name="TNT Séries" group-title="Filmes e Séries",TNT Séries | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/66.m3u8
+#EXTINF:-1 tvg-ID="sony" tvg-name="Sony" group-title="Filmes e Séries",Sony | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NTU6MTEgUE0maGFzaF92YWx1ZT14cjF2V1dxQ0JxWkYvK0c5VG1hRmZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sony" tvg-name="Sony" group-title="Filmes e Séries",Sony | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sony.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NTU6MjYgUE0maGFzaF92YWx1ZT1HNzQxWXBBd1ZvNzZVUk9QT2xxdCtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="fx" tvg-name="FX" group-title="Filmes e Séries",FX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NTY6MjYgUE0maGFzaF92YWx1ZT15a3ZMakJTcE1ENGQ5VDE2RjFSUkh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="fx" tvg-name="FX" group-title="Filmes e Séries",FX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NTY6NTYgUE0maGFzaF92YWx1ZT02UGI0M2NKTVRzVkZxY3BnRlNqOXRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Filmes e Séries",A&E | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NTc6MzkgUE0maGFzaF92YWx1ZT16UWhLaXp2QXZIYXNGZnFlS25ZbjZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Filmes e Séries",A&E | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/aie.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDQ6NTg6MjYgUE0maGFzaF92YWx1ZT1DTGNYSVlCbDJBRTY3bWVFem9KSzdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MTI6MjMgUE0maGFzaF92YWx1ZT04SDZtNTY4aGRwcFFJaGhsNVMvdXh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MTM6MDYgUE0maGFzaF92YWx1ZT15VDREeUk5TnpLdjd1S3c4V0x6YjV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MTQ6MTIgUE0maGFzaF92YWx1ZT1LRkdIcG56UlBjOUtwN2VpSXM4QUtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MTQ6MzQgUE0maGFzaF92YWx1ZT1yUnByQWptYmRCb3FEb2poMktjWCt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sportv3" tvg-name="SporTV 3" group-title="Esportes",SporTV 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MTU6MDQgUE0maGFzaF92YWx1ZT1XRVFNSUVBOGREa1l4cXNNckJJSllnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="sportv3" tvg-name="SporTV 3" group-title="Esportes,SporTV 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MTU6MzcgUE0maGFzaF92YWx1ZT1HUUJmYVVka1dlV0tpRFJxSXltN3ZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDE5IDU6MzE6MDMgUE0maGFzaF92YWx1ZT1UUFhZMGg3d1dqU3NnVkJoZmlXY2N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/77.m3u8
+#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHoje/77.m3u8
