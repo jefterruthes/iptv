@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo Full HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/17.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais Abertos",SBT HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais Abertos",SBT | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/2.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/4.m3u8
 #EXTINF:-1 tvg-ID="record" tvg-name="Record SP" group-title="Canais Abertos",Record | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/3.m3u8
@@ -15,3 +15,23 @@ https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/9.m3u8
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/6.m3u8
 #EXTINF:-1 tvg-ID="tvescola" tvg-name="TV Escola" group-title="Canais Abertos",TV Escola | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/7.m3u8
+#EXTINF:-1 tvg-ID="telecinepremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/48.m3u8
+#EXTINF:-1 tvg-ID="telecinepipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/49.m3u8
+#EXTINF:-1 tvg-ID="telecineaction" tvg-name="Telecine Action" group-title="Filmes e Séries",Telecine Action | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/51.m3u8
+#EXTINF:-1 tvg-ID="telecinetouch" tvg-name="Telecine Touch" group-title="Filmes e Séries",Telecine Touch | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/52.m3u8
+#EXTINF:-1 tvg-ID="telecinefun" tvg-name="Telecine Fun" group-title="Filmes e Séries",Telecine Fun | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/50.m3u8
+#EXTINF:-1 tvg-ID="telecinecult" tvg-name="Telecine Cult" group-title="Filmes e Séries",Telecine Cult | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/53.m3u8
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/54.m3u8
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/55.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus| TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/56.m3u8
+#EXTINF:-1 tvg-ID="hbo22" tvg-name="HBO teste" group-title="Filmes e Séries",HBO teste| TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/56.m3u8
