@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP Full HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/17121.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP Full HD | TechRuthes.com
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/46912
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/17122
@@ -16,10 +18,11 @@ http://lista.digitalgroup.me:80/Ayrton1977/1235689/18020
 #EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/1047
 #EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/20815
-#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/46907
-#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/20816
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/20815
 #EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/46908
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/20816
+
