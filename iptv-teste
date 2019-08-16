@@ -1,71 +1,1103 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/17.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais Abertos",SBT | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/2.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/4.m3u8
-#EXTINF:-1 tvg-ID="record" tvg-name="Record SP" group-title="Canais Abertos",Record | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/3.m3u8
-#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV SP" group-title="Canais Abertos",RedeTV | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/5.m3u8
-#EXTINF:-1 tvg-ID="tvgazeta" tvg-name="TV Gazeta" group-title="Canais Abertos",TV Gazeta | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/9.m3u8
-#EXTINF:-1 tvg-ID="tvcultura" tvg-name="TV Cultura" group-title="Canais Abertos",TV Cultura | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/6.m3u8
-#EXTINF:-1 tvg-ID="tvescola" tvg-name="TV Escola" group-title="Canais Abertos",TV Escola | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/7.m3u8
-#EXTINF:-1 tvg-ID="telecinepremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/48.m3u8
-#EXTINF:-1 tvg-ID="telecinepipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/49.m3u8
-#EXTINF:-1 tvg-ID="telecineaction" tvg-name="Telecine Action" group-title="Filmes e Séries",Telecine Action | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/51.m3u8
-#EXTINF:-1 tvg-ID="telecinetouch" tvg-name="Telecine Touch" group-title="Filmes e Séries",Telecine Touch | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/52.m3u8
-#EXTINF:-1 tvg-ID="telecinefun" tvg-name="Telecine Fun" group-title="Filmes e Séries",Telecine Fun | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/50.m3u8
-#EXTINF:-1 tvg-ID="telecinecult" tvg-name="Telecine Cult" group-title="Filmes e Séries",Telecine Cult | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/53.m3u8
-#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/54.m3u8
-#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/55.m3u8
-#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/56.m3u8
-#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/57.m3u8
-#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/58.m3u8
-#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/58.m3u8
-#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/61.m3u8
-#EXTINF:-1 tvg-ID="foxlife" tvg-name="Fox life" group-title="Filmes e Séries",Fox life | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/64.m3u8
-#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/62.m3u8
-#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/63.m3u8
-#EXTINF:-1 tvg-ID="space" tvg-name="Space" group-title="Filmes e Séries",Space | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/67.m3u8
-#EXTINF:-1 tvg-ID="megapix" tvg-name="Megapix" group-title="Filmes e Séries",Megapix | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/68.m3u8
-#EXTINF:-1 tvg-ID="amc" tvg-name="AMC" group-title="Filmes e Séries",AMC | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/69.m3u8
-#EXTINF:-1 tvg-ID="max" tvg-name="MAX" group-title="Filmes e Séries",MAX | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/78.m3u8
-#EXTINF:-1 tvg-ID="maxup" tvg-name="MAX UP" group-title="Filmes e Séries",MAX UP | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/80.m3u8
-#EXTINF:-1 tvg-ID="maxprime" tvg-name="MAX PRIME" group-title="Filmes e Séries",MAX PRIME | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/79.m3u8
-#EXTINF:-1 tvg-ID="warner" tvg-name="Warner" group-title="Filmes e Séries",Warner | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/116.m3u8
-#EXTINF:-1 tvg-ID="studiouniversal" tvg-name="Studio Universal" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/73.m3u8
-#EXTINF:-1 tvg-ID="universal" tvg-name="Universal" group-title="Filmes e Séries",Universal | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/74.m3u8
-#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount" group-title="Filmes e Séries",Paramount | TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/75.m3u8
-#EXTINF:-1 tvg-ID="fx" tvg-name="FX" group-title="Filmes e Séries",FX | TechRuthes.com
-http://177.54.158.104:8081/live/fx720p/chunks.m3u8?nimblesessionid=9264755&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDE5IDE6MjI6MTAgQU0maGFzaF92YWx1ZT1PclVZbzh0SzdLaWlKQ2lXVlRtc1JRPT0mdmFsaWRtaW51dGVzPTUmaWQ9UmVzb3VyY2UgaWQgIzExJnN0cm1fbGVuPTEx
+#EXTINF:-1,A&E
+http://iptv.csvix.net:8080/Gustavo/12345/4912
+#EXTINF:-1,A&E HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11672
+#EXTINF:-1,A&E HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4394
+#EXTINF:-1,A&E FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11671
+#EXTINF:-1,AMC
+http://iptv.csvix.net:8080/Gustavo/12345/4791
+#EXTINF:-1,AMC HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4669
+#EXTINF:-1,AMC HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5066
+#EXTINF:-1,AMC FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5065
+#EXTINF:-1,Animal Planet
+http://iptv.csvix.net:8080/Gustavo/12345/4604
+#EXTINF:-1,Animal Planet HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5188
+#EXTINF:-1,Animal Planet HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4349
+#EXTINF:-1,Animal Planet FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5187
+#EXTINF:-1,Arte 1
+http://iptv.csvix.net:8080/Gustavo/12345/4667
+#EXTINF:-1,Arte 1 HD
+http://iptv.csvix.net:8080/Gustavo/12345/5016
+#EXTINF:-1,AXN
+http://iptv.csvix.net:8080/Gustavo/12345/4769
+#EXTINF:-1,AXN HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4345
+#EXTINF:-1,AXN HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4998
+#EXTINF:-1,AXN FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4997
+#EXTINF:-1,Band
+http://iptv.csvix.net:8080/Gustavo/12345/4864
+#EXTINF:-1,Band HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11683
+#EXTINF:-1,Band HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4343
+#EXTINF:-1,Band FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11684
+#EXTINF:-1,Baby TV
+http://iptv.csvix.net:8080/Gustavo/12345/4643
+#EXTINF:-1,Baby HD
+http://iptv.csvix.net:8080/Gustavo/12345/5128
+#EXTINF:-1,Band News
+http://iptv.csvix.net:8080/Gustavo/12345/4668
+#EXTINF:-1,BIS
+http://iptv.csvix.net:8080/Gustavo/12345/4793
+#EXTINF:-1,BIS HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4338
+#EXTINF:-1,BIS HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5160
+#EXTINF:-1,BIS FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5159
+#EXTINF:-1,BandSports
+http://iptv.csvix.net:8080/Gustavo/12345/4615
+#EXTINF:-1,BandSports HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4951
+#EXTINF:-1,BandSports FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4950
+#EXTINF:-1,BandSports HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4340
+#EXTINF:-1,Band News HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4949
+#EXTINF:-1,Band News FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4948
+#EXTINF:-1,Boa Vontade TV
+http://iptv.csvix.net:8080/Gustavo/12345/4770
+#EXTINF:-1,Boomerang
+http://iptv.csvix.net:8080/Gustavo/12345/4913
+#EXTINF:-1,Boomerang HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5190
+#EXTINF:-1,Boomerang FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5189
+#EXTINF:-1,Canal do Bob Zoom
+http://iptv.csvix.net:8080/Gustavo/12345/19045
+#EXTINF:-1,Canal da Galinha Pintadinha
+http://iptv.csvix.net:8080/Gustavo/12345/19036
+#EXTINF:-1,Canal da Masha e o Urso
+http://iptv.csvix.net:8080/Gustavo/12345/19936
+#EXTINF:-1,Canal do Pica-Pau 24 Hrs
+http://iptv.csvix.net:8080/Gustavo/12345/19037
+#EXTINF:-1,Cancao Nova
+http://iptv.csvix.net:8080/Gustavo/12345/4916
+#EXTINF:-1,Cancao Nova HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/16169
+#EXTINF:-1,Cartoon Network
+http://iptv.csvix.net:8080/Gustavo/12345/4967
+#EXTINF:-1,Cartoon Network HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5037
+#EXTINF:-1,Cartoon Network HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4329
+#EXTINF:-1,Cartoon Network FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5036
+#EXTINF:-1,CNT
+http://iptv.csvix.net:8080/Gustavo/12345/4805
+#EXTINF:-1,CNN Espanhol
+http://iptv.csvix.net:8080/Gustavo/12345/4771
+#EXTINF:-1,CNN Internacional
+http://iptv.csvix.net:8080/Gustavo/12345/4866
+#EXTINF:-1,Canal Brasil
+http://iptv.csvix.net:8080/Gustavo/12345/4553
+#EXTINF:-1,Canal Rural
+http://iptv.csvix.net:8080/Gustavo/12345/4914
+#EXTINF:-1,Canal Brasil HD
+http://iptv.csvix.net:8080/Gustavo/12345/5017
+#EXTINF:-1,Cinemax
+http://iptv.csvix.net:8080/Gustavo/12345/4865
+#EXTINF:-1,Cinemax HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5068
+#EXTINF:-1,Cinemax HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4395
+#EXTINF:-1,Cinemax FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5067
+#EXTINF:-1,Combate
+http://iptv.csvix.net:8080/Gustavo/12345/4831
+#EXTINF:-1,Combate HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4986
+#EXTINF:-1,Combate HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4325
+#EXTINF:-1,Combate FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4987
+#EXTINF:-1,Comedy Central
+http://iptv.csvix.net:8080/Gustavo/12345/4832
+#EXTINF:-1,Comedy Central HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11665
+#EXTINF:-1,Comedy Central HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5018
+#EXTINF:-1,Comedy Central FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11666
+#EXTINF:-1,Copa Libertadores 2019
+http://iptv.csvix.net:8080/Gustavo/12345/22408
+#EXTINF:-1,Curta
+http://iptv.csvix.net:8080/Gustavo/12345/4833
+#EXTINF:-1,Dazn SD
+http://iptv.csvix.net:8080/Gustavo/12345/22205
+#EXTINF:-1,Dazn HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/17201
+#EXTINF:-1,Dazn FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18785
+#EXTINF:-1,Discovery Channel
+http://iptv.csvix.net:8080/Gustavo/12345/4616
+#EXTINF:-1,Discovery Channel HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4996
+#EXTINF:-1,Discovery Channel HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4319
+#EXTINF:-1,Discovery Channel FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4995
+#EXTINF:-1,Discovery Civilization
+http://iptv.csvix.net:8080/Gustavo/12345/17880
+#EXTINF:-1,Discovery Civilization HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5110
+#EXTINF:-1,Discovery Civilization HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4560
+#EXTINF:-1,Discovery Civilization FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5109
+#EXTINF:-1,Discovery Kids
+http://iptv.csvix.net:8080/Gustavo/12345/4867
+#EXTINF:-1,Discovery Kids HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5074
+#EXTINF:-1,Discovery Kids HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4406
+#EXTINF:-1,Discovery Kids FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5073
+#EXTINF:-1,Discovery Home & Health
+http://iptv.csvix.net:8080/Gustavo/12345/4814
+#EXTINF:-1,Discovery Home & Health HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11691
+#EXTINF:-1,Discovery Home & Health HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4316
+#EXTINF:-1,Discovery Home & Health FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11692
+#EXTINF:-1,Discovery Science
+http://iptv.csvix.net:8080/Gustavo/12345/17879
+#EXTINF:-1,Discovery Science HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5122
+#EXTINF:-1,Discovery Science HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4670
+#EXTINF:-1,Discovery Science FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5121
+#EXTINF:-1,Discovery Turbo
+http://iptv.csvix.net:8080/Gustavo/12345/4666
+#EXTINF:-1,Discovery Turbo HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4933
+#EXTINF:-1,Discovery Turbo HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4310
+#EXTINF:-1,Discovery Turbo FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4932
+#EXTINF:-1,Discovery Theater
+http://iptv.csvix.net:8080/Gustavo/12345/17878
+#EXTINF:-1,Discovery Theater HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5056
+#EXTINF:-1,Discovery Theater HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4312
+#EXTINF:-1,Discovery Theater FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5055
+#EXTINF:-1,Discovery World
+http://iptv.csvix.net:8080/Gustavo/12345/17877
+#EXTINF:-1,Discovery World HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5076
+#EXTINF:-1,Discovery World HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4309
+#EXTINF:-1,Discovery World FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5075
+#EXTINF:-1,Disney Channel
+http://iptv.csvix.net:8080/Gustavo/12345/4915
+#EXTINF:-1,Disney Channel HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5050
+#EXTINF:-1,Disney Channel HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5019
+#EXTINF:-1,Disney Channel FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5049
+#EXTINF:-1,Disney Junior
+http://iptv.csvix.net:8080/Gustavo/12345/4834
+#EXTINF:-1,Disney JR HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5052
+#EXTINF:-1,Disney JR FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5051
+#EXTINF:-1,Disney XD
+http://iptv.csvix.net:8080/Gustavo/12345/4835
+#EXTINF:-1,Disney XD HD
+http://iptv.csvix.net:8080/Gustavo/12345/5193
+#EXTINF:-1,DW (Deutsch+)
+http://iptv.csvix.net:8080/Gustavo/12345/4868
+#EXTINF:-1,E!
+http://iptv.csvix.net:8080/Gustavo/12345/4836
+#EXTINF:-1,E! HD
+http://iptv.csvix.net:8080/Gustavo/12345/4465
+#EXTINF:-1,EI Plus SD
+http://iptv.csvix.net:8080/Gustavo/12345/14325
+#EXTINF:-1,EI Plus 2 SD
+http://iptv.csvix.net:8080/Gustavo/12345/14326
+#EXTINF:-1,Ei Plus HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/13324
+#EXTINF:-1,Ei Plus 2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/13169
+#EXTINF:-1,ESPN Brasil
+http://iptv.csvix.net:8080/Gustavo/12345/4642
+#EXTINF:-1,ESPN Brasil HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5186
+#EXTINF:-1,ESPN Brasil HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4296
+#EXTINF:-1,ESPN Brasil FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5185
+#EXTINF:-1,ESPN
+http://iptv.csvix.net:8080/Gustavo/12345/4664
+#EXTINF:-1,ESPN HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5117
+#EXTINF:-1,ESPN FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5118
+#EXTINF:-1,ESPN HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4294
+#EXTINF:-1,ESPN 2
+http://iptv.csvix.net:8080/Gustavo/12345/17876
+#EXTINF:-1,ESPN 2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5119
+#EXTINF:-1,ESPN 2 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4295
+#EXTINF:-1,ESPN 2 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5120
+#EXTINF:-1,ESPN Extra
+http://iptv.csvix.net:8080/Gustavo/12345/10717
+#EXTINF:-1,ESPN Extra HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18726
+#EXTINF:-1,ESPN Extra HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/10718
+#EXTINF:-1,ESPN Extra FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18727
+#EXTINF:-1,FX
+http://iptv.csvix.net:8080/Gustavo/12345/4548
+#EXTINF:-1,FX HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5072
+#EXTINF:-1,FX HD
+http://iptv.csvix.net:8080/Gustavo/12345/4276
+#EXTINF:-1,FX FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5071
+#EXTINF:-1,FishTV
+http://iptv.csvix.net:8080/Gustavo/12345/4917
+#EXTINF:-1,Fox Premium 1 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18725
+#EXTINF:-1,Fox Premium 1 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4284
+#EXTINF:-1,Fox Premium 1 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18713
+#EXTINF:-1,Fox Premium 2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18723
+#EXTINF:-1,Fox Premium 2 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4283
+#EXTINF:-1,Fox Premium 2 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18724
+#EXTINF:-1,Fox Sports
+http://iptv.csvix.net:8080/Gustavo/12345/4969
+#EXTINF:-1,Fox Sports HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4994
+#EXTINF:-1,Fox Sports HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4279
+#EXTINF:-1,Fox Sports FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4993
+#EXTINF:-1,Fox Sports 2
+http://iptv.csvix.net:8080/Gustavo/12345/4550
+#EXTINF:-1,Fox Sports 2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5035
+#EXTINF:-1,Fox Sports 2 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4280
+#EXTINF:-1,Fox Sports 2 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5034
+#EXTINF:-1,Fox Life
+http://iptv.csvix.net:8080/Gustavo/12345/4551
+#EXTINF:-1,Fox Life HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11675
+#EXTINF:-1,Fox Life HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4285
+#EXTINF:-1,Fox Life FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11676
+#EXTINF:-1,Fox
+http://iptv.csvix.net:8080/Gustavo/12345/4968
+#EXTINF:-1,Fox HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4984
+#EXTINF:-1,Fox HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4287
+#EXTINF:-1,Fox FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4985
+#EXTINF:-1,Food Network
+http://iptv.csvix.net:8080/Gustavo/12345/4641
+#EXTINF:-1,Food Network HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5168
+#EXTINF:-1,Food Network HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4466
+#EXTINF:-1,Food Network FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5167
+#EXTINF:-1,Futura
+http://iptv.csvix.net:8080/Gustavo/12345/4869
+#EXTINF:-1,GNT
+http://iptv.csvix.net:8080/Gustavo/12345/4918
+#EXTINF:-1,GNT HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18721
+#EXTINF:-1,GNT HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4265
+#EXTINF:-1,GNT FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18722
+#EXTINF:-1,Gloob
+http://iptv.csvix.net:8080/Gustavo/12345/4602
+#EXTINF:-1,Gloob HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22203
+#EXTINF:-1,Gloob HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4405
+#EXTINF:-1,Gloob FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22204
+#EXTINF:-1,Gloobinho
+http://iptv.csvix.net:8080/Gustavo/12345/9644
+#EXTINF:-1,Gloobinho HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11690
+#EXTINF:-1,Gloobinho HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5023
+#EXTINF:-1,Gloobinho FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11689
+#EXTINF:-1,Globo News
+http://iptv.csvix.net:8080/Gustavo/12345/4772
+#EXTINF:-1,Globo News HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11667
+#EXTINF:-1,Globo News HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4469
+#EXTINF:-1,Globo News FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11668
+#EXTINF:-1,Globo TV Anhanguera Goiania
+http://iptv.csvix.net:8080/Gustavo/12345/5043
+#EXTINF:-1,Globo Brasilia
+http://iptv.csvix.net:8080/Gustavo/12345/5045
+#EXTINF:-1,Globo Brasilia HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5020
+#EXTINF:-1,Globo Brasilia FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22201
+#EXTINF:-1,Globo EPTV Campinas
+http://iptv.csvix.net:8080/Gustavo/12345/4883
+#EXTINF:-1,Globo EPTV Campinas HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22191
+#EXTINF:-1,Globo EPTV Campinas FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22192
+#EXTINF:-1,Globo EPTV Central
+http://iptv.csvix.net:8080/Gustavo/12345/8817
+#EXTINF:-1,Globo EPTV Ribeirao Preto
+http://iptv.csvix.net:8080/Gustavo/12345/4983
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22663
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5021
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22664
+#EXTINF:-1,Globo TV Centro America Cuiaba
+http://iptv.csvix.net:8080/Gustavo/12345/4886
+#EXTINF:-1,Globo Eptv Sul Minas
+http://iptv.csvix.net:8080/Gustavo/12345/8801
+#EXTINF:-1,Globo Minas
+http://iptv.csvix.net:8080/Gustavo/12345/5044
+#EXTINF:-1,Globo Minas HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22185
+#EXTINF:-1,Globo Minas HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5014
+#EXTINF:-1,Globo Minas FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22186
+#EXTINF:-1,Globo Nordeste
+http://iptv.csvix.net:8080/Gustavo/12345/4982
+#EXTINF:-1,Globo Nordeste HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22189
+#EXTINF:-1,Globo Nordeste HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5022
+#EXTINF:-1,Globo Nordeste FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22190
+#EXTINF:-1,Globo RJ
+http://iptv.csvix.net:8080/Gustavo/12345/5040
+#EXTINF:-1,Globo RJ HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5124
+#EXTINF:-1,Globo RJ HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4270
+#EXTINF:-1,Globo RJ FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5123
+#EXTINF:-1,Globo SP
+http://iptv.csvix.net:8080/Gustavo/12345/4837
+#EXTINF:-1,Globo SP HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11663
+#EXTINF:-1,Globo SP HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5015
+#EXTINF:-1,Globo SP FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11664
+#EXTINF:-1,Globo RBS TV Poa
+http://iptv.csvix.net:8080/Gustavo/12345/4801
+#EXTINF:-1,Globo RBS TV Poa HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11662
+#EXTINF:-1,Globo RBS TV Poa FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11661
+#EXTINF:-1,Globo NSC Blumenau
+http://iptv.csvix.net:8080/Gustavo/12345/8821
+#EXTINF:-1,Globo NSC Blumenau HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18718
+#EXTINF:-1,Globo NSC Blumenau FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18717
+#EXTINF:-1,Globo NSC TV Chapeco
+http://iptv.csvix.net:8080/Gustavo/12345/18857
+#EXTINF:-1,Globo NSC TV Criciuma
+http://iptv.csvix.net:8080/Gustavo/12345/18856
+#EXTINF:-1,Globo NSC Criciuma HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22181
+#EXTINF:-1,Globo NSC Criciuma FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22182
+#EXTINF:-1,Globo NSC Joinville
+http://iptv.csvix.net:8080/Gustavo/12345/8820
+#EXTINF:-1,Globo NSC Joinville HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18720
+#EXTINF:-1,Globo NSC Joinville FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18719
+#EXTINF:-1,Globo NSC Florianopolis
+http://iptv.csvix.net:8080/Gustavo/12345/17225
+#EXTINF:-1,Globo NSC Floripa HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18757
+#EXTINF:-1,Globo NSC Floripa FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18756
+#EXTINF:-1,Globo RPC Curitiba
+http://iptv.csvix.net:8080/Gustavo/12345/4885
+#EXTINF:-1,Globo RPC Curitiba HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18755
+#EXTINF:-1,Globo RPC Curitiba FHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18787
+#EXTINF:-1,Globo RPC Maringa
+http://iptv.csvix.net:8080/Gustavo/12345/18859
+#EXTINF:-1,Globo RPC Maringa HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22187
+#EXTINF:-1,Globo RPC Maringa FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22188
+#EXTINF:-1,Globo Rede Gazeta ES
+http://iptv.csvix.net:8080/Gustavo/12345/18786
+#EXTINF:-1,Globo Rede Gazeta ES HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18711
+#EXTINF:-1,Globo Rede Gazeta ES FHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22195
+#EXTINF:-1,Globo TV Clube
+http://iptv.csvix.net:8080/Gustavo/12345/17232
+#EXTINF:-1,Globo TV Gazeta Alagoas
+http://iptv.csvix.net:8080/Gustavo/12345/17234
+#EXTINF:-1,Globo Gazeta Alagoas HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22661
+#EXTINF:-1,Globo Gazeta Alagoas FHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22662
+#EXTINF:-1,Globo TV Sergipe
+http://iptv.csvix.net:8080/Gustavo/12345/9643
+#EXTINF:-1,Globo TV Sergipe HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/15787
+#EXTINF:-1,Globo TV Sergipe FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18714
+#EXTINF:-1,Globo InterTV Serra Mar
+http://iptv.csvix.net:8080/Gustavo/12345/8816
+#EXTINF:-1,Globo InterTV Cabugi
+http://iptv.csvix.net:8080/Gustavo/12345/4981
+#EXTINF:-1,Globo InterTV Cabugi HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22183
+#EXTINF:-1,Globo InterTV Cabugi FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22184
+#EXTINF:-1,Globo InterTV Grande Minas
+http://iptv.csvix.net:8080/Gustavo/12345/16020
+#EXTINF:-1,Globo InterTV Dos Vales
+http://iptv.csvix.net:8080/Gustavo/12345/17223
+#EXTINF:-1,Globo InterTV Alto Litoral
+http://iptv.csvix.net:8080/Gustavo/12345/8822
+#EXTINF:-1,Globo TV Anhanguera
+http://iptv.csvix.net:8080/Gustavo/12345/8806
+#EXTINF:-1,Globo Tv Fronteira
+http://iptv.csvix.net:8080/Gustavo/12345/8814
+#EXTINF:-1,Globo TV Asa Branca
+http://iptv.csvix.net:8080/Gustavo/12345/9642
+#EXTINF:-1,Globo Tv Integracao Uberlandia
+http://iptv.csvix.net:8080/Gustavo/12345/8812
+#EXTINF:-1,Globo TV Mirante Cocais
+http://iptv.csvix.net:8080/Gustavo/12345/8810
+#EXTINF:-1,Globo TV Morena
+http://iptv.csvix.net:8080/Gustavo/12345/17230
+#EXTINF:-1,Globo TV Mirante Sao Luis
+http://iptv.csvix.net:8080/Gustavo/12345/17226
+#EXTINF:-1,Globo Tv Rio Sul
+http://iptv.csvix.net:8080/Gustavo/12345/8809
+#EXTINF:-1,Globo Tv Santa Cruz
+http://iptv.csvix.net:8080/Gustavo/12345/8808
+#EXTINF:-1,Globo TV Sudoeste
+http://iptv.csvix.net:8080/Gustavo/12345/8807
+#EXTINF:-1,Globo Tv Bahia
+http://iptv.csvix.net:8080/Gustavo/12345/5504
+#EXTINF:-1,Globo TV Bahia HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22657
+#EXTINF:-1,Globo TV Bahia FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22658
+#EXTINF:-1,Globo TV TEM Itapetininga
+http://iptv.csvix.net:8080/Gustavo/12345/8811
+#EXTINF:-1,Globo TV Vanguarda Taubate
+http://iptv.csvix.net:8080/Gustavo/12345/8804
+#EXTINF:-1,Globo TV Tem Bauru
+http://iptv.csvix.net:8080/Gustavo/12345/5042
+#EXTINF:-1,Globo TV Tem Sorocaba
+http://iptv.csvix.net:8080/Gustavo/12345/5041
+#EXTINF:-1,Globo TV Liberal Belem
+http://iptv.csvix.net:8080/Gustavo/12345/4979
+#EXTINF:-1,Globo TV Vanguarda SJ dos Campo
+http://iptv.csvix.net:8080/Gustavo/12345/4887
+#EXTINF:-1,Globo TV Tem SJRP
+http://iptv.csvix.net:8080/Gustavo/12345/4766
+#EXTINF:-1,Globo TV Verdes Mares
+http://iptv.csvix.net:8080/Gustavo/12345/4978
+#EXTINF:-1,Globo Verdes Mares HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22659
+#EXTINF:-1,Globo Verdes Mares FHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22660
+#EXTINF:-1,Globo Rede Amazonica HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/17629
+#EXTINF:-1,Globo Rede Amazonica Manaus
+http://iptv.csvix.net:8080/Gustavo/12345/4980
+#EXTINF:-1,Globo TV Tribuna Santos
+http://iptv.csvix.net:8080/Gustavo/12345/4882
+#EXTINF:-1,H2 SD
+http://iptv.csvix.net:8080/Gustavo/12345/4799
+#EXTINF:-1,H2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4957
+#EXTINF:-1,H2 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4263
+#EXTINF:-1,H2 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4956
+#EXTINF:-1,HBO
+http://iptv.csvix.net:8080/Gustavo/12345/4600
+#EXTINF:-1,HBO HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5060
+#EXTINF:-1,HBO HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4257
+#EXTINF:-1,HBO FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5059
+#EXTINF:-1,HBO 2
+http://iptv.csvix.net:8080/Gustavo/12345/4619
+#EXTINF:-1,HBO 2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5062
+#EXTINF:-1,HBO 2 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4260
+#EXTINF:-1,HBO 2 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5061
+#EXTINF:-1,HBO Family
+http://iptv.csvix.net:8080/Gustavo/12345/4919
+#EXTINF:-1,HBO Family HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5058
+#EXTINF:-1,HBO Family HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4258
+#EXTINF:-1,HBO Family FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5057
+#EXTINF:-1,HBO Plus
+http://iptv.csvix.net:8080/Gustavo/12345/4618
+#EXTINF:-1,HBO Plus HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4254
+#EXTINF:-1,HBO Plus HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5048
+#EXTINF:-1,HBO Plus FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5047
+#EXTINF:-1,HBO Signature
+http://iptv.csvix.net:8080/Gustavo/12345/4648
+#EXTINF:-1,HBO Signature HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4252
+#EXTINF:-1,HBO Signature HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5054
+#EXTINF:-1,HBO Signature FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5053
+#EXTINF:-1,Hit TV HD
+http://iptv.csvix.net:8080/Gustavo/12345/5024
+#EXTINF:-1,Ideal TV
+http://iptv.csvix.net:8080/Gustavo/12345/4970
+#EXTINF:-1,Investigacao Discovery
+http://iptv.csvix.net:8080/Gustavo/12345/4812
+#EXTINF:-1,Investigacao Discovery HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11673
+#EXTINF:-1,Investigacao Discovery HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4248
+#EXTINF:-1,Investigacao Discovery FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11674
+#EXTINF:-1,International Champions Cup
+http://iptv.csvix.net:8080/Gustavo/12345/22196
+#EXTINF:-1,Jogos PAN 1
+http://iptv.csvix.net:8080/Gustavo/12345/22582
+#EXTINF:-1,Jogos PAN 2
+http://iptv.csvix.net:8080/Gustavo/12345/22583
+#EXTINF:-1,Jogos PAN 3
+http://iptv.csvix.net:8080/Gustavo/12345/22584
+#EXTINF:-1,Jogos PAN 4
+http://iptv.csvix.net:8080/Gustavo/12345/22585
+#EXTINF:-1,Jogos PAN 5
+http://iptv.csvix.net:8080/Gustavo/12345/22586
+#EXTINF:-1,Jogos PAN 6
+http://iptv.csvix.net:8080/Gustavo/12345/22587
+#EXTINF:-1,Jogos PAN 7
+http://iptv.csvix.net:8080/Gustavo/12345/22588
+#EXTINF:-1,Jogos PAN 8
+http://iptv.csvix.net:8080/Gustavo/12345/22589
+#EXTINF:-1,Lifetime
+http://iptv.csvix.net:8080/Gustavo/12345/4794
+#EXTINF:-1,Lifetime HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5176
+#EXTINF:-1,Lifetime HD
+http://iptv.csvix.net:8080/Gustavo/12345/4404
+#EXTINF:-1,Lifetime FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5175
+#EXTINF:-1,Master TV
+http://iptv.csvix.net:8080/Gustavo/12345/16683
+#EXTINF:-1,Mais Globosat
+http://iptv.csvix.net:8080/Gustavo/12345/4620
+#EXTINF:-1,Mais Globosat HD
+http://iptv.csvix.net:8080/Gustavo/12345/4403
+#EXTINF:-1,Max
+http://iptv.csvix.net:8080/Gustavo/12345/4839
+#EXTINF:-1,MAX HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4470
+#EXTINF:-1,MAX HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5064
+#EXTINF:-1,MAX FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5063
+#EXTINF:-1,Max UP
+http://iptv.csvix.net:8080/Gustavo/12345/4811
+#EXTINF:-1,Max UP HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11669
+#EXTINF:-1,Max UP HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4397
+#EXTINF:-1,Max UP FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11670
+#EXTINF:-1,Max Prime
+http://iptv.csvix.net:8080/Gustavo/12345/4870
+#EXTINF:-1,Max Prime HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11679
+#EXTINF:-1,Max Prime HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4402
+#EXTINF:-1,Max Prime FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11680
+#EXTINF:-1,Music Box Brasil
+http://iptv.csvix.net:8080/Gustavo/12345/4971
+#EXTINF:-1,Megapix
+http://iptv.csvix.net:8080/Gustavo/12345/4871
+#EXTINF:-1,Megapix HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5070
+#EXTINF:-1,Megapix FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5069
+#EXTINF:-1,Megapix HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4235
+#EXTINF:-1,Multishow
+http://iptv.csvix.net:8080/Gustavo/12345/4840
+#EXTINF:-1,Multishow HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5108
+#EXTINF:-1,Multishow HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4231
+#EXTINF:-1,Multishow FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5107
+#EXTINF:-1,MTV
+http://iptv.csvix.net:8080/Gustavo/12345/4661
+#EXTINF:-1,MTV HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5174
+#EXTINF:-1,MTV HD
+http://iptv.csvix.net:8080/Gustavo/12345/4471
+#EXTINF:-1,MTV FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5173
+#EXTINF:-1,NatGeo Kids
+http://iptv.csvix.net:8080/Gustavo/12345/4800
+#EXTINF:-1,NatGeo Kids HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11687
+#EXTINF:-1,NatGeo Kids FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11688
+#EXTINF:-1,NatGeo Wild
+http://iptv.csvix.net:8080/Gustavo/12345/4921
+#EXTINF:-1,NatGeo Wild HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4947
+#EXTINF:-1,Natgeo Wild HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4228
+#EXTINF:-1,Natgeo Wild FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4946
+#EXTINF:-1,Nick JR
+http://iptv.csvix.net:8080/Gustavo/12345/4923
+#EXTINF:-1,Nick JR HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11681
+#EXTINF:-1,Nick JR FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11682
+#EXTINF:-1,Nickelodeon
+http://iptv.csvix.net:8080/Gustavo/12345/4609
+#EXTINF:-1,Nick HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5166
+#EXTINF:-1,Nick HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4222
+#EXTINF:-1,Nick FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5165
+#EXTINF:-1,NatGeo Kids HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5025
+#EXTINF:-1,Nick JR HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5026
+#EXTINF:-1,Natgeo
+http://iptv.csvix.net:8080/Gustavo/12345/4807
+#EXTINF:-1,Natgeo HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5164
+#EXTINF:-1,Natgeo HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4226
+#EXTINF:-1,Natgeo FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5163
+#EXTINF:-1,NHK
+http://iptv.csvix.net:8080/Gustavo/12345/4922
+#EXTINF:-1,NBR
+http://iptv.csvix.net:8080/Gustavo/12345/4972
+#EXTINF:-1,Novo Tempo
+http://iptv.csvix.net:8080/Gustavo/12345/4881
+#EXTINF:-1,OFF
+http://iptv.csvix.net:8080/Gustavo/12345/4646
+#EXTINF:-1,OFF HD
+http://iptv.csvix.net:8080/Gustavo/12345/4218
+#EXTINF:-1,Paramount
+http://iptv.csvix.net:8080/Gustavo/12345/4804
+#EXTINF:-1,Paramount Channel HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5178
+#EXTINF:-1,Paramount Channel HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4216
+#EXTINF:-1,Paramount Channel FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5177
+#EXTINF:-1,Play TV
+http://iptv.csvix.net:8080/Gustavo/12345/4872
+#EXTINF:-1,PlayKids
+http://iptv.csvix.net:8080/Gustavo/12345/18463
+#EXTINF:-1,PlayKids HD
+http://iptv.csvix.net:8080/Gustavo/12345/18459
+#EXTINF:-1,Polishop TV
+http://iptv.csvix.net:8080/Gustavo/12345/4924
+#EXTINF:-1,Power Couple Brasil
+http://iptv.csvix.net:8080/Gustavo/12345/18462
+#EXTINF:-1,Power Couple Brasil HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18458
+#EXTINF:-1,Premiere 2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4961
+#EXTINF:-1,Premiere 2 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4960
+#EXTINF:-1,Premiere 3 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4959
+#EXTINF:-1,Premiere 3 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4958
+#EXTINF:-1,Premiere 4 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4963
+#EXTINF:-1,Premiere 4 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4962
+#EXTINF:-1,Premiere 5 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4965
+#EXTINF:-1,Premiere 5 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4964
+#EXTINF:-1,Premiere 6 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4953
+#EXTINF:-1,Premiere 6 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4952
+#EXTINF:-1,Premiere 7 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4955
+#EXTINF:-1,Premiere 7 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4954
+#EXTINF:-1,Premiere Clubes HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4935
+#EXTINF:-1,Premiere Clubes HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/18380
+#EXTINF:-1,Premiere Clubes FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4934
+#EXTINF:-1,Premiere Clubes
+http://iptv.csvix.net:8080/Gustavo/12345/4808
+#EXTINF:-1,Premiere 2
+http://iptv.csvix.net:8080/Gustavo/12345/4809
+#EXTINF:-1,Premiere 3
+http://iptv.csvix.net:8080/Gustavo/12345/4973
+#EXTINF:-1,Premiere 4
+http://iptv.csvix.net:8080/Gustavo/12345/4925
+#EXTINF:-1,Premiere 5
+http://iptv.csvix.net:8080/Gustavo/12345/4768
+#EXTINF:-1,Premiere 6
+http://iptv.csvix.net:8080/Gustavo/12345/4810
+#EXTINF:-1,Premiere 7
+http://iptv.csvix.net:8080/Gustavo/12345/4873
+#EXTINF:-1,Premiere 8
+http://iptv.csvix.net:8080/Gustavo/12345/4974
+#EXTINF:-1,Premiere 9
+http://iptv.csvix.net:8080/Gustavo/12345/4841
+#EXTINF:-1,Primebox Brasil
+http://iptv.csvix.net:8080/Gustavo/12345/4628
+#EXTINF:-1,PPV 1
+http://iptv.csvix.net:8080/Gustavo/12345/8796
+#EXTINF:-1,PPV 2
+http://iptv.csvix.net:8080/Gustavo/12345/8797
+#EXTINF:-1,PPV 3
+http://iptv.csvix.net:8080/Gustavo/12345/8798
+#EXTINF:-1,PPV 4
+http://iptv.csvix.net:8080/Gustavo/12345/8799
+#EXTINF:-1,PPV 5
+http://iptv.csvix.net:8080/Gustavo/12345/8800
+#EXTINF:-1,RAI
+http://iptv.csvix.net:8080/Gustavo/12345/4874
+#EXTINF:-1,Real Madrid TV
+http://iptv.csvix.net:8080/Gustavo/12345/5102
+#EXTINF:-1,Rede Vida
+http://iptv.csvix.net:8080/Gustavo/12345/4660
+#EXTINF:-1,Rede TV
+http://iptv.csvix.net:8080/Gustavo/12345/4875
+#EXTINF:-1,Rede TV HD
+http://iptv.csvix.net:8080/Gustavo/12345/4190
+#EXTINF:-1,Rede Brasil
+http://iptv.csvix.net:8080/Gustavo/12345/4975
+#EXTINF:-1,Record TV
+http://iptv.csvix.net:8080/Gustavo/12345/4611
+#EXTINF:-1,Record HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5184
+#EXTINF:-1,Record HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4195
+#EXTINF:-1,Record FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5183
+#EXTINF:-1,Record BA
+http://iptv.csvix.net:8080/Gustavo/12345/5566
+#EXTINF:-1,Record BA HD
+http://iptv.csvix.net:8080/Gustavo/12345/5565
+#EXTINF:-1,Record DF
+http://iptv.csvix.net:8080/Gustavo/12345/5569
+#EXTINF:-1,Record DF HD
+http://iptv.csvix.net:8080/Gustavo/12345/5570
+#EXTINF:-1,Record MG
+http://iptv.csvix.net:8080/Gustavo/12345/5571
+#EXTINF:-1,Record MG HD
+http://iptv.csvix.net:8080/Gustavo/12345/5572
+#EXTINF:-1,Record RJ
+http://iptv.csvix.net:8080/Gustavo/12345/5573
+#EXTINF:-1,Record RJ HD
+http://iptv.csvix.net:8080/Gustavo/12345/5574
+#EXTINF:-1,Record RS
+http://iptv.csvix.net:8080/Gustavo/12345/5575
+#EXTINF:-1,Record RS HD
+http://iptv.csvix.net:8080/Gustavo/12345/5576
+#EXTINF:-1,Record News
+http://iptv.csvix.net:8080/Gustavo/12345/4803
+#EXTINF:-1,Record News HD
+http://iptv.csvix.net:8080/Gustavo/12345/5027
+#EXTINF:-1,SBT
+http://iptv.csvix.net:8080/Gustavo/12345/4612
+#EXTINF:-1,SBT HD
+http://iptv.csvix.net:8080/Gustavo/12345/4186
+#EXTINF:-1,SBT ES HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22202
+#EXTINF:-1,SBT TV Cidade Verde HD
+http://iptv.csvix.net:8080/Gustavo/12345/9059
+#EXTINF:-1,SBT TV Jornal HD
+http://iptv.csvix.net:8080/Gustavo/12345/9058
+#EXTINF:-1,SBT Interior HD
+http://iptv.csvix.net:8080/Gustavo/12345/22217
+#EXTINF:-1,SBT PE TV Jornal Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/16167
+#EXTINF:-1,SBT PE HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/16166
+#EXTINF:-1,Sony
+http://iptv.csvix.net:8080/Gustavo/12345/4806
+#EXTINF:-1,Sony HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5172
+#EXTINF:-1,Sony HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4182
+#EXTINF:-1,Sony FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5171
+#EXTINF:-1,Space
+http://iptv.csvix.net:8080/Gustavo/12345/4842
+#EXTINF:-1,Space HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5116
+#EXTINF:-1,Space FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5115
+#EXTINF:-1,Space HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4180
+#EXTINF:-1,SporTV
+http://iptv.csvix.net:8080/Gustavo/12345/4843
+#EXTINF:-1,SporTV HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4992
+#EXTINF:-1,SporTV HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4174
+#EXTINF:-1,SporTV FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4991
+#EXTINF:-1,SporTV 2
+http://iptv.csvix.net:8080/Gustavo/12345/4767
+#EXTINF:-1,SporTV 2 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5033
+#EXTINF:-1,SporTV 2 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4177
+#EXTINF:-1,SporTV 2 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5032
+#EXTINF:-1,SporTV 3
+http://iptv.csvix.net:8080/Gustavo/12345/4877
+#EXTINF:-1,SporTV 3 HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5162
+#EXTINF:-1,SporTV 3 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4175
+#EXTINF:-1,SporTV 3 FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5161
+#EXTINF:-1,Studio Universal
+http://iptv.csvix.net:8080/Gustavo/12345/4844
+#EXTINF:-1,Studio Universal HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11677
+#EXTINF:-1,Studio Universal HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4473
+#EXTINF:-1,Studio Universal FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11678
+#EXTINF:-1,SyFy
+http://iptv.csvix.net:8080/Gustavo/12345/4879
+#EXTINF:-1,SyFy HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5170
+#EXTINF:-1,SyFy HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4399
+#EXTINF:-1,SyFy FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5169
+#EXTINF:-1,SIC Internacional
+http://iptv.csvix.net:8080/Gustavo/12345/4876
+#EXTINF:-1,TBS
+http://iptv.csvix.net:8080/Gustavo/12345/4926
+#EXTINF:-1,TBS HD
+http://iptv.csvix.net:8080/Gustavo/12345/4168
+#EXTINF:-1,TLC
+http://iptv.csvix.net:8080/Gustavo/12345/4802
+#EXTINF:-1,TLC HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4400
+#EXTINF:-1,TC Action
+http://iptv.csvix.net:8080/Gustavo/12345/4976
+#EXTINF:-1,TC Action HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5001
+#EXTINF:-1,TC Action HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4166
+#EXTINF:-1,TC Action FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5000
+#EXTINF:-1,TC Cult
+http://iptv.csvix.net:8080/Gustavo/12345/4623
+#EXTINF:-1,TC Cult HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4941
+#EXTINF:-1,TC Cult HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4164
+#EXTINF:-1,TC Cult FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4940
+#EXTINF:-1,Tc Fun
+http://iptv.csvix.net:8080/Gustavo/12345/4798
+#EXTINF:-1,TC Fun HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4937
+#EXTINF:-1,TC Fun HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4162
+#EXTINF:-1,TC Fun FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4936
+#EXTINF:-1,TC Pipoca
+http://iptv.csvix.net:8080/Gustavo/12345/4846
+#EXTINF:-1,TC Pipoca HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4939
+#EXTINF:-1,TC Pipoca HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4160
+#EXTINF:-1,TC Pipoca FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4938
+#EXTINF:-1,TC Premium
+http://iptv.csvix.net:8080/Gustavo/12345/4656
+#EXTINF:-1,TC Premium HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4930
+#EXTINF:-1,TC Premium HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4158
+#EXTINF:-1,TC Premium FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4931
+#EXTINF:-1,TC Touch
+http://iptv.csvix.net:8080/Gustavo/12345/4613
+#EXTINF:-1,TC Touch HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/11685
+#EXTINF:-1,TC Touch HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4156
+#EXTINF:-1,TC Touch FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/11686
+#EXTINF:-1,TCM
+http://iptv.csvix.net:8080/Gustavo/12345/4845
+#EXTINF:-1,TCM HD
+http://iptv.csvix.net:8080/Gustavo/12345/5505
+#EXTINF:-1,TNT
+http://iptv.csvix.net:8080/Gustavo/12345/4563
+#EXTINF:-1,TNT HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4945
+#EXTINF:-1,TNT HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/5030
+#EXTINF:-1,TNT FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4944
+#EXTINF:-1,TNT Series
+http://iptv.csvix.net:8080/Gustavo/12345/4847
+#EXTINF:-1,TNT Series HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4943
+#EXTINF:-1,TNT Series HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4146
+#EXTINF:-1,TNT Series FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4942
+#EXTINF:-1,Tooncast
+http://iptv.csvix.net:8080/Gustavo/12345/4796
+#EXTINF:-1,Tooncast HD
+http://iptv.csvix.net:8080/Gustavo/12345/5031
+#EXTINF:-1,TruTV
+http://iptv.csvix.net:8080/Gustavo/12345/4797
+#EXTINF:-1,TruTV HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/18715
+#EXTINF:-1,TruTV FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/18716
+#EXTINF:-1,TV Camara
+http://iptv.csvix.net:8080/Gustavo/12345/4813
+#EXTINF:-1,TV Brasil
+http://iptv.csvix.net:8080/Gustavo/12345/4631
+#EXTINF:-1,TV Aparecida
+http://iptv.csvix.net:8080/Gustavo/12345/4863
+#EXTINF:-1,TV Diario
+http://iptv.csvix.net:8080/Gustavo/12345/8823
+#EXTINF:-1,TV Guarulhos HD
+http://iptv.csvix.net:8080/Gustavo/12345/16165
+#EXTINF:-1,TV Climatempo
+http://iptv.csvix.net:8080/Gustavo/12345/8824
+#EXTINF:-1,TV Escola
+http://iptv.csvix.net:8080/Gustavo/12345/4928
+#EXTINF:-1,TV Ra Tim Bum
+http://iptv.csvix.net:8080/Gustavo/12345/4929
+#EXTINF:-1,TV Justica
+http://iptv.csvix.net:8080/Gustavo/12345/4816
+#EXTINF:-1,TV Senado
+http://iptv.csvix.net:8080/Gustavo/12345/4815
+#EXTINF:-1,TV Cultura
+http://iptv.csvix.net:8080/Gustavo/12345/4625
+#EXTINF:-1,Tv Gazeta
+http://iptv.csvix.net:8080/Gustavo/12345/5088
+#EXTINF:-1,Terra Viva
+http://iptv.csvix.net:8080/Gustavo/12345/4927
+#EXTINF:-1,The History Channel
+http://iptv.csvix.net:8080/Gustavo/12345/4880
+#EXTINF:-1,The History HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/4990
+#EXTINF:-1,The History Channel HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4152
+#EXTINF:-1,The History FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/4989
+#EXTINF:-1,Universal Channel
+http://iptv.csvix.net:8080/Gustavo/12345/4645
+#EXTINF:-1,Universal Channel HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5180
+#EXTINF:-1,Universal Channel FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5179
+#EXTINF:-1,Universal Channel HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4129
+#EXTINF:-1,Viva
+http://iptv.csvix.net:8080/Gustavo/12345/4644
+#EXTINF:-1,Viva HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/22655
+#EXTINF:-1,Viva HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4125
+#EXTINF:-1,Viva FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/22656
+#EXTINF:-1,VH1 Mega Hits
+http://iptv.csvix.net:8080/Gustavo/12345/4792
+#EXTINF:-1,VH1 HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4391
+#EXTINF:-1,Warner Channel
+http://iptv.csvix.net:8080/Gustavo/12345/4654
+#EXTINF:-1,Warner Channel HD H264
+http://iptv.csvix.net:8080/Gustavo/12345/5182
+#EXTINF:-1,Warner Channel HD Alternativo
+http://iptv.csvix.net:8080/Gustavo/12345/4123
+#EXTINF:-1,Warner Channel FullHD H265
+http://iptv.csvix.net:8080/Gustavo/12345/5181
+#EXTINF:-1,Wohoo
+http://iptv.csvix.net:8080/Gustavo/12345/4848
+#EXTINF:-1,Wohoo HD
+http://iptv.csvix.net:8080/Gustavo/12345/5029
+#EXTINF:-1,Zoomoo
+http://iptv.csvix.net:8080/Gustavo/12345/8803
