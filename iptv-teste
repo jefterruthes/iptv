@@ -17,3 +17,65 @@ https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf99066
 https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FbtPqPpCYac)r(TOqkzw)a(vVHenQ)p(d(Ujo)k(l0Y)m(3qYx9FMCeelpGgXPhh7Qzg)n(a(9Laexw)s(Uic)'a(aBT0Pg)s(tCw)'a(t_gRtA)s(oGI)'a(uBRI7g)s(gcc)))s(s(udc)b(hP0yKbQLSyIQM4RaPRRVkWs4TPCuF6lqCZakTtwmuP6QAWrSzPlSFvkDexydPgrVFL7AbONSeq0cG7eXqg)'s(39k)b(FvEBb3cff5GrErhw8sQcapVfbP8d-MFF2xT1ORjydoG2xX-Ebr8t8IalXJr_J_La2vILxwEr8pymsbgHXp-nrj1qCkus2iUpjAMwmxs0)'s(OpU)b(tOMTTLCO))m(0))/25_index.m3u8
 #EXTINF:-1 tvg-ID="tvgazeta" tvg-name="TV Gazeta" group-title="Canais Abertos",TV Gazeta | TechRuthes.com
 https://playback2.akamaized.net/streams/5381476_2395418_lsi2ots7ew3xudv7xj7_1/exp=1566019482~acl=%2f*~data=hdntl~hmac=0781fe0a666cbeae3e74b1401651887349ae3c3b4be2a9e59fae6f81b7f85960/media/5381476_2395418_lsi2ots7ew3xudv7xj7_1@2320000p.m3u8?dw=14400&ts=1565931600
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV SP" group-title="Canais Abertos",RedeTV | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/5.m3u8
+#EXTINF:-1 tvg-ID="tvgazeta" tvg-name="TV Gazeta" group-title="Canais Abertos",TV Gazeta | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/9.m3u8
+#EXTINF:-1 tvg-ID="tvcultura" tvg-name="TV Cultura" group-title="Canais Abertos",TV Cultura | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/6.m3u8
+#EXTINF:-1 tvg-ID="tvescola" tvg-name="TV Escola" group-title="Canais Abertos",TV Escola | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/7.m3u8
+#EXTINF:-1 tvg-ID="telecinepremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/48.m3u8
+#EXTINF:-1 tvg-ID="telecinepipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/49.m3u8
+#EXTINF:-1 tvg-ID="telecineaction" tvg-name="Telecine Action" group-title="Filmes e Séries",Telecine Action | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/51.m3u8
+#EXTINF:-1 tvg-ID="telecinetouch" tvg-name="Telecine Touch" group-title="Filmes e Séries",Telecine Touch | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/52.m3u8
+#EXTINF:-1 tvg-ID="telecinefun" tvg-name="Telecine Fun" group-title="Filmes e Séries",Telecine Fun | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/50.m3u8
+#EXTINF:-1 tvg-ID="telecinecult" tvg-name="Telecine Cult" group-title="Filmes e Séries",Telecine Cult | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/53.m3u8
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/54.m3u8
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/55.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/56.m3u8
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/57.m3u8
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/58.m3u8
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/58.m3u8
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/61.m3u8
+#EXTINF:-1 tvg-ID="foxlife" tvg-name="Fox life" group-title="Filmes e Séries",Fox life | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/64.m3u8
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/62.m3u8
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/63.m3u8
+#EXTINF:-1 tvg-ID="space" tvg-name="Space" group-title="Filmes e Séries",Space | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/67.m3u8
+#EXTINF:-1 tvg-ID="megapix" tvg-name="Megapix" group-title="Filmes e Séries",Megapix | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/68.m3u8
+#EXTINF:-1 tvg-ID="amc" tvg-name="AMC" group-title="Filmes e Séries",AMC | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/69.m3u8
+#EXTINF:-1 tvg-ID="max" tvg-name="MAX" group-title="Filmes e Séries",MAX | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/78.m3u8
+#EXTINF:-1 tvg-ID="maxup" tvg-name="MAX UP" group-title="Filmes e Séries",MAX UP | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/80.m3u8
+#EXTINF:-1 tvg-ID="maxprime" tvg-name="MAX PRIME" group-title="Filmes e Séries",MAX PRIME | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/79.m3u8
+#EXTINF:-1 tvg-ID="warner" tvg-name="Warner" group-title="Filmes e Séries",Warner | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/116.m3u8
+#EXTINF:-1 tvg-ID="studiouniversal" tvg-name="Studio Universal" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/73.m3u8
+#EXTINF:-1 tvg-ID="universal" tvg-name="Universal" group-title="Filmes e Séries",Universal | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/74.m3u8
+#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount" group-title="Filmes e Séries",Paramount | TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/75.m3u8
+#EXTINF:-1 tvg-ID="fx" tvg-name="FX" group-title="Filmes e Séries",FX | TechRuthes.com
+http://177.54.158.104:8081/live/fx720p/chunks.m3u8?nimblesessionid=9264755&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDE5IDE6MjI6MTAgQU0maGFzaF92YWx1ZT1PclVZbzh0SzdLaWlKQ2lXVlRtc1JRPT0mdmFsaWRtaW51dGVzPTUmaWQ9UmVzb3VyY2UgaWQgIzExJnN0cm1fbGVuPTEx
