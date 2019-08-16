@@ -3,11 +3,17 @@
 https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w467826205_b850000.m3u8
 #EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT | TechRuthes.com
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT Interior" group-title="Canais Abertos",Interior | TechRuthes.com
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT Interior" group-title="Canais Abertos",SBT Interior | TechRuthes.com
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
 #EXTINF:-1 tvg-ID="sbt" tvg-name="SBT Brasília" group-title="Canais Abertos",SBT Brasília | TechRuthes.com
 https://www.youtube.com/watch?v=Pi1T8uuO-3g
 #EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band | TechRuthes.com
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-#EXTINF:-1 tvg-ID="record" tvg-name="Record SP" group-title="Canais Abertos",Record | TechRuthes.com
-https://cdnfe1.azureedge.net/hls1/recordsp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDE5IDU6MTI6NTkgQU0maGFzaF92YWx1ZT10YTFaUHhNRmZZK1dSR2xKOWpLZStBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-ID="tvvale" tvg-name="TV Vale" group-title="Canais Abertos",TV Vale | TechRuthes.com
+https://5b7f3c45ab7c2.streamlock.net/8016/8016/chunklist_w197880056.m3u8
+#EXTINF:-1 tvg-ID="redeminas" tvg-name="Rede Minas" group-title="Canais Abertos",Rede Minas | TechRuthes.com
+https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1565923648~exp=1565930248~acl=/*~hmac=13d80005256953237de805f31da4feed5328c1c1684410e2dcd379becba41ef8
+#EXTINF:-1 tvg-ID="tvbrasil" tvg-name="TV Brasil" group-title="Canais Abertos",TV Brasil | TechRuthes.com
+https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FbtPqPpCYac)r(TOqkzw)a(vVHenQ)p(d(Ujo)k(l0Y)m(3qYx9FMCeelpGgXPhh7Qzg)n(a(9Laexw)s(Uic)'a(aBT0Pg)s(tCw)'a(t_gRtA)s(oGI)'a(uBRI7g)s(gcc)))s(s(udc)b(hP0yKbQLSyIQM4RaPRRVkWs4TPCuF6lqCZakTtwmuP6QAWrSzPlSFvkDexydPgrVFL7AbONSeq0cG7eXqg)'s(39k)b(FvEBb3cff5GrErhw8sQcapVfbP8d-MFF2xT1ORjydoG2xX-Ebr8t8IalXJr_J_La2vILxwEr8pymsbgHXp-nrj1qCkus2iUpjAMwmxs0)'s(OpU)b(tOMTTLCO))m(0))/25_index.m3u8
+#EXTINF:-1 tvg-ID="tvgazeta" tvg-name="TV Gazeta" group-title="Canais Abertos",TV Gazeta | TechRuthes.com
+https://playback2.akamaized.net/streams/5381476_2395418_lsi2ots7ew3xudv7xj7_1/exp=1566019482~acl=%2f*~data=hdntl~hmac=0781fe0a666cbeae3e74b1401651887349ae3c3b4be2a9e59fae6f81b7f85960/media/5381476_2395418_lsi2ots7ew3xudv7xj7_1@2320000p.m3u8?dw=14400&ts=1565931600
