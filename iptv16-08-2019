@@ -1,1651 +1,489 @@
 #EXTM3U
-#EXTINF:-1,Globo RJ FHD
-http://dns.clientetv.xyz:8000/frank/12345678/12665
-#EXTINF:-1,Globo RJ HD
-http://dns.clientetv.xyz:8000/frank/12345678/1586
-#EXTINF:-1,Globo RJ
-http://dns.clientetv.xyz:8000/frank/12345678/1752
-#EXTINF:-1,Globo RJ FHD²
-http://dns.clientetv.xyz:8000/frank/12345678/41723
-#EXTINF:-1,Globo RJ Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/12991
-#EXTINF:-1,Globo SP FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21615
-#EXTINF:-1,Globo SP HD
-http://dns.clientetv.xyz:8000/frank/12345678/17241
-#EXTINF:-1,Globo SP
-http://dns.clientetv.xyz:8000/frank/12345678/111
-#EXTINF:-1,Globo SP  FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31624
-#EXTINF:-1,Globo SP Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/18836
-#EXTINF:-1,RecordTV SP FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21622
-#EXTINF:-1,RecordTV SP HD
-http://dns.clientetv.xyz:8000/frank/12345678/1694
-#EXTINF:-1,RecordTV SP
-http://dns.clientetv.xyz:8000/frank/12345678/252
-#EXTINF:-1,RecordTV Alternativo SP FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38017
-#EXTINF:-1,RecordTV Alternativo SP HD
-http://dns.clientetv.xyz:8000/frank/12345678/7045
-#EXTINF:-1,RecordTV Alternativo SP
-http://dns.clientetv.xyz:8000/frank/12345678/13532
-#EXTINF:-1,RecordTV RJ FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31262
-#EXTINF:-1,RecordTV RJ HD
-http://dns.clientetv.xyz:8000/frank/12345678/31212
-#EXTINF:-1,RecordTV RJ
-http://dns.clientetv.xyz:8000/frank/12345678/31263
-#EXTINF:-1,SBT FHD
-http://dns.clientetv.xyz:8000/frank/12345678/12662
-#EXTINF:-1,SBT HD
-http://dns.clientetv.xyz:8000/frank/12345678/1961
-#EXTINF:-1,Sbt
-http://dns.clientetv.xyz:8000/frank/12345678/373
-#EXTINF:-1,SBT HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12886
-#EXTINF:-1,SBT Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/18203
-#EXTINF:-1,Band FHD
-http://dns.clientetv.xyz:8000/frank/12345678/7047
-#EXTINF:-1,Band HD
-http://dns.clientetv.xyz:8000/frank/12345678/1744
-#EXTINF:-1,Band
-http://dns.clientetv.xyz:8000/frank/12345678/372
-#EXTINF:-1,Rede TV FHD
-http://dns.clientetv.xyz:8000/frank/12345678/7046
-#EXTINF:-1,Rede TV HD
-http://dns.clientetv.xyz:8000/frank/12345678/1862
-#EXTINF:-1,Rede Tv
-http://dns.clientetv.xyz:8000/frank/12345678/297
-#EXTINF:-1,TV Cultura FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31272
-#EXTINF:-1,TV Cultura HD
-http://dns.clientetv.xyz:8000/frank/12345678/31271
-#EXTINF:-1,TV Cultura
-http://dns.clientetv.xyz:8000/frank/12345678/2422
-#EXTINF:-1,TV Gazeta HD
-http://dns.clientetv.xyz:8000/frank/12345678/18202
-#EXTINF:-1,TV Gazeta
-http://dns.clientetv.xyz:8000/frank/12345678/1929
-#EXTINF:-1,TV Escola
-http://dns.clientetv.xyz:8000/frank/12345678/12108
-#EXTINF:-1,TV Câmara
-http://dns.clientetv.xyz:8000/frank/12345678/1783
-#EXTINF:-1,TV Justica
-http://dns.clientetv.xyz:8000/frank/12345678/35902
-#EXTINF:-1,TV Senado
-http://dns.clientetv.xyz:8000/frank/12345678/6651
-#EXTINF:-1,Canal Brasil FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13899
-#EXTINF:-1,Canal Brasil HD
-http://dns.clientetv.xyz:8000/frank/12345678/6542
-#EXTINF:-1,Canal Brasil
-http://dns.clientetv.xyz:8000/frank/12345678/237
-#EXTINF:-1,Futura FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31204
-#EXTINF:-1,Futura HD
-http://dns.clientetv.xyz:8000/frank/12345678/21692
-#EXTINF:-1,Futura
-http://dns.clientetv.xyz:8000/frank/12345678/6653
-#EXTINF:-1,NBR
-http://dns.clientetv.xyz:8000/frank/12345678/1843
-#EXTINF:-1,Terra Viva
-http://dns.clientetv.xyz:8000/frank/12345678/17520
-#EXTINF:-1,Canal Rural
-http://hls-live.crur.al/hlsmedium/playlist.m3u8
-#EXTINF:-1,Canal do Boi
-http://dns.clientetv.xyz:8000/frank/12345678/49962
-#EXTINF:-1,Rede Brasil
-http://dns.clientetv.xyz:8000/frank/12345678/1780
-#EXTINF:-1,Globo News FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21625
-#EXTINF:-1,Globo News HD
-http://dns.clientetv.xyz:8000/frank/12345678/18760
-#EXTINF:-1,Globo News
-http://dns.clientetv.xyz:8000/frank/12345678/227
-#EXTINF:-1,Globo News Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19955
-#EXTINF:-1,Globo News Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13526
-#EXTINF:-1,Globo News -Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13527
-#EXTINF:-1,Band News FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21626
-#EXTINF:-1,Band News HD
-http://dns.clientetv.xyz:8000/frank/12345678/20885
-#EXTINF:-1,Band News
-http://dns.clientetv.xyz:8000/frank/12345678/239
-#EXTINF:-1,Band News Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13528
-#EXTINF:-1,Record News FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29662
-#EXTINF:-1,Record News HD
-http://dns.clientetv.xyz:8000/frank/12345678/19996
-#EXTINF:-1,Record News
-http://dns.clientetv.xyz:8000/frank/12345678/290
-#EXTINF:-1,Record News Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/35903
-#EXTINF:-1,Record News Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13529
-#EXTINF:-1,Animal Planet UHD
-http://dns.clientetv.xyz:8000/frank/12345678/49064
-#EXTINF:-1,Cartoon Network UHD
-http://dns.clientetv.xyz:8000/frank/12345678/49238
-#EXTINF:-1,Combate UHD
-http://dns.clientetv.xyz:8000/frank/12345678/35865
-#EXTINF:-1,Combate UHD²
-http://dns.clientetv.xyz:8000/frank/12345678/48511
-#EXTINF:-1,Discovery Channel UHD
-http://dns.clientetv.xyz:8000/frank/12345678/48507
-#EXTINF:-1,ESPN UHD
-http://dns.clientetv.xyz:8000/frank/12345678/35866
-#EXTINF:-1,FOX Sports UHD²
-http://dns.clientetv.xyz:8000/frank/12345678/48509
-#EXTINF:-1,FOX Sports 2 UHD
-http://dns.clientetv.xyz:8000/frank/12345678/49240
-#EXTINF:-1,Globo SP UHD
-http://dns.clientetv.xyz:8000/frank/12345678/40346
-#EXTINF:-1,NatGeo UHD
-http://dns.clientetv.xyz:8000/frank/12345678/49255
-#EXTINF:-1,MegaPix UHD
-http://dns.clientetv.xyz:8000/frank/12345678/49239
-#EXTINF:-1,Multishow UHD
-http://dns.clientetv.xyz:8000/frank/12345678/48467
-#EXTINF:-1,Premiere Clubes UHD
-http://dns.clientetv.xyz:8000/frank/12345678/29690
-#EXTINF:-1,Premiere Clubes UHD²
-http://dns.clientetv.xyz:8000/frank/12345678/49066
-#EXTINF:-1,RecordTV TV UHD
-http://dns.clientetv.xyz:8000/frank/12345678/48466
-#EXTINF:-1,SBT UHD
-http://dns.clientetv.xyz:8000/frank/12345678/48510
-#EXTINF:-1,SporTV UHD
-http://dns.clientetv.xyz:8000/frank/12345678/21749
-#EXTINF:-1,SporTV UHD²
-http://dns.clientetv.xyz:8000/frank/12345678/49065
-#EXTINF:-1,TNT UHD
-http://dns.clientetv.xyz:8000/frank/12345678/48508
-#EXTINF:-1,TNT Series UHD
-http://dns.clientetv.xyz:8000/frank/12345678/49306
-#EXTINF:-1,SporTV FHD
-http://dns.clientetv.xyz:8000/frank/12345678/11472
-#EXTINF:-1,SporTV HD
-http://dns.clientetv.xyz:8000/frank/12345678/1583
-#EXTINF:-1,SporTV
-http://dns.clientetv.xyz:8000/frank/12345678/109
-#EXTINF:-1,SporTV HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12864
-#EXTINF:-1,SporTV Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13520
-#EXTINF:-1,SporTV 2 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21627
-#EXTINF:-1,SporTV 2 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1619
-#EXTINF:-1,SporTv 2
-http://dns.clientetv.xyz:8000/frank/12345678/402
-#EXTINF:-1,SporTV 2 HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/18833
-#EXTINF:-1,SporTV 2 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/18834
-#EXTINF:-1,SporTV 3 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17042
-#EXTINF:-1,SporTV 3 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1620
-#EXTINF:-1,SporTV 3
-http://dns.clientetv.xyz:8000/frank/12345678/366
-#EXTINF:-1,SporTV 3 HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19959
-#EXTINF:-1,SporTV 3 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19960
-#EXTINF:-1,FOX Sports FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29336
-#EXTINF:-1,FOX Sports HD
-http://dns.clientetv.xyz:8000/frank/12345678/1589
-#EXTINF:-1,Fox Sports
-http://dns.clientetv.xyz:8000/frank/12345678/368
-#EXTINF:-1,FOX Sports HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/18835
-#EXTINF:-1,Fox Sports Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/17191
-#EXTINF:-1,FOX Sports 2 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21629
-#EXTINF:-1,Fox Sports 2 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1499
-#EXTINF:-1,Fox Sports 2
-http://dns.clientetv.xyz:8000/frank/12345678/367
-#EXTINF:-1,Fox Sports 2 HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/20934
-#EXTINF:-1,Fox Sports 2 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/17193
-#EXTINF:-1,ESPN Brasil FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13523
-#EXTINF:-1,ESPN Brasil HD
-http://dns.clientetv.xyz:8000/frank/12345678/1588
-#EXTINF:-1,ESPN Brasil
-http://dns.clientetv.xyz:8000/frank/12345678/369
-#EXTINF:-1,ESPN Brasil HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/17967
-#EXTINF:-1,Espn Brasil Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/16172
-#EXTINF:-1,ESPN FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17045
-#EXTINF:-1,ESPN HD
-http://dns.clientetv.xyz:8000/frank/12345678/1602
-#EXTINF:-1,ESPN
-http://dns.clientetv.xyz:8000/frank/12345678/232
-#EXTINF:-1,ESPN HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19957
-#EXTINF:-1,ESPN Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21732
-#EXTINF:-1,ESPN 2 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17511
-#EXTINF:-1,ESPN 2 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1603
-#EXTINF:-1,ESPN 2
-http://dns.clientetv.xyz:8000/frank/12345678/408
-#EXTINF:-1,ESPN 2 HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19958
-#EXTINF:-1,ESPN 2 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/31617
-#EXTINF:-1,ESPN Extra FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21630
-#EXTINF:-1,ESPN Extra HD
-http://dns.clientetv.xyz:8000/frank/12345678/21631
-#EXTINF:-1,ESPN Extra
-http://dns.clientetv.xyz:8000/frank/12345678/21632
-#EXTINF:-1,ESPN Extra HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/49554
-#EXTINF:-1,ESPN Extra Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/49555
-#EXTINF:-1,EI Plus HD
-http://dns.clientetv.xyz:8000/frank/12345678/43012
-#EXTINF:-1,EI Plus
-http://dns.clientetv.xyz:8000/frank/12345678/43013
-#EXTINF:-1,EI Plus Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/42125
-#EXTINF:-1,EI Plus Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/42126
-#EXTINF:-1,Combate FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21621
-#EXTINF:-1,Combate FHD²
-http://dns.clientetv.xyz:8000/frank/12345678/29735
-#EXTINF:-1,Combate HD
-http://dns.clientetv.xyz:8000/frank/12345678/1601
-#EXTINF:-1,Combate
-http://dns.clientetv.xyz:8000/frank/12345678/110
-#EXTINF:-1,Combate HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12806
-#EXTINF:-1,Combate Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/20984
-#EXTINF:-1,Band Sports FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31197
-#EXTINF:-1,Band Sports HD
-http://dns.clientetv.xyz:8000/frank/12345678/1600
-#EXTINF:-1,Band Sports
-http://dns.clientetv.xyz:8000/frank/12345678/370
-#EXTINF:-1,Band Sports HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21192
-#EXTINF:-1,Band Sports Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21193
-#EXTINF:-1,DAZN FHD
-http://dns.clientetv.xyz:8000/frank/12345678/47675
-#EXTINF:-1,DAZN HD
-http://dns.clientetv.xyz:8000/frank/12345678/47796
-#EXTINF:-1,DAZN
-http://dns.clientetv.xyz:8000/frank/12345678/47676
-#EXTINF:-1,DAZN Alternativo²
-http://dns.clientetv.xyz:8000/frank/12345678/48376
-#EXTINF:-1,DAZN Alternativo³
-http://dns.clientetv.xyz:8000/frank/12345678/49288
-#EXTINF:-1,Copa Libertadores
-http://dns.clientetv.xyz:8000/frank/12345678/47710
-#EXTINF:-1,Copa Sulamericana
-http://dns.clientetv.xyz:8000/frank/12345678/47711
-#EXTINF:-1,Brasileirão Série C
-http://dns.clientetv.xyz:8000/frank/12345678/47709
-#EXTINF:-1,NBA TV
-http://dns.clientetv.xyz:8000/frank/12345678/12236
-#EXTINF:-1,Premiere Clubes FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17293
-#EXTINF:-1,Premiere Clubes HD
-http://dns.clientetv.xyz:8000/frank/12345678/204
-#EXTINF:-1,Premiere Clubes
-http://dns.clientetv.xyz:8000/frank/12345678/1930
-#EXTINF:-1,Premiere Clubes  FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31625
-#EXTINF:-1,Premiere Clubes Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/12857
-#EXTINF:-1,Premiere Clubes Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13511
-#EXTINF:-1,PFC
-http://dns.clientetv.xyz:8000/frank/12345678/210
-#EXTINF:-1,Premiere 2 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13796
-#EXTINF:-1,Premiere 2 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1717
-#EXTINF:-1,Premiere 2
-http://dns.clientetv.xyz:8000/frank/12345678/259
-#EXTINF:-1,Premiere 2 -Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/13495
-#EXTINF:-1,Premiere 2 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13510
-#EXTINF:-1,Premiere 3 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13797
-#EXTINF:-1,Premiere 3 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1721
-#EXTINF:-1,Premiere 3
-http://dns.clientetv.xyz:8000/frank/12345678/269
-#EXTINF:-1,Premiere 3 -Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/13496
-#EXTINF:-1,Premiere 3  Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13509
-#EXTINF:-1,Premiere 4 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17051
-#EXTINF:-1,Premiere 4 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1722
-#EXTINF:-1,Premiere 4
-http://dns.clientetv.xyz:8000/frank/12345678/270
-#EXTINF:-1,Premiere 4 -Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/13497
-#EXTINF:-1,Premiere 4  Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13508
-#EXTINF:-1,Premiere 5 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17050
-#EXTINF:-1,Premiere 5 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1723
-#EXTINF:-1,Premiere 5
-http://dns.clientetv.xyz:8000/frank/12345678/271
-#EXTINF:-1,Premiere 5 -Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/13498
-#EXTINF:-1,Premiere 5  Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13507
-#EXTINF:-1,Premiere 6 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17049
-#EXTINF:-1,Premiere 6 HD
-http://dns.clientetv.xyz:8000/frank/12345678/8488
-#EXTINF:-1,Premiere 6
-http://dns.clientetv.xyz:8000/frank/12345678/208
-#EXTINF:-1,Premiere 6 Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/27417
-#EXTINF:-1,Premiere 6  Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13506
-#EXTINF:-1,Premiere 7 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17048
-#EXTINF:-1,Premiere 7 HD
-http://dns.clientetv.xyz:8000/frank/12345678/8482
-#EXTINF:-1,Premiere 7
-http://dns.clientetv.xyz:8000/frank/12345678/207
-#EXTINF:-1,Premiere 7 Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/27418
-#EXTINF:-1,Premiere 7  Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13505
-#EXTINF:-1,Premiere 8
-http://dns.clientetv.xyz:8000/frank/12345678/206
-#EXTINF:-1,Premiere 9
-http://dns.clientetv.xyz:8000/frank/12345678/205
-#EXTINF:-1,Tabela Jogos Premiere
-http://dns.clientetv.xyz:8000/frank/12345678/29657
-#EXTINF:-1,Telecine Premium FHD
-http://dns.clientetv.xyz:8000/frank/12345678/11475
-#EXTINF:-1,Telecine Premium HD
-http://dns.clientetv.xyz:8000/frank/12345678/1631
-#EXTINF:-1,Telecine Premium
-http://dns.clientetv.xyz:8000/frank/12345678/805
-#EXTINF:-1,Telecine Premium HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12872
-#EXTINF:-1,Telecine Premium Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21114
-#EXTINF:-1,Telecine Pipoca FHD
-http://dns.clientetv.xyz:8000/frank/12345678/12204
-#EXTINF:-1,Telecine Pipoca HD
-http://dns.clientetv.xyz:8000/frank/12345678/1596
-#EXTINF:-1,Telecine Pipoca
-http://dns.clientetv.xyz:8000/frank/12345678/804
-#EXTINF:-1,Telecine Pipoca HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12871
-#EXTINF:-1,Telecine Pipoca Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/9228
-#EXTINF:-1,Telecine Action FHD
-http://dns.clientetv.xyz:8000/frank/12345678/11476
-#EXTINF:-1,Telecine Action HD
-http://dns.clientetv.xyz:8000/frank/12345678/1584
-#EXTINF:-1,Telecine Action
-http://dns.clientetv.xyz:8000/frank/12345678/806
-#EXTINF:-1,Telecine Action HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12868
-#EXTINF:-1,Telecine Action Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/6997
-#EXTINF:-1,Telecine Touch FHD
-http://dns.clientetv.xyz:8000/frank/12345678/11477
-#EXTINF:-1,Telecine Touch HD
-http://dns.clientetv.xyz:8000/frank/12345678/1626
-#EXTINF:-1,Telecine Touch
-http://dns.clientetv.xyz:8000/frank/12345678/807
-#EXTINF:-1,Telecine Touch HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12873
-#EXTINF:-1,Telecine Touch Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/6677
-#EXTINF:-1,Telecine Fun FHD
-http://dns.clientetv.xyz:8000/frank/12345678/12205
-#EXTINF:-1,Telecine Fun HD
-http://dns.clientetv.xyz:8000/frank/12345678/1624
-#EXTINF:-1,Telecine Fun
-http://dns.clientetv.xyz:8000/frank/12345678/803
-#EXTINF:-1,Telecine Fun HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12870
-#EXTINF:-1,Telecine Fun Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/9230
-#EXTINF:-1,Telecine Cult FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13885
-#EXTINF:-1,Telecine Cult HD
-http://dns.clientetv.xyz:8000/frank/12345678/5902
-#EXTINF:-1,Telecine Cult
-http://dns.clientetv.xyz:8000/frank/12345678/808
-#EXTINF:-1,Telecine Cult HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21353
-#EXTINF:-1,Telecine Cult Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/9229
-#EXTINF:-1,MegaPix FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17510
-#EXTINF:-1,MegaPix HD
-http://dns.clientetv.xyz:8000/frank/12345678/1615
-#EXTINF:-1,MegaPix
-http://dns.clientetv.xyz:8000/frank/12345678/112
-#EXTINF:-1,Megapix HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19961
-#EXTINF:-1,MegaPix Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/6996
-#EXTINF:-1,Universal TV FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17512
-#EXTINF:-1,Universal TV HD
-http://dns.clientetv.xyz:8000/frank/12345678/1501
-#EXTINF:-1,Universal TV
-http://dns.clientetv.xyz:8000/frank/12345678/265
-#EXTINF:-1,Universal TV HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21352
-#EXTINF:-1,Universal TV Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/7002
-#EXTINF:-1,Studio Universal FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13888
-#EXTINF:-1,Studio Universal HD
-http://dns.clientetv.xyz:8000/frank/12345678/7021
-#EXTINF:-1,Studio Universal
-http://dns.clientetv.xyz:8000/frank/12345678/174
-#EXTINF:-1,Studio Universal HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12865
-#EXTINF:-1,Studio Universal Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/8684
-#EXTINF:-1,Syfy FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13887
-#EXTINF:-1,SyFy HD
-http://dns.clientetv.xyz:8000/frank/12345678/9231
-#EXTINF:-1,Syfy
-http://dns.clientetv.xyz:8000/frank/12345678/103
-#EXTINF:-1,SyFy HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21350
-#EXTINF:-1,SyFy Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21351
-#EXTINF:-1,HBO FHD
-http://dns.clientetv.xyz:8000/frank/12345678/16180
-#EXTINF:-1,HBO HD
-http://dns.clientetv.xyz:8000/frank/12345678/1585
-#EXTINF:-1,HBO
-http://dns.clientetv.xyz:8000/frank/12345678/390
-#EXTINF:-1,HBO Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/12836
-#EXTINF:-1,HBO Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/6988
-#EXTINF:-1,HBO 2 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/16181
-#EXTINF:-1,HBO 2 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1594
-#EXTINF:-1,HBO 2
-http://dns.clientetv.xyz:8000/frank/12345678/387
-#EXTINF:-1,HBO 2 Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/12834
-#EXTINF:-1,HBO 2 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12103
-#EXTINF:-1,HBO Signature FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20939
-#EXTINF:-1,HBO Signature HD
-http://dns.clientetv.xyz:8000/frank/12345678/1608
-#EXTINF:-1,HBO Signature
-http://dns.clientetv.xyz:8000/frank/12345678/1485
-#EXTINF:-1,HBO Signature Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/12838
-#EXTINF:-1,HBO Signature Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/6995
-#EXTINF:-1,HBO Family FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20940
-#EXTINF:-1,HBO Family HD
-http://dns.clientetv.xyz:8000/frank/12345678/1606
-#EXTINF:-1,HBO Family
-http://dns.clientetv.xyz:8000/frank/12345678/219
-#EXTINF:-1,HBO Family Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/12835
-#EXTINF:-1,HBO Family Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/7005
-#EXTINF:-1,HBO Plus FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20941
-#EXTINF:-1,HBO Plus HD
-http://dns.clientetv.xyz:8000/frank/12345678/1607
-#EXTINF:-1,HBO Plus
-http://dns.clientetv.xyz:8000/frank/12345678/357
-#EXTINF:-1,HBO Plus Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/12837
-#EXTINF:-1,Max Prime FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13892
-#EXTINF:-1,Max Prime HD
-http://dns.clientetv.xyz:8000/frank/12345678/7013
-#EXTINF:-1,Max Prime
-http://dns.clientetv.xyz:8000/frank/12345678/214
-#EXTINF:-1,Max Prime Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21724
-#EXTINF:-1,Max Prime Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21725
-#EXTINF:-1,Max UP FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13891
-#EXTINF:-1,MAX UP HD
-http://dns.clientetv.xyz:8000/frank/12345678/7014
-#EXTINF:-1,Max UP
-http://dns.clientetv.xyz:8000/frank/12345678/213
-#EXTINF:-1,MAX UP Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21726
-#EXTINF:-1,MAX UP Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21727
-#EXTINF:-1,Max FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13893
-#EXTINF:-1,MAX HD
-http://dns.clientetv.xyz:8000/frank/12345678/7012
-#EXTINF:-1,Max
-http://dns.clientetv.xyz:8000/frank/12345678/215
-#EXTINF:-1,MAX Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21722
-#EXTINF:-1,MAX Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21723
-#EXTINF:-1,Warner Channel FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17186
-#EXTINF:-1,Warner Channel HD
-http://dns.clientetv.xyz:8000/frank/12345678/1597
-#EXTINF:-1,Warner Channel
-http://dns.clientetv.xyz:8000/frank/12345678/266
-#EXTINF:-1,Warner Channel Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19993
-#EXTINF:-1,Warner Channel Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/7001
-#EXTINF:-1,Cinemax FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13812
-#EXTINF:-1,Cinemax HD
-http://dns.clientetv.xyz:8000/frank/12345678/5894
-#EXTINF:-1,Cinemax
-http://dns.clientetv.xyz:8000/frank/12345678/236
-#EXTINF:-1,Cinemax Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19992
-#EXTINF:-1,Cinemax Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/6998
-#EXTINF:-1,Space FHD
-http://dns.clientetv.xyz:8000/frank/12345678/12861
-#EXTINF:-1,Space HD
-http://dns.clientetv.xyz:8000/frank/12345678/1587
-#EXTINF:-1,Space
-http://dns.clientetv.xyz:8000/frank/12345678/98
-#EXTINF:-1,Space Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/20980
-#EXTINF:-1,Space Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/20979
-#EXTINF:-1,Paramount FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20883
-#EXTINF:-1,Paramount HD
-http://dns.clientetv.xyz:8000/frank/12345678/1617
-#EXTINF:-1,Paramount
-http://dns.clientetv.xyz:8000/frank/12345678/211
-#EXTINF:-1,Paramount Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21194
-#EXTINF:-1,Paramount Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21195
-#EXTINF:-1,TNT FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20884
-#EXTINF:-1,TNT HD
-http://dns.clientetv.xyz:8000/frank/12345678/1595
-#EXTINF:-1,TNT
-http://dns.clientetv.xyz:8000/frank/12345678/380
-#EXTINF:-1,TNT Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21111
-#EXTINF:-1,TNT Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/16185
-#EXTINF:-1,TNT Séries FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21229
-#EXTINF:-1,TNT Séries HD
-http://dns.clientetv.xyz:8000/frank/12345678/1623
-#EXTINF:-1,TNT Séries
-http://dns.clientetv.xyz:8000/frank/12345678/798
-#EXTINF:-1,TNT Séries Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21728
-#EXTINF:-1,TNT Séries Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21729
-#EXTINF:-1,AMC FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13902
-#EXTINF:-1,AMC HD
-http://dns.clientetv.xyz:8000/frank/12345678/13757
-#EXTINF:-1,AMC
-http://dns.clientetv.xyz:8000/frank/12345678/9226
-#EXTINF:-1,AMC Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21354
-#EXTINF:-1,AMC Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/16189
-#EXTINF:-1,AXN FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17505
-#EXTINF:-1,AXN HD
-http://dns.clientetv.xyz:8000/frank/12345678/1599
-#EXTINF:-1,AXN
-http://dns.clientetv.xyz:8000/frank/12345678/188
-#EXTINF:-1,AXN Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21196
-#EXTINF:-1,AXN Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/31228
-#EXTINF:-1,FOX FHD
-http://dns.clientetv.xyz:8000/frank/12345678/12663
-#EXTINF:-1,FOX HD
-http://dns.clientetv.xyz:8000/frank/12345678/1582
-#EXTINF:-1,Fox
-http://dns.clientetv.xyz:8000/frank/12345678/260
-#EXTINF:-1,FOX HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12820
-#EXTINF:-1,FOX Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/8678
-#EXTINF:-1,Fox Premium 1 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17514
-#EXTINF:-1,FOX Premium 1 HD
-http://dns.clientetv.xyz:8000/frank/12345678/21753
-#EXTINF:-1,Fox Premium 1
-http://dns.clientetv.xyz:8000/frank/12345678/1500
-#EXTINF:-1,Fox Premium 2 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21641
-#EXTINF:-1,FOX Premium 2 HD
-http://dns.clientetv.xyz:8000/frank/12345678/21754
-#EXTINF:-1,Fox Premium 2
-http://dns.clientetv.xyz:8000/frank/12345678/1635
-#EXTINF:-1,Fox Life FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13896
-#EXTINF:-1,FOX Life HD
-http://dns.clientetv.xyz:8000/frank/12345678/21349
-#EXTINF:-1,Fox Life
-http://dns.clientetv.xyz:8000/frank/12345678/391
-#EXTINF:-1,FOX Life HD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21751
-#EXTINF:-1,FOX Life Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21752
-#EXTINF:-1,FX FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17513
-#EXTINF:-1,FX HD
-http://dns.clientetv.xyz:8000/frank/12345678/1604
-#EXTINF:-1,FX
-http://dns.clientetv.xyz:8000/frank/12345678/113
-#EXTINF:-1,FX Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21348
-#EXTINF:-1,FX Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/16183
-#EXTINF:-1,Sony FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29641
-#EXTINF:-1,Sony HD
-http://dns.clientetv.xyz:8000/frank/12345678/1618
-#EXTINF:-1,Sony
-http://dns.clientetv.xyz:8000/frank/12345678/186
-#EXTINF:-1,Sony Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21227
-#EXTINF:-1,Sony Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/16187
-#EXTINF:-1,TBS FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21228
-#EXTINF:-1,TBS HD
-http://dns.clientetv.xyz:8000/frank/12345678/1765
-#EXTINF:-1,TBS
-http://dns.clientetv.xyz:8000/frank/12345678/1621
-#EXTINF:-1,TBS Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21756
-#EXTINF:-1,TBS Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21757
-#EXTINF:-1,Film & Arts
-http://dns.clientetv.xyz:8000/frank/12345678/49964
-#EXTINF:-1,TCM
-http://dns.clientetv.xyz:8000/frank/12345678/173
-#EXTINF:-1,TCM Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/8686
-#EXTINF:-1,AXN HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29729
-#EXTINF:-1,AXN - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29728
-#EXTINF:-1,FOX HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29727
-#EXTINF:-1,FOX - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29726
-#EXTINF:-1,FX HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29707
-#EXTINF:-1,FX - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29706
-#EXTINF:-1,HBO HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29725
-#EXTINF:-1,HBO - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29724
-#EXTINF:-1,HBO Plus HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29723
-#EXTINF:-1,HBO Plus - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29722
-#EXTINF:-1,MAX - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29720
-#EXTINF:-1,MAX Prime  - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29721
-#EXTINF:-1,MAX UP HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29705
-#EXTINF:-1,MAX UP - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29704
-#EXTINF:-1,MegaPix HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29703
-#EXTINF:-1,MegaPix - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29702
-#EXTINF:-1,Sony HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29695
-#EXTINF:-1,Sony - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29694
-#EXTINF:-1,Space HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29701
-#EXTINF:-1,Space - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29700
-#EXTINF:-1,Telecine Action HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29719
-#EXTINF:-1,Telecine Action - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29718
-#EXTINF:-1,Telecine Fun HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29717
-#EXTINF:-1,Telecine Fun - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29716
-#EXTINF:-1,Telecine Pipoca HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29715
-#EXTINF:-1,Telecine Pipoca - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29714
-#EXTINF:-1,Telecine Premium HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29713
-#EXTINF:-1,Telecine Premium - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29712
-#EXTINF:-1,Telecine Touch HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29711
-#EXTINF:-1,Telecine Touch - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29710
-#EXTINF:-1,TNT HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29709
-#EXTINF:-1,TNT - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29708
-#EXTINF:-1,TNT Series HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29699
-#EXTINF:-1,TNT Series - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29698
-#EXTINF:-1,Warner Channel HD - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29697
-#EXTINF:-1,Warner Channel - LEG
-http://dns.clientetv.xyz:8000/frank/12345678/29696
-#EXTINF:-1,Animal Planet FHD
-http://dns.clientetv.xyz:8000/frank/12345678/18631
-#EXTINF:-1,Animal Planet HD
-http://dns.clientetv.xyz:8000/frank/12345678/1861
-#EXTINF:-1,Animal Planet
-http://dns.clientetv.xyz:8000/frank/12345678/94
-#EXTINF:-1,Animal Planet Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/18832
-#EXTINF:-1,Animal Planet Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12895
-#EXTINF:-1,Discovery Channel FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17040
-#EXTINF:-1,Discovery Channel HD
-http://dns.clientetv.xyz:8000/frank/12345678/1611
-#EXTINF:-1,Discovery Channel
-http://dns.clientetv.xyz:8000/frank/12345678/1497
-#EXTINF:-1,Discovery Channel Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19962
-#EXTINF:-1,Discovery Channel Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/16178
-#EXTINF:-1,Discovery Turbo  FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17182
-#EXTINF:-1,Discovery Turbo HD
-http://dns.clientetv.xyz:8000/frank/12345678/1612
-#EXTINF:-1,Discovery Turbo
-http://dns.clientetv.xyz:8000/frank/12345678/183
-#EXTINF:-1,Discovery Turbo Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19969
-#EXTINF:-1,Discovery Turbo Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19970
-#EXTINF:-1,Discovery H&H FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17183
-#EXTINF:-1,Discovery H&H HD
-http://dns.clientetv.xyz:8000/frank/12345678/1610
-#EXTINF:-1,Discovery H&H
-http://dns.clientetv.xyz:8000/frank/12345678/359
-#EXTINF:-1,Discovery H&H Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19963
-#EXTINF:-1,Discovery H&H Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19964
-#EXTINF:-1,Discovery Civilization FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13804
-#EXTINF:-1,Discovery Civilization HD
-http://dns.clientetv.xyz:8000/frank/12345678/13785
-#EXTINF:-1,Discovery Civilization
-http://dns.clientetv.xyz:8000/frank/12345678/26380
-#EXTINF:-1,Discovery Science FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13805
-#EXTINF:-1,Discovery Science HD
-http://dns.clientetv.xyz:8000/frank/12345678/13784
-#EXTINF:-1,Discovery Science
-http://dns.clientetv.xyz:8000/frank/12345678/26381
-#EXTINF:-1,Discovery World FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17184
-#EXTINF:-1,Discovery World HD
-http://dns.clientetv.xyz:8000/frank/12345678/1779
-#EXTINF:-1,Discovery Theater FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20990
-#EXTINF:-1,Discovery Theater HD
-http://dns.clientetv.xyz:8000/frank/12345678/3016
-#EXTINF:-1,Discovery Theather FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31229
-#EXTINF:-1,History FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17185
-#EXTINF:-1,History HD
-http://dns.clientetv.xyz:8000/frank/12345678/1627
-#EXTINF:-1,History
-http://dns.clientetv.xyz:8000/frank/12345678/172
-#EXTINF:-1,History Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19965
-#EXTINF:-1,History Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/8681
-#EXTINF:-1,H2 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20882
-#EXTINF:-1,H2 HD
-http://dns.clientetv.xyz:8000/frank/12345678/1598
-#EXTINF:-1,H2
-http://dns.clientetv.xyz:8000/frank/12345678/222
-#EXTINF:-1,H2 Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19966
-#EXTINF:-1,H2 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19967
-#EXTINF:-1,National Geografic HD
-http://dns.clientetv.xyz:8000/frank/12345678/1749
-#EXTINF:-1,National Geographic
-http://dns.clientetv.xyz:8000/frank/12345678/392
-#EXTINF:-1,National Geografic Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19968
-#EXTINF:-1,National Geografic Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/31255
-#EXTINF:-1,Nat Geo Wild FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31243
-#EXTINF:-1,Nat Geo Wild HD
-http://dns.clientetv.xyz:8000/frank/12345678/1747
-#EXTINF:-1,Nat Geo Wild
-http://dns.clientetv.xyz:8000/frank/12345678/375
-#EXTINF:-1,Nat Geo Wild Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/31244
-#EXTINF:-1,Nat Geo Wild Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/31245
-#EXTINF:-1,Investigação Discovery FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31246
-#EXTINF:-1,ID -  Investigação Discovery HD
-http://dns.clientetv.xyz:8000/frank/12345678/1613
-#EXTINF:-1,ID - Investigation Discovery
-http://dns.clientetv.xyz:8000/frank/12345678/393
-#EXTINF:-1,ID - Investigation Discovery Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21356
-#EXTINF:-1,ID - Investigation Discovery Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21357
-#EXTINF:-1,Smithsonian Channel FHD
-http://dns.clientetv.xyz:8000/frank/12345678/47216
-#EXTINF:-1,Smithsonian Channel HD
-http://dns.clientetv.xyz:8000/frank/12345678/47217
-#EXTINF:-1,Smithsonian Channel
-http://dns.clientetv.xyz:8000/frank/12345678/47218
-#EXTINF:-1,Fish TV FHD
-http://dns.clientetv.xyz:8000/frank/12345678/30182
-#EXTINF:-1,Fish TV HD
-http://dns.clientetv.xyz:8000/frank/12345678/21675
-#EXTINF:-1,Fish Tv
-http://dns.clientetv.xyz:8000/frank/12345678/1488
-#EXTINF:-1,Multishow FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17072
-#EXTINF:-1,Multishow HD
-http://dns.clientetv.xyz:8000/frank/12345678/1616
-#EXTINF:-1,Multishow
-http://dns.clientetv.xyz:8000/frank/12345678/212
-#EXTINF:-1,Multishow Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/17244
-#EXTINF:-1,Multishow Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/16754
-#EXTINF:-1,Viva FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17041
-#EXTINF:-1,Viva HD
-http://dns.clientetv.xyz:8000/frank/12345678/1630
-#EXTINF:-1,Viva
-http://dns.clientetv.xyz:8000/frank/12345678/1860
-#EXTINF:-1,Viva Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/19990
-#EXTINF:-1,Viva Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/19991
-#EXTINF:-1,GNT FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20991
-#EXTINF:-1,GNT HD
-http://dns.clientetv.xyz:8000/frank/12345678/362
-#EXTINF:-1,GNT
-http://dns.clientetv.xyz:8000/frank/12345678/1713
-#EXTINF:-1,GNT Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21359
-#EXTINF:-1,GNT Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21360
-#EXTINF:-1,Mais Globosat FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13895
-#EXTINF:-1,Mais Globosat HD
-http://dns.clientetv.xyz:8000/frank/12345678/6549
-#EXTINF:-1,Mais Globosat
-http://dns.clientetv.xyz:8000/frank/12345678/122
-#EXTINF:-1,Mais Globosat Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21703
-#EXTINF:-1,Mais Globosat Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21704
-#EXTINF:-1,Comedy Central FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13810
-#EXTINF:-1,Comedy Central HD
-http://dns.clientetv.xyz:8000/frank/12345678/13789
-#EXTINF:-1,Comedy Central
-http://dns.clientetv.xyz:8000/frank/12345678/93
-#EXTINF:-1,Comedy Central Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21689
-#EXTINF:-1,Comedy Central Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21690
-#EXTINF:-1,MTV FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13890
-#EXTINF:-1,MTV HD
-http://dns.clientetv.xyz:8000/frank/12345678/5895
-#EXTINF:-1,MTV
-http://dns.clientetv.xyz:8000/frank/12345678/128
-#EXTINF:-1,MTV Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21700
-#EXTINF:-1,MTV Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21701
-#EXTINF:-1,MTV Live FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31202
-#EXTINF:-1,MTV Live HD
-http://dns.clientetv.xyz:8000/frank/12345678/29782
-#EXTINF:-1,MTV Live
-http://dns.clientetv.xyz:8000/frank/12345678/29783
-#EXTINF:-1,VH1 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13884
-#EXTINF:-1,VH1 HD
-http://dns.clientetv.xyz:8000/frank/12345678/13788
-#EXTINF:-1,VH1 Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21710
-#EXTINF:-1,BIS FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21674
-#EXTINF:-1,BIS HD
-http://dns.clientetv.xyz:8000/frank/12345678/1740
-#EXTINF:-1,BIS
-http://dns.clientetv.xyz:8000/frank/12345678/428
-#EXTINF:-1,BIS Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21705
-#EXTINF:-1,BIS Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21706
-#EXTINF:-1,Prime Box Brazil FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31201
-#EXTINF:-1,Prime Box Brazil HD
-http://dns.clientetv.xyz:8000/frank/12345678/21698
-#EXTINF:-1,Prime Box Brazil
-http://dns.clientetv.xyz:8000/frank/12345678/1781
-#EXTINF:-1,Music Box Brazil FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31200
-#EXTINF:-1,Music Box Brazil HD
-http://dns.clientetv.xyz:8000/frank/12345678/21699
-#EXTINF:-1,Music Box Brazil
-http://dns.clientetv.xyz:8000/frank/12345678/355
-#EXTINF:-1,Vh1 Megahits
-http://dns.clientetv.xyz:8000/frank/12345678/794
-#EXTINF:-1,TruTV FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31199
-#EXTINF:-1,TruTv HD
-http://dns.clientetv.xyz:8000/frank/12345678/21649
-#EXTINF:-1,TruTv
-http://dns.clientetv.xyz:8000/frank/12345678/180
-#EXTINF:-1,TruTv Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21708
-#EXTINF:-1,A&E FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13903
+#EXTINF:-1,A&E FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46898.m3u8
 #EXTINF:-1,A&E HD
-http://dns.clientetv.xyz:8000/frank/12345678/5986
-#EXTINF:-1,A&E Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21711
-#EXTINF:-1,A&E
-http://dns.clientetv.xyz:8000/frank/12345678/1487
-#EXTINF:-1,A&E Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/8679
-#EXTINF:-1,OFF FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17517
-#EXTINF:-1,OFF HD
-http://dns.clientetv.xyz:8000/frank/12345678/398
-#EXTINF:-1,OFF
-http://dns.clientetv.xyz:8000/frank/12345678/2624
-#EXTINF:-1,OFF Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21712
-#EXTINF:-1,OFF Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21713
-#EXTINF:-1,Woohoo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13883
-#EXTINF:-1,Woohoo HD
-http://dns.clientetv.xyz:8000/frank/12345678/13794
-#EXTINF:-1,Woohoo
-http://dns.clientetv.xyz:8000/frank/12345678/1702
-#EXTINF:-1,Woohoo Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21714
-#EXTINF:-1,Woohoo Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21715
-#EXTINF:-1,TLC FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13886
-#EXTINF:-1,TLC HD
-http://dns.clientetv.xyz:8000/frank/12345678/5985
-#EXTINF:-1,TLC
-http://dns.clientetv.xyz:8000/frank/12345678/360
-#EXTINF:-1,TLC Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21358
-#EXTINF:-1,TLC Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/13525
-#EXTINF:-1,Food Network FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13897
-#EXTINF:-1,Food Network HD
-http://dns.clientetv.xyz:8000/frank/12345678/20992
-#EXTINF:-1,Food Network
-http://dns.clientetv.xyz:8000/frank/12345678/374
-#EXTINF:-1,Food Network Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21716
-#EXTINF:-1,Food Network Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21717
-#EXTINF:-1,E! FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21230
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5078.m3u8
+#EXTINF:-1,AMC FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26029.m3u8
+#EXTINF:-1,AMC HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/15406.m3u8
+#EXTINF:-1,ANIMAL PLANET FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46899.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1117.m3u8
+#EXTINF:-1,APARECIDA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20831.m3u8
+#EXTINF:-1,ARTE 1 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20795.m3u8
+#EXTINF:-1,AXN FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5033.m3u8
+#EXTINF:-1,AXN HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1114.m3u8
+#EXTINF:-1,BAND CAMPINAS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20798.m3u8
+#EXTINF:-1,BAND NEWS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18028.m3u8
+#EXTINF:-1,BAND NEWS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17951.m3u8
+#EXTINF:-1,BAND SP FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46900.m3u8
+#EXTINF:-1,BAND SP HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1108.m3u8
+#EXTINF:-1,BAND SPORTS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5034.m3u8
+#EXTINF:-1,BAND SPORTS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2407.m3u8
+#EXTINF:-1,BIS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26028.m3u8
+#EXTINF:-1,BIS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1104.m3u8
+#EXTINF:-1,BOA VONTADE TV HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/38469.m3u8
+#EXTINF:-1,BOA VONTADE TV HD+
+http://lista.digitalgroup.me:80/live/cantel/cantel123/42897.m3u8
+#EXTINF:-1,BOOMERANG FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46901.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20801.m3u8
+#EXTINF:-1,CANAL BRASIL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5079.m3u8
+#EXTINF:-1,CANCAO NOVA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/38470.m3u8
+#EXTINF:-1,CARTOON NETWORK FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26032.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2479.m3u8
+#EXTINF:-1,CINEMAX FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26027.m3u8
+#EXTINF:-1,CINEMAX HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5080.m3u8
+#EXTINF:-1,COMBATE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18019.m3u8
+#EXTINF:-1,COMBATE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1088.m3u8
+#EXTINF:-1,COMEDY CENTRAL FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46902.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16004.m3u8
+#EXTINF:-1,COPA LIBERTADORES 2019 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48114.m3u8
+#EXTINF:-1,DAZN FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46924.m3u8
+#EXTINF:-1,DAZN HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46925.m3u8
+#EXTINF:-1,DEUTSCH HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/37776.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5035.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2410.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26026.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16005.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46905.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1082.m3u8
+#EXTINF:-1,DISCOVERY KIDS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26025.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5081.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26024.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16006.m3u8
+#EXTINF:-1,DISCOVERY THEATER FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26023.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2460.m3u8
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5038.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2411.m3u8
+#EXTINF:-1,DISCOVERY WORLD FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26022.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2461.m3u8
+#EXTINF:-1,DISNEY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46904.m3u8
+#EXTINF:-1,DISNEY JR FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26021.m3u8
+#EXTINF:-1,DISNEY JR HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20809.m3u8
+#EXTINF:-1,DISNEY XD FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46903.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20810.m3u8
 #EXTINF:-1,E! HD
-http://dns.clientetv.xyz:8000/frank/12345678/5901
-#EXTINF:-1,E!
-http://dns.clientetv.xyz:8000/frank/12345678/1712
-#EXTINF:-1,E! Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21718
-#EXTINF:-1,E! Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21719
-#EXTINF:-1,Lifetime FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13894
-#EXTINF:-1,Lifetime HD
-http://dns.clientetv.xyz:8000/frank/12345678/5900
-#EXTINF:-1,Lifetime Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21720
-#EXTINF:-1,Lifetime Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21721
-#EXTINF:-1,Lifetime
-http://dns.clientetv.xyz:8000/frank/12345678/1725
-#EXTINF:-1,Arte 1 FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31198
-#EXTINF:-1,Arte 1 HD
-http://dns.clientetv.xyz:8000/frank/12345678/21650
-#EXTINF:-1,Arte 1
-http://dns.clientetv.xyz:8000/frank/12345678/1704
-#EXTINF:-1,Play Tv
-http://dns.clientetv.xyz:8000/frank/12345678/1493
-#EXTINF:-1,Shoptime
-http://dns.clientetv.xyz:8000/frank/12345678/48370
-#EXTINF:-1,NHK
-http://dns.clientetv.xyz:8000/frank/12345678/12172
-#EXTINF:-1,AMC H265
-http://dns.clientetv.xyz:8000/frank/12345678/40076
-#EXTINF:-1,Animal Planet H265
-http://dns.clientetv.xyz:8000/frank/12345678/35705
-#EXTINF:-1,AXN H265
-http://dns.clientetv.xyz:8000/frank/12345678/13860
-#EXTINF:-1,Band H265
-http://dns.clientetv.xyz:8000/frank/12345678/46968
-#EXTINF:-1,Band News H265
-http://dns.clientetv.xyz:8000/frank/12345678/41927
-#EXTINF:-1,Band Sports H265
-http://dns.clientetv.xyz:8000/frank/12345678/13859
-#EXTINF:-1,Boomerang H265
-http://dns.clientetv.xyz:8000/frank/12345678/41928
-#EXTINF:-1,BIS H265
-http://dns.clientetv.xyz:8000/frank/12345678/40079
-#EXTINF:-1,Canal Brasil H265
-http://dns.clientetv.xyz:8000/frank/12345678/46917
-#EXTINF:-1,Cinemax H265
-http://dns.clientetv.xyz:8000/frank/12345678/35708
-#EXTINF:-1,Combate H265
-http://dns.clientetv.xyz:8000/frank/12345678/46969
-#EXTINF:-1,Comedy Central H265
-http://dns.clientetv.xyz:8000/frank/12345678/46970
-#EXTINF:-1,Discovery Channel H265
-http://dns.clientetv.xyz:8000/frank/12345678/35706
-#EXTINF:-1,Discovery H&H H265
-http://dns.clientetv.xyz:8000/frank/12345678/13856
-#EXTINF:-1,Discovery Theater H265
-http://dns.clientetv.xyz:8000/frank/12345678/13855
-#EXTINF:-1,Discovery Turbo H265
-http://dns.clientetv.xyz:8000/frank/12345678/35707
-#EXTINF:-1,Discovery World H265
-http://dns.clientetv.xyz:8000/frank/12345678/13853
-#EXTINF:-1,E! H265
-http://dns.clientetv.xyz:8000/frank/12345678/41931
-#EXTINF:-1,ESPN 2 H265
-http://dns.clientetv.xyz:8000/frank/12345678/13849
-#EXTINF:-1,ESPN Brasil H265
-http://dns.clientetv.xyz:8000/frank/12345678/13850
-#EXTINF:-1,Fox Life H265
-http://dns.clientetv.xyz:8000/frank/12345678/13846
-#EXTINF:-1,Fox Premium 1 H265
-http://dns.clientetv.xyz:8000/frank/12345678/13847
-#EXTINF:-1,Fx H265
-http://dns.clientetv.xyz:8000/frank/12345678/13844
-#EXTINF:-1,Globo RJ H265
-http://dns.clientetv.xyz:8000/frank/12345678/46980
-#EXTINF:-1,Globo SP H265
-http://dns.clientetv.xyz:8000/frank/12345678/46981
-#EXTINF:-1,Globo RBS TV Poa H265
-http://dns.clientetv.xyz:8000/frank/12345678/46974
-#EXTINF:-1,Gloob H265
-http://dns.clientetv.xyz:8000/frank/12345678/40080
-#EXTINF:-1,H2 H265
-http://dns.clientetv.xyz:8000/frank/12345678/13836
-#EXTINF:-1,HBO 2 H265
-http://dns.clientetv.xyz:8000/frank/12345678/13841
-#EXTINF:-1,HBO Family H265
-http://dns.clientetv.xyz:8000/frank/12345678/13840
-#EXTINF:-1,HBO H265
-http://dns.clientetv.xyz:8000/frank/12345678/13839
-#EXTINF:-1,HBO Plus H265
-http://dns.clientetv.xyz:8000/frank/12345678/13838
-#EXTINF:-1,HBO Signature H265
-http://dns.clientetv.xyz:8000/frank/12345678/13837
-#EXTINF:-1,History H265
-http://dns.clientetv.xyz:8000/frank/12345678/13835
-#EXTINF:-1,Investigation Discovery H265
-http://dns.clientetv.xyz:8000/frank/12345678/13834
-#EXTINF:-1,MAX H265
-http://dns.clientetv.xyz:8000/frank/12345678/40078
-#EXTINF:-1,MAX Up H265
-http://dns.clientetv.xyz:8000/frank/12345678/41955
-#EXTINF:-1,MAX Prime H265
-http://dns.clientetv.xyz:8000/frank/12345678/40077
-#EXTINF:-1,MegaPix H265
-http://dns.clientetv.xyz:8000/frank/12345678/13833
-#EXTINF:-1,Multishow H265
-http://dns.clientetv.xyz:8000/frank/12345678/13832
-#EXTINF:-1,Nat Geo H265
-http://dns.clientetv.xyz:8000/frank/12345678/13831
-#EXTINF:-1,Paramount H265
-http://dns.clientetv.xyz:8000/frank/12345678/13830
-#EXTINF:-1,SBT H265
-http://dns.clientetv.xyz:8000/frank/12345678/13825
-#EXTINF:-1,SporTV H265
-http://dns.clientetv.xyz:8000/frank/12345678/13824
-#EXTINF:-1,TBS H265
-http://dns.clientetv.xyz:8000/frank/12345678/13823
-#EXTINF:-1,Telecine Action H265
-http://dns.clientetv.xyz:8000/frank/12345678/13822
-#EXTINF:-1,Telecine Pipoca H265
-http://dns.clientetv.xyz:8000/frank/12345678/13821
-#EXTINF:-1,Telecine Premium H265
-http://dns.clientetv.xyz:8000/frank/12345678/13820
-#EXTINF:-1,Telecine Touch H265
-http://dns.clientetv.xyz:8000/frank/12345678/13819
-#EXTINF:-1,TLC H265
-http://dns.clientetv.xyz:8000/frank/12345678/46919
-#EXTINF:-1,TNT H265
-http://dns.clientetv.xyz:8000/frank/12345678/13818
-#EXTINF:-1,TNT Series H265
-http://dns.clientetv.xyz:8000/frank/12345678/13817
-#EXTINF:-1,Universal TV H265
-http://dns.clientetv.xyz:8000/frank/12345678/13816
-#EXTINF:-1,Viva H265
-http://dns.clientetv.xyz:8000/frank/12345678/13815
-#EXTINF:-1,VH1 H265
-http://dns.clientetv.xyz:8000/frank/12345678/40075
-#EXTINF:-1,Warner Channel H265
-http://dns.clientetv.xyz:8000/frank/12345678/13814
-#EXTINF:-1,Disney Channel H265
-http://dns.clientetv.xyz:8000/frank/12345678/41929
-#EXTINF:-1,A&E -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31203
-#EXTINF:-1,AMC -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31225
-#EXTINF:-1,Animal Planet -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21644
-#EXTINF:-1,Band News -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31193
-#EXTINF:-1,Band Sports -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31616
-#EXTINF:-1,BIS -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/30180
-#EXTINF:-1,Boomerang -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21653
-#EXTINF:-1,Cinemax -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/30184
-#EXTINF:-1,Discovery Channel -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21645
-#EXTINF:-1,Discovery Civilization -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31231
-#EXTINF:-1,Discovery H&H -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21646
-#EXTINF:-1,Discovery Kids -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31232
-#EXTINF:-1,Discovery Science -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31230
-#EXTINF:-1,Discovery Turbo -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21647
-#EXTINF:-1,Disney Channel -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17046
-#EXTINF:-1,E! -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31260
-#EXTINF:-1,ESPN -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/30181
-#EXTINF:-1,ESPN Brasil -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21687
-#EXTINF:-1,ESPN Extra -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31261
-#EXTINF:-1,Fish TV -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31429
-#EXTINF:-1,Food Network -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31258
-#EXTINF:-1,FOX -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21643
-#EXTINF:-1,FOX Premium 1 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31249
-#EXTINF:-1,FOX Premium 2 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31250
-#EXTINF:-1,FOX Sports 2 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17044
-#EXTINF:-1,Globo News -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13802
-#EXTINF:-1,Gloob -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/17053
-#EXTINF:-1,GNT -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31242
-#EXTINF:-1,H2 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31247
-#EXTINF:-1,HBO -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21639
-#EXTINF:-1,HBO 2 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21640
-#EXTINF:-1,HBO Family -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31211
-#EXTINF:-1,HBO Plus -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31210
-#EXTINF:-1,HBO Signature -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31209
-#EXTINF:-1,History -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21693
-#EXTINF:-1,MAX -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31208
-#EXTINF:-1,MAX Prime -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31207
-#EXTINF:-1,MAX UP -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31206
-#EXTINF:-1,MegaPix -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31224
-#EXTINF:-1,MTV -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31248
-#EXTINF:-1,Multishow -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29900
-#EXTINF:-1,Nat Geo Kids -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31252
-#EXTINF:-1,National Geografic -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31254
-#EXTINF:-1,Nick Jr -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31251
-#EXTINF:-1,Nickelodeon -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21652
-#EXTINF:-1,OFF -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/30183
-#EXTINF:-1,Paramount -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31227
-#EXTINF:-1,Premiere Clubes -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29661
-#EXTINF:-1,Premiere 4 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31134
-#EXTINF:-1,Premiere 5 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31133
-#EXTINF:-1,Sony -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31241
-#EXTINF:-1,Space -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29951
-#EXTINF:-1,SporTV -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/18831
-#EXTINF:-1,SporTV 2 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/19995
-#EXTINF:-1,SporTV 3 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29615
-#EXTINF:-1,SyFy -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31235
-#EXTINF:-1,TBS -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31239
-#EXTINF:-1,Telecine Action -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21636
-#EXTINF:-1,Telecine Action  - FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29609
-#EXTINF:-1,Telecine Fun -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21637
-#EXTINF:-1,Telecine Fun  - FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29608
-#EXTINF:-1,Telecine Pipoca -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21635
-#EXTINF:-1,Telecine Pipoca - FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29607
-#EXTINF:-1,Telecine Premium -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21634
-#EXTINF:-1,Telecine Premium  - FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29606
-#EXTINF:-1,Telecine Touch -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21638
-#EXTINF:-1,Telecine Touch  - FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29605
-#EXTINF:-1,Telecine Cult - FHD
-http://dns.clientetv.xyz:8000/frank/12345678/29604
-#EXTINF:-1,TLC -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31257
-#EXTINF:-1,TNT -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31236
-#EXTINF:-1,TNT Séries -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31237
-#EXTINF:-1,Universal TV -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31233
-#EXTINF:-1,VH1 -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31253
-#EXTINF:-1,Viva -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21648
-#EXTINF:-1,Warner Channel -FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21642
-#EXTINF:-1,A&E Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38013
-#EXTINF:-1,AMC Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38012
-#EXTINF:-1,Animal Planet Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38011
-#EXTINF:-1,AXN Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38010
-#EXTINF:-1,Cartoon Network Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38009
-#EXTINF:-1,Cinemax Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38008
-#EXTINF:-1,Combate Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37970
-#EXTINF:-1,Discovery Channel Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38007
-#EXTINF:-1,Discovery Civilization Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37968
-#EXTINF:-1,Discovery H&H Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37967
-#EXTINF:-1,Discovery Kids Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37966
-#EXTINF:-1,Discovery Science Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37965
-#EXTINF:-1,Discovery Turbo Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37964
-#EXTINF:-1,ESPN Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37952
-#EXTINF:-1,ESPN Brasil Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38005
-#EXTINF:-1,ESPN Extra Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/43256
-#EXTINF:-1,Food Network Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38003
-#EXTINF:-1,FOX Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38002
-#EXTINF:-1,FOX Life Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37946
-#EXTINF:-1,Fox Premium 1 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37955
-#EXTINF:-1,Fox Premium 2 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37954
-#EXTINF:-1,FOX Sports 2 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37951
-#EXTINF:-1,FOX Sports Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38001
-#EXTINF:-1,Globo SP Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38014
-#EXTINF:-1,Globo News Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37950
-#EXTINF:-1,Gloob Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37949
-#EXTINF:-1,GNT Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37948
-#EXTINF:-1,H2 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37962
-#EXTINF:-1,HBO 2 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37999
-#EXTINF:-1,HBO Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38000
-#EXTINF:-1,HBO Family Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/40752
-#EXTINF:-1,HBO Plus Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/40754
-#EXTINF:-1,HBO Signature Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/40753
-#EXTINF:-1,History Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37998
-#EXTINF:-1,ID FHD Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/37953
-#EXTINF:-1,MAX Prime Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37997
-#EXTINF:-1,MegaPix Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37996
-#EXTINF:-1,Multishow Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37995
-#EXTINF:-1,Nat Geo Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37994
-#EXTINF:-1,Nat Geo Kids Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37993
-#EXTINF:-1,Nick Jr Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37992
-#EXTINF:-1,OFF Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37972
-#EXTINF:-1,Premiere 3 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37990
-#EXTINF:-1,Premiere 4 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37971
-#EXTINF:-1,Premiere Clubes Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37989
-#EXTINF:-1,RBS TV Porto Alegre Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/38016
-#EXTINF:-1,Record News Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37988
-#EXTINF:-1,RecordTV Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/36353
-#EXTINF:-1,SBT Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/40386
-#EXTINF:-1,Sony Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37987
-#EXTINF:-1,Space Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37986
-#EXTINF:-1,SporTV Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37984
-#EXTINF:-1,SporTV 2 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37983
-#EXTINF:-1,SporTV 3 Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37985
-#EXTINF:-1,Studio Universal Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37982
-#EXTINF:-1,SyFy Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37981
-#EXTINF:-1,Telecine Action Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37980
-#EXTINF:-1,Telecine Cult Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37975
-#EXTINF:-1,Telecine Fun Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37979
-#EXTINF:-1,Telecine Pipoca Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37978
-#EXTINF:-1,Telecine Premium Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37977
-#EXTINF:-1,Telecine Touch Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37976
-#EXTINF:-1,TNT Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37961
-#EXTINF:-1,TNT Series Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37947
-#EXTINF:-1,Universal TV Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37963
-#EXTINF:-1,Warner Channel Alternativo FHD
-http://dns.clientetv.xyz:8000/frank/12345678/37973
-#EXTINF:-1,Rede Vida FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31618
-#EXTINF:-1,Rede Vida HD
-http://dns.clientetv.xyz:8000/frank/12345678/31619
-#EXTINF:-1,Rede Vida
-http://dns.clientetv.xyz:8000/frank/12345678/6657
-#EXTINF:-1,TV Aparecida HD
-http://dns.clientetv.xyz:8000/frank/12345678/29796
-#EXTINF:-1,TV Aparecida
-http://dns.clientetv.xyz:8000/frank/12345678/6550
-#EXTINF:-1,Canção Nova
-http://dns.clientetv.xyz:8000/frank/12345678/304
-#EXTINF:-1,Novo tempo
-http://dns.clientetv.xyz:8000/frank/12345678/2408
-#EXTINF:-1,Rede Gospel FHD
-http://dns.clientetv.xyz:8000/frank/12345678/49243
-#EXTINF:-1,Rede CNT
-http://dns.clientetv.xyz:8000/frank/12345678/49963
-#EXTINF:-1,TV Mundial
-http://dns.clientetv.xyz:8000/frank/12345678/6658
-#EXTINF:-1,TV Evangelizar
-http://dns.clientetv.xyz:8000/frank/12345678/8494
-#EXTINF:-1,Boa Vontade TV
-http://infinityzamigos.ddns.me:8080/Infinity/VQ1YugzBCs/1343
-#EXTINF:-1,TV Gideões
-http://dns.clientetv.xyz:8000/frank/12345678/16790
-#EXTINF:-1,RIT TV
-http://dns.clientetv.xyz:8000/frank/12345678/2626
-#EXTINF:-1,RBI TV
-http://dns.clientetv.xyz:8000/frank/12345678/2627
-#EXTINF:-1,Canal Promessas
-http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
-#EXTINF:-1,TV Missao
-http://dns.clientetv.xyz:8000/frank/12345678/17246
-#EXTINF:-1,Rede 21
-http://dns.clientetv.xyz:8000/frank/12345678/6660
-#EXTINF:-1,Discovery Kids FHD
-http://dns.clientetv.xyz:8000/frank/12345678/21651
-#EXTINF:-1,Discovery Kids
-http://dns.clientetv.xyz:8000/frank/12345678/426
-#EXTINF:-1,Discovery Kids Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21176
-#EXTINF:-1,Discovery Kids Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21177
-#EXTINF:-1,Disney Channel FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13807
-#EXTINF:-1,Disney Channel
-http://dns.clientetv.xyz:8000/frank/12345678/1486
-#EXTINF:-1,Disney Channel Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21178
-#EXTINF:-1,Disney Channel Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21179
-#EXTINF:-1,Cartoon Network FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13803
-#EXTINF:-1,Cartoon Network HD
-http://dns.clientetv.xyz:8000/frank/12345678/13756
-#EXTINF:-1,Cartoon Network
-http://dns.clientetv.xyz:8000/frank/12345678/377
-#EXTINF:-1,Cartoon Network Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21174
-#EXTINF:-1,Cartoon Network Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21175
-#EXTINF:-1,Disney Jr FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20879
-#EXTINF:-1,Disney Jr HD
-http://dns.clientetv.xyz:8000/frank/12345678/8483
-#EXTINF:-1,Disney Jr
-http://dns.clientetv.xyz:8000/frank/12345678/181
-#EXTINF:-1,Disney Jr Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21185
-#EXTINF:-1,Disney Jr Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21186
-#EXTINF:-1,Nickelodeon FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13809
-#EXTINF:-1,Nickelodeon HD
-http://dns.clientetv.xyz:8000/frank/12345678/7020
-#EXTINF:-1,Nickelodeon
-http://dns.clientetv.xyz:8000/frank/12345678/126
-#EXTINF:-1,Nickelodeon Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21182
-#EXTINF:-1,Nickelodeon Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21183
-#EXTINF:-1,Nick JR FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13889
-#EXTINF:-1,Nick Jr HD
-http://dns.clientetv.xyz:8000/frank/12345678/21189
-#EXTINF:-1,Nick Jr
-http://dns.clientetv.xyz:8000/frank/12345678/286
-#EXTINF:-1,Nick Jr Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21187
-#EXTINF:-1,Nick Jr Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21188
-#EXTINF:-1,Gloob FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13811
-#EXTINF:-1,Gloob HD
-http://dns.clientetv.xyz:8000/frank/12345678/5899
-#EXTINF:-1,Gloob
-http://dns.clientetv.xyz:8000/frank/12345678/378
-#EXTINF:-1,Gloob Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21184
-#EXTINF:-1,Gloob Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/12272
-#EXTINF:-1,Boomerang FHD
-http://dns.clientetv.xyz:8000/frank/12345678/20878
-#EXTINF:-1,Boomerang HD
-http://dns.clientetv.xyz:8000/frank/12345678/8484
-#EXTINF:-1,Boomerang
-http://dns.clientetv.xyz:8000/frank/12345678/187
-#EXTINF:-1,Boomerang Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21190
-#EXTINF:-1,Boomerang Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21191
-#EXTINF:-1,PlayKids FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31267
-#EXTINF:-1,PlayKids HD
-http://dns.clientetv.xyz:8000/frank/12345678/31268
-#EXTINF:-1,PlayKids
-http://dns.clientetv.xyz:8000/frank/12345678/31269
-#EXTINF:-1,Globinho FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31192
-#EXTINF:-1,Globinho HD
-http://dns.clientetv.xyz:8000/frank/12345678/9453
-#EXTINF:-1,Globinho
-http://dns.clientetv.xyz:8000/frank/12345678/9454
-#EXTINF:-1,Nat Geo Kids FHD
-http://dns.clientetv.xyz:8000/frank/12345678/13808
-#EXTINF:-1,Nat Geo Kids HD
-http://dns.clientetv.xyz:8000/frank/12345678/7042
-#EXTINF:-1,Nat Geo Kids
-http://dns.clientetv.xyz:8000/frank/12345678/6541
-#EXTINF:-1,Nat Geo Kids Alternativo HD
-http://dns.clientetv.xyz:8000/frank/12345678/21180
-#EXTINF:-1,Nat Geo Kids Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/21181
-#EXTINF:-1,TV Rá Tim Bum FHD
-http://dns.clientetv.xyz:8000/frank/12345678/31195
-#EXTINF:-1,TV Rá Tim Bum HD
-http://dns.clientetv.xyz:8000/frank/12345678/21654
-#EXTINF:-1,TV Rá Tim Bum
-http://dns.clientetv.xyz:8000/frank/12345678/6135
-#EXTINF:-1,Zoomoo HD
-http://dns.clientetv.xyz:8000/frank/12345678/49526
-#EXTINF:-1,Zoomoo
-http://dns.clientetv.xyz:8000/frank/12345678/19994
-#EXTINF:-1,Disney XD FHD
-http://dns.clientetv.xyz:8000/frank/12345678/49528
-#EXTINF:-1,Disney XD HD
-http://dns.clientetv.xyz:8000/frank/12345678/49529
-#EXTINF:-1,Disney XD
-http://dns.clientetv.xyz:8000/frank/12345678/277
-#EXTINF:-1,Tooncast HD
-http://dns.clientetv.xyz:8000/frank/12345678/49527
-#EXTINF:-1,Tooncast
-http://dns.clientetv.xyz:8000/frank/12345678/127
-#EXTINF:-1,Tooncast Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/40388
-#EXTINF:-1,Baby - TV
-http://dns.clientetv.xyz:8000/frank/12345678/5904
-#EXTINF:-1,Baby TV -Alternativo
-http://dns.clientetv.xyz:8000/frank/12345678/31518
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5083.m3u8
+#EXTINF:-1,EI PLUS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/42914.m3u8
+#EXTINF:-1,ESPN 1 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26044.m3u8
+#EXTINF:-1,ESPN 1 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1129.m3u8
+#EXTINF:-1,ESPN 2 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26043.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2394.m3u8
+#EXTINF:-1,ESPN BRASIL FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26045.m3u8
+#EXTINF:-1,ESPN BRASIL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2387.m3u8
+#EXTINF:-1,ESPN EXTRA FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46906.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20813.m3u8
+#EXTINF:-1,FOOD NETWORK FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26041.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5084.m3u8
+#EXTINF:-1,FOX FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18020.m3u8
+#EXTINF:-1,FOX HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1047.m3u8
+#EXTINF:-1,FOX LIFE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46909.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1037.m3u8
+#EXTINF:-1,FOX PREMIUM 1 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46907.m3u8
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2464.m3u8
+#EXTINF:-1,FOX PREMIUM 2 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46908.m3u8
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2465.m3u8
+#EXTINF:-1,FOX SPORTS 2 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26031.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1031.m3u8
+#EXTINF:-1,FOX SPORTS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18021.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1033.m3u8
+#EXTINF:-1,FUTURA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/20803.m3u8
+#EXTINF:-1,FX FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26040.m3u8
+#EXTINF:-1,FX HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2386.m3u8
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17121.m3u8
+#EXTINF:-1,GLOBO BRASILIA HD+
+http://lista.digitalgroup.me:80/live/cantel/cantel123/21804.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48808.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48809.m3u8
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48801.m3u8
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17853.m3u8
+#EXTINF:-1,GLOBO INTER TV CABUGI FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48816.m3u8
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48815.m3u8
+#EXTINF:-1,GLOBO MG HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17129.m3u8
+#EXTINF:-1,GLOBO MG HD+
+http://lista.digitalgroup.me:80/live/cantel/cantel123/21803.m3u8
+#EXTINF:-1,GLOBO NEWS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46919.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5085.m3u8
+#EXTINF:-1,GLOBO NORDESTE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17130.m3u8
+#EXTINF:-1,GLOBO NSC BLUMENAU FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46939.m3u8
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46940.m3u8
+#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46941.m3u8
+#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46942.m3u8
+#EXTINF:-1,GLOBO NSC JOINVILLE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46944.m3u8
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46943.m3u8
+#EXTINF:-1,GLOBO NSC TV CRICIÚMA FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48813.m3u8
+#EXTINF:-1,GLOBO NSC TV CRICIÚMA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48814.m3u8
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46915.m3u8
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46914.m3u8
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/38452.m3u8
+#EXTINF:-1,GLOBO RJ FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46913.m3u8
+#EXTINF:-1,GLOBO RJ HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1207.m3u8
+#EXTINF:-1,GLOBO RJ HD+
+http://lista.digitalgroup.me:80/live/cantel/cantel123/21801.m3u8
+#EXTINF:-1,GLOBO RPC CURITIBA FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46917.m3u8
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46916.m3u8
+#EXTINF:-1,GLOBO RPC MARINGÁ FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48810.m3u8
+#EXTINF:-1,GLOBO RPC MARINGÁ HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48811.m3u8
+#EXTINF:-1,GLOBO SP FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46912.m3u8
+#EXTINF:-1,GLOBO SP HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17122.m3u8
+#EXTINF:-1,GLOBO SP HD+
+http://lista.digitalgroup.me:80/live/cantel/cantel123/21800.m3u8
+#EXTINF:-1,GLOBO TV BAHIA FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48803.m3u8
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48802.m3u8
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48805.m3u8
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48804.m3u8
+#EXTINF:-1,GLOBO TV GAZETA ES FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48812.m3u8
+#EXTINF:-1,GLOBO TV GAZETA ES HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/24484.m3u8
+#EXTINF:-1,GLOBO TV SERGIPE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46954.m3u8
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46953.m3u8
+#EXTINF:-1,GLOBO TV VERDES MARES FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48799.m3u8
+#EXTINF:-1,GLOBO TV VERDES MARES HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48798.m3u8
+#EXTINF:-1,GLOOB FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48806.m3u8
+#EXTINF:-1,GLOOB HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5086.m3u8
+#EXTINF:-1,GLOOBINHO FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46911.m3u8
+#EXTINF:-1,GLOOBINHO HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17136.m3u8
+#EXTINF:-1,GNT FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/46910.m3u8
+#EXTINF:-1,GNT HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2466.m3u8
+#EXTINF:-1,H2 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5056.m3u8
+#EXTINF:-1,H2 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1021.m3u8
+#EXTINF:-1,HBO 2 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26039.m3u8
+#EXTINF:-1,HBO 2 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1017.m3u8
+#EXTINF:-1,HBO FAMILY FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26038.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2392.m3u8
+#EXTINF:-1,HBO FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26037.m3u8
+#EXTINF:-1,HBO HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1209.m3u8
+#EXTINF:-1,HBO PLUS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26036.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2467.m3u8
+#EXTINF:-1,HBO SIGNATURE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26035.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1013.m3u8
+#EXTINF:-1,HIT TV HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/17792.m3u8
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2469.m3u8
+#EXTINF:-1,LIFETIME FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26034.m3u8
+#EXTINF:-1,LIFETIME HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5087.m3u8
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5088.m3u8
+#EXTINF:-1,MAX FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26033.m3u8
+#EXTINF:-1,MAX HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5089.m3u8
+#EXTINF:-1,MAX PRIME HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5090.m3u8
+#EXTINF:-1,MAX UP HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5091.m3u8
+#EXTINF:-1,MEGAPIX FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26019.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2470.m3u8
+#EXTINF:-1,MTV FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26018.m3u8
+#EXTINF:-1,MTV HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5092.m3u8
+#EXTINF:-1,MULTISHOW FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26017.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2385.m3u8
+#EXTINF:-1,NATGEO KIDS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/11996.m3u8
+#EXTINF:-1,NATGEO WILD FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18022.m3u8
+#EXTINF:-1,NATGEO WILD HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/994.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHICS FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26016.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHICS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/990.m3u8
+#EXTINF:-1,NICK FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26015.m3u8
+#EXTINF:-1,NICK HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5093.m3u8
+#EXTINF:-1,NICK JR HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16210.m3u8
+#EXTINF:-1,OFF HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2471.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26014.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2472.m3u8
+#EXTINF:-1,PREMIERE 2 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5062.m3u8
+#EXTINF:-1,PREMIERE 2 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1213.m3u8
+#EXTINF:-1,PREMIERE 3 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18023.m3u8
+#EXTINF:-1,PREMIERE 3 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1214.m3u8
+#EXTINF:-1,PREMIERE 4 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5063.m3u8
+#EXTINF:-1,PREMIERE 4 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1215.m3u8
+#EXTINF:-1,PREMIERE 5 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5064.m3u8
+#EXTINF:-1,PREMIERE 5 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1216.m3u8
+#EXTINF:-1,PREMIERE 6 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18024.m3u8
+#EXTINF:-1,PREMIERE 6 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16211.m3u8
+#EXTINF:-1,PREMIERE 7 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18025.m3u8
+#EXTINF:-1,PREMIERE 7 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16213.m3u8
+#EXTINF:-1,PREMIERE 8 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/38359.m3u8
+#EXTINF:-1,PREMIERE 9 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/41353.m3u8
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5065.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1714.m3u8
+#EXTINF:-1,RECORD BA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/29367.m3u8
+#EXTINF:-1,RECORD DF HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/29364.m3u8
+#EXTINF:-1,RECORD GO HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/47529.m3u8
+#EXTINF:-1,RECORD MG HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/29369.m3u8
+#EXTINF:-1,RECORD NEWS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2400.m3u8
+#EXTINF:-1,RECORD PA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/47555.m3u8
+#EXTINF:-1,RECORD RJ HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/29371.m3u8
+#EXTINF:-1,RECORD RS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/29373.m3u8
+#EXTINF:-1,RECORD SP FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26013.m3u8
+#EXTINF:-1,RECORD SP HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1210.m3u8
+#EXTINF:-1,REDE TV HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2406.m3u8
+#EXTINF:-1,RIT TV HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/37780.m3u8
+#EXTINF:-1,SBT HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1208.m3u8
+#EXTINF:-1,SBT HD+
+http://lista.digitalgroup.me:80/live/cantel/cantel123/38919.m3u8
+#EXTINF:-1,SBT TV SERRA DOURADA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/37842.m3u8
+#EXTINF:-1,SONY FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26012.m3u8
+#EXTINF:-1,SONY HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2409.m3u8
+#EXTINF:-1,SPACE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26011.m3u8
+#EXTINF:-1,SPACE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1327.m3u8
+#EXTINF:-1,SPORTV 1 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5067.m3u8
+#EXTINF:-1,SPORTV 1 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/1203.m3u8
+#EXTINF:-1,SPORTV 2 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26030.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2401.m3u8
+#EXTINF:-1,SPORTV 3 FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26010.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2402.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5094.m3u8
+#EXTINF:-1,SUNDANCE FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26009.m3u8
+#EXTINF:-1,SYFY FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26008.m3u8
+#EXTINF:-1,SYFY HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18087.m3u8
+#EXTINF:-1,TBS HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2473.m3u8
+#EXTINF:-1,TC ACTION FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5069.m3u8
+#EXTINF:-1,TC ACTION HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/936.m3u8
+#EXTINF:-1,TC CULT FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18026.m3u8
+#EXTINF:-1,TC CULT HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5096.m3u8
+#EXTINF:-1,TC FUN FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/18027.m3u8
+#EXTINF:-1,TC FUN HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/932.m3u8
+#EXTINF:-1,TC PIPOCA FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5070.m3u8
+#EXTINF:-1,TC PIPOCA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/930.m3u8
+#EXTINF:-1,TC PREMIUM FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5071.m3u8
+#EXTINF:-1,TC PREMIUM HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/928.m3u8
+#EXTINF:-1,TC TOUCH HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/927.m3u8
+#EXTINF:-1,THE HISTORY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16216.m3u8
+#EXTINF:-1,THE HISTORY CHANNEL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2468.m3u8
+#EXTINF:-1,TLC HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5097.m3u8
+#EXTINF:-1,TNT FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5073.m3u8
+#EXTINF:-1,TNT HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2383.m3u8
+#EXTINF:-1,TNT SERIES FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/5074.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2474.m3u8
+#EXTINF:-1,TV5 MONDE HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/37794.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/26007.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2475.m3u8
+#EXTINF:-1,VIVA FULL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/48796.m3u8
+#EXTINF:-1,VIVA HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2476.m3u8
+#EXTINF:-1,WARNER CHANNEL HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/2478.m3u8
+#EXTINF:-1,WOOHOO HD
+http://lista.digitalgroup.me:80/live/cantel/cantel123/16214.m3u8
