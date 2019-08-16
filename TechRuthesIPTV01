@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/1120
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/46898
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/5078
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/9609
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/26029
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/15406
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/1719
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET FULL HD" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET FULL HD
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/46899
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/1117
-#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/916
-#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA HD" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA HD
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/20831
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas",ARTE 1
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/1218
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP Full HD | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/46912
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/17122
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo RJ Full HD | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/46913
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/1207
+#EXTINF:-1 tvg-ID="sbt" tvg-name="Sbt" group-title="Canais Abertos",SBT HD | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/1208
+#EXTINF:-1 tvg-ID="sbt" tvg-name="Sbt" group-title="Canais Abertos",SBT HD 2 | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/38919
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/18020
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/1047
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/20815
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/46907
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/20816
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+http://lista.digitalgroup.me:80/Ayrton1977/1235689/46908
