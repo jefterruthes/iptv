@@ -67,3 +67,5 @@ https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/73.m3u8
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/74.m3u8
 #EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount" group-title="Filmes e Séries",Paramount | TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/75.m3u8
+#EXTINF:-1 tvg-ID="fx" tvg-name="FX" group-title="Filmes e Séries",FX | TechRuthes.com
+http://177.54.158.104:8081/live/fx720p/chunks.m3u8?nimblesessionid=9264755&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDE5IDE6MjI6MTAgQU0maGFzaF92YWx1ZT1PclVZbzh0SzdLaWlKQ2lXVlRtc1JRPT0mdmFsaWRtaW51dGVzPTUmaWQ9UmVzb3VyY2UgaWQgIzExJnN0cm1fbGVuPTEx
