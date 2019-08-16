@@ -9,11 +9,31 @@ http://play.starbr.top/live/Ayrton1977/1235689/1210.m3u8
 http://play.starbr.top/live/Ayrton1977/1235689/1208.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",RedeTV | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/963.m3u8
-#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1033.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2391.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports 2 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1031.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports 2 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1717.m3u8
+#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1203.m3u8
+#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/47527.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2401.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38710.m3u8
 #EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1047.m3u8
-#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1329.m3u8
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/2464.m3u8
-#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/20815.m3u8
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/2465.m3u8
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/20816.m3u8
