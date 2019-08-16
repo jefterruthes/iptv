@@ -25,6 +25,14 @@ http://play.starbr.top/live/Ayrton1977/1235689/47527.m3u8
 http://play.starbr.top/live/Ayrton1977/1235689/2401.m3u8
 #EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/38710.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 3" group-title="Esportes",SporTV 3 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2402.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 3" group-title="Esportes",SporTV 3 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38713.m3u8
+#EXTINF:-1 tvg-ID="espn" tvg-name="ESPN" group-title="Esportes",ESPN HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1129.m3u8
+#EXTINF:-1 tvg-ID="espn" tvg-name="ESPN" group-title="Esportes",ESPN | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38754.m3u8
 #EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1047.m3u8
 #EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
