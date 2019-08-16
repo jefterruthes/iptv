@@ -1,1103 +1,257 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://iptv.csvix.net:8080/Gustavo/12345/4912
-#EXTINF:-1,A&E HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11672
-#EXTINF:-1,A&E HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4394
-#EXTINF:-1,A&E FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11671
-#EXTINF:-1,AMC
-http://iptv.csvix.net:8080/Gustavo/12345/4791
-#EXTINF:-1,AMC HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4669
-#EXTINF:-1,AMC HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5066
-#EXTINF:-1,AMC FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5065
-#EXTINF:-1,Animal Planet
-http://iptv.csvix.net:8080/Gustavo/12345/4604
-#EXTINF:-1,Animal Planet HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5188
-#EXTINF:-1,Animal Planet HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4349
-#EXTINF:-1,Animal Planet FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5187
-#EXTINF:-1,Arte 1
-http://iptv.csvix.net:8080/Gustavo/12345/4667
-#EXTINF:-1,Arte 1 HD
-http://iptv.csvix.net:8080/Gustavo/12345/5016
-#EXTINF:-1,AXN
-http://iptv.csvix.net:8080/Gustavo/12345/4769
-#EXTINF:-1,AXN HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4345
-#EXTINF:-1,AXN HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4998
-#EXTINF:-1,AXN FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4997
-#EXTINF:-1,Band
-http://iptv.csvix.net:8080/Gustavo/12345/4864
-#EXTINF:-1,Band HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11683
-#EXTINF:-1,Band HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4343
-#EXTINF:-1,Band FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11684
-#EXTINF:-1,Baby TV
-http://iptv.csvix.net:8080/Gustavo/12345/4643
-#EXTINF:-1,Baby HD
-http://iptv.csvix.net:8080/Gustavo/12345/5128
-#EXTINF:-1,Band News
-http://iptv.csvix.net:8080/Gustavo/12345/4668
-#EXTINF:-1,BIS
-http://iptv.csvix.net:8080/Gustavo/12345/4793
-#EXTINF:-1,BIS HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4338
-#EXTINF:-1,BIS HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5160
-#EXTINF:-1,BIS FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5159
-#EXTINF:-1,BandSports
-http://iptv.csvix.net:8080/Gustavo/12345/4615
-#EXTINF:-1,BandSports HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4951
-#EXTINF:-1,BandSports FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4950
-#EXTINF:-1,BandSports HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4340
-#EXTINF:-1,Band News HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4949
-#EXTINF:-1,Band News FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4948
-#EXTINF:-1,Boa Vontade TV
-http://iptv.csvix.net:8080/Gustavo/12345/4770
-#EXTINF:-1,Boomerang
-http://iptv.csvix.net:8080/Gustavo/12345/4913
-#EXTINF:-1,Boomerang HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5190
-#EXTINF:-1,Boomerang FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5189
-#EXTINF:-1,Canal do Bob Zoom
-http://iptv.csvix.net:8080/Gustavo/12345/19045
-#EXTINF:-1,Canal da Galinha Pintadinha
-http://iptv.csvix.net:8080/Gustavo/12345/19036
-#EXTINF:-1,Canal da Masha e o Urso
-http://iptv.csvix.net:8080/Gustavo/12345/19936
-#EXTINF:-1,Canal do Pica-Pau 24 Hrs
-http://iptv.csvix.net:8080/Gustavo/12345/19037
-#EXTINF:-1,Cancao Nova
-http://iptv.csvix.net:8080/Gustavo/12345/4916
-#EXTINF:-1,Cancao Nova HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/16169
-#EXTINF:-1,Cartoon Network
-http://iptv.csvix.net:8080/Gustavo/12345/4967
-#EXTINF:-1,Cartoon Network HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5037
-#EXTINF:-1,Cartoon Network HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4329
-#EXTINF:-1,Cartoon Network FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5036
-#EXTINF:-1,CNT
-http://iptv.csvix.net:8080/Gustavo/12345/4805
-#EXTINF:-1,CNN Espanhol
-http://iptv.csvix.net:8080/Gustavo/12345/4771
-#EXTINF:-1,CNN Internacional
-http://iptv.csvix.net:8080/Gustavo/12345/4866
-#EXTINF:-1,Canal Brasil
-http://iptv.csvix.net:8080/Gustavo/12345/4553
-#EXTINF:-1,Canal Rural
-http://iptv.csvix.net:8080/Gustavo/12345/4914
-#EXTINF:-1,Canal Brasil HD
-http://iptv.csvix.net:8080/Gustavo/12345/5017
-#EXTINF:-1,Cinemax
-http://iptv.csvix.net:8080/Gustavo/12345/4865
-#EXTINF:-1,Cinemax HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5068
-#EXTINF:-1,Cinemax HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4395
-#EXTINF:-1,Cinemax FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5067
-#EXTINF:-1,Combate
-http://iptv.csvix.net:8080/Gustavo/12345/4831
-#EXTINF:-1,Combate HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4986
-#EXTINF:-1,Combate HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4325
-#EXTINF:-1,Combate FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4987
-#EXTINF:-1,Comedy Central
-http://iptv.csvix.net:8080/Gustavo/12345/4832
-#EXTINF:-1,Comedy Central HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11665
-#EXTINF:-1,Comedy Central HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5018
-#EXTINF:-1,Comedy Central FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11666
-#EXTINF:-1,Copa Libertadores 2019
-http://iptv.csvix.net:8080/Gustavo/12345/22408
-#EXTINF:-1,Curta
-http://iptv.csvix.net:8080/Gustavo/12345/4833
-#EXTINF:-1,Dazn SD
-http://iptv.csvix.net:8080/Gustavo/12345/22205
-#EXTINF:-1,Dazn HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/17201
-#EXTINF:-1,Dazn FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18785
-#EXTINF:-1,Discovery Channel
-http://iptv.csvix.net:8080/Gustavo/12345/4616
-#EXTINF:-1,Discovery Channel HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4996
-#EXTINF:-1,Discovery Channel HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4319
-#EXTINF:-1,Discovery Channel FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4995
-#EXTINF:-1,Discovery Civilization
-http://iptv.csvix.net:8080/Gustavo/12345/17880
-#EXTINF:-1,Discovery Civilization HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5110
-#EXTINF:-1,Discovery Civilization HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4560
-#EXTINF:-1,Discovery Civilization FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5109
-#EXTINF:-1,Discovery Kids
-http://iptv.csvix.net:8080/Gustavo/12345/4867
-#EXTINF:-1,Discovery Kids HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5074
-#EXTINF:-1,Discovery Kids HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4406
-#EXTINF:-1,Discovery Kids FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5073
-#EXTINF:-1,Discovery Home & Health
-http://iptv.csvix.net:8080/Gustavo/12345/4814
-#EXTINF:-1,Discovery Home & Health HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11691
-#EXTINF:-1,Discovery Home & Health HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4316
-#EXTINF:-1,Discovery Home & Health FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11692
-#EXTINF:-1,Discovery Science
-http://iptv.csvix.net:8080/Gustavo/12345/17879
-#EXTINF:-1,Discovery Science HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5122
-#EXTINF:-1,Discovery Science HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4670
-#EXTINF:-1,Discovery Science FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5121
-#EXTINF:-1,Discovery Turbo
-http://iptv.csvix.net:8080/Gustavo/12345/4666
-#EXTINF:-1,Discovery Turbo HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4933
-#EXTINF:-1,Discovery Turbo HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4310
-#EXTINF:-1,Discovery Turbo FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4932
-#EXTINF:-1,Discovery Theater
-http://iptv.csvix.net:8080/Gustavo/12345/17878
-#EXTINF:-1,Discovery Theater HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5056
-#EXTINF:-1,Discovery Theater HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4312
-#EXTINF:-1,Discovery Theater FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5055
-#EXTINF:-1,Discovery World
-http://iptv.csvix.net:8080/Gustavo/12345/17877
-#EXTINF:-1,Discovery World HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5076
-#EXTINF:-1,Discovery World HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4309
-#EXTINF:-1,Discovery World FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5075
-#EXTINF:-1,Disney Channel
-http://iptv.csvix.net:8080/Gustavo/12345/4915
-#EXTINF:-1,Disney Channel HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5050
-#EXTINF:-1,Disney Channel HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5019
-#EXTINF:-1,Disney Channel FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5049
-#EXTINF:-1,Disney Junior
-http://iptv.csvix.net:8080/Gustavo/12345/4834
-#EXTINF:-1,Disney JR HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5052
-#EXTINF:-1,Disney JR FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5051
-#EXTINF:-1,Disney XD
-http://iptv.csvix.net:8080/Gustavo/12345/4835
-#EXTINF:-1,Disney XD HD
-http://iptv.csvix.net:8080/Gustavo/12345/5193
-#EXTINF:-1,DW (Deutsch+)
-http://iptv.csvix.net:8080/Gustavo/12345/4868
-#EXTINF:-1,E!
-http://iptv.csvix.net:8080/Gustavo/12345/4836
-#EXTINF:-1,E! HD
-http://iptv.csvix.net:8080/Gustavo/12345/4465
-#EXTINF:-1,EI Plus SD
-http://iptv.csvix.net:8080/Gustavo/12345/14325
-#EXTINF:-1,EI Plus 2 SD
-http://iptv.csvix.net:8080/Gustavo/12345/14326
-#EXTINF:-1,Ei Plus HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/13324
-#EXTINF:-1,Ei Plus 2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/13169
-#EXTINF:-1,ESPN Brasil
-http://iptv.csvix.net:8080/Gustavo/12345/4642
-#EXTINF:-1,ESPN Brasil HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5186
-#EXTINF:-1,ESPN Brasil HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4296
-#EXTINF:-1,ESPN Brasil FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5185
-#EXTINF:-1,ESPN
-http://iptv.csvix.net:8080/Gustavo/12345/4664
-#EXTINF:-1,ESPN HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5117
-#EXTINF:-1,ESPN FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5118
-#EXTINF:-1,ESPN HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4294
-#EXTINF:-1,ESPN 2
-http://iptv.csvix.net:8080/Gustavo/12345/17876
-#EXTINF:-1,ESPN 2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5119
-#EXTINF:-1,ESPN 2 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4295
-#EXTINF:-1,ESPN 2 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5120
-#EXTINF:-1,ESPN Extra
-http://iptv.csvix.net:8080/Gustavo/12345/10717
-#EXTINF:-1,ESPN Extra HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18726
-#EXTINF:-1,ESPN Extra HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/10718
-#EXTINF:-1,ESPN Extra FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18727
-#EXTINF:-1,FX
-http://iptv.csvix.net:8080/Gustavo/12345/4548
-#EXTINF:-1,FX HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5072
-#EXTINF:-1,FX HD
-http://iptv.csvix.net:8080/Gustavo/12345/4276
-#EXTINF:-1,FX FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5071
-#EXTINF:-1,FishTV
-http://iptv.csvix.net:8080/Gustavo/12345/4917
-#EXTINF:-1,Fox Premium 1 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18725
-#EXTINF:-1,Fox Premium 1 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4284
-#EXTINF:-1,Fox Premium 1 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18713
-#EXTINF:-1,Fox Premium 2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18723
-#EXTINF:-1,Fox Premium 2 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4283
-#EXTINF:-1,Fox Premium 2 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18724
-#EXTINF:-1,Fox Sports
-http://iptv.csvix.net:8080/Gustavo/12345/4969
-#EXTINF:-1,Fox Sports HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4994
-#EXTINF:-1,Fox Sports HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4279
-#EXTINF:-1,Fox Sports FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4993
-#EXTINF:-1,Fox Sports 2
-http://iptv.csvix.net:8080/Gustavo/12345/4550
-#EXTINF:-1,Fox Sports 2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5035
-#EXTINF:-1,Fox Sports 2 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4280
-#EXTINF:-1,Fox Sports 2 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5034
-#EXTINF:-1,Fox Life
-http://iptv.csvix.net:8080/Gustavo/12345/4551
-#EXTINF:-1,Fox Life HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11675
-#EXTINF:-1,Fox Life HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4285
-#EXTINF:-1,Fox Life FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11676
-#EXTINF:-1,Fox
-http://iptv.csvix.net:8080/Gustavo/12345/4968
-#EXTINF:-1,Fox HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4984
-#EXTINF:-1,Fox HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4287
-#EXTINF:-1,Fox FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4985
-#EXTINF:-1,Food Network
-http://iptv.csvix.net:8080/Gustavo/12345/4641
-#EXTINF:-1,Food Network HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5168
-#EXTINF:-1,Food Network HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4466
-#EXTINF:-1,Food Network FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5167
-#EXTINF:-1,Futura
-http://iptv.csvix.net:8080/Gustavo/12345/4869
-#EXTINF:-1,GNT
-http://iptv.csvix.net:8080/Gustavo/12345/4918
-#EXTINF:-1,GNT HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18721
-#EXTINF:-1,GNT HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4265
-#EXTINF:-1,GNT FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18722
-#EXTINF:-1,Gloob
-http://iptv.csvix.net:8080/Gustavo/12345/4602
-#EXTINF:-1,Gloob HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22203
-#EXTINF:-1,Gloob HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4405
-#EXTINF:-1,Gloob FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22204
-#EXTINF:-1,Gloobinho
-http://iptv.csvix.net:8080/Gustavo/12345/9644
-#EXTINF:-1,Gloobinho HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11690
-#EXTINF:-1,Gloobinho HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5023
-#EXTINF:-1,Gloobinho FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11689
-#EXTINF:-1,Globo News
-http://iptv.csvix.net:8080/Gustavo/12345/4772
-#EXTINF:-1,Globo News HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11667
-#EXTINF:-1,Globo News HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4469
-#EXTINF:-1,Globo News FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11668
-#EXTINF:-1,Globo TV Anhanguera Goiania
-http://iptv.csvix.net:8080/Gustavo/12345/5043
-#EXTINF:-1,Globo Brasilia
-http://iptv.csvix.net:8080/Gustavo/12345/5045
-#EXTINF:-1,Globo Brasilia HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5020
-#EXTINF:-1,Globo Brasilia FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22201
-#EXTINF:-1,Globo EPTV Campinas
-http://iptv.csvix.net:8080/Gustavo/12345/4883
-#EXTINF:-1,Globo EPTV Campinas HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22191
-#EXTINF:-1,Globo EPTV Campinas FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22192
-#EXTINF:-1,Globo EPTV Central
-http://iptv.csvix.net:8080/Gustavo/12345/8817
-#EXTINF:-1,Globo EPTV Ribeirao Preto
-http://iptv.csvix.net:8080/Gustavo/12345/4983
-#EXTINF:-1,Globo EPTV Ribeirao Preto HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22663
-#EXTINF:-1,Globo EPTV Ribeirao Preto HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5021
-#EXTINF:-1,Globo EPTV Ribeirao Preto FHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22664
-#EXTINF:-1,Globo TV Centro America Cuiaba
-http://iptv.csvix.net:8080/Gustavo/12345/4886
-#EXTINF:-1,Globo Eptv Sul Minas
-http://iptv.csvix.net:8080/Gustavo/12345/8801
-#EXTINF:-1,Globo Minas
-http://iptv.csvix.net:8080/Gustavo/12345/5044
-#EXTINF:-1,Globo Minas HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22185
-#EXTINF:-1,Globo Minas HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5014
-#EXTINF:-1,Globo Minas FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22186
-#EXTINF:-1,Globo Nordeste
-http://iptv.csvix.net:8080/Gustavo/12345/4982
-#EXTINF:-1,Globo Nordeste HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22189
-#EXTINF:-1,Globo Nordeste HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5022
-#EXTINF:-1,Globo Nordeste FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22190
-#EXTINF:-1,Globo RJ
-http://iptv.csvix.net:8080/Gustavo/12345/5040
-#EXTINF:-1,Globo RJ HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5124
-#EXTINF:-1,Globo RJ HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4270
-#EXTINF:-1,Globo RJ FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5123
-#EXTINF:-1,Globo SP
-http://iptv.csvix.net:8080/Gustavo/12345/4837
-#EXTINF:-1,Globo SP HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11663
-#EXTINF:-1,Globo SP HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5015
-#EXTINF:-1,Globo SP FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11664
-#EXTINF:-1,Globo RBS TV Poa
-http://iptv.csvix.net:8080/Gustavo/12345/4801
-#EXTINF:-1,Globo RBS TV Poa HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11662
-#EXTINF:-1,Globo RBS TV Poa FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11661
-#EXTINF:-1,Globo NSC Blumenau
-http://iptv.csvix.net:8080/Gustavo/12345/8821
-#EXTINF:-1,Globo NSC Blumenau HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18718
-#EXTINF:-1,Globo NSC Blumenau FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18717
-#EXTINF:-1,Globo NSC TV Chapeco
-http://iptv.csvix.net:8080/Gustavo/12345/18857
-#EXTINF:-1,Globo NSC TV Criciuma
-http://iptv.csvix.net:8080/Gustavo/12345/18856
-#EXTINF:-1,Globo NSC Criciuma HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22181
-#EXTINF:-1,Globo NSC Criciuma FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22182
-#EXTINF:-1,Globo NSC Joinville
-http://iptv.csvix.net:8080/Gustavo/12345/8820
-#EXTINF:-1,Globo NSC Joinville HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18720
-#EXTINF:-1,Globo NSC Joinville FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18719
-#EXTINF:-1,Globo NSC Florianopolis
-http://iptv.csvix.net:8080/Gustavo/12345/17225
-#EXTINF:-1,Globo NSC Floripa HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18757
-#EXTINF:-1,Globo NSC Floripa FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18756
-#EXTINF:-1,Globo RPC Curitiba
-http://iptv.csvix.net:8080/Gustavo/12345/4885
-#EXTINF:-1,Globo RPC Curitiba HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18755
-#EXTINF:-1,Globo RPC Curitiba FHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18787
-#EXTINF:-1,Globo RPC Maringa
-http://iptv.csvix.net:8080/Gustavo/12345/18859
-#EXTINF:-1,Globo RPC Maringa HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22187
-#EXTINF:-1,Globo RPC Maringa FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22188
-#EXTINF:-1,Globo Rede Gazeta ES
-http://iptv.csvix.net:8080/Gustavo/12345/18786
-#EXTINF:-1,Globo Rede Gazeta ES HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18711
-#EXTINF:-1,Globo Rede Gazeta ES FHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22195
-#EXTINF:-1,Globo TV Clube
-http://iptv.csvix.net:8080/Gustavo/12345/17232
-#EXTINF:-1,Globo TV Gazeta Alagoas
-http://iptv.csvix.net:8080/Gustavo/12345/17234
-#EXTINF:-1,Globo Gazeta Alagoas HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22661
-#EXTINF:-1,Globo Gazeta Alagoas FHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22662
-#EXTINF:-1,Globo TV Sergipe
-http://iptv.csvix.net:8080/Gustavo/12345/9643
-#EXTINF:-1,Globo TV Sergipe HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/15787
-#EXTINF:-1,Globo TV Sergipe FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18714
-#EXTINF:-1,Globo InterTV Serra Mar
-http://iptv.csvix.net:8080/Gustavo/12345/8816
-#EXTINF:-1,Globo InterTV Cabugi
-http://iptv.csvix.net:8080/Gustavo/12345/4981
-#EXTINF:-1,Globo InterTV Cabugi HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22183
-#EXTINF:-1,Globo InterTV Cabugi FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22184
-#EXTINF:-1,Globo InterTV Grande Minas
-http://iptv.csvix.net:8080/Gustavo/12345/16020
-#EXTINF:-1,Globo InterTV Dos Vales
-http://iptv.csvix.net:8080/Gustavo/12345/17223
-#EXTINF:-1,Globo InterTV Alto Litoral
-http://iptv.csvix.net:8080/Gustavo/12345/8822
-#EXTINF:-1,Globo TV Anhanguera
-http://iptv.csvix.net:8080/Gustavo/12345/8806
-#EXTINF:-1,Globo Tv Fronteira
-http://iptv.csvix.net:8080/Gustavo/12345/8814
-#EXTINF:-1,Globo TV Asa Branca
-http://iptv.csvix.net:8080/Gustavo/12345/9642
-#EXTINF:-1,Globo Tv Integracao Uberlandia
-http://iptv.csvix.net:8080/Gustavo/12345/8812
-#EXTINF:-1,Globo TV Mirante Cocais
-http://iptv.csvix.net:8080/Gustavo/12345/8810
-#EXTINF:-1,Globo TV Morena
-http://iptv.csvix.net:8080/Gustavo/12345/17230
-#EXTINF:-1,Globo TV Mirante Sao Luis
-http://iptv.csvix.net:8080/Gustavo/12345/17226
-#EXTINF:-1,Globo Tv Rio Sul
-http://iptv.csvix.net:8080/Gustavo/12345/8809
-#EXTINF:-1,Globo Tv Santa Cruz
-http://iptv.csvix.net:8080/Gustavo/12345/8808
-#EXTINF:-1,Globo TV Sudoeste
-http://iptv.csvix.net:8080/Gustavo/12345/8807
-#EXTINF:-1,Globo Tv Bahia
-http://iptv.csvix.net:8080/Gustavo/12345/5504
-#EXTINF:-1,Globo TV Bahia HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22657
-#EXTINF:-1,Globo TV Bahia FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22658
-#EXTINF:-1,Globo TV TEM Itapetininga
-http://iptv.csvix.net:8080/Gustavo/12345/8811
-#EXTINF:-1,Globo TV Vanguarda Taubate
-http://iptv.csvix.net:8080/Gustavo/12345/8804
-#EXTINF:-1,Globo TV Tem Bauru
-http://iptv.csvix.net:8080/Gustavo/12345/5042
-#EXTINF:-1,Globo TV Tem Sorocaba
-http://iptv.csvix.net:8080/Gustavo/12345/5041
-#EXTINF:-1,Globo TV Liberal Belem
-http://iptv.csvix.net:8080/Gustavo/12345/4979
-#EXTINF:-1,Globo TV Vanguarda SJ dos Campo
-http://iptv.csvix.net:8080/Gustavo/12345/4887
-#EXTINF:-1,Globo TV Tem SJRP
-http://iptv.csvix.net:8080/Gustavo/12345/4766
-#EXTINF:-1,Globo TV Verdes Mares
-http://iptv.csvix.net:8080/Gustavo/12345/4978
-#EXTINF:-1,Globo Verdes Mares HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22659
-#EXTINF:-1,Globo Verdes Mares FHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22660
-#EXTINF:-1,Globo Rede Amazonica HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/17629
-#EXTINF:-1,Globo Rede Amazonica Manaus
-http://iptv.csvix.net:8080/Gustavo/12345/4980
-#EXTINF:-1,Globo TV Tribuna Santos
-http://iptv.csvix.net:8080/Gustavo/12345/4882
-#EXTINF:-1,H2 SD
-http://iptv.csvix.net:8080/Gustavo/12345/4799
-#EXTINF:-1,H2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4957
-#EXTINF:-1,H2 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4263
-#EXTINF:-1,H2 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4956
-#EXTINF:-1,HBO
-http://iptv.csvix.net:8080/Gustavo/12345/4600
-#EXTINF:-1,HBO HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5060
-#EXTINF:-1,HBO HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4257
-#EXTINF:-1,HBO FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5059
-#EXTINF:-1,HBO 2
-http://iptv.csvix.net:8080/Gustavo/12345/4619
-#EXTINF:-1,HBO 2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5062
-#EXTINF:-1,HBO 2 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4260
-#EXTINF:-1,HBO 2 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5061
-#EXTINF:-1,HBO Family
-http://iptv.csvix.net:8080/Gustavo/12345/4919
-#EXTINF:-1,HBO Family HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5058
-#EXTINF:-1,HBO Family HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4258
-#EXTINF:-1,HBO Family FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5057
-#EXTINF:-1,HBO Plus
-http://iptv.csvix.net:8080/Gustavo/12345/4618
-#EXTINF:-1,HBO Plus HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4254
-#EXTINF:-1,HBO Plus HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5048
-#EXTINF:-1,HBO Plus FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5047
-#EXTINF:-1,HBO Signature
-http://iptv.csvix.net:8080/Gustavo/12345/4648
-#EXTINF:-1,HBO Signature HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4252
-#EXTINF:-1,HBO Signature HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5054
-#EXTINF:-1,HBO Signature FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5053
-#EXTINF:-1,Hit TV HD
-http://iptv.csvix.net:8080/Gustavo/12345/5024
-#EXTINF:-1,Ideal TV
-http://iptv.csvix.net:8080/Gustavo/12345/4970
-#EXTINF:-1,Investigacao Discovery
-http://iptv.csvix.net:8080/Gustavo/12345/4812
-#EXTINF:-1,Investigacao Discovery HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11673
-#EXTINF:-1,Investigacao Discovery HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4248
-#EXTINF:-1,Investigacao Discovery FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11674
-#EXTINF:-1,International Champions Cup
-http://iptv.csvix.net:8080/Gustavo/12345/22196
-#EXTINF:-1,Jogos PAN 1
-http://iptv.csvix.net:8080/Gustavo/12345/22582
-#EXTINF:-1,Jogos PAN 2
-http://iptv.csvix.net:8080/Gustavo/12345/22583
-#EXTINF:-1,Jogos PAN 3
-http://iptv.csvix.net:8080/Gustavo/12345/22584
-#EXTINF:-1,Jogos PAN 4
-http://iptv.csvix.net:8080/Gustavo/12345/22585
-#EXTINF:-1,Jogos PAN 5
-http://iptv.csvix.net:8080/Gustavo/12345/22586
-#EXTINF:-1,Jogos PAN 6
-http://iptv.csvix.net:8080/Gustavo/12345/22587
-#EXTINF:-1,Jogos PAN 7
-http://iptv.csvix.net:8080/Gustavo/12345/22588
-#EXTINF:-1,Jogos PAN 8
-http://iptv.csvix.net:8080/Gustavo/12345/22589
-#EXTINF:-1,Lifetime
-http://iptv.csvix.net:8080/Gustavo/12345/4794
-#EXTINF:-1,Lifetime HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5176
-#EXTINF:-1,Lifetime HD
-http://iptv.csvix.net:8080/Gustavo/12345/4404
-#EXTINF:-1,Lifetime FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5175
-#EXTINF:-1,Master TV
-http://iptv.csvix.net:8080/Gustavo/12345/16683
-#EXTINF:-1,Mais Globosat
-http://iptv.csvix.net:8080/Gustavo/12345/4620
-#EXTINF:-1,Mais Globosat HD
-http://iptv.csvix.net:8080/Gustavo/12345/4403
-#EXTINF:-1,Max
-http://iptv.csvix.net:8080/Gustavo/12345/4839
-#EXTINF:-1,MAX HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4470
-#EXTINF:-1,MAX HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5064
-#EXTINF:-1,MAX FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5063
-#EXTINF:-1,Max UP
-http://iptv.csvix.net:8080/Gustavo/12345/4811
-#EXTINF:-1,Max UP HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11669
-#EXTINF:-1,Max UP HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4397
-#EXTINF:-1,Max UP FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11670
-#EXTINF:-1,Max Prime
-http://iptv.csvix.net:8080/Gustavo/12345/4870
-#EXTINF:-1,Max Prime HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11679
-#EXTINF:-1,Max Prime HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4402
-#EXTINF:-1,Max Prime FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11680
-#EXTINF:-1,Music Box Brasil
-http://iptv.csvix.net:8080/Gustavo/12345/4971
-#EXTINF:-1,Megapix
-http://iptv.csvix.net:8080/Gustavo/12345/4871
-#EXTINF:-1,Megapix HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5070
-#EXTINF:-1,Megapix FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5069
-#EXTINF:-1,Megapix HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4235
-#EXTINF:-1,Multishow
-http://iptv.csvix.net:8080/Gustavo/12345/4840
-#EXTINF:-1,Multishow HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5108
-#EXTINF:-1,Multishow HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4231
-#EXTINF:-1,Multishow FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5107
-#EXTINF:-1,MTV
-http://iptv.csvix.net:8080/Gustavo/12345/4661
-#EXTINF:-1,MTV HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5174
-#EXTINF:-1,MTV HD
-http://iptv.csvix.net:8080/Gustavo/12345/4471
-#EXTINF:-1,MTV FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5173
-#EXTINF:-1,NatGeo Kids
-http://iptv.csvix.net:8080/Gustavo/12345/4800
-#EXTINF:-1,NatGeo Kids HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11687
-#EXTINF:-1,NatGeo Kids FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11688
-#EXTINF:-1,NatGeo Wild
-http://iptv.csvix.net:8080/Gustavo/12345/4921
-#EXTINF:-1,NatGeo Wild HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4947
-#EXTINF:-1,Natgeo Wild HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4228
-#EXTINF:-1,Natgeo Wild FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4946
-#EXTINF:-1,Nick JR
-http://iptv.csvix.net:8080/Gustavo/12345/4923
-#EXTINF:-1,Nick JR HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11681
-#EXTINF:-1,Nick JR FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11682
-#EXTINF:-1,Nickelodeon
-http://iptv.csvix.net:8080/Gustavo/12345/4609
-#EXTINF:-1,Nick HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5166
-#EXTINF:-1,Nick HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4222
-#EXTINF:-1,Nick FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5165
-#EXTINF:-1,NatGeo Kids HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5025
-#EXTINF:-1,Nick JR HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5026
-#EXTINF:-1,Natgeo
-http://iptv.csvix.net:8080/Gustavo/12345/4807
-#EXTINF:-1,Natgeo HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5164
-#EXTINF:-1,Natgeo HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4226
-#EXTINF:-1,Natgeo FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5163
-#EXTINF:-1,NHK
-http://iptv.csvix.net:8080/Gustavo/12345/4922
-#EXTINF:-1,NBR
-http://iptv.csvix.net:8080/Gustavo/12345/4972
-#EXTINF:-1,Novo Tempo
-http://iptv.csvix.net:8080/Gustavo/12345/4881
-#EXTINF:-1,OFF
-http://iptv.csvix.net:8080/Gustavo/12345/4646
-#EXTINF:-1,OFF HD
-http://iptv.csvix.net:8080/Gustavo/12345/4218
-#EXTINF:-1,Paramount
-http://iptv.csvix.net:8080/Gustavo/12345/4804
-#EXTINF:-1,Paramount Channel HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5178
-#EXTINF:-1,Paramount Channel HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4216
-#EXTINF:-1,Paramount Channel FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5177
-#EXTINF:-1,Play TV
-http://iptv.csvix.net:8080/Gustavo/12345/4872
-#EXTINF:-1,PlayKids
-http://iptv.csvix.net:8080/Gustavo/12345/18463
-#EXTINF:-1,PlayKids HD
-http://iptv.csvix.net:8080/Gustavo/12345/18459
-#EXTINF:-1,Polishop TV
-http://iptv.csvix.net:8080/Gustavo/12345/4924
-#EXTINF:-1,Power Couple Brasil
-http://iptv.csvix.net:8080/Gustavo/12345/18462
-#EXTINF:-1,Power Couple Brasil HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18458
-#EXTINF:-1,Premiere 2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4961
-#EXTINF:-1,Premiere 2 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4960
-#EXTINF:-1,Premiere 3 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4959
-#EXTINF:-1,Premiere 3 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4958
-#EXTINF:-1,Premiere 4 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4963
-#EXTINF:-1,Premiere 4 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4962
-#EXTINF:-1,Premiere 5 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4965
-#EXTINF:-1,Premiere 5 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4964
-#EXTINF:-1,Premiere 6 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4953
-#EXTINF:-1,Premiere 6 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4952
-#EXTINF:-1,Premiere 7 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4955
-#EXTINF:-1,Premiere 7 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4954
-#EXTINF:-1,Premiere Clubes HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4935
-#EXTINF:-1,Premiere Clubes HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/18380
-#EXTINF:-1,Premiere Clubes FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4934
-#EXTINF:-1,Premiere Clubes
-http://iptv.csvix.net:8080/Gustavo/12345/4808
-#EXTINF:-1,Premiere 2
-http://iptv.csvix.net:8080/Gustavo/12345/4809
-#EXTINF:-1,Premiere 3
-http://iptv.csvix.net:8080/Gustavo/12345/4973
-#EXTINF:-1,Premiere 4
-http://iptv.csvix.net:8080/Gustavo/12345/4925
-#EXTINF:-1,Premiere 5
-http://iptv.csvix.net:8080/Gustavo/12345/4768
-#EXTINF:-1,Premiere 6
-http://iptv.csvix.net:8080/Gustavo/12345/4810
-#EXTINF:-1,Premiere 7
-http://iptv.csvix.net:8080/Gustavo/12345/4873
-#EXTINF:-1,Premiere 8
-http://iptv.csvix.net:8080/Gustavo/12345/4974
-#EXTINF:-1,Premiere 9
-http://iptv.csvix.net:8080/Gustavo/12345/4841
-#EXTINF:-1,Primebox Brasil
-http://iptv.csvix.net:8080/Gustavo/12345/4628
-#EXTINF:-1,PPV 1
-http://iptv.csvix.net:8080/Gustavo/12345/8796
-#EXTINF:-1,PPV 2
-http://iptv.csvix.net:8080/Gustavo/12345/8797
-#EXTINF:-1,PPV 3
-http://iptv.csvix.net:8080/Gustavo/12345/8798
-#EXTINF:-1,PPV 4
-http://iptv.csvix.net:8080/Gustavo/12345/8799
-#EXTINF:-1,PPV 5
-http://iptv.csvix.net:8080/Gustavo/12345/8800
-#EXTINF:-1,RAI
-http://iptv.csvix.net:8080/Gustavo/12345/4874
-#EXTINF:-1,Real Madrid TV
-http://iptv.csvix.net:8080/Gustavo/12345/5102
-#EXTINF:-1,Rede Vida
-http://iptv.csvix.net:8080/Gustavo/12345/4660
-#EXTINF:-1,Rede TV
-http://iptv.csvix.net:8080/Gustavo/12345/4875
-#EXTINF:-1,Rede TV HD
-http://iptv.csvix.net:8080/Gustavo/12345/4190
-#EXTINF:-1,Rede Brasil
-http://iptv.csvix.net:8080/Gustavo/12345/4975
-#EXTINF:-1,Record TV
-http://iptv.csvix.net:8080/Gustavo/12345/4611
-#EXTINF:-1,Record HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5184
-#EXTINF:-1,Record HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4195
-#EXTINF:-1,Record FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5183
-#EXTINF:-1,Record BA
-http://iptv.csvix.net:8080/Gustavo/12345/5566
-#EXTINF:-1,Record BA HD
-http://iptv.csvix.net:8080/Gustavo/12345/5565
-#EXTINF:-1,Record DF
-http://iptv.csvix.net:8080/Gustavo/12345/5569
-#EXTINF:-1,Record DF HD
-http://iptv.csvix.net:8080/Gustavo/12345/5570
-#EXTINF:-1,Record MG
-http://iptv.csvix.net:8080/Gustavo/12345/5571
-#EXTINF:-1,Record MG HD
-http://iptv.csvix.net:8080/Gustavo/12345/5572
-#EXTINF:-1,Record RJ
-http://iptv.csvix.net:8080/Gustavo/12345/5573
-#EXTINF:-1,Record RJ HD
-http://iptv.csvix.net:8080/Gustavo/12345/5574
-#EXTINF:-1,Record RS
-http://iptv.csvix.net:8080/Gustavo/12345/5575
-#EXTINF:-1,Record RS HD
-http://iptv.csvix.net:8080/Gustavo/12345/5576
-#EXTINF:-1,Record News
-http://iptv.csvix.net:8080/Gustavo/12345/4803
-#EXTINF:-1,Record News HD
-http://iptv.csvix.net:8080/Gustavo/12345/5027
-#EXTINF:-1,SBT
-http://iptv.csvix.net:8080/Gustavo/12345/4612
-#EXTINF:-1,SBT HD
-http://iptv.csvix.net:8080/Gustavo/12345/4186
-#EXTINF:-1,SBT ES HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22202
-#EXTINF:-1,SBT TV Cidade Verde HD
-http://iptv.csvix.net:8080/Gustavo/12345/9059
-#EXTINF:-1,SBT TV Jornal HD
-http://iptv.csvix.net:8080/Gustavo/12345/9058
-#EXTINF:-1,SBT Interior HD
-http://iptv.csvix.net:8080/Gustavo/12345/22217
-#EXTINF:-1,SBT PE TV Jornal Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/16167
-#EXTINF:-1,SBT PE HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/16166
-#EXTINF:-1,Sony
-http://iptv.csvix.net:8080/Gustavo/12345/4806
-#EXTINF:-1,Sony HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5172
-#EXTINF:-1,Sony HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4182
-#EXTINF:-1,Sony FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5171
-#EXTINF:-1,Space
-http://iptv.csvix.net:8080/Gustavo/12345/4842
-#EXTINF:-1,Space HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5116
-#EXTINF:-1,Space FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5115
-#EXTINF:-1,Space HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4180
-#EXTINF:-1,SporTV
-http://iptv.csvix.net:8080/Gustavo/12345/4843
-#EXTINF:-1,SporTV HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4992
-#EXTINF:-1,SporTV HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4174
-#EXTINF:-1,SporTV FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4991
-#EXTINF:-1,SporTV 2
-http://iptv.csvix.net:8080/Gustavo/12345/4767
-#EXTINF:-1,SporTV 2 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5033
-#EXTINF:-1,SporTV 2 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4177
-#EXTINF:-1,SporTV 2 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5032
-#EXTINF:-1,SporTV 3
-http://iptv.csvix.net:8080/Gustavo/12345/4877
-#EXTINF:-1,SporTV 3 HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5162
-#EXTINF:-1,SporTV 3 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4175
-#EXTINF:-1,SporTV 3 FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5161
-#EXTINF:-1,Studio Universal
-http://iptv.csvix.net:8080/Gustavo/12345/4844
-#EXTINF:-1,Studio Universal HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11677
-#EXTINF:-1,Studio Universal HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4473
-#EXTINF:-1,Studio Universal FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11678
-#EXTINF:-1,SyFy
-http://iptv.csvix.net:8080/Gustavo/12345/4879
-#EXTINF:-1,SyFy HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5170
-#EXTINF:-1,SyFy HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4399
-#EXTINF:-1,SyFy FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5169
-#EXTINF:-1,SIC Internacional
-http://iptv.csvix.net:8080/Gustavo/12345/4876
-#EXTINF:-1,TBS
-http://iptv.csvix.net:8080/Gustavo/12345/4926
-#EXTINF:-1,TBS HD
-http://iptv.csvix.net:8080/Gustavo/12345/4168
-#EXTINF:-1,TLC
-http://iptv.csvix.net:8080/Gustavo/12345/4802
-#EXTINF:-1,TLC HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4400
-#EXTINF:-1,TC Action
-http://iptv.csvix.net:8080/Gustavo/12345/4976
-#EXTINF:-1,TC Action HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5001
-#EXTINF:-1,TC Action HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4166
-#EXTINF:-1,TC Action FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5000
-#EXTINF:-1,TC Cult
-http://iptv.csvix.net:8080/Gustavo/12345/4623
-#EXTINF:-1,TC Cult HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4941
-#EXTINF:-1,TC Cult HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4164
-#EXTINF:-1,TC Cult FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4940
-#EXTINF:-1,Tc Fun
-http://iptv.csvix.net:8080/Gustavo/12345/4798
-#EXTINF:-1,TC Fun HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4937
-#EXTINF:-1,TC Fun HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4162
-#EXTINF:-1,TC Fun FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4936
-#EXTINF:-1,TC Pipoca
-http://iptv.csvix.net:8080/Gustavo/12345/4846
-#EXTINF:-1,TC Pipoca HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4939
-#EXTINF:-1,TC Pipoca HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4160
-#EXTINF:-1,TC Pipoca FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4938
-#EXTINF:-1,TC Premium
-http://iptv.csvix.net:8080/Gustavo/12345/4656
-#EXTINF:-1,TC Premium HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4930
-#EXTINF:-1,TC Premium HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4158
-#EXTINF:-1,TC Premium FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4931
-#EXTINF:-1,TC Touch
-http://iptv.csvix.net:8080/Gustavo/12345/4613
-#EXTINF:-1,TC Touch HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/11685
-#EXTINF:-1,TC Touch HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4156
-#EXTINF:-1,TC Touch FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/11686
-#EXTINF:-1,TCM
-http://iptv.csvix.net:8080/Gustavo/12345/4845
-#EXTINF:-1,TCM HD
-http://iptv.csvix.net:8080/Gustavo/12345/5505
-#EXTINF:-1,TNT
-http://iptv.csvix.net:8080/Gustavo/12345/4563
-#EXTINF:-1,TNT HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4945
-#EXTINF:-1,TNT HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/5030
-#EXTINF:-1,TNT FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4944
-#EXTINF:-1,TNT Series
-http://iptv.csvix.net:8080/Gustavo/12345/4847
-#EXTINF:-1,TNT Series HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4943
-#EXTINF:-1,TNT Series HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4146
-#EXTINF:-1,TNT Series FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4942
-#EXTINF:-1,Tooncast
-http://iptv.csvix.net:8080/Gustavo/12345/4796
-#EXTINF:-1,Tooncast HD
-http://iptv.csvix.net:8080/Gustavo/12345/5031
-#EXTINF:-1,TruTV
-http://iptv.csvix.net:8080/Gustavo/12345/4797
-#EXTINF:-1,TruTV HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/18715
-#EXTINF:-1,TruTV FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/18716
-#EXTINF:-1,TV Camara
-http://iptv.csvix.net:8080/Gustavo/12345/4813
-#EXTINF:-1,TV Brasil
-http://iptv.csvix.net:8080/Gustavo/12345/4631
-#EXTINF:-1,TV Aparecida
-http://iptv.csvix.net:8080/Gustavo/12345/4863
-#EXTINF:-1,TV Diario
-http://iptv.csvix.net:8080/Gustavo/12345/8823
-#EXTINF:-1,TV Guarulhos HD
-http://iptv.csvix.net:8080/Gustavo/12345/16165
-#EXTINF:-1,TV Climatempo
-http://iptv.csvix.net:8080/Gustavo/12345/8824
-#EXTINF:-1,TV Escola
-http://iptv.csvix.net:8080/Gustavo/12345/4928
-#EXTINF:-1,TV Ra Tim Bum
-http://iptv.csvix.net:8080/Gustavo/12345/4929
-#EXTINF:-1,TV Justica
-http://iptv.csvix.net:8080/Gustavo/12345/4816
-#EXTINF:-1,TV Senado
-http://iptv.csvix.net:8080/Gustavo/12345/4815
-#EXTINF:-1,TV Cultura
-http://iptv.csvix.net:8080/Gustavo/12345/4625
-#EXTINF:-1,Tv Gazeta
-http://iptv.csvix.net:8080/Gustavo/12345/5088
-#EXTINF:-1,Terra Viva
-http://iptv.csvix.net:8080/Gustavo/12345/4927
-#EXTINF:-1,The History Channel
-http://iptv.csvix.net:8080/Gustavo/12345/4880
-#EXTINF:-1,The History HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/4990
-#EXTINF:-1,The History Channel HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4152
-#EXTINF:-1,The History FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/4989
-#EXTINF:-1,Universal Channel
-http://iptv.csvix.net:8080/Gustavo/12345/4645
-#EXTINF:-1,Universal Channel HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5180
-#EXTINF:-1,Universal Channel FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5179
-#EXTINF:-1,Universal Channel HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4129
-#EXTINF:-1,Viva
-http://iptv.csvix.net:8080/Gustavo/12345/4644
-#EXTINF:-1,Viva HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/22655
-#EXTINF:-1,Viva HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4125
-#EXTINF:-1,Viva FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/22656
-#EXTINF:-1,VH1 Mega Hits
-http://iptv.csvix.net:8080/Gustavo/12345/4792
-#EXTINF:-1,VH1 HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4391
-#EXTINF:-1,Warner Channel
-http://iptv.csvix.net:8080/Gustavo/12345/4654
-#EXTINF:-1,Warner Channel HD H264
-http://iptv.csvix.net:8080/Gustavo/12345/5182
-#EXTINF:-1,Warner Channel HD Alternativo
-http://iptv.csvix.net:8080/Gustavo/12345/4123
-#EXTINF:-1,Warner Channel FullHD H265
-http://iptv.csvix.net:8080/Gustavo/12345/5181
-#EXTINF:-1,Wohoo
-http://iptv.csvix.net:8080/Gustavo/12345/4848
-#EXTINF:-1,Wohoo HD
-http://iptv.csvix.net:8080/Gustavo/12345/5029
-#EXTINF:-1,Zoomoo
-http://iptv.csvix.net:8080/Gustavo/12345/8803
+#EXTINF:-1,GLOBO SP | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MjQ6NTEgUE0maGFzaF92YWx1ZT1Ia3o3RGZPY3EyT0pmQS9zeXIyMzBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,GLOBO SP | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MjY6NTUgUE0maGFzaF92YWx1ZT1RME8xTTlxTFV4bC9qMlQyaWE0dnBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,GLOBO SP | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6Mjg6MDQgUE0maGFzaF92YWx1ZT11RHNvdEpJNVZ2R3V3cDZ4Rm9zaW53PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,GLOBO NORDESTE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6NDc6MzIgUE0maGFzaF92YWx1ZT1MMmZrUWY1SmRvbUJIRnBCK1R5MnZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SBT PERNAMBUCO | TechRuthes.com
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1890053455_b216000_sleng.m3u8
+#EXTINF:-1,RECORD TV | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/recordsp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzA6MTAgUE0maGFzaF92YWx1ZT1nRlRhZnU2Rk8wQk0vWEpXMW1tK3lBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,RECORD TV | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/recordsp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzA6NDQgUE0maGFzaF92YWx1ZT1nanpJTG45WVc5TlZFYkg4ajltVSt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,BAND | TechRuthes.com
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1,REDE FAMILIA | TechRuthes.com
+https://cdn0.showcase.com.br/hls/redefamilia/index.m3u8
+#EXTINF:-1,REDE TV| TechRuthes.com
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w988592995.m3u8
+#EXTINF:-1,FOX LIFE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MTY6NDIgQU0maGFzaF92YWx1ZT1XTkNxVThKTjhmd2lxQlRTcm9aWmtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX LIFE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MTc6MTkgQU0maGFzaF92YWx1ZT13VW5aZGlPMWE2clV6dnpCaURFeERnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MTg6MDMgQU0maGFzaF92YWx1ZT1TR2h5VmNYeXoyWTA4QmY0Ymx6OVFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MTg6MzUgQU0maGFzaF92YWx1ZT1rbFBlb1RVN0RtWWFUdVkxeThaNTJRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX PREMIUM 1 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MTk6MTkgQU0maGFzaF92YWx1ZT1CNVlrWnNuMXEreUU5Q2lZci9NYXBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX PREMIUM 1 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MjA6MDcgQU0maGFzaF92YWx1ZT1YSm84RFFValUxY0YzcnR1S2V5elJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX PREMIUM 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MjA6NTUgQU0maGFzaF92YWx1ZT11cHBBTXhNTXJYOE14VHFpSUc2a25nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX PREMIUM 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MjE6MjQgQU0maGFzaF92YWx1ZT1aSDNJd09pMGZONFNyVmdXZWtYRFdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MEGAPIX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MjM6MjQgQU0maGFzaF92YWx1ZT1YQU4xa1FJaVVkbEx1dDJML2hiSSt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MEGAPIX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MjM6NTggQU0maGFzaF92YWx1ZT1pelZFWlNncUx5bE1IckUwOVhXSmZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO PLUS | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MzY6NDcgUE0maGFzaF92YWx1ZT16L3dFenIvdXFnWE9VR0Y2bDdibUVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO PLUS | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6Mzc6NDAgUE0maGFzaF92YWx1ZT10YTBpK21YakFJU1E3d1ZlcnZ2bklnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MzM6NTggUE0maGFzaF92YWx1ZT1sRVZHNS9aUEhJWHJkdWttNWFrZENRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MzQ6MzUgUE0maGFzaF92YWx1ZT1wZFhCV01KY3l2TTJ1N21TTStLOHdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbo2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6MzY6MjYgQU0maGFzaF92YWx1ZT02b21yblIwZnRhaERSdVpCdUc3K3l3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbo2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDE6Mzc6MjggQU0maGFzaF92YWx1ZT1LVHNLR2VGTlNQWDBnSGV1N0NlaFBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO FAMILY | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NDc6NTAgQU0maGFzaF92YWx1ZT1wRVpMM3htTUt4ZmxDUVVocW9DS3dnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO FAMILY | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbofamily.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NDg6NDIgQU0maGFzaF92YWx1ZT1DazNGb1FlbVBveTNlNTd2QXNxR21BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO SIGNATURE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NTA6MDcgQU0maGFzaF92YWx1ZT14MnlLNHV6SFVFODZGb3dTd2s5TGhnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HBO SIGNATURE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NTA6NTggQU0maGFzaF92YWx1ZT11M0kyYVZDZUdnSG1SR3ZYREE0VEVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MAX PRIME | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NTE6NDAgQU0maGFzaF92YWx1ZT1mOHp1STV5ZDhBUUhDamhGYXVjQkZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MAX PRIME | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/maxprime.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NTI6MjUgQU0maGFzaF92YWx1ZT1YUnBYT1I4MmJVM3ByT09PVHE0SlVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MAX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NTg6NTggQU0maGFzaF92YWx1ZT1oRyt0ei95eGViYlZJdU9mVHpKZnV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MAX | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NTk6MjUgQU0maGFzaF92YWx1ZT0veW1YR2F1QkVOUjR0RzJmTTNlcjFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MAX UP | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDI6NTk6NTYgQU0maGFzaF92YWx1ZT05V09CVy8yUVJWSS9zUjJuTEJhK0VnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MAX UP | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/maxup.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDA6MTcgQU0maGFzaF92YWx1ZT1EQ1Y5ZVp6NkVQcDlQTGxwc3B1WlJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,AXN | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDI6MTYgQU0maGFzaF92YWx1ZT1mZDk3TkVVdWZqSUtuWFhjSmFBTlRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,AXN | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/axn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDM6MDQgQU0maGFzaF92YWx1ZT1PNmxnMHUzS2JqNWxqQUI0QnJPODl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,CANAL E! | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6Mzg6NTMgUE0maGFzaF92YWx1ZT01WnhsNkppLzUzQXozRjN2Z3dxNU1BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,CANAL E! | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/canale.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6NDA6MDYgUE0maGFzaF92YWx1ZT1LVkFKM2prK3FOVDBGcTdDeW80RGxnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TNT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDQ6MTUgQU0maGFzaF92YWx1ZT1SMEtvalFqS1g0ODJSK1g5RUJxcVVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TNT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDQ6NDkgQU0maGFzaF92YWx1ZT1WdVNMSFFPR1FVdnZnTHR5U0RlbFBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TNT SERIES | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDU6MjUgQU0maGFzaF92YWx1ZT10MGJ4ZmpGSTRZT3NOUGZOTFVQR3FnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TNT SERIES | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDU6NDkgQU0maGFzaF92YWx1ZT1NZVRaZVhNa2ViOWtidnp1djJoeGdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE CULT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDEyOjU0OjM0IEFNJmhhc2hfdmFsdWU9d01FM3RqMlZlbDRqZkcrbDF4V3VGdz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,TELECINE CULT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDEyOjU1OjI2IEFNJmhhc2hfdmFsdWU9NE1TOGtNTExXNjhkL2NPNmtaNHJwdz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,TELECINE ACTION | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzI6MTQgUE0maGFzaF92YWx1ZT1nbUdkVmZGdGdoZHFiTHJVcTRNQTFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE ACTION | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzI6NTcgUE0maGFzaF92YWx1ZT1UNEJyUWhHd3J2azdHSXJNZENlLzJRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE FUN | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzM6NTggUE0maGFzaF92YWx1ZT1jWS8yNnk5QVAzck5qNUZndXhqVTJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE FUN | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzQ6MjkgUE0maGFzaF92YWx1ZT1SQWFncWo5V0V1cCsyd1kvYXpuemN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE TOUCH | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzU6MTYgUE0maGFzaF92YWx1ZT04bFhwSm8xWWZDemRQdEJRRStCM1h3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE TOUCH | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDE6MzU6MTYgUE0maGFzaF92YWx1ZT04bFhwSm8xWWZDemRQdEJRRStCM1h3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE PIPOCA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDEyOjUyOjA5IEFNJmhhc2hfdmFsdWU9bVRhVUZHaUVzQ1FiODNwZmhkUiswQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,TELECINE PIPOCA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDEyOjUzOjA4IEFNJmhhc2hfdmFsdWU9UDVnbDNaYytYMGVLMy82ejFvSHpWQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1,TELECINE PREMIUM | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDM6Mzg6MjIgUE0maGFzaF92YWx1ZT1NOEQyMUoxSHM5N1kwaG9VSnBETC93PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TELECINE PREMIUM | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDM6Mzk6MzggUE0maGFzaF92YWx1ZT1CckgvczdYTFg5NnZnNHVmRXNyVUF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,GNT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDI6MTk6MzggUE0maGFzaF92YWx1ZT05Y0Npd1hwcnpFZGc2Z2ZUNGZuYnN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,GNT | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDI6MTk6NTggUE0maGFzaF92YWx1ZT1qeXRWVjVxOXduVjcvdGUrUXFlc3hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,VIVA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6Mjk6NDkgUE0maGFzaF92YWx1ZT1mZmdCbHZkNXZNT2ZNenNBUXJ1bXZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,VIVA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MzE6MDEgUE0maGFzaF92YWx1ZT1STFo2a3RtemFVM2xYc0tkdm1FT2NBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HISTORY | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjU6MzggQU0maGFzaF92YWx1ZT1DK0lWQk9qa09JYnhNTk1rYWNhamd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,HISTORY | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/history.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjY6MDQgQU0maGFzaF92YWx1ZT1sbXR2S2xJVTlaamZpNCtLKzFJTVZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,H2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDM6MDU6MDUgUE0maGFzaF92YWx1ZT1sWnVRZzJ0ejlmSHZNTktrUWx3aGZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,H2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/history2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDM6MDY6MTkgUE0maGFzaF92YWx1ZT01VWhocjcyVlBxQ3lqNk94L2YzSDFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TLC | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MzI6MTQgUE0maGFzaF92YWx1ZT1VWi9TalRjSTFNZlBmY0YzQlFiSEFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,TLC | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/tlc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE5IDU6MzI6NTAgUE0maGFzaF92YWx1ZT1HNjEzeFF2Q3l6NW1wTWJ0RkdUNlhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY CHANNEL | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6Mjc6MDQgQU0maGFzaF92YWx1ZT1HMGRoaVF1N3hwTmIwVWhUSVBGZ3hRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY CHANNEL | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6Mjc6MzcgQU0maGFzaF92YWx1ZT1UbC9PZzd2ZmFXOEwzcEgyYWwwczJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY HOME & HEALTH | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6Mjg6MTIgQU0maGFzaF92YWx1ZT1XYmdVbXN0eGRsV1k5aDlFS1J1WmF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY HOME & HEALTH | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6Mjg6NTggQU0maGFzaF92YWx1ZT1Qc3c2ZnppTFBOQ01vSkM1SzlWWHJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY INVESTIGAÇÃO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6Mjk6NDIgQU0maGFzaF92YWx1ZT1IYTkwaHhuNHRHVncxdGIvdzk1WGR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY TURBO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoveryturbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzE6NDggQU0maGFzaF92YWx1ZT1uYVpUQXA3aUdCVzdnbzBodS9LMWlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY TURBO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoveryturbo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzI6MTEgQU0maGFzaF92YWx1ZT16dWxHTnRMZ2lSNGUxL2lkZktiYWR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY THEATER | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverytheater.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzM6MzQgQU0maGFzaF92YWx1ZT1aaTYwNk1KMVg2OFJFaTdsSTRvUDJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY THEATER | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverytheater.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzQ6MDkgQU0maGFzaF92YWx1ZT1RSkIvRnZRYS8ySFZvbVpyRDZhRDZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY SCIENCE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDM6MDg6NTcgUE0maGFzaF92YWx1ZT1xRERBVzdkSzZrOHdnb05TT1JHWmRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY SCIENCE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDM6MDk6MzUgUE0maGFzaF92YWx1ZT1vRHZKcVZPNWtTV2FQWGJvcEpwR3J3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY CIVILZATION | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDM6MTE6MTIgUE0maGFzaF92YWx1ZT1zZVlSU2dQUWh1eFhKY0lVQy83WkVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISCOVERY CIVILZATION | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/discoverycivilization.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDM6MTE6MjcgUE0maGFzaF92YWx1ZT12UDR4ZmIrUlo4Nm4wWVRicEs3cGtRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NAT GEO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzY6MDkgQU0maGFzaF92YWx1ZT1EbEh0R1FPUHZkc0hmUXRuWVdQWWV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NAT GEO | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/natgeo.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzY6NTAgQU0maGFzaF92YWx1ZT01aG5jNHdoUU5xOTJDL1JrVGs1M3BRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NAT GEO WILD | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzU6MDUgQU0maGFzaF92YWx1ZT12OGlIVmFxcnJHZW1kaHBkcGFNM2ZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NAT GEO WILD | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/natgeowild.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MzU6MzQgQU0maGFzaF92YWx1ZT1XL0xQMC9NUk00NzRIZXRvNm1oSmVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ANIMAL PLANET | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6Mzg6NTYgQU0maGFzaF92YWx1ZT15THhIUWQxTGlZaEFHOUMvaTE0OGF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ANIMAL PLANET | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6Mzk6MjUgQU0maGFzaF92YWx1ZT0yK05uMWVVNGFyQVRuSHdRZnV1VEt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,CARTOON NETWORK | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDE6MDEgQU0maGFzaF92YWx1ZT10NkhUdmxNZlFIcmxicVFGNzlYY2hBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,CARTOON NETWORK | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDE6NDAgQU0maGFzaF92YWx1ZT0ySmpFMWFFN0pjWmdDbnVyeTc4cnNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NICKLODEON | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDI6MjYgQU0maGFzaF92YWx1ZT1uUDdzZEpSbWY2dzNwcjNyWVlFZElRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NICKLODEON | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/nick.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDM6MTkgQU0maGFzaF92YWx1ZT1jNHVQZDg4NXl3KzNUVWhpQXM2ZkpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NICK JR | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDM6NDMgQU0maGFzaF92YWx1ZT1YOWdNc05IY2M2Q1Zmb2ZPZVNqbVFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,NICK JR | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/nickjr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDQ6MDQgQU0maGFzaF92YWx1ZT1ZZzZ0cUlSUW95cENmc0pHdjhITDdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISNEY CHANNEL | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDU6NTEgQU0maGFzaF92YWx1ZT04SDNVVFNUUDcvMFNhZGtYNno0NzBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,DISNEY CHANNEL | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/disney.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6NDY6MjUgQU0maGFzaF92YWx1ZT1XTkcyKy9lZ25wSy9rMzAyVlRuMGFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SPORTV | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDY6NTMgQU0maGFzaF92YWx1ZT04ZFVvYndGWUFhUDVKeXEyS3lPVER3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SPORTV | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDc6NTIgQU0maGFzaF92YWx1ZT1Ja0JBcFgya1l3YUJYMXlzaVJGUndnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SPORTV 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDg6MjAgQU0maGFzaF92YWx1ZT1zb1g5NmRLdmF2bG9BaVFKdTBxSHF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SPORTV 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDg6NDIgQU0maGFzaF92YWx1ZT1uWDcvdHN1YmF3TEw3Qmd2VnhHOGt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SPORTV 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDk6MTcgQU0maGFzaF92YWx1ZT1xbXIzMVFBL0VIL0p3WEp2R2ppU0Z3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,SPORTV 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MDk6NDggQU0maGFzaF92YWx1ZT1Ec2czZ3haclUxS3IxOCtReTVOVjNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN BRASIL | TechRuthes.com
+https://ricks.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTkgMTA6MDc6MDIgUE0maGFzaF92YWx1ZT1vUjkrSThYUHdLdVNzbHFnRmw5dkJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN BRASIL | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTA6NTAgQU0maGFzaF92YWx1ZT1RVE9uUFlGRm0rcUFLQi8wVmxHRG9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTE6MzMgQU0maGFzaF92YWx1ZT1DTmFQb1Z4ZHRKOGFDb1Y3bnRmbmZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTE6NTQgQU0maGFzaF92YWx1ZT1qZXJzQXRHVzFZa2tqcVM1WERURXZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTI6MzggQU0maGFzaF92YWx1ZT1STXlrYnBRMnllaGNlNWpmaGZaVkpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTI6NTcgQU0maGFzaF92YWx1ZT1DcTBVZ3FLeGRWb08vbU92WldHaytBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN EXTRA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espnextra.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTM6MjcgQU0maGFzaF92YWx1ZT14NDFvRGhETEYya2U0blgzOWEyTXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ESPN EXTRA | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/espnextra.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTM6NTQgQU0maGFzaF92YWx1ZT04aW1NRXFnQkxwb29HeG9PaHBlRmx3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,COMBATE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTQ6MzUgQU0maGFzaF92YWx1ZT0xUDRuaVhmK1RTTFpxUmRUdVBxelBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,COMBATE | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTU6MDQgQU0maGFzaF92YWx1ZT16c1pJNW1VeDlFUk01RDlxSXo5V3VBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX SPORTS | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDQ6MTU6NTQgUE0maGFzaF92YWx1ZT1DRHJrdVd6ZXpwSjBCNVZOaVphazhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX SPORTS | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDQ6MTk6NTEgUE0maGFzaF92YWx1ZT1tN0dtYURQdmV6RmkweG9zZTNkb3F3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX SPORTS 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDQ6MjE6NTUgUE0maGFzaF92YWx1ZT1WVEc1K2VvcmVsbWhJeUxkS2RHK2tnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,FOX SPORTS 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE5IDQ6MjM6MjYgUE0maGFzaF92YWx1ZT05STJjdEkybzE1V1pWRjduZ3dNcXVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,BANDSPORTS | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTU6NTIgQU0maGFzaF92YWx1ZT1jeld2Q1F4cElKSGxLUldvMThvOFdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE CLUBES | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTc6MDUgQU0maGFzaF92YWx1ZT10dHhidVpUVVBSRzhDb04yQjlNM213PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE CLUBES | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTc6MzkgQU0maGFzaF92YWx1ZT1wUERNTDEvSnpnZ1cwMEtoUys2eGJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTg6NTAgQU0maGFzaF92YWx1ZT1lVjdQMzVoa0Jia3JIQU9mbUxIQW9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 2 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTk6MTUgQU0maGFzaF92YWx1ZT1HanpEMUxTcXdJT3pEYUpKaUFhOC9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTk6NDEgQU0maGFzaF92YWx1ZT1NUUlQRzd3YzRoN1h0UGhBS1RIT2JBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 3 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MTk6NTUgQU0maGFzaF92YWx1ZT1UTkNuSW8rMmtyaGdWVWZOZ1dkVlZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 4 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjA6MTkgQU0maGFzaF92YWx1ZT1kNHVrOUE1a2xuMWRvOGZYaXVGVkpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 4 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjA6NDUgQU0maGFzaF92YWx1ZT1iNDExeHdtYVR3V3RSZWtVY2dlUDFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 5 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjE6MTkgQU0maGFzaF92YWx1ZT1XT29Xc0tNeU1xdG5ZQW5KR0g4OUlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 5 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjE6NDAgQU0maGFzaF92YWx1ZT1hNVUwbWcvQmdLU0hiRlNDZzNSWmRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 6 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjI6MDQgQU0maGFzaF92YWx1ZT1Cc0FNYlVla21wQVdCbWt3ZnBubjBRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 6 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjI6MzQgQU0maGFzaF92YWx1ZT1RRVdLVmpScVpxNHFwSjVmbkgzS01nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 7 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjM6MzYgQU0maGFzaF92YWx1ZT10K1JBZ1lKb1VwS3NqVXpVdmlHa2N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,PREMIERE 7 | TechRuthes.com
+https://cdnfe1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE5IDM6MjM6NTggQU0maGFzaF92YWx1ZT15RHhNRnYrVS9QcFh6cFhXbFZlREVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
