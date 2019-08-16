@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP Full HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/17121.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP Full HD | TechRuthes.com
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/46912
+http://play.starbr.top/live/Ayrton1977/1235689/1108.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://lista.digitalgroup.me:80/Ayrton1977/1235689/17122
+http://lista.digitalgroup.me/live/Ayrton1977/1235689/1108.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo RJ Full HD | TechRuthes.com
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/46913
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
@@ -25,4 +25,3 @@ http://lista.digitalgroup.me:80/Ayrton1977/1235689/20815
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/46908
 #EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
 http://lista.digitalgroup.me:80/Ayrton1977/1235689/20816
-
