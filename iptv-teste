@@ -33,5 +33,5 @@ https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/54.m3u8
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/55.m3u8
 #EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus| TechRuthes.com
 https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/56.m3u8
-#EXTINF:-1 tvg-ID="hbo22" tvg-name="HBO teste" group-title="Filmes e Séries",HBO teste| TechRuthes.com
-https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/56.m3u8
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family| TechRuthes.com
+https://tvweb.xyz:25463/live/HoJeSempreHoje/SempreHojeSempre/57.m3u8
