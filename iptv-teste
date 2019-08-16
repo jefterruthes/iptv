@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo | TechRuthes.com
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Globo | TechRuthes.com
 https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w467826205_b850000.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais Abertos",SBT | TechRuthes.com
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT | TechRuthes.com
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT Interior" group-title="Canais Abertos",Interior | TechRuthes.com
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT Brasília" group-title="Canais Abertos",SBT Brasília | TechRuthes.com
+https://www.youtube.com/watch?v=Pi1T8uuO-3g
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band | TechRuthes.com
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais Abertos",Band | TechRuthes.com
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
