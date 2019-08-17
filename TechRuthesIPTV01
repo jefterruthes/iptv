@@ -181,3 +181,29 @@ http://play.starbr.top/live/Ayrton1977/1235689/1213.m3u8
 http://play.starbr.top/live/Ayrton1977/1235689/38788.m3u8
 #EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1214.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38791.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1215.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4 HD" group-title="Esportes",Premiere 4 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38792.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5 HD" group-title="Esportes",Premiere 5 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1216.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38797.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6 HD" group-title="Esportes",Premiere 6 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/16211.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38800.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7 HD" group-title="Esportes",Premiere 7 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/16213.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38802.m3u8
+#EXTINF:-1 tvg-ID="premiere8" tvg-name="Premiere 8 HD" group-title="Esportes",Premiere 8 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38359.m3u8
+#EXTINF:-1 tvg-ID="premiere8" tvg-name="Premiere 8" group-title="Esportes",Premiere 8 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/41343.m3u8
+#EXTINF:-1 tvg-ID="danz" tvg-name="DANZ HD" group-title="Esportes",DANZ HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/46925.m3u8
+#EXTINF:-1 tvg-ID="danzlibertadores" tvg-name="DANZ Libertadores HD" group-title="Esportes",DANZ Libertadores HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/48114.m3u8
