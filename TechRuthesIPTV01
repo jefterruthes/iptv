@@ -27,6 +27,42 @@ http://play.starbr.top/live/Ayrton1977/1235689/2470.m3u8
 http://play.starbr.top/live/Ayrton1977/1235689/5089.m3u8
 #EXTINF:-1 tvg-ID="max" tvg-name="Max" group-title="Filmes e Séries",Max | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1007.m3u8
+#EXTINF:-1 tvg-ID="maxup" tvg-name="Max UP HD" group-title="Filmes e Séries",Max UP HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/5091.m3u8
+#EXTINF:-1 tvg-ID="maxup" tvg-name="Max UP" group-title="Filmes e Séries",Max UP | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1005.m3u8
+#EXTINF:-1 tvg-ID="maxprime" tvg-name="Max Prime HD" group-title="Filmes e Séries",Max Prime HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/5090.m3u8
+#EXTINF:-1 tvg-ID="maxprime" tvg-name="Max Prime" group-title="Filmes e Séries",Max Prime | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1006.m3u8
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO HD" group-title="Filmes e Séries",HBO HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1209.m3u8
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1020.m3u8
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2 HD" group-title="Filmes e Séries",HBO 2 HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1017.m3u8
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2489.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus HD" group-title="Filmes e Séries",HBO Plus HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2467.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1014.m3u8
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family HD" group-title="Filmes e Séries",HBO Family HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2392.m3u8
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1016.m3u8
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature HD" group-title="Filmes e Séries",HBO Signature HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1013.m3u8
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2488.m3u8
+#EXTINF:-1 tvg-ID="tcpremium" tvg-name="Telecine Premium HD" group-title="Filmes e Séries",Telecine Premium HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/928.m3u8
+#EXTINF:-1 tvg-ID="tcpremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2415.m3u8
+#EXTINF:-1 tvg-ID="tcpipoca" tvg-name="Telecine Pipoca HD" group-title="Filmes e Séries",Telecine Pipoca HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/930.m3u8
+#EXTINF:-1 tvg-ID="tcpipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/929.m3u8
 #EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1033.m3u8
 #EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
