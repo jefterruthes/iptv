@@ -129,6 +129,40 @@ http://play.starbr.top/live/Ayrton1977/1235689/2469.m3u8
 http://play.starbr.top/live/Ayrton1977/1235689/1011.m3u8
 #EXTINF:-1 tvg-ID="id" tvg-name="ID" group-title="Documentários",ID | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1011.m3u8
+#EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang HD" group-title="Infantis",Boomerang HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/20801.m3u8
+#EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang" group-title="Infantis",Boomerang | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1102.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network HD" group-title="Infantis",Cartoon Network HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/2479.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantis",Cartoon Network | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1095.m3u8
+#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids HD" group-title="Infantis",Discovery Kids HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/5081.m3u8
+#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids" group-title="Infantis",Discovery Kids | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1080.m3u8
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel HD" group-title="Infantis",Disney Channel HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38438.m3u8
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel HD" group-title="Infantis",Disney Channel HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/5082.m3u8
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel" group-title="Infantis",Disney Channel | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38763.m3u8
+#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Jr HD" group-title="Infantis",Disney Jr HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/20809.m3u8
+#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Jr" group-title="Infantis",Disney Jr | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38783.m3u8
+#EXTINF:-1 tvg-ID="disneyxd" tvg-name="Disney XD HD" group-title="Infantis",Disney XD HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/20810.m3u8
+#EXTINF:-1 tvg-ID="disneyxd" tvg-name="Disney XD" group-title="Infantis",Disney XD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38763.m3u8
+#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob HD" group-title="Infantis",Gloob HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/5086.m3u8
+#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob" group-title="Infantis",Gloob | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/38719.m3u8
+#EXTINF:-1 tvg-ID="nick" tvg-name="Nick HD" group-title="Infantis",Nick HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/5093.m3u8
+#EXTINF:-1 tvg-ID="nick" tvg-name="Nick" group-title="Infantis",Nick | TechRuthes.com
+http://play.starbr.top/live/Ayrton1977/1235689/1206.m3u8
 #EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1977/1235689/1033.m3u8
 #EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
