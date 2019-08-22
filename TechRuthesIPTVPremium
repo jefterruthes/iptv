@@ -1,73 +1,11 @@
 #EXTM3U8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais abertos",Globo HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/17241.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais abertos",Globo | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/12665.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1961.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT Paraná HD" group-title="Canais abertos",SBT Paraná HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/41975.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais abertos",Band HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1744.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais abertos",Band | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/372.m3u8
-#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV HD" group-title="Canais abertos",RedeTV HD| TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1862.m3u8
-#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais abertos",RedeTV | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/297.m3u8
-#EXTINF:-1 tvg-ID="recordtv" tvg-name="Record TV SP FHD" group-title="Canais abertos",Record TV SP FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/21622.m3u8
-#EXTINF:-1 tvg-ID="recordtv" tvg-name="Record TV SP HD" group-title="Canais abertos",Record TV SP HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1694.m3u8
-#EXTINF:-1 tvg-ID="recordtv" tvg-name="Record TV SP" group-title="Canais abertos",Record TV SP | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/252.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/21625.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/18760.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News" group-title="Notícias",Globo News | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/227.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/21626.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/20885.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/239.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/239.m3u8
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet FHD" group-title="Documentários",Animal Planet FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/18631.m3u8
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1861.m3u8
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/94.m3u8
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel FHD" group-title="Documentários",Discovery Channel FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/17040.m3u8
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel HD" group-title="Documentários",Discovery Channel HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1611.m3u8
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1497.m3u8
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo FHD" group-title="Documentários",Discovery Turbo FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/17182.m3u8
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo HD" group-title="Documentários",Discovery Turbo HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1612.m3u8
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/183.m3u8
-#EXTINF:-1 tvg-ID="discoveryheh" tvg-name="Discovery h&h FHD" group-title="Documentários",Discovery h&h FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/17183.m3u8
-#EXTINF:-1 tvg-ID="discoveryheh" tvg-name="Discovery h&h HD" group-title="Documentários",Discovery h&h HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/1610.m3u8
-#EXTINF:-1 tvg-ID="discoveryheh" tvg-name="Discovery h&h" group-title="Documentários",Discovery | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/359.m3u8
-#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation FHD" group-title="Documentários",Discovery Civilzation FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/13804.m3u8
-#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation HD" group-title="Documentários",Discovery Civilzation HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/13785.m3u8
-#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation" group-title="Documentários",Discovery Civilzation | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/26380.m3u8
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science FHD" group-title="Documentários",Discovery Science FHD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/13805.m3u8
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science HD | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/13784.m3u8
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science | TechRuthes.com
-http://dns.clientetv.net:8000/live/frank/12345678/26381.m3u8
+https://fan.kastream.biz/edge/ver0b8e8f2a2d7a88baf541d2ce3fd46286/chunks.m3u8?nimblesessionid=4016941&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE5IDExOjIwOjE3IFBNJmhhc2hfdmFsdWU9ZWZ1ak9Tb3dmWFZXYStnc05IY0JwZz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT RJ HD | TechRuthes.com
+https://www.youtube.com/watch?v=8-lS3kn5INc
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT DF HD | TechRuthes.com
+https://www.youtube.com/watch?v=KfQYrj9Xzvk
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT RS HD | TechRuthes.com
+https://www.youtube.com/watch?v=luetb6WcPfo
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT PA HD | TechRuthes.com
+https://www.youtube.com/watch?v=yF2ychy8zg8
