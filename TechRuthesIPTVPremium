@@ -1,0 +1,49 @@
+#EXTM3U8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais abertos",Globo HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/17241.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais abertos",Globo | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/12665.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1961.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT Paraná HD" group-title="Canais abertos",SBT Paraná HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/41975.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais abertos",Band HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1744.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais abertos",Band | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/372.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV HD" group-title="Canais abertos",RedeTV HD| TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1862.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais abertos",RedeTV | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/297.m3u8
+#EXTINF:-1 tvg-ID="recordtv" tvg-name="Record TV SP FHD" group-title="Canais abertos",Record TV SP FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/21622.m3u8
+#EXTINF:-1 tvg-ID="recordtv" tvg-name="Record TV SP HD" group-title="Canais abertos",Record TV SP HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1694.m3u8
+#EXTINF:-1 tvg-ID="recordtv" tvg-name="Record TV SP" group-title="Canais abertos",Record TV SP | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/252.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/21625.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/18760.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News" group-title="Notícias",Globo News | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/227.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/21626.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/20885.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/239.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/239.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet FHD" group-title="Documentários",Animal Planet FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/18631.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1861.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/94.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel FHD" group-title="Documentários",Discovery Channel FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/17040.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel HD" group-title="Documentários",Discovery Channel HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1611.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1497.m3u8
