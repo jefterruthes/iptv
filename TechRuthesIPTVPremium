@@ -47,3 +47,27 @@ http://dns.clientetv.net:8000/live/frank/12345678/17040.m3u8
 http://dns.clientetv.net:8000/live/frank/12345678/1611.m3u8
 #EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
 http://dns.clientetv.net:8000/live/frank/12345678/1497.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo FHD" group-title="Documentários",Discovery Turbo FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/17182.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo HD" group-title="Documentários",Discovery Turbo HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1612.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/183.m3u8
+#EXTINF:-1 tvg-ID="discoveryheh" tvg-name="Discovery h&h FHD" group-title="Documentários",Discovery h&h FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/17183.m3u8
+#EXTINF:-1 tvg-ID="discoveryheh" tvg-name="Discovery h&h HD" group-title="Documentários",Discovery h&h HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/1610.m3u8
+#EXTINF:-1 tvg-ID="discoveryheh" tvg-name="Discovery h&h" group-title="Documentários",Discovery | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/359.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation FHD" group-title="Documentários",Discovery Civilzation FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/13804.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation HD" group-title="Documentários",Discovery Civilzation HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/13785.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation" group-title="Documentários",Discovery Civilzation | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/26380.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science FHD" group-title="Documentários",Discovery Science FHD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/13805.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science HD | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/13784.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science | TechRuthes.com
+http://dns.clientetv.net:8000/live/frank/12345678/26381.m3u8
