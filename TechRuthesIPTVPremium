@@ -1,11 +1,35 @@
 #EXTM3U8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais abertos",Globo HD | TechRuthes.com
 http://play.starbr.top/live/marildo/eqwds/17122.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Band HD" group-title="Canais abertos",Band HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="recordtv" tvg-name="Record TV HD" group-title="Canais abertos",Record TV HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/1210.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/1208.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band HD" group-title="Canais abertos",Band HD | TechRuthes.com
 http://play.starbr.top/live/marildo/eqwds/1108.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV HD" group-title="Canais abertos",SporTV HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="band" tvg-name="SBT HD" group-title="Canais abertos",SBT HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/1208.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/1117.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel HD" group-title="Documentários",Discovery Channel HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/2410.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation HD" group-title="Documentários",Discovery Civilzation HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/16005.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/16006.m3u8
+#EXTINF:-1 tvg-ID="discoverystheater" tvg-name="Discovery Theater HD" group-title="Documentários",Discovery Theater HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/2460.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo HD" group-title="Documentários",Discovery Turbo HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/2411.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery World HD" group-title="Documentários",Discovery World HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/2461.m3u8
+#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/2468.m3u8
+#EXTINF:-1 tvg-ID="h2" tvg-name="H2 HD" group-title="Documentários",H2 HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/1021.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV HD" group-title="Esportes",SporTV HD | TechRuthes.com
 http://play.starbr.top/live/marildo/eqwds/1203.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV 2 HD " group-title="Canais abertos",SporTV 2 HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV 2 HD" group-title="Esportes",SporTV 2 HD | TechRuthes.com
 http://play.starbr.top/live/marildo/eqwds/2401.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV 3 HD " group-title="Canais abertos",SporTV 3 HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV 3 HD" group-title="Esportes",SporTV 3 HD | TechRuthes.com
 http://play.starbr.top/live/marildo/eqwds/2402.m3u8
