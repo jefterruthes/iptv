@@ -1,11 +1,5 @@
 #EXTM3U8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais abertos",Globo HD | TechRuthes.com
-https://fan.kastream.biz/edge/ver0b8e8f2a2d7a88baf541d2ce3fd46286/chunks.m3u8?nimblesessionid=4016941&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE5IDExOjIwOjE3IFBNJmhhc2hfdmFsdWU9ZWZ1ak9Tb3dmWFZXYStnc05IY0JwZz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT RJ HD | TechRuthes.com
-https://www.youtube.com/watch?v=8-lS3kn5INc
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT DF HD | TechRuthes.com
-https://www.youtube.com/watch?v=KfQYrj9Xzvk
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT RS HD | TechRuthes.com
-https://www.youtube.com/watch?v=luetb6WcPfo
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT HD" group-title="Canais abertos",SBT PA HD | TechRuthes.com
-https://www.youtube.com/watch?v=yF2ychy8zg8
+http://play.starbr.top/live/marildo/eqwds/17122.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Band HD" group-title="Canais abertos",Band HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/1108.m3u8
