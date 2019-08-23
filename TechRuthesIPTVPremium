@@ -3,3 +3,7 @@
 http://play.starbr.top/live/marildo/eqwds/17122.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Band HD" group-title="Canais abertos",Band HD | TechRuthes.com
 http://play.starbr.top/live/marildo/eqwds/1108.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV HD" group-title="Canais abertos",SporTV HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/1203.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="SporTV 2 HD " group-title="Canais abertos",SporTV 2 HD | TechRuthes.com
+http://play.starbr.top/live/marildo/eqwds/2401.m3u8
