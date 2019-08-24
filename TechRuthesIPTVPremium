@@ -29,8 +29,10 @@ http://play.starbr.top/live/jefterjcr01/1235689/5087.m3u8
 http://play.starbr.top/live/jefterjcr01/1235689/2476.m3u8
 #EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow | TechRuthes.com
 http://play.starbr.top/live/jefterjcr01/1235689/2385.m3u8
+#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV FHD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1978/1235689/26018.m3u8
 #EXTINF:-1 tvg-ID="mtv" tvg-name="MTV" group-title="Variedades e Músicas",MTV | TechRuthes.com
-http://play.starbr.top/live/Ayrton1978/1235689/1108.m3u8
+http://play.starbr.top/live/Ayrton1978/1235689/5092.m3u8
 #EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS | TechRuthes.com
 http://play.starbr.top/live/jefterjcr01/1235689/1104.m3u8
 #EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History HD | TechRuthes.com
