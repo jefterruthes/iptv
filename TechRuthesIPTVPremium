@@ -5,6 +5,8 @@ http://play.starbr.top/live/Ayrton1978/1235689/17122.m3u8
 http://play.starbr.top/live/Ayrton1978/1235689/1207.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1978/1235689/17121.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo MG HD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1978/1235689/17129.m3u8
 #EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band | TechRuthes.com
 http://play.starbr.top/live/Ayrton1978/1235689/1108.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record | TechRuthes.com
@@ -43,6 +45,8 @@ http://play.starbr.top/live/Ayrton1978/1235689/2486.m3u8
 http://play.starbr.top/live/Ayrton1978/1235689/1117.m3u8
 #EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
 http://play.starbr.top/live/Ayrton1978/1235689/1719.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel FHD" group-title="Documentários",Discovery Channel FHD | TechRuthes.com
+http://play.starbr.top/live/Ayrton1978/1235689/5035.m3u8
 #EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel HD" group-title="Documentários",Discovery Channel HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1978/1235689/2410.m3u8
 #EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
@@ -263,3 +267,9 @@ http://play.starbr.top/live/Ayrton1978/1235689/41343.m3u8
 http://play.starbr.top/live/Ayrton1978/1235689/46925.m3u8
 #EXTINF:-1 tvg-ID="danzlibertadores" tvg-name="DANZ Libertadores HD" group-title="Esportes",DANZ Libertadores HD | TechRuthes.com
 http://play.starbr.top/live/Ayrton1978/1235689/48114.m3u8
+#EXTINF:-1 tvg-ID="tvaparecida" tvg-name="TV Aparecida" group-title="Religiosos",TV Aparecida | TechRuthes.com
+http://play.starbr.top/live/Ayrton1978/1235689/20831.m3u8
+#EXTINF:-1 tvg-ID="cancaonova" tvg-name="Canção Nova" group-title="Religiosos",Canção Nova | TechRuthes.com
+http://play.starbr.top/live/Ayrton1978/1235689/38470.m3u8
+#EXTINF:-1 tvg-ID="rititv" tvg-name="RIT TV" group-title="Religiosos",RIT TV| TechRuthes.com
+http://play.starbr.top/live/Ayrton1978/1235689/37780.m3u8
