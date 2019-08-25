@@ -253,10 +253,14 @@ http://play.starbr.top/live/tec23303/23303/1088.m3u8
 http://play.starbr.top/live/tec23303/23303/38746.m3u8
 #EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/38744.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes FHD | TechRuthes.com
+http://play.starbr.top/live/tec23303/23303/5065.m3u8
 #EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/1714.m3u8
 #EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/38672.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 FHD | TechRuthes.com
+http://play.starbr.top/live/tec23303/23303/5062.m3u8
 #EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 HD | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/1213.m3u8
 #EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 | TechRuthes.com
