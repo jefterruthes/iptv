@@ -29,7 +29,7 @@ http://play.starbr.top/live/tec23303/23303/38784.m3u8
 http://play.starbr.top/live/tec23303/23303/18028.m3u8
 #EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/17951.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/1107.m3u8
 #EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/5078.m3u8
@@ -103,6 +103,10 @@ http://play.starbr.top/live/tec23303/23303/2469.m3u8
 http://play.starbr.top/live/tec23303/23303/1011.m3u8
 #EXTINF:-1 tvg-ID="id" tvg-name="ID" group-title="Documentários",ID | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/1011.m3u8
+#EXTINF:-1 tvg-ID="anx" tvg-name="ANX FHD" group-title="Filmes e Séries",ANX FHD | TechRuthes.com
+http://play.starbr.top/live/tec23303/23303/5033.m3u8
+#EXTINF:-1 tvg-ID="anx" tvg-name="ANX HD" group-title="Filmes e Séries",ANX HD | TechRuthes.com
+http://play.starbr.top/live/tec23303/23303/1114.m3u8
 #EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
 http://play.starbr.top/live/tec23303/23303/1047.m3u8
 #EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
