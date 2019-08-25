@@ -15,6 +15,22 @@ http://play.starbr.top/live/blo42830/42830/1210.m3u8
 http://play.starbr.top/live/blo42830/42830/1208.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",RedeTV | TechRuthes.com
 http://play.starbr.top/live/blo42830/42830/963.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/46919.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/5085.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News" group-title="Notícias",Globo News | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/38716.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/2400.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News" group-title="Notícias",Record News | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/38784.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News FHD | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/18028.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/17951.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
+http://play.starbr.top/live/blo42830/42830/1107.m3u8
 #EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E | TechRuthes.com
 http://play.starbr.top/live/blo42830/42830/5078.m3u8
 #EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 | TechRuthes.com
