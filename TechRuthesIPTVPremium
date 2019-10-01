@@ -1,19 +1,31 @@
 #EXTM3U8
+#EXTINF:-1 tvg-ID="globo" tvg-name="A Fazenda" group-title="Reality Show",A Fazenda HD | TechRuthes.com
+http://play.starbr.top/live/cantel003/lion01/50846.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/17122.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
+http://play.starbr.top/live/cantel003/lion01/46912.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/1207.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF HD | TechRuthes.com
-http://play.starbr.top/live/cantel003/lion01/17121.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo MG HD | TechRuthes.com
-http://play.starbr.top/live/cantel003/lion01/17129.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band | TechRuthes.com
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
+http://play.starbr.top/live/cantel003/lion01/46913.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RPC HD | TechRuthes.com
+http://play.starbr.top/live/cantel003/lion01/46916.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo NSC HD | TechRuthes.com
+http://play.starbr.top/live/cantel003/lion01/46942.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP HD | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/1108.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record | TechRuthes.com
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP FHD | TechRuthes.com
+http://play.starbr.top/live/cantel003/lion01/46900.m3u8
+#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record HD | TechRuthes.com
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8?sts=st=1569933701~exp=1569940301~acl=/*~hmac=50aa7d960ac1125b3cea47dacdbc0de5a2340846c8c24803eb9eee5b57707e13
+#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/1210.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT | TechRuthes.com
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT HD | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/1208.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",RedeTV | TechRuthes.com
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT HD | TechRuthes.com
+http://play.starbr.top/live/cantel003/lion01/50196.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/963.m3u8
 #EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/46919.m3u8
@@ -191,6 +203,8 @@ http://play.starbr.top/live/cantel003/lion01/2409.m3u8
 http://play.starbr.top/live/cantel003/lion01/5094.m3u8
 #EXTINF:-1 tvg-ID="studio" tvg-name="Studio Universal" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/2384.m3u8
+#EXTINF:-1 tvg-ID="playkids" tvg-name="PlayKids HD" group-title="Infantis",PlayKids HD | TechRuthes.com
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8467%2C59afd3523ac0073050aa736b9ca99f95%3Bbase64np%3BEI0YftrZVxmTgHM%21/amlst%3AEI3gZ8eSUhiMwP_r/chunklist_b2628000.m3u8?sts=st=1569932505~exp=1569939105~acl=/*~hmac=351b820f5bef2c5141dc3eea1483b7db4badede8d37de13e67cdeb11372b99b5
 #EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang HD" group-title="Infantis",Boomerang HD | TechRuthes.com
 http://play.starbr.top/live/cantel003/lion01/20801.m3u8
 #EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang" group-title="Infantis",Boomerang | TechRuthes.com
