@@ -1,6 +1,4 @@
 #EXTM3U8
-#EXTINF:-1 tvg-ID="globo" tvg-name="A Fazenda" group-title="Reality Show",A Fazenda HD | TechRuthes.com
-http://play.starbr.top/live/tcantel01/lion01/50846.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
 http://play.starbr.top/live/tcantel01/lion01/17122.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
