@@ -19,3 +19,13 @@ http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/36439.m3u8
 http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28491.m3u8
 #EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT FHD | TechRuthes.com
 http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30796.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV HD| TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28494.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30783.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30808.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28574.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30835.m3u8
