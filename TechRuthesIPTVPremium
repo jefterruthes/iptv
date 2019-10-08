@@ -1,31 +1,109 @@
 #EXTM3U8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30937.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/30937.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/36273.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/36273.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28341.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/28341.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/33556.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/33556.m3u8
 #EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP HD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28650.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/28650.m3u8
 #EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP FHD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30818.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/30818.m3u8
 #EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record HD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28501.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/28501.m3u8
 #EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record FHD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/36439.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/36439.m3u8
 #EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT HD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28491.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/28491.m3u8
 #EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT FHD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30796.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/30796.m3u8
 #EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV HD| TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28494.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/28494.m3u8
 #EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV FHD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30783.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/30783.m3u8
 #EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News FHD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30808.m3u8
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/30808.m3u8
 #EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
-http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28574.m3u8
-#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/28574.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News" group-title="Notícias",Record News HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/9tHP9KtWGj/zko6FYnr6k/30835.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News" group-title="Notícias",Record News FHD | TechRuthes.com
 http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30835.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28648.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30885.m3u8
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28661.m3u8
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30890.m3u8
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28655.m3u8
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30887.m3u8
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28568.m3u8
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30859.m3u8
+#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28592.m3u8
+#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30866.m3u8
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28550.m3u8
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30852.m3u8
+#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28437.m3u8
+#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30787.m3u8
+#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28536.m3u8
+#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30845.m3u8
+#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28538.m3u8
+#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30847.m3u8
+#EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28644.m3u8
+#EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30817.m3u8
+#EXTINF:-1 tvg-ID="history" tvg-name="History" group-title="Documentários",History HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28554.m3u8
+#EXTINF:-1 tvg-ID="history" tvg-name="History" group-title="Documentários",History FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30854.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28657.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30888.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28624.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30815.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation" group-title="Documentários",Discovery Civilzation HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28622.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation" group-title="Documentários",Discovery Civilzation FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/29546.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28616.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30873.m3u8
+#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28614.m3u8
+#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30873.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28612.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30872.m3u8
+#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World" group-title="Documentários",Discovery World HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28610.m3u8
+#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World" group-title="Documentários",Discovery World FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30871.m3u8
+#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Natgeo Wild" group-title="Documentários",Natgeo Wild HD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/28529.m3u8
+#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Natgeo Wild" group-title="Documentários",Natgeo Wild FHD | TechRuthes.com
+http://stream2019.iptvmove.me/live/lmN86KrxjC/7H5kXe9u8P/30841.m3u8
