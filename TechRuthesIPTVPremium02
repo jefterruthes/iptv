@@ -1,0 +1,185 @@
+#EXTM3U8
+#EXTINF:-1 tvg-ID="fazenda" tvg-name="fazenda" group-title="Reality show",A Fazenda HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/68335.m3u8
+#EXTINF:-1 tvg-ID="fazenda" tvg-name="fazenda" group-title="Reality show",A Fazenda HD²| TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/67506.m3u8
+#EXTINF:-1 tvg-ID="fazenda" tvg-name="fazenda" group-title="Reality show",A Fazenda SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/67505.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5136.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5116.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/59595.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5117.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5137.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5120.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/25584.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5121.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4973.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4969.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21095.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4970.m3u8
+#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record SP FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4972.m3u8
+#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record SP HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4962.m3u8
+#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record SP HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21089.m3u8
+#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record SP SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4965.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT SP FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4971.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT SP HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4956.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT SP HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21085.m3u8
+#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT SP SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4957.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/25402.m3u8
+#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/4959.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5189.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5184.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21237.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5185.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/22612.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5182.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5183.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5188.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5186.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/43265.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5187.m3u8
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/22654.m3u8
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5273.m3u8
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5274.m3u8
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/22633.m3u8
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5257.m3u8
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21285.m3u8
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5258.m3u8
+#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/22639.m3u8
+#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5259.m3u8
+#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21289.m3u8
+#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5260.m3u8
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/22627.m3u8
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5255.m3u8
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21283.m3u8
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5226.m3u8
+#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5275.m3u8
+#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5236.m3u8
+#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21273.m3u8
+#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5237.m3u8
+#EXTINF:-1 tvg-ID="comedycentral" tvg-name="Comedy Central" group-title="Variedades e Músicas",Comedy Central FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/22648.m3u8
+#EXTINF:-1 tvg-ID="comedycentral" tvg-name="Comedy Central" group-title="Variedades e Músicas",Comedy Central HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5269.m3u8
+#EXTINF:-1 tvg-ID="comedycentral" tvg-name="Comedy Central" group-title="Variedades e Músicas",Comedy Central HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/25570.m3u8
+#EXTINF:-1 tvg-ID="comedycentral" tvg-name="Comedy Central" group-title="Variedades e Músicas",Comedy Central SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5270.m3u8
+#EXTINF:-1 tvg-ID="curta" tvg-name="curta" group-title="Variedades e Músicas",Curta! FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/22647.m3u8
+#EXTINF:-1 tvg-ID="curta" tvg-name="curta" group-title="Variedades e Músicas",Curta! HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5267.m3u8
+#EXTINF:-1 tvg-ID="curta" tvg-name="curta" group-title="Variedades e Músicas",Curta! HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5268.m3u8
+#EXTINF:-1 tvg-ID="curta" tvg-name="curta" group-title="Variedades e Músicas",Curta! SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21298.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5211.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5191.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21253.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5192.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5210.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5203.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21251.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5204.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5209.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5201.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21249.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5202.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5208.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5199.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21247.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5200.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5207.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 HD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5197.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 HD² | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/21245.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 SD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5198.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5206.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5195.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/43270.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5196.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5205.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5193.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/43269.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/5194.m3u8
+#EXTINF:-1 tvg-ID="premiere" tvg-name="Premiere 8" group-title="Esportes",Premiere 8 FHD | TechRuthes.com
+http://bldtv.vip/live/Diogo1020/1020diogo/25587.m3u8
