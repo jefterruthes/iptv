@@ -585,9 +585,9 @@ http://us.server.kjuliett.live/FHD_MAX_PRIME/video.m3u8?token=24088e6e2b322de8fc
 http://us.server.kjuliett.live/HD_MAXPRIME/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Max Prime HD²" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_MAXPRIME.png" group-title="Filme e 15|false|true|10",Max Prime HD²
 http://us.server.kjuliett.live/HD_MAXPRIME_ALTER/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
-#EXTINF:-1 type="stream" tvg-id="Max Prime*e" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MAX_PRIME_E.png" group-title="Filme e 15|false|true|10",Max Prime*e
+#EXTINF:-1 type="stream" tvg-id="Max Prime*e" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MAX_PRIME_E.png" group-title="Filme e 15|false|true|10",Max Prime | TechRuthes.com
 http://us.server.kjuliett.live/SD_MAX_PRIME_E/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
-#EXTINF:-1 type="stream" tvg-id="Max Prime*e HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MAX_PRIME_E.png" group-title="Filme e 15|false|true|10",Max Prime*e HD
+#EXTINF:-1 type="stream" tvg-id="Max Prime*e HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MAX_PRIME_E.png" group-title="Filme e 15|false|true|10",Max Prime HD | TechRuthes.com
 http://us.server.kjuliett.live/HD_MAX_PRIME_E/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Max UP" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MAX_UP.png" group-title="Filme e 15|false|true|10",Max UP
 http://us.server.kjuliett.live/SD_MAX_UP/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
@@ -595,7 +595,7 @@ http://us.server.kjuliett.live/SD_MAX_UP/video.m3u8?token=24088e6e2b322de8fcac34
 http://us.server.kjuliett.live/FHD_MAX_UP/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Max UP HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_MAX_UP.png" group-title="Filme e 15|false|true|10",Max UP HD
 http://us.server.kjuliett.live/HD_MAX_UP/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
-#EXTINF:-1 type="stream" tvg-id="Max UP HD²" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_MAX_UP.png" group-title="Filme e 15|false|true|10",Max UP HD²
+#EXTINF:-1 type="stream" tvg-id="Max UP HD²" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_MAX_UP.png" group-title="Filme e 15|false|true|10",Max UP HD² | TechRuthes.com
 http://us.server.kjuliett.live/HD_MAX_UP_ALTER/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Megapix" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_MEGAPIX.png" group-title="Filme e 15|false|true|10",Megapix
 http://us.server.kjuliett.live/SD_MEGAPIX/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
