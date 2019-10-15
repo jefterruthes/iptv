@@ -139,8 +139,7 @@ http://cliente.kudaplay.tv/cliente/player/aovivo/HD_COMEDY_CENTRAL/video.m3u8?to
 http://cliente.kudaplay.tv/cliente/player/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TV_CULTURA.png" group-title="TV Aberta",Cultura | TechRuthes.com
 http://cliente.kudaplay.tv/cliente/player/aovivo/SD_TV_CULTURA/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
-#EXTINF:-1 type="stream" tvg-id="Cultura HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TV_CULTURA.png" group-title="TV Aberta",Cultura HD | TechRuthes.com
-http://cliente.kudaplay.tv/cliente/player/aovivo/HD_CULTURA/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
+#EXTINF:-1 type="stream" tvg-id="Cultura HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TV_CULTURA.png" group-title="TV Aberta",Cultura HD | TechRuthes.comhttp://cliente.kudaplay.tv/cliente/player/aovivo/HD_CULTURA/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Curta!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/528px-Logo_of_Curta%21.svg.png" group-title="Variedade",Curta! | TechRuthes.com
 http://cliente.kudaplay.tv/cliente/player/aovivo/SD_CURTA/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Curta! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/528px-Logo_of_Curta%21.svg.png" group-title="Variedade e 13|false|true|10",Curta! HD | TechRuthes.com
@@ -329,11 +328,11 @@ http://cliente.kudaplay.tv/cliente/player/aovivo/FHD_FOX_SPORTS_2/video.m3u8?tok
 http://cliente.kudaplay.tv/cliente/player/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD²" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4e/Gallery_1157_2_67230.png/revision/latest?cb=20130602213808" group-title="Esporte",Fox Sports 2 HD² | TechRuthes.com
 http://cliente.kudaplay.tv/cliente/player/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
-#EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="Esporte",Fox Sports FHD
+#EXTINF:-1 type="stream" tvg-id="Fox Sports FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="Esporte",Fox Sports FHD | TechRuthes.com
 http://cliente.kudaplay.tv/cliente/player/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
-#EXTINF:-1 type="stream" tvg-id="Fox Sports HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="Esporte",Fox Sports HD
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="Esporte",Fox Sports HD | TechRuthes.com
 http://cliente.kudaplay.tv/cliente/player/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
-#EXTINF:-1 type="stream" tvg-id="Fox Sports HD²" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="Esporte",Fox Sports HD²
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD²" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="Esporte",Fox Sports HD² | TechRuthes.com
 http://cliente.kudaplay.tv/cliente/player/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="Futura" tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Documentario",Futura
 http://cliente.kudaplay.tv/cliente/player/aovivo/SD_FUTURA/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
