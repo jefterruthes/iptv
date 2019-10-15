@@ -1,6 +1,4 @@
-#EXTM3U#EXTM3U
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.myapp.st/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD | TechRuthes.com
-https://plus.theplay.top/live/cantel02/lion01/46898.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.myapp.st/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD | TechRuthes.com
 http://play.starbr.top/live/cantel02/lion01/5078.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.myapp.st/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD | TechRuthes.com
