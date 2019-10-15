@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ANIMAL_PLANET.png" group-title="Documentario",Animal Planet FHD | TechRuthes.com
+https://swarm.starbr.tv/starbr/17122.m3u8
+#EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_ANIMAL_PLANET.png" group-title="Documentario",Animal Planet FHD | TechRuthes.com
 http://pl.server.kdelta.xyz/HD_ANIMAL_PLANET/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
 #EXTINF:-1 type="stream" tvg-id="ID FHD" tvg-logo="http://portfoliodemidia.meioemensagem.com.br/portfolio/midia/conteudo-img/img215709.jpg" group-title="Documentario",ID FHD
 http://us.server.kkilo.live/FHD_ID/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
