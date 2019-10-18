@@ -1,327 +1,907 @@
-#EXTM3U8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/17122.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/46912.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1207.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/46913.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RPC HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/46916.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo NSC HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/46942.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1108.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/46900.m3u8
-#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record HD | TechRuthes.com
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8?sts=st=1569933701~exp=1569940301~acl=/*~hmac=50aa7d960ac1125b3cea47dacdbc0de5a2340846c8c24803eb9eee5b57707e13
-#EXTINF:-1 tvg-ID="record" tvg-name="record" group-title="Canais Abertos",Record | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1210.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1208.m3u8
-#EXTINF:-1 tvg-ID="sbt" tvg-name="SBT" group-title="Canais Abertos",SBT HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/50196.m3u8
-#EXTINF:-1 tvg-ID="redetv" tvg-name="RedeTV" group-title="Canais Abertos",RedeTV | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/963.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/46919.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5085.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News" group-title="Notícias",Globo News | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38716.m3u8
-#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2400.m3u8
-#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News" group-title="Notícias",Record News | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38784.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/18028.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/17951.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1107.m3u8
-#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5078.m3u8
-#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20795.m3u8
-#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2466.m3u8
-#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5084.m3u8
-#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5087.m3u8
-#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2476.m3u8
-#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2385.m3u8
-#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/26018.m3u8
-#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV" group-title="Variedades e Músicas",MTV | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5092.m3u8
-#EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1104.m3u8
-#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2468.m3u8
-#EXTINF:-1 tvg-ID="history" tvg-name="History" group-title="Documentários",History | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/923.m3u8
-#EXTINF:-1 tvg-ID="h2" tvg-name="H2 HD" group-title="Documentários",H2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1021.m3u8
-#EXTINF:-1 tvg-ID="h2" tvg-name="H2" group-title="Documentários",H2 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2486.m3u8
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1117.m3u8
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1719.m3u8
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel FHD" group-title="Documentários",Discovery Channel FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5035.m3u8
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel HD" group-title="Documentários",Discovery Channel HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2410.m3u8
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1084.m3u8
-#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation HD" group-title="Documentários",Discovery Civilzation HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/16005.m3u8
-#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation" group-title="Documentários",Discovery Civilzation | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20805.m3u8
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/16006.m3u8
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20806.m3u8
-#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater HD" group-title="Documentários",Discovery Theater HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2460.m3u8
-#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20807.m3u8
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo HD" group-title="Documentários",Discovery Turbo HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2411.m3u8
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1072.m3u8
-#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World HD" group-title="Documentários",Discovery World HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2461.m3u8
-#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World" group-title="Documentários",Discovery World | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20808.m3u8
-#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Natgeo Wild HD" group-title="Documentários",Natgeo Wild HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/994.m3u8
-#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Natgeo Wild" group-title="Documentários",Natgeo Wild | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/995.m3u8
-#EXTINF:-1 tvg-ID="nationalgeographics" tvg-name="National Geographics HD" group-title="Documentários",National Geographics HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/990.m3u8
-#EXTINF:-1 tvg-ID="nationalgeographics" tvg-name="National Geographics" group-title="Documentários",National Geographics | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/991.m3u8
-#EXTINF:-1 tvg-ID="id" tvg-name="ID HD" group-title="Documentários",ID HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2469.m3u8
-#EXTINF:-1 tvg-ID="id" tvg-name="ID" group-title="Documentários",ID | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1011.m3u8
-#EXTINF:-1 tvg-ID="id" tvg-name="ID" group-title="Documentários",ID | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1011.m3u8
-#EXTINF:-1 tvg-ID="axn" tvg-name="AXN FHD" group-title="Filmes e Séries",AXN FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5033.m3u8
-#EXTINF:-1 tvg-ID="anx" tvg-name="AXN HD" group-title="Filmes e Séries",AXN HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1114.m3u8
-#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1047.m3u8
-#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1329.m3u8
-#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2464.m3u8
-#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20815.m3u8
-#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2465.m3u8
-#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20816.m3u8
-#EXTINF:-1 tvg-ID="megapix" tvg-name="Megapix" group-title="Filmes e Séries",Megapix HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2470.m3u8
-#EXTINF:-1 tvg-ID="max" tvg-name="Max" group-title="Filmes e Séries",Max HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5089.m3u8
-#EXTINF:-1 tvg-ID="max" tvg-name="Max" group-title="Filmes e Séries",Max | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1007.m3u8
-#EXTINF:-1 tvg-ID="maxup" tvg-name="Max UP HD" group-title="Filmes e Séries",Max UP HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5091.m3u8
-#EXTINF:-1 tvg-ID="maxup" tvg-name="Max UP" group-title="Filmes e Séries",Max UP | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1005.m3u8
-#EXTINF:-1 tvg-ID="maxprime" tvg-name="Max Prime HD" group-title="Filmes e Séries",Max Prime HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5090.m3u8
-#EXTINF:-1 tvg-ID="maxprime" tvg-name="Max Prime" group-title="Filmes e Séries",Max Prime | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1006.m3u8
-#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO HD" group-title="Filmes e Séries",HBO HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1209.m3u8
-#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1020.m3u8
-#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2 HD" group-title="Filmes e Séries",HBO 2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1017.m3u8
-#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2489.m3u8
-#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus HD" group-title="Filmes e Séries",HBO Plus HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2467.m3u8
-#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1014.m3u8
-#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family HD" group-title="Filmes e Séries",HBO Family HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2392.m3u8
-#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1016.m3u8
-#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature HD" group-title="Filmes e Séries",HBO Signature HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1013.m3u8
-#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2488.m3u8
-#EXTINF:-1 tvg-ID="tcpremium" tvg-name="Telecine Premium HD" group-title="Filmes e Séries",Telecine Premium HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/928.m3u8
-#EXTINF:-1 tvg-ID="tcpremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2415.m3u8
-#EXTINF:-1 tvg-ID="tcpipoca" tvg-name="Telecine Pipoca HD" group-title="Filmes e Séries",Telecine Pipoca HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/930.m3u8
-#EXTINF:-1 tvg-ID="tcpipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/929.m3u8
-#EXTINF:-1 tvg-ID="tcaction" tvg-name="Telecine Action HD" group-title="Filmes e Séries",Telecine Action HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/936.m3u8
-#EXTINF:-1 tvg-ID="tcaction" tvg-name="Telecine Action" group-title="Filmes e Séries",Telecine Action | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/935.m3u8
-#EXTINF:-1 tvg-ID="tcfun" tvg-name="Telecine Fun HD" group-title="Filmes e Séries",Telecine Fun HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/932.m3u8
-#EXTINF:-1 tvg-ID="tcfun" tvg-name="Telecine Fun" group-title="Filmes e Séries",Telecine Fun | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/931.m3u8
-#EXTINF:-1 tvg-ID="tctouch" tvg-name="Telecine Touch HD" group-title="Filmes e Séries",Telecine Touch HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/927.m3u8
-#EXTINF:-1 tvg-ID="tctouch" tvg-name="Telecine Touch" group-title="Filmes e Séries",Telecine Touch | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/926.m3u8
-#EXTINF:-1 tvg-ID="space" tvg-name="Space HD" group-title="Filmes e Séries",Space HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1327.m3u8
-#EXTINF:-1 tvg-ID="space" tvg-name="Space" group-title="Filmes e Séries",Space | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2501.m3u8
-#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount FHD" group-title="Filmes e Séries",Paramount FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/26014.m3u8
-#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount HD" group-title="Filmes e Séries",Paramount HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2472.m3u8
-#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount" group-title="Filmes e Séries",Paramount | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/980.m3u8
-#EXTINF:-1 tvg-ID="sony" tvg-name="Sony FHD" group-title="Filmes e Séries",Sony FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/26012.m3u8
-#EXTINF:-1 tvg-ID="sony" tvg-name="Sony HD" group-title="Filmes e Séries",Sony HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2409.m3u8
-#EXTINF:-1 tvg-ID="studio" tvg-name="Studio Universal HD" group-title="Filmes e Séries",Studio Universal HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5094.m3u8
-#EXTINF:-1 tvg-ID="studio" tvg-name="Studio Universal" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2384.m3u8
-#EXTINF:-1 tvg-ID="playkids" tvg-name="PlayKids HD" group-title="Infantis",PlayKids HD | TechRuthes.com
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8467%2C59afd3523ac0073050aa736b9ca99f95%3Bbase64np%3BEI0YftrZVxmTgHM%21/amlst%3AEI3gZ8eSUhiMwP_r/chunklist_b2628000.m3u8?sts=st=1569932505~exp=1569939105~acl=/*~hmac=351b820f5bef2c5141dc3eea1483b7db4badede8d37de13e67cdeb11372b99b5
-#EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang HD" group-title="Infantis",Boomerang HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20801.m3u8
-#EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang" group-title="Infantis",Boomerang | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1102.m3u8
-#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network HD" group-title="Infantis",Cartoon Network HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2479.m3u8
-#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantis",Cartoon Network | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1095.m3u8
-#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids HD" group-title="Infantis",Discovery Kids HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5081.m3u8
-#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids" group-title="Infantis",Discovery Kids | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1080.m3u8
-#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel HD" group-title="Infantis",Disney Channel HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38438.m3u8
-#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel HD" group-title="Infantis",Disney Channel HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5082.m3u8
-#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel" group-title="Infantis",Disney Channel | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38763.m3u8
-#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Jr HD" group-title="Infantis",Disney Jr HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20809.m3u8
-#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Jr" group-title="Infantis",Disney Jr | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38783.m3u8
-#EXTINF:-1 tvg-ID="disneyxd" tvg-name="Disney XD HD" group-title="Infantis",Disney XD HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20810.m3u8
-#EXTINF:-1 tvg-ID="disneyxd" tvg-name="Disney XD" group-title="Infantis",Disney XD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38763.m3u8
-#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob HD" group-title="Infantis",Gloob HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5086.m3u8
-#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob" group-title="Infantis",Gloob | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38719.m3u8
-#EXTINF:-1 tvg-ID="nick" tvg-name="Nick HD" group-title="Infantis",Nick HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5093.m3u8
-#EXTINF:-1 tvg-ID="nick" tvg-name="Nick" group-title="Infantis",Nick | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1206.m3u8
-#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/50188.m3u8
-#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2391.m3u8
-#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports 2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1031.m3u8
-#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports 2 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1717.m3u8
-#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1203.m3u8
-#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/47527.m3u8
-#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2401.m3u8
-#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38710.m3u8
-#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 3" group-title="Esportes",SporTV 3 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2402.m3u8
-#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 3" group-title="Esportes",SporTV 3 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38713.m3u8
-#EXTINF:-1 tvg-ID="espn" tvg-name="ESPN" group-title="Esportes",ESPN HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1129.m3u8
-#EXTINF:-1 tvg-ID="espn" tvg-name="ESPN" group-title="Esportes",ESPN | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38754.m3u8
-#EXTINF:-1 tvg-ID="espn2" tvg-name="ESPN 2" group-title="Esportes",ESPN 2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2394.m3u8
-#EXTINF:-1 tvg-ID="espn2" tvg-name="ESPN 2" group-title="Esportes",ESPN 2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38756.m3u8
-#EXTINF:-1 tvg-ID="espnbrasil" tvg-name="ESPN BrasilL" group-title="Esportes",ESPN Brasil HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/2387.m3u8
-#EXTINF:-1 tvg-ID="espnbrasil" tvg-name="ESPN BrasilL" group-title="Esportes",ESPN Brasil | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38758.m3u8
-#EXTINF:-1 tvg-ID="ei" tvg-name="Esporte Interativo Plus" group-title="Esportes",Esporte Interativo Plus HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/42914.m3u8
-#EXTINF:-1 tvg-ID="ei" tvg-name="Esporte Interativo Plus" group-title="Esportes",Esporte Interativo Plus | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/42916.m3u8
-#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1088.m3u8
-#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38746.m3u8
-#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38744.m3u8
-#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5065.m3u8
-#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1714.m3u8
-#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38672.m3u8
-#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 FHD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/5062.m3u8
-#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1213.m3u8
-#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38788.m3u8
-#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1214.m3u8
-#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38791.m3u8
-#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1215.m3u8
-#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4 HD" group-title="Esportes",Premiere 4 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38792.m3u8
-#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5 HD" group-title="Esportes",Premiere 5 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/1216.m3u8
-#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38797.m3u8
-#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6 HD" group-title="Esportes",Premiere 6 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/16211.m3u8
-#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38800.m3u8
-#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7 HD" group-title="Esportes",Premiere 7 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/16213.m3u8
-#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38802.m3u8
-#EXTINF:-1 tvg-ID="premiere8" tvg-name="Premiere 8 HD" group-title="Esportes",Premiere 8 HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38359.m3u8
-#EXTINF:-1 tvg-ID="premiere8" tvg-name="Premiere 8" group-title="Esportes",Premiere 8 | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/41343.m3u8
-#EXTINF:-1 tvg-ID="danz" tvg-name="DANZ HD" group-title="Esportes",DANZ HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/46925.m3u8
-#EXTINF:-1 tvg-ID="danzlibertadores" tvg-name="DANZ Libertadores HD" group-title="Esportes",DANZ Libertadores HD | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/48114.m3u8
-#EXTINF:-1 tvg-ID="tvaparecida" tvg-name="TV Aparecida" group-title="Religiosos",TV Aparecida | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/20831.m3u8
-#EXTINF:-1 tvg-ID="cancaonova" tvg-name="Canção Nova" group-title="Religiosos",Canção Nova | TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/38470.m3u8
-#EXTINF:-1 tvg-ID="rititv" tvg-name="RIT TV" group-title="Religiosos",RIT TV| TechRuthes.com
-http://play.starbr.top/live/mat70303/mat31944/37780.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="866" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="*A Fazenda 2019 SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",*A Fazenda 2019 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/866.ts
+#EXTINF:-1 tvg-ID="865" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="*A Fazenda HD 2019" tvg-logo="-" group-title="VARIEDADES E MUSICAS",*A Fazenda HD 2019
+http://lindaflor.net:8080/live/83NQH4/autoteste/865.ts
+#EXTINF:-1 tvg-ID="895" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="A&E FHD" tvg-logo="http://lindaflor.net:8080/_tvlogo/1570928102_cfc68d41c3ecb40b.png" group-title="FILMES E SERIES",A&E FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/895.ts
+#EXTINF:-1 tvg-ID="788" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="A&E HD" tvg-logo="http://lindaflor.net:8080/_tvlogo/1570928114_42eac253b2d3473b.png" group-title="FILMES E SERIES",A&E HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/788.ts
+#EXTINF:-1 tvg-ID="789" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="A&E SD" tvg-logo="http://lindaflor.net:8080/_tvlogo/1570928121_518e7053f1e40f65.png" group-title="FILMES E SERIES",A&E SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/789.ts
+#EXTINF:-1 tvg-ID="894" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="AMC FHD" tvg-logo="-" group-title="FILMES E SERIES",AMC FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/894.ts
+#EXTINF:-1 tvg-ID="786" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="AMC HD" tvg-logo="-" group-title="FILMES E SERIES",AMC HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/786.ts
+#EXTINF:-1 tvg-ID="787" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="AMC SD" tvg-logo="-" group-title="FILMES E SERIES",AMC SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/787.ts
+#EXTINF:-1 tvg-ID="892" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="AXN FHD" tvg-logo="-" group-title="FILMES E SERIES",AXN FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/892.ts
+#EXTINF:-1 tvg-ID="781" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="AXN HD" tvg-logo="-" group-title="FILMES E SERIES",AXN HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/781.ts
+#EXTINF:-1 tvg-ID="782" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="AXN SD" tvg-logo="-" group-title="FILMES E SERIES",AXN SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/782.ts
+#EXTINF:-1 tvg-ID="893" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Animal Planet FHD" tvg-logo="-" group-title="DOCUMENTARIOS",Animal Planet FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/893.ts
+#EXTINF:-1 tvg-ID="785" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Animal Planet HD" tvg-logo="-" group-title="DOCUMENTARIOS",Animal Planet HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/785.ts
+#EXTINF:-1 tvg-ID="784" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Animal Planet SD" tvg-logo="-" group-title="DOCUMENTARIOS",Animal Planet SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/784.ts
+#EXTINF:-1 tvg-ID="783" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Arte 1 SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Arte 1 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/783.ts
+#EXTINF:-1 tvg-ID="888" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="BIS FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",BIS FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/888.ts
+#EXTINF:-1 tvg-ID="772" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="BIS HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",BIS HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/772.ts
+#EXTINF:-1 tvg-ID="773" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="BIS SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",BIS SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/773.ts
+#EXTINF:-1 tvg-ID="780" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Baby TV SD" tvg-logo="-" group-title="INFANTIL",Baby TV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/780.ts
+#EXTINF:-1 tvg-ID="779" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Bahia SD" tvg-logo="-" group-title="ABERTO",Band Bahia SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/779.ts
+#EXTINF:-1 tvg-ID="1188" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Brasilia HD" tvg-logo="-" group-title="ABERTO",Band Brasilia HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1188.ts
+#EXTINF:-1 tvg-ID="778" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Campinas HD" tvg-logo="-" group-title="ABERTO",Band Campinas HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/778.ts
+#EXTINF:-1 tvg-ID="891" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Goiania FHD" tvg-logo="-" group-title="ABERTO",Band Goiania FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/891.ts
+#EXTINF:-1 tvg-ID="919" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Goiania HD" tvg-logo="-" group-title="ABERTO",Band Goiania HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/919.ts
+#EXTINF:-1 tvg-ID="890" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band News FHD" tvg-logo="-" group-title="NOTICIAS",Band News FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/890.ts
+#EXTINF:-1 tvg-ID="775" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band News SD" tvg-logo="-" group-title="NOTICIAS",Band News SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/775.ts
+#EXTINF:-1 tvg-ID="1185" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band RJ HD" tvg-logo="-" group-title="ABERTO",Band RJ HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1185.ts
+#EXTINF:-1 tvg-ID="1186" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band RS HD" tvg-logo="-" group-title="ABERTO",Band RS HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1186.ts
+#EXTINF:-1 tvg-ID="776" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band SD" tvg-logo="-" group-title="ABERTO",Band SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/776.ts
+#EXTINF:-1 tvg-ID="796" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Sergipe HD" tvg-logo="-" group-title="ABERTO",Band Sergipe HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/796.ts
+#EXTINF:-1 tvg-ID="889" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Sports FHD" tvg-logo="-" group-title="ESPORTE",Band Sports FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/889.ts
+#EXTINF:-1 tvg-ID="777" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Sports HD" tvg-logo="-" group-title="ESPORTE",Band Sports HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/777.ts
+#EXTINF:-1 tvg-ID="774" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band Sports SD" tvg-logo="-" group-title="ESPORTE",Band Sports SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/774.ts
+#EXTINF:-1 tvg-ID="1187" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Band TV Taroba HD" tvg-logo="-" group-title="ABERTO",Band TV Taroba HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1187.ts
+#EXTINF:-1 tvg-ID="887" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Boomerang FHD" tvg-logo="-" group-title="INFANTIL",Boomerang FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/887.ts
+#EXTINF:-1 tvg-ID="771" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Boomerang SD" tvg-logo="-" group-title="INFANTIL",Boomerang SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/771.ts
+#EXTINF:-1 tvg-ID="886" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Canal Brasil FHD" tvg-logo="-" group-title="FILMES E SERIES",Canal Brasil FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/886.ts
+#EXTINF:-1 tvg-ID="769" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Canal Brasil SD" tvg-logo="-" group-title="FILMES E SERIES",Canal Brasil SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/769.ts
+#EXTINF:-1 tvg-ID="885" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Canal Sony FHD" tvg-logo="-" group-title="FILMES E SERIES",Canal Sony FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/885.ts
+#EXTINF:-1 tvg-ID="770" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Canal Sony HD" tvg-logo="-" group-title="FILMES E SERIES",Canal Sony HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/770.ts
+#EXTINF:-1 tvg-ID="767" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Canal Sony SD" tvg-logo="-" group-title="FILMES E SERIES",Canal Sony SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/767.ts
+#EXTINF:-1 tvg-ID="1206" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Canal da Juventude Crista" tvg-logo="-" group-title="RELIGIOSOS",Canal da Juventude Crista
+http://lindaflor.net:8080/live/83NQH4/autoteste/1206.ts
+#EXTINF:-1 tvg-ID="768" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Canal do Boi SD" tvg-logo="-" group-title="ABERTO",Canal do Boi SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/768.ts
+#EXTINF:-1 tvg-ID="766" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Cancao Nova SD" tvg-logo="-" group-title="RELIGIOSOS",Cancao Nova SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/766.ts
+#EXTINF:-1 tvg-ID="884" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Cartoon Network FHD" tvg-logo="-" group-title="INFANTIL",Cartoon Network FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/884.ts
+#EXTINF:-1 tvg-ID="765" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Cartoon Network HD" tvg-logo="-" group-title="INFANTIL",Cartoon Network HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/765.ts
+#EXTINF:-1 tvg-ID="764" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Cartoon Network SD" tvg-logo="-" group-title="INFANTIL",Cartoon Network SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/764.ts
+#EXTINF:-1 tvg-ID="883" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Cinemax FHD" tvg-logo="-" group-title="FILMES E SERIES",Cinemax FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/883.ts
+#EXTINF:-1 tvg-ID="762" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Cinemax HD" tvg-logo="-" group-title="FILMES E SERIES",Cinemax HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/762.ts
+#EXTINF:-1 tvg-ID="763" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Cinemax SD" tvg-logo="-" group-title="FILMES E SERIES",Cinemax SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/763.ts
+#EXTINF:-1 tvg-ID="882" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Combate FHD" tvg-logo="-" group-title="ESPORTE",Combate FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/882.ts
+#EXTINF:-1 tvg-ID="760" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Combate HD" tvg-logo="-" group-title="ESPORTE",Combate HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/760.ts
+#EXTINF:-1 tvg-ID="761" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Combate SD" tvg-logo="-" group-title="ESPORTE",Combate SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/761.ts
+#EXTINF:-1 tvg-ID="881" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Comedy Central FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Comedy Central FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/881.ts
+#EXTINF:-1 tvg-ID="759" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Comedy Central HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Comedy Central HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/759.ts
+#EXTINF:-1 tvg-ID="758" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Comedy Central SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Comedy Central SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/758.ts
+#EXTINF:-1 tvg-ID="757" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Curta ! SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Curta ! SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/757.ts
+#EXTINF:-1 tvg-ID="1099" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Dazn HD" tvg-logo="-" group-title="ESPORTE",Dazn HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1099.ts
+#EXTINF:-1 tvg-ID="879" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Channel FHD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Channel FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/879.ts
+#EXTINF:-1 tvg-ID="755" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Channel HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Channel HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/755.ts
+#EXTINF:-1 tvg-ID="748" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Channel SD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Channel SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/748.ts
+#EXTINF:-1 tvg-ID="878" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Civilization FHD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Civilization FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/878.ts
+#EXTINF:-1 tvg-ID="754" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Civilization HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Civilization HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/754.ts
+#EXTINF:-1 tvg-ID="880" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Home H&H FULL HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Home H&H FULL HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/880.ts
+#EXTINF:-1 tvg-ID="756" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Home H&H HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Home H&H HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/756.ts
+#EXTINF:-1 tvg-ID="747" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Home H&H SD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Home H&H SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/747.ts
+#EXTINF:-1 tvg-ID="877" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Kids FHD" tvg-logo="-" group-title="INFANTIL",Discovery Kids FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/877.ts
+#EXTINF:-1 tvg-ID="753" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Kids HD" tvg-logo="-" group-title="INFANTIL",Discovery Kids HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/753.ts
+#EXTINF:-1 tvg-ID="746" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Kids SD" tvg-logo="-" group-title="INFANTIL",Discovery Kids SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/746.ts
+#EXTINF:-1 tvg-ID="876" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Science FHD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Science FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/876.ts
+#EXTINF:-1 tvg-ID="752" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Science HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Science HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/752.ts
+#EXTINF:-1 tvg-ID="875" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Theater FHD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Theater FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/875.ts
+#EXTINF:-1 tvg-ID="751" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Theater HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Theater HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/751.ts
+#EXTINF:-1 tvg-ID="874" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Turbo FHD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Turbo FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/874.ts
+#EXTINF:-1 tvg-ID="750" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Turbo HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Turbo HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/750.ts
+#EXTINF:-1 tvg-ID="745" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery Turbo SD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery Turbo SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/745.ts
+#EXTINF:-1 tvg-ID="749" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Discovery World HD" tvg-logo="-" group-title="DOCUMENTARIOS",Discovery World HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/749.ts
+#EXTINF:-1 tvg-ID="873" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Disney Channel FHD" tvg-logo="-" group-title="INFANTIL",Disney Channel FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/873.ts
+#EXTINF:-1 tvg-ID="743" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Disney Channel HD" tvg-logo="-" group-title="INFANTIL",Disney Channel HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/743.ts
+#EXTINF:-1 tvg-ID="744" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Disney Channel SD" tvg-logo="-" group-title="INFANTIL",Disney Channel SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/744.ts
+#EXTINF:-1 tvg-ID="872" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Disney Junior FHD" tvg-logo="-" group-title="INFANTIL",Disney Junior FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/872.ts
+#EXTINF:-1 tvg-ID="742" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Disney Junior HD" tvg-logo="-" group-title="INFANTIL",Disney Junior HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/742.ts
+#EXTINF:-1 tvg-ID="741" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Disney Junior SD" tvg-logo="-" group-title="INFANTIL",Disney Junior SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/741.ts
+#EXTINF:-1 tvg-ID="740" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Disney XD SD" tvg-logo="-" group-title="INFANTIL",Disney XD SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/740.ts
+#EXTINF:-1 tvg-ID="867" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="E! FHD" tvg-logo="-" group-title="FILMES E SERIES",E! FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/867.ts
+#EXTINF:-1 tvg-ID="739" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="E! HD" tvg-logo="-" group-title="FILMES E SERIES",E! HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/739.ts
+#EXTINF:-1 tvg-ID="738" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="E! SD" tvg-logo="-" group-title="FILMES E SERIES",E! SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/738.ts
+#EXTINF:-1 tvg-ID="736" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="EPTV Campinas SD" tvg-logo="-" group-title="REDE GLOBO",EPTV Campinas SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/736.ts
+#EXTINF:-1 tvg-ID="735" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="EPTV RibeiraoPreto SD" tvg-logo="-" group-title="REDE GLOBO",EPTV RibeiraoPreto SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/735.ts
+#EXTINF:-1 tvg-ID="737" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="EPTV Sao Carlos SD" tvg-logo="-" group-title="REDE GLOBO",EPTV Sao Carlos SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/737.ts
+#EXTINF:-1 tvg-ID="869" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN 2 FHD" tvg-logo="-" group-title="ESPORTE",ESPN 2 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/869.ts
+#EXTINF:-1 tvg-ID="732" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN 2 HD" tvg-logo="-" group-title="ESPORTE",ESPN 2 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/732.ts
+#EXTINF:-1 tvg-ID="733" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN 2 SD" tvg-logo="-" group-title="ESPORTE",ESPN 2 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/733.ts
+#EXTINF:-1 tvg-ID="868" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN Brasil FHD" tvg-logo="-" group-title="ESPORTE",ESPN Brasil FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/868.ts
+#EXTINF:-1 tvg-ID="730" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN Brasil HD" tvg-logo="-" group-title="ESPORTE",ESPN Brasil HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/730.ts
+#EXTINF:-1 tvg-ID="731" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN Brasil SD" tvg-logo="-" group-title="ESPORTE",ESPN Brasil SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/731.ts
+#EXTINF:-1 tvg-ID="871" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN Extra FHD" tvg-logo="-" group-title="ESPORTE",ESPN Extra FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/871.ts
+#EXTINF:-1 tvg-ID="728" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN Extra HD" tvg-logo="-" group-title="ESPORTE",ESPN Extra HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/728.ts
+#EXTINF:-1 tvg-ID="870" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN FHD" tvg-logo="-" group-title="ESPORTE",ESPN FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/870.ts
+#EXTINF:-1 tvg-ID="729" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN HD" tvg-logo="-" group-title="ESPORTE",ESPN HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/729.ts
+#EXTINF:-1 tvg-ID="734" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ESPN SD" tvg-logo="-" group-title="ESPORTE",ESPN SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/734.ts
+#EXTINF:-1 tvg-ID="1169" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Ei Max Jogo" tvg-logo="-" group-title="ESPORTE",Ei Max Jogo
+http://lindaflor.net:8080/live/83NQH4/autoteste/1169.ts
+#EXTINF:-1 tvg-ID="1170" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Ei Max Jogo 02" tvg-logo="-" group-title="ESPORTE",Ei Max Jogo 02
+http://lindaflor.net:8080/live/83NQH4/autoteste/1170.ts
+#EXTINF:-1 tvg-ID="1171" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Ei Max Jogo 03" tvg-logo="-" group-title="ESPORTE",Ei Max Jogo 03
+http://lindaflor.net:8080/live/83NQH4/autoteste/1171.ts
+#EXTINF:-1 tvg-ID="1172" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Ei Max Jogo 04" tvg-logo="-" group-title="ESPORTE",Ei Max Jogo 04
+http://lindaflor.net:8080/live/83NQH4/autoteste/1172.ts
+#EXTINF:-1 tvg-ID="859" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="FX FHD" tvg-logo="-" group-title="FILMES E SERIES",FX FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/859.ts
+#EXTINF:-1 tvg-ID="711" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="FX HD" tvg-logo="-" group-title="FILMES E SERIES",FX HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/711.ts
+#EXTINF:-1 tvg-ID="712" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="FX SD" tvg-logo="-" group-title="FILMES E SERIES",FX SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/712.ts
+#EXTINF:-1 tvg-ID="727" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Film & Arts SD" tvg-logo="-" group-title="FILMES E SERIES",Film & Arts SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/727.ts
+#EXTINF:-1 tvg-ID="864" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fish TV FHD" tvg-logo="-" group-title="ESPORTE",Fish TV FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/864.ts
+#EXTINF:-1 tvg-ID="726" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fish TV SD" tvg-logo="-" group-title="ESPORTE",Fish TV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/726.ts
+#EXTINF:-1 tvg-ID="863" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Food Network FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Food Network FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/863.ts
+#EXTINF:-1 tvg-ID="724" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Food Network HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Food Network HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/724.ts
+#EXTINF:-1 tvg-ID="725" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Food Network SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Food Network SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/725.ts
+#EXTINF:-1 tvg-ID="862" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox FHD" tvg-logo="-" group-title="FILMES E SERIES",Fox FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/862.ts
+#EXTINF:-1 tvg-ID="722" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox HD" tvg-logo="-" group-title="FILMES E SERIES",Fox HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/722.ts
+#EXTINF:-1 tvg-ID="720" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Life HD" tvg-logo="-" group-title="FILMES E SERIES",Fox Life HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/720.ts
+#EXTINF:-1 tvg-ID="721" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Life SD" tvg-logo="-" group-title="FILMES E SERIES",Fox Life SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/721.ts
+#EXTINF:-1 tvg-ID="1107" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Premium 1 FHD" tvg-logo="-" group-title="FILMES E SERIES",Fox Premium 1 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1107.ts
+#EXTINF:-1 tvg-ID="719" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Premium 1 HD" tvg-logo="-" group-title="FILMES E SERIES",Fox Premium 1 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/719.ts
+#EXTINF:-1 tvg-ID="1106" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Premium 2 FHD" tvg-logo="-" group-title="FILMES E SERIES",Fox Premium 2 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1106.ts
+#EXTINF:-1 tvg-ID="718" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Premium 2 HD" tvg-logo="-" group-title="FILMES E SERIES",Fox Premium 2 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/718.ts
+#EXTINF:-1 tvg-ID="723" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox SD" tvg-logo="-" group-title="FILMES E SERIES",Fox SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/723.ts
+#EXTINF:-1 tvg-ID="860" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Sports 2 FHD" tvg-logo="-" group-title="ESPORTE",Fox Sports 2 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/860.ts
+#EXTINF:-1 tvg-ID="715" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Sports 2 HD" tvg-logo="-" group-title="ESPORTE",Fox Sports 2 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/715.ts
+#EXTINF:-1 tvg-ID="716" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Sports 2 SD" tvg-logo="-" group-title="ESPORTE",Fox Sports 2 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/716.ts
+#EXTINF:-1 tvg-ID="861" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Sports FHD" tvg-logo="-" group-title="ESPORTE",Fox Sports FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/861.ts
+#EXTINF:-1 tvg-ID="714" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Sports HD" tvg-logo="-" group-title="ESPORTE",Fox Sports HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/714.ts
+#EXTINF:-1 tvg-ID="717" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Fox Sports SD" tvg-logo="-" group-title="ESPORTE",Fox Sports SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/717.ts
+#EXTINF:-1 tvg-ID="713" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Futura SD" tvg-logo="-" group-title="ABERTO",Futura SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/713.ts
+#EXTINF:-1 tvg-ID="710" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="GAZETA SP HD" tvg-logo="-" group-title="ABERTO",GAZETA SP HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/710.ts
+#EXTINF:-1 tvg-ID="856" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="GNT FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",GNT FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/856.ts
+#EXTINF:-1 tvg-ID="1052" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="GNT HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",GNT HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1052.ts
+#EXTINF:-1 tvg-ID="1053" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="GNT SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",GNT SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1053.ts
+#EXTINF:-1 tvg-ID="1176" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Brasilia HD" tvg-logo="-" group-title="REDE GLOBO",Globo Brasilia HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1176.ts
+#EXTINF:-1 tvg-ID="709" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Brasilia SD" tvg-logo="-" group-title="REDE GLOBO",Globo Brasilia SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/709.ts
+#EXTINF:-1 tvg-ID="1036" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="-" group-title="REDE GLOBO",Globo Inter TV Cabugi SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1036.ts
+#EXTINF:-1 tvg-ID="1201" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Internacional HD" tvg-logo="-" group-title="REDE GLOBO",Globo Internacional HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1201.ts
+#EXTINF:-1 tvg-ID="1173" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Minas HD" tvg-logo="-" group-title="REDE GLOBO",Globo Minas HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1173.ts
+#EXTINF:-1 tvg-ID="708" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Minas SD" tvg-logo="-" group-title="REDE GLOBO",Globo Minas SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/708.ts
+#EXTINF:-1 tvg-ID="858" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo News FHD" tvg-logo="-" group-title="NOTICIAS",Globo News FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/858.ts
+#EXTINF:-1 tvg-ID="1057" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo News HD" tvg-logo="-" group-title="NOTICIAS",Globo News HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1057.ts
+#EXTINF:-1 tvg-ID="707" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo News SD" tvg-logo="-" group-title="NOTICIAS",Globo News SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/707.ts
+#EXTINF:-1 tvg-ID="1063" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Nordeste SD" tvg-logo="-" group-title="REDE GLOBO",Globo Nordeste SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1063.ts
+#EXTINF:-1 tvg-ID="800" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo RBS TV Porto Alegre FHD" tvg-logo="-" group-title="REDE GLOBO",Globo RBS TV Porto Alegre FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/800.ts
+#EXTINF:-1 tvg-ID="983" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="-" group-title="REDE GLOBO",Globo RBS TV Porto Alegre SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/983.ts
+#EXTINF:-1 tvg-ID="1058" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo RJ HD" tvg-logo="-" group-title="REDE GLOBO",Globo RJ HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1058.ts
+#EXTINF:-1 tvg-ID="1062" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo RJ SD" tvg-logo="-" group-title="REDE GLOBO",Globo RJ SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1062.ts
+#EXTINF:-1 tvg-ID="1177" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo RPC Parana HD" tvg-logo="-" group-title="REDE GLOBO",Globo RPC Parana HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1177.ts
+#EXTINF:-1 tvg-ID="798" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo SP HD" tvg-logo="-" group-title="REDE GLOBO",Globo SP HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/798.ts
+#EXTINF:-1 tvg-ID="1061" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo SP SD" tvg-logo="-" group-title="REDE GLOBO",Globo SP SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1061.ts
+#EXTINF:-1 tvg-ID="1178" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Santa Catarina HD" tvg-logo="-" group-title="REDE GLOBO",Globo Santa Catarina HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1178.ts
+#EXTINF:-1 tvg-ID="799" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Sergipe HD" tvg-logo="-" group-title="REDE GLOBO",Globo Sergipe HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/799.ts
+#EXTINF:-1 tvg-ID="927" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Anhanguera Goiania SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Anhanguera Goiania SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/927.ts
+#EXTINF:-1 tvg-ID="924" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Bahia SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Bahia SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/924.ts
+#EXTINF:-1 tvg-ID="921" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Centro America Cuiaba SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Centro America Cuiaba SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/921.ts
+#EXTINF:-1 tvg-ID="917" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Liberal Belem SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Liberal Belem SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/917.ts
+#EXTINF:-1 tvg-ID="916" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Morena Ponta Pora HD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Morena Ponta Pora HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/916.ts
+#EXTINF:-1 tvg-ID="1059" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Santa Cruz TV Bahia HD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Santa Cruz TV Bahia HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1059.ts
+#EXTINF:-1 tvg-ID="1060" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Subae Bahia HD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Subae Bahia HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1060.ts
+#EXTINF:-1 tvg-ID="911" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Tem Bauru SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Tem Bauru SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/911.ts
+#EXTINF:-1 tvg-ID="910" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Tem Sao Jose do Rio Preto SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Tem Sao Jose do Rio Preto SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/910.ts
+#EXTINF:-1 tvg-ID="909" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Tem Sorocaba SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/909.ts
+#EXTINF:-1 tvg-ID="1174" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Tribuna ES FHD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Tribuna ES FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1174.ts
+#EXTINF:-1 tvg-ID="793" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Tribuna ES HD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Tribuna ES HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/793.ts
+#EXTINF:-1 tvg-ID="1175" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Tribuna ES SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Tribuna ES SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1175.ts
+#EXTINF:-1 tvg-ID="908" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Tribuna Santos SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/908.ts
+#EXTINF:-1 tvg-ID="907" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Vanguarda dos Campos SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Vanguarda dos Campos SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/907.ts
+#EXTINF:-1 tvg-ID="906" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Verdes Mares Fortaleza SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/906.ts
+#EXTINF:-1 tvg-ID="792" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo TV Vitoria ES HD" tvg-logo="-" group-title="REDE GLOBO",Globo TV Vitoria ES HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/792.ts
+#EXTINF:-1 tvg-ID="805" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Tv Anhaguera FHD" tvg-logo="-" group-title="REDE GLOBO",Globo Tv Anhaguera FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/805.ts
+#EXTINF:-1 tvg-ID="928" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Globo Tv Anhaguera HD" tvg-logo="-" group-title="REDE GLOBO",Globo Tv Anhaguera HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/928.ts
+#EXTINF:-1 tvg-ID="857" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Gloob FHD" tvg-logo="-" group-title="INFANTIL",Gloob FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/857.ts
+#EXTINF:-1 tvg-ID="1054" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Gloob HD" tvg-logo="-" group-title="INFANTIL",Gloob HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1054.ts
+#EXTINF:-1 tvg-ID="1055" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Gloob SD" tvg-logo="-" group-title="INFANTIL",Gloob SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1055.ts
+#EXTINF:-1 tvg-ID="850" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="H2 FHD" tvg-logo="-" group-title="DOCUMENTARIOS",H2 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/850.ts
+#EXTINF:-1 tvg-ID="1040" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="H2 HD" tvg-logo="-" group-title="DOCUMENTARIOS",H2 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1040.ts
+#EXTINF:-1 tvg-ID="1041" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="H2 SD" tvg-logo="-" group-title="DOCUMENTARIOS",H2 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1041.ts
+#EXTINF:-1 tvg-ID="855" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO 2 FHD" tvg-logo="-" group-title="REDE HBO",HBO 2 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/855.ts
+#EXTINF:-1 tvg-ID="1050" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO 2 HD" tvg-logo="-" group-title="REDE HBO",HBO 2 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1050.ts
+#EXTINF:-1 tvg-ID="1042" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO 2 SD" tvg-logo="-" group-title="REDE HBO",HBO 2 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1042.ts
+#EXTINF:-1 tvg-ID="853" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO FHD" tvg-logo="-" group-title="REDE HBO",HBO FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/853.ts
+#EXTINF:-1 tvg-ID="854" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Family FHD" tvg-logo="-" group-title="REDE HBO",HBO Family FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/854.ts
+#EXTINF:-1 tvg-ID="1048" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Family HD" tvg-logo="-" group-title="REDE HBO",HBO Family HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1048.ts
+#EXTINF:-1 tvg-ID="1049" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Family SD" tvg-logo="-" group-title="REDE HBO",HBO Family SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1049.ts
+#EXTINF:-1 tvg-ID="1047" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO HD" tvg-logo="-" group-title="REDE HBO",HBO HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1047.ts
+#EXTINF:-1 tvg-ID="852" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Plus FHD" tvg-logo="-" group-title="REDE HBO",HBO Plus FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/852.ts
+#EXTINF:-1 tvg-ID="1045" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Plus HD" tvg-logo="-" group-title="REDE HBO",HBO Plus HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1045.ts
+#EXTINF:-1 tvg-ID="1046" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Plus SD" tvg-logo="-" group-title="REDE HBO",HBO Plus SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1046.ts
+#EXTINF:-1 tvg-ID="1051" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO SD" tvg-logo="-" group-title="REDE HBO",HBO SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1051.ts
+#EXTINF:-1 tvg-ID="851" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Signature FHD" tvg-logo="-" group-title="REDE HBO",HBO Signature FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/851.ts
+#EXTINF:-1 tvg-ID="1043" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Signature HD" tvg-logo="-" group-title="REDE HBO",HBO Signature HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1043.ts
+#EXTINF:-1 tvg-ID="1044" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="HBO Signature SD" tvg-logo="-" group-title="REDE HBO",HBO Signature SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1044.ts
+#EXTINF:-1 tvg-ID="848" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ID - Investigacao Discovery FHD" tvg-logo="-" group-title="DOCUMENTARIOS",ID - Investigacao Discovery FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/848.ts
+#EXTINF:-1 tvg-ID="1037" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ID - Investigacao Discovery HD" tvg-logo="-" group-title="DOCUMENTARIOS",ID - Investigacao Discovery HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1037.ts
+#EXTINF:-1 tvg-ID="1038" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ID - Investigacao Discovery SD" tvg-logo="-" group-title="DOCUMENTARIOS",ID - Investigacao Discovery SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1038.ts
+#EXTINF:-1 tvg-ID="1203" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="IURD TV" tvg-logo="-" group-title="RELIGIOSOS",IURD TV
+http://lindaflor.net:8080/live/83NQH4/autoteste/1203.ts
+#EXTINF:-1 tvg-ID="847" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Lifetime FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Lifetime FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/847.ts
+#EXTINF:-1 tvg-ID="1034" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Lifetime HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Lifetime HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1034.ts
+#EXTINF:-1 tvg-ID="1035" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Lifetime SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Lifetime SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1035.ts
+#EXTINF:-1 tvg-ID="844" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MAX Prime FHD" tvg-logo="-" group-title="FILMES E SERIES",MAX Prime FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/844.ts
+#EXTINF:-1 tvg-ID="1029" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MAX Prime HD" tvg-logo="-" group-title="FILMES E SERIES",MAX Prime HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1029.ts
+#EXTINF:-1 tvg-ID="1030" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MAX Prime SD" tvg-logo="-" group-title="FILMES E SERIES",MAX Prime SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1030.ts
+#EXTINF:-1 tvg-ID="843" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MAX UP FHD" tvg-logo="-" group-title="FILMES E SERIES",MAX UP FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/843.ts
+#EXTINF:-1 tvg-ID="1027" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MAX UP HD" tvg-logo="-" group-title="FILMES E SERIES",MAX UP HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1027.ts
+#EXTINF:-1 tvg-ID="1028" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MAX UP SD" tvg-logo="-" group-title="FILMES E SERIES",MAX UP SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1028.ts
+#EXTINF:-1 tvg-ID="841" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MTV FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",MTV FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/841.ts
+#EXTINF:-1 tvg-ID="1022" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MTV HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",MTV HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1022.ts
+#EXTINF:-1 tvg-ID="1023" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="MTV SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",MTV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1023.ts
+#EXTINF:-1 tvg-ID="846" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Mais Globosat FHD" tvg-logo="-" group-title="FILMES E SERIES",Mais Globosat FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/846.ts
+#EXTINF:-1 tvg-ID="1056" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Mais Globosat HD" tvg-logo="-" group-title="FILMES E SERIES",Mais Globosat HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1056.ts
+#EXTINF:-1 tvg-ID="1033" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Mais Globosat SD" tvg-logo="-" group-title="FILMES E SERIES",Mais Globosat SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1033.ts
+#EXTINF:-1 tvg-ID="845" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Max FHD" tvg-logo="-" group-title="FILMES E SERIES",Max FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/845.ts
+#EXTINF:-1 tvg-ID="1031" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Max HD" tvg-logo="-" group-title="FILMES E SERIES",Max HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1031.ts
+#EXTINF:-1 tvg-ID="1032" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Max SD" tvg-logo="-" group-title="FILMES E SERIES",Max SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1032.ts
+#EXTINF:-1 tvg-ID="842" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Megapix FHD" tvg-logo="-" group-title="FILMES E SERIES",Megapix FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/842.ts
+#EXTINF:-1 tvg-ID="1025" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Megapix HD" tvg-logo="-" group-title="FILMES E SERIES",Megapix HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1025.ts
+#EXTINF:-1 tvg-ID="1026" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Megapix SD" tvg-logo="-" group-title="FILMES E SERIES",Megapix SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1026.ts
+#EXTINF:-1 tvg-ID="840" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Multishow FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Multishow FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/840.ts
+#EXTINF:-1 tvg-ID="1020" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Multishow HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Multishow HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1020.ts
+#EXTINF:-1 tvg-ID="1021" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Multishow SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Multishow SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1021.ts
+#EXTINF:-1 tvg-ID="1019" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Music Box Brazil SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Music Box Brazil SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1019.ts
+#EXTINF:-1 tvg-ID="1012" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="NHK SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",NHK SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1012.ts
+#EXTINF:-1 tvg-ID="838" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="NatGeo Kids FHD" tvg-logo="-" group-title="INFANTIL",NatGeo Kids FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/838.ts
+#EXTINF:-1 tvg-ID="1017" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="NatGeo Kids HD" tvg-logo="-" group-title="INFANTIL",NatGeo Kids HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1017.ts
+#EXTINF:-1 tvg-ID="1015" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="NatGeo Kids SD" tvg-logo="-" group-title="INFANTIL",NatGeo Kids SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1015.ts
+#EXTINF:-1 tvg-ID="837" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="NatGeo Wild FHD" tvg-logo="-" group-title="DOCUMENTARIOS",NatGeo Wild FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/837.ts
+#EXTINF:-1 tvg-ID="1016" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="NatGeo Wild HD" tvg-logo="-" group-title="DOCUMENTARIOS",NatGeo Wild HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1016.ts
+#EXTINF:-1 tvg-ID="1014" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="NatGeo Wild SD" tvg-logo="-" group-title="DOCUMENTARIOS",NatGeo Wild SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1014.ts
+#EXTINF:-1 tvg-ID="839" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="National Geographic FHD" tvg-logo="-" group-title="DOCUMENTARIOS",National Geographic FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/839.ts
+#EXTINF:-1 tvg-ID="1018" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="National Geographic HD" tvg-logo="-" group-title="DOCUMENTARIOS",National Geographic HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1018.ts
+#EXTINF:-1 tvg-ID="1013" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="National Geographic SD" tvg-logo="-" group-title="DOCUMENTARIOS",National Geographic SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1013.ts
+#EXTINF:-1 tvg-ID="1008" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Nick.Jr HD" tvg-logo="-" group-title="INFANTIL",Nick.Jr HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1008.ts
+#EXTINF:-1 tvg-ID="1011" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Nick.Jr SD" tvg-logo="-" group-title="INFANTIL",Nick.Jr SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1011.ts
+#EXTINF:-1 tvg-ID="836" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Nickelodeon FHD" tvg-logo="-" group-title="INFANTIL",Nickelodeon FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/836.ts
+#EXTINF:-1 tvg-ID="1009" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Nickelodeon HD" tvg-logo="-" group-title="INFANTIL",Nickelodeon HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1009.ts
+#EXTINF:-1 tvg-ID="1010" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Nickelodeon SD" tvg-logo="-" group-title="INFANTIL",Nickelodeon SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1010.ts
+#EXTINF:-1 tvg-ID="1204" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Novo Tempo" tvg-logo="-" group-title="RELIGIOSOS",Novo Tempo
+http://lindaflor.net:8080/live/83NQH4/autoteste/1204.ts
+#EXTINF:-1 tvg-ID="835" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="OFF FHD" tvg-logo="-" group-title="ESPORTE",OFF FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/835.ts
+#EXTINF:-1 tvg-ID="1006" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="OFF HD" tvg-logo="-" group-title="ESPORTE",OFF HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1006.ts
+#EXTINF:-1 tvg-ID="1007" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="OFF SD" tvg-logo="-" group-title="ESPORTE",OFF SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1007.ts
+#EXTINF:-1 tvg-ID="834" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Paramount FHD" tvg-logo="-" group-title="FILMES E SERIES",Paramount FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/834.ts
+#EXTINF:-1 tvg-ID="1004" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Paramount HD" tvg-logo="-" group-title="FILMES E SERIES",Paramount HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1004.ts
+#EXTINF:-1 tvg-ID="1005" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Paramount SD" tvg-logo="-" group-title="FILMES E SERIES",Paramount SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1005.ts
+#EXTINF:-1 tvg-ID="833" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Play kids SD" tvg-logo="-" group-title="INFANTIL",Play kids SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/833.ts
+#EXTINF:-1 tvg-ID="1002" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="PlayTV SD" tvg-logo="-" group-title="ABERTO",PlayTV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1002.ts
+#EXTINF:-1 tvg-ID="1001" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Polishop TV SD" tvg-logo="-" group-title="ABERTO",Polishop TV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1001.ts
+#EXTINF:-1 tvg-ID="831" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 2 FHD" tvg-logo="-" group-title="PREMIERE",Premiere 2 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/831.ts
+#EXTINF:-1 tvg-ID="999" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 2 HD" tvg-logo="-" group-title="PREMIERE",Premiere 2 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/999.ts
+#EXTINF:-1 tvg-ID="1000" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 2 SD" tvg-logo="-" group-title="PREMIERE",Premiere 2 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1000.ts
+#EXTINF:-1 tvg-ID="830" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 3 FHD" tvg-logo="-" group-title="PREMIERE",Premiere 3 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/830.ts
+#EXTINF:-1 tvg-ID="997" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 3 HD" tvg-logo="-" group-title="PREMIERE",Premiere 3 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/997.ts
+#EXTINF:-1 tvg-ID="998" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 3 SD" tvg-logo="-" group-title="PREMIERE",Premiere 3 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/998.ts
+#EXTINF:-1 tvg-ID="829" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 4 FHD" tvg-logo="-" group-title="PREMIERE",Premiere 4 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/829.ts
+#EXTINF:-1 tvg-ID="995" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 4 HD" tvg-logo="-" group-title="PREMIERE",Premiere 4 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/995.ts
+#EXTINF:-1 tvg-ID="996" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 4 SD" tvg-logo="-" group-title="PREMIERE",Premiere 4 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/996.ts
+#EXTINF:-1 tvg-ID="828" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 5 FHD" tvg-logo="-" group-title="PREMIERE",Premiere 5 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/828.ts
+#EXTINF:-1 tvg-ID="993" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 5 HD" tvg-logo="-" group-title="PREMIERE",Premiere 5 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/993.ts
+#EXTINF:-1 tvg-ID="994" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 5 SD" tvg-logo="-" group-title="PREMIERE",Premiere 5 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/994.ts
+#EXTINF:-1 tvg-ID="827" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 6 FHD" tvg-logo="-" group-title="PREMIERE",Premiere 6 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/827.ts
+#EXTINF:-1 tvg-ID="991" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 6 HD" tvg-logo="-" group-title="PREMIERE",Premiere 6 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/991.ts
+#EXTINF:-1 tvg-ID="992" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 6 SD" tvg-logo="-" group-title="PREMIERE",Premiere 6 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/992.ts
+#EXTINF:-1 tvg-ID="826" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 7 FHD" tvg-logo="-" group-title="PREMIERE",Premiere 7 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/826.ts
+#EXTINF:-1 tvg-ID="989" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 7 HD" tvg-logo="-" group-title="PREMIERE",Premiere 7 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/989.ts
+#EXTINF:-1 tvg-ID="990" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 7 SD" tvg-logo="-" group-title="PREMIERE",Premiere 7 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/990.ts
+#EXTINF:-1 tvg-ID="988" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 8 SD" tvg-logo="-" group-title="PREMIERE",Premiere 8 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/988.ts
+#EXTINF:-1 tvg-ID="987" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere 9 SD" tvg-logo="-" group-title="PREMIERE",Premiere 9 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/987.ts
+#EXTINF:-1 tvg-ID="832" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere Clubes FHD" tvg-logo="-" group-title="PREMIERE",Premiere Clubes FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/832.ts
+#EXTINF:-1 tvg-ID="985" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere Clubes HD" tvg-logo="-" group-title="PREMIERE",Premiere Clubes HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/985.ts
+#EXTINF:-1 tvg-ID="986" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Premiere Clubes SD" tvg-logo="-" group-title="PREMIERE",Premiere Clubes SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/986.ts
+#EXTINF:-1 tvg-ID="984" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Prime Box Brazil SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Prime Box Brazil SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/984.ts
+#EXTINF:-1 tvg-ID="1024" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="RECORD MG SD" tvg-logo="-" group-title="ABERTO",RECORD MG SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1024.ts
+#EXTINF:-1 tvg-ID="824" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="RECORD TV FHD" tvg-logo="-" group-title="ABERTO",RECORD TV FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/824.ts
+#EXTINF:-1 tvg-ID="978" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="RECORD TV HD" tvg-logo="-" group-title="ABERTO",RECORD TV HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/978.ts
+#EXTINF:-1 tvg-ID="980" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="RECORD TV SD" tvg-logo="-" group-title="ABERTO",RECORD TV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/980.ts
+#EXTINF:-1 tvg-ID="1205" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="RIT" tvg-logo="-" group-title="RELIGIOSOS",RIT
+http://lindaflor.net:8080/live/83NQH4/autoteste/1205.ts
+#EXTINF:-1 tvg-ID="969" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="RPC TV Curitiba SD" tvg-logo="-" group-title="REDE GLOBO",RPC TV Curitiba SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/969.ts
+#EXTINF:-1 tvg-ID="1180" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record Brasilia HD" tvg-logo="-" group-title="ABERTO",Record Brasilia HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1180.ts
+#EXTINF:-1 tvg-ID="825" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record News HD" tvg-logo="-" group-title="NOTICIAS",Record News HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/825.ts
+#EXTINF:-1 tvg-ID="982" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record News SD" tvg-logo="-" group-title="NOTICIAS",Record News SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/982.ts
+#EXTINF:-1 tvg-ID="1181" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record Parana HD" tvg-logo="-" group-title="ABERTO",Record Parana HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1181.ts
+#EXTINF:-1 tvg-ID="976" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record RJ HD" tvg-logo="-" group-title="ABERTO",Record RJ HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/976.ts
+#EXTINF:-1 tvg-ID="1179" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record RS HD" tvg-logo="-" group-title="ABERTO",Record RS HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1179.ts
+#EXTINF:-1 tvg-ID="965" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record SP HD" tvg-logo="-" group-title="ABERTO",Record SP HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/965.ts
+#EXTINF:-1 tvg-ID="1184" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record Santa Catarina HD" tvg-logo="-" group-title="ABERTO",Record Santa Catarina HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1184.ts
+#EXTINF:-1 tvg-ID="981" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record Sao Jose Rio Preto HD" tvg-logo="-" group-title="ABERTO",Record Sao Jose Rio Preto HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/981.ts
+#EXTINF:-1 tvg-ID="795" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record Sergipe HD" tvg-logo="-" group-title="ABERTO",Record Sergipe HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/795.ts
+#EXTINF:-1 tvg-ID="923" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record TV Cabralia HD Bahia" tvg-logo="-" group-title="ABERTO",Record TV Cabralia HD Bahia
+http://lindaflor.net:8080/live/83NQH4/autoteste/923.ts
+#EXTINF:-1 tvg-ID="977" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record TV Minas HD" tvg-logo="-" group-title="ABERTO",Record TV Minas HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/977.ts
+#EXTINF:-1 tvg-ID="1182" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record TV Vitoria ES FHD" tvg-logo="-" group-title="ABERTO",Record TV Vitoria ES FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1182.ts
+#EXTINF:-1 tvg-ID="1183" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record TV Vitoria ES SD" tvg-logo="-" group-title="ABERTO",Record TV Vitoria ES SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1183.ts
+#EXTINF:-1 tvg-ID="979" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Record TV belem HD" tvg-logo="-" group-title="ABERTO",Record TV belem HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/979.ts
+#EXTINF:-1 tvg-ID="975" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede Amazonica Manaus SD" tvg-logo="-" group-title="REDE GLOBO",Rede Amazonica Manaus SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/975.ts
+#EXTINF:-1 tvg-ID="974" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede Brasil SD" tvg-logo="-" group-title="ABERTO",Rede Brasil SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/974.ts
+#EXTINF:-1 tvg-ID="973" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede Familia HD" tvg-logo="-" group-title="ABERTO",Rede Familia HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/973.ts
+#EXTINF:-1 tvg-ID="1209" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede Mundial" tvg-logo="http://lindaflor.net:8080/_tvlogo/1570843228_d5a818b7eceb2982.png" group-title="RELIGIOSOS",Rede Mundial
+http://lindaflor.net:8080/live/83NQH4/autoteste/1209.ts
+#EXTINF:-1 tvg-ID="1202" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede Seculo 21" tvg-logo="http://lindaflor.net:8080/_tvlogo/1570839529_297f0b97e6fc5905.jpeg" group-title="RELIGIOSOS",Rede Seculo 21
+http://lindaflor.net:8080/live/83NQH4/autoteste/1202.ts
+#EXTINF:-1 tvg-ID="823" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede TV FHD" tvg-logo="-" group-title="ABERTO",Rede TV FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/823.ts
+#EXTINF:-1 tvg-ID="971" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede TV HD" tvg-logo="-" group-title="ABERTO",Rede TV HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/971.ts
+#EXTINF:-1 tvg-ID="1198" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede TV Pampa RS" tvg-logo="-" group-title="ABERTO",Rede TV Pampa RS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1198.ts
+#EXTINF:-1 tvg-ID="972" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede TV SD" tvg-logo="-" group-title="ABERTO",Rede TV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/972.ts
+#EXTINF:-1 tvg-ID="970" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Rede Vida SD" tvg-logo="-" group-title="RELIGIOSOS",Rede Vida SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/970.ts
+#EXTINF:-1 tvg-ID="1195" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT Brasilia HD" tvg-logo="-" group-title="ABERTO",SBT Brasilia HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1195.ts
+#EXTINF:-1 tvg-ID="1193" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT Parana HD" tvg-logo="-" group-title="ABERTO",SBT Parana HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1193.ts
+#EXTINF:-1 tvg-ID="1191" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT RJ HD" tvg-logo="-" group-title="ABERTO",SBT RJ HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1191.ts
+#EXTINF:-1 tvg-ID="1190" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT RS HD" tvg-logo="-" group-title="ABERTO",SBT RS HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1190.ts
+#EXTINF:-1 tvg-ID="822" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT SP FHD" tvg-logo="-" group-title="ABERTO",SBT SP FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/822.ts
+#EXTINF:-1 tvg-ID="1109" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT SP HD" tvg-logo="-" group-title="ABERTO",SBT SP HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1109.ts
+#EXTINF:-1 tvg-ID="968" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT SP SD" tvg-logo="-" group-title="ABERTO",SBT SP SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/968.ts
+#EXTINF:-1 tvg-ID="1194" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT Santa Catarina HD" tvg-logo="-" group-title="ABERTO",SBT Santa Catarina HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1194.ts
+#EXTINF:-1 tvg-ID="1189" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT Sergipe HD" tvg-logo="-" group-title="ABERTO",SBT Sergipe HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1189.ts
+#EXTINF:-1 tvg-ID="1192" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT TV Alterosa MINAS HD" tvg-logo="-" group-title="ABERTO",SBT TV Alterosa MINAS HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1192.ts
+#EXTINF:-1 tvg-ID="925" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT TV Aratu HD Bahia" tvg-logo="-" group-title="REDE GLOBO",SBT TV Aratu HD Bahia
+http://lindaflor.net:8080/live/83NQH4/autoteste/925.ts
+#EXTINF:-1 tvg-ID="912" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SBT Tv Serra Dourada HD" tvg-logo="-" group-title="ABERTO",SBT Tv Serra Dourada HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/912.ts
+#EXTINF:-1 tvg-ID="821" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Space FHD" tvg-logo="-" group-title="FILMES E SERIES",Space FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/821.ts
+#EXTINF:-1 tvg-ID="963" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Space HD" tvg-logo="-" group-title="FILMES E SERIES",Space HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/963.ts
+#EXTINF:-1 tvg-ID="964" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Space SD" tvg-logo="-" group-title="FILMES E SERIES",Space SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/964.ts
+#EXTINF:-1 tvg-ID="820" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV 2 FHD" tvg-logo="-" group-title="ESPORTE",SporTV 2 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/820.ts
+#EXTINF:-1 tvg-ID="960" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV 2 HD" tvg-logo="-" group-title="ESPORTE",SporTV 2 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/960.ts
+#EXTINF:-1 tvg-ID="961" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV 2 SD" tvg-logo="-" group-title="ESPORTE",SporTV 2 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/961.ts
+#EXTINF:-1 tvg-ID="819" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV 3 FHD" tvg-logo="-" group-title="ESPORTE",SporTV 3 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/819.ts
+#EXTINF:-1 tvg-ID="958" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV 3 HD" tvg-logo="-" group-title="ESPORTE",SporTV 3 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/958.ts
+#EXTINF:-1 tvg-ID="959" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV 3 SD" tvg-logo="-" group-title="ESPORTE",SporTV 3 SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/959.ts
+#EXTINF:-1 tvg-ID="818" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV FHD " tvg-logo="-" group-title="ESPORTE",SporTV FHD 
+http://lindaflor.net:8080/live/83NQH4/autoteste/818.ts
+#EXTINF:-1 tvg-ID="1064" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV HD " tvg-logo="-" group-title="ESPORTE",SporTV HD 
+http://lindaflor.net:8080/live/83NQH4/autoteste/1064.ts
+#EXTINF:-1 tvg-ID="962" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="SporTV SD" tvg-logo="-" group-title="ESPORTE",SporTV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/962.ts
+#EXTINF:-1 tvg-ID="817" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Studio Universal FHD" tvg-logo="-" group-title="FILMES E SERIES",Studio Universal FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/817.ts
+#EXTINF:-1 tvg-ID="956" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Studio Universal HD" tvg-logo="-" group-title="FILMES E SERIES",Studio Universal HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/956.ts
+#EXTINF:-1 tvg-ID="957" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Studio Universal SD" tvg-logo="-" group-title="FILMES E SERIES",Studio Universal SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/957.ts
+#EXTINF:-1 tvg-ID="816" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Syfy FHD" tvg-logo="-" group-title="FILMES E SERIES",Syfy FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/816.ts
+#EXTINF:-1 tvg-ID="954" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Syfy HD" tvg-logo="-" group-title="FILMES E SERIES",Syfy HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/954.ts
+#EXTINF:-1 tvg-ID="955" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Syfy SD" tvg-logo="-" group-title="FILMES E SERIES",Syfy SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/955.ts
+#EXTINF:-1 tvg-ID="815" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TBS FHD" tvg-logo="-" group-title="FILMES E SERIES",TBS FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/815.ts
+#EXTINF:-1 tvg-ID="952" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TBS HD" tvg-logo="-" group-title="FILMES E SERIES",TBS HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/952.ts
+#EXTINF:-1 tvg-ID="953" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TBS SD" tvg-logo="-" group-title="FILMES E SERIES",TBS SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/953.ts
+#EXTINF:-1 tvg-ID="951" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TCM SD" tvg-logo="-" group-title="FILMES E SERIES",TCM SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/951.ts
+#EXTINF:-1 tvg-ID="808" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TLC FHD" tvg-logo="-" group-title="DOCUMENTARIOS",TLC FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/808.ts
+#EXTINF:-1 tvg-ID="935" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TLC HD" tvg-logo="-" group-title="DOCUMENTARIOS",TLC HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/935.ts
+#EXTINF:-1 tvg-ID="936" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TLC SD" tvg-logo="-" group-title="DOCUMENTARIOS",TLC SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/936.ts
+#EXTINF:-1 tvg-ID="807" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TNT FHD" tvg-logo="-" group-title="ESPORTE",TNT FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/807.ts
+#EXTINF:-1 tvg-ID="933" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TNT HD" tvg-logo="-" group-title="ESPORTE",TNT HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/933.ts
+#EXTINF:-1 tvg-ID="934" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TNT SD" tvg-logo="-" group-title="ESPORTE",TNT SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/934.ts
+#EXTINF:-1 tvg-ID="806" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TNT Series FHD" tvg-logo="-" group-title="FILMES E SERIES",TNT Series FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/806.ts
+#EXTINF:-1 tvg-ID="931" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TNT Series HD" tvg-logo="-" group-title="FILMES E SERIES",TNT Series HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/931.ts
+#EXTINF:-1 tvg-ID="932" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TNT Series SD" tvg-logo="-" group-title="FILMES E SERIES",TNT Series SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/932.ts
+#EXTINF:-1 tvg-ID="926" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Aparecida SD" tvg-logo="-" group-title="RELIGIOSOS",TV Aparecida SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/926.ts
+#EXTINF:-1 tvg-ID="922" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Camara SD" tvg-logo="-" group-title="ABERTO",TV Camara SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/922.ts
+#EXTINF:-1 tvg-ID="920" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Cultura SD" tvg-logo="-" group-title="ABERTO",TV Cultura SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/920.ts
+#EXTINF:-1 tvg-ID="1207" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Evangelizar" tvg-logo="-" group-title="RELIGIOSOS",TV Evangelizar
+http://lindaflor.net:8080/live/83NQH4/autoteste/1207.ts
+#EXTINF:-1 tvg-ID="794" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV GAZETA ES HD" tvg-logo="-" group-title="ABERTO",TV GAZETA ES HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/794.ts
+#EXTINF:-1 tvg-ID="1196" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Gazeta ES FHD" tvg-logo="-" group-title="ABERTO",TV Gazeta ES FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1196.ts
+#EXTINF:-1 tvg-ID="1197" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Gazeta ES SD" tvg-logo="-" group-title="ABERTO",TV Gazeta ES SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1197.ts
+#EXTINF:-1 tvg-ID="918" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Justica SD" tvg-logo="-" group-title="ABERTO",TV Justica SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/918.ts
+#EXTINF:-1 tvg-ID="1208" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Mundo Maior" tvg-logo="http://lindaflor.net:8080/_tvlogo/1570843113_0af9c3507b76588c.png" group-title="RELIGIOSOS",TV Mundo Maior
+http://lindaflor.net:8080/live/83NQH4/autoteste/1208.ts
+#EXTINF:-1 tvg-ID="1210" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Plenitude" tvg-logo="http://lindaflor.net:8080/_tvlogo/1570843865_7c618deeffbb054b.png" group-title="RELIGIOSOS",TV Plenitude
+http://lindaflor.net:8080/live/83NQH4/autoteste/1210.ts
+#EXTINF:-1 tvg-ID="914" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Ra Tim Bum HD" tvg-logo="-" group-title="ABERTO",TV Ra Tim Bum HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/914.ts
+#EXTINF:-1 tvg-ID="915" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Ra tim bum SD" tvg-logo="-" group-title="ABERTO",TV Ra tim bum SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/915.ts
+#EXTINF:-1 tvg-ID="913" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TV Senado SD" tvg-logo="-" group-title="ABERTO",TV Senado SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/913.ts
+#EXTINF:-1 tvg-ID="790" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TVB Record Campinas FHD H265" tvg-logo="-" group-title="ABERTO",TVB Record Campinas FHD H265
+http://lindaflor.net:8080/live/83NQH4/autoteste/790.ts
+#EXTINF:-1 tvg-ID="791" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TVB Record Campinas HD" tvg-logo="-" group-title="ABERTO",TVB Record Campinas HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/791.ts
+#EXTINF:-1 tvg-ID="814" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Action FHD" tvg-logo="-" group-title="REDE TELECINES",Telecine Action FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/814.ts
+#EXTINF:-1 tvg-ID="949" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Action HD" tvg-logo="-" group-title="REDE TELECINES",Telecine Action HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/949.ts
+#EXTINF:-1 tvg-ID="950" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Action SD" tvg-logo="-" group-title="REDE TELECINES",Telecine Action SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/950.ts
+#EXTINF:-1 tvg-ID="813" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Cult FHD" tvg-logo="-" group-title="REDE TELECINES",Telecine Cult FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/813.ts
+#EXTINF:-1 tvg-ID="947" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Cult HD" tvg-logo="-" group-title="REDE TELECINES",Telecine Cult HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/947.ts
+#EXTINF:-1 tvg-ID="948" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Cult SD" tvg-logo="-" group-title="REDE TELECINES",Telecine Cult SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/948.ts
+#EXTINF:-1 tvg-ID="812" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Fun FHD" tvg-logo="-" group-title="REDE TELECINES",Telecine Fun FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/812.ts
+#EXTINF:-1 tvg-ID="945" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Fun HD" tvg-logo="-" group-title="REDE TELECINES",Telecine Fun HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/945.ts
+#EXTINF:-1 tvg-ID="946" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Fun SD" tvg-logo="-" group-title="REDE TELECINES",Telecine Fun SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/946.ts
+#EXTINF:-1 tvg-ID="811" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Pipoca FHD" tvg-logo="-" group-title="REDE TELECINES",Telecine Pipoca FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/811.ts
+#EXTINF:-1 tvg-ID="943" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Pipoca HD" tvg-logo="-" group-title="REDE TELECINES",Telecine Pipoca HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/943.ts
+#EXTINF:-1 tvg-ID="944" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Pipoca SD" tvg-logo="-" group-title="REDE TELECINES",Telecine Pipoca SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/944.ts
+#EXTINF:-1 tvg-ID="810" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Premium FHD" tvg-logo="-" group-title="REDE TELECINES",Telecine Premium FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/810.ts
+#EXTINF:-1 tvg-ID="941" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Premium HD" tvg-logo="-" group-title="REDE TELECINES",Telecine Premium HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/941.ts
+#EXTINF:-1 tvg-ID="942" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Premium SD" tvg-logo="-" group-title="REDE TELECINES",Telecine Premium SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/942.ts
+#EXTINF:-1 tvg-ID="809" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Touch FHD" tvg-logo="-" group-title="REDE TELECINES",Telecine Touch FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/809.ts
+#EXTINF:-1 tvg-ID="939" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Touch HD" tvg-logo="-" group-title="REDE TELECINES",Telecine Touch HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/939.ts
+#EXTINF:-1 tvg-ID="940" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Telecine Touch SD" tvg-logo="-" group-title="REDE TELECINES",Telecine Touch SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/940.ts
+#EXTINF:-1 tvg-ID="938" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Terra Viva SD" tvg-logo="-" group-title="ABERTO",Terra Viva SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/938.ts
+#EXTINF:-1 tvg-ID="849" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="The History Channel FHD" tvg-logo="-" group-title="DOCUMENTARIOS",The History Channel FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/849.ts
+#EXTINF:-1 tvg-ID="1039" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="The History Channel HD" tvg-logo="-" group-title="DOCUMENTARIOS",The History Channel HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1039.ts
+#EXTINF:-1 tvg-ID="937" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="The History Channel SD" tvg-logo="-" group-title="DOCUMENTARIOS",The History Channel SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/937.ts
+#EXTINF:-1 tvg-ID="930" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Tooncast SD" tvg-logo="-" group-title="INFANTIL",Tooncast SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/930.ts
+#EXTINF:-1 tvg-ID="929" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="TruTV SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",TruTV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/929.ts
+#EXTINF:-1 tvg-ID="804" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Universal Channel TV FHD" tvg-logo="-" group-title="FILMES E SERIES",Universal Channel TV FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/804.ts
+#EXTINF:-1 tvg-ID="904" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Universal Channel TV HD" tvg-logo="-" group-title="FILMES E SERIES",Universal Channel TV HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/904.ts
+#EXTINF:-1 tvg-ID="905" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Universal Channel TV SD" tvg-logo="-" group-title="FILMES E SERIES",Universal Channel TV SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/905.ts
+#EXTINF:-1 tvg-ID="803" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="VH1 FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",VH1 FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/803.ts
+#EXTINF:-1 tvg-ID="903" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="VH1 HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",VH1 HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/903.ts
+#EXTINF:-1 tvg-ID="902" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="VH1 Megahits SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",VH1 Megahits SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/902.ts
+#EXTINF:-1 tvg-ID="900" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Viva HD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Viva HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/900.ts
+#EXTINF:-1 tvg-ID="901" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Viva SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Viva SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/901.ts
+#EXTINF:-1 tvg-ID="802" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Warner Channel FHD" tvg-logo="-" group-title="FILMES E SERIES",Warner Channel FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/802.ts
+#EXTINF:-1 tvg-ID="898" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Warner Channel HD" tvg-logo="-" group-title="FILMES E SERIES",Warner Channel HD
+http://lindaflor.net:8080/live/83NQH4/autoteste/898.ts
+#EXTINF:-1 tvg-ID="899" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Warner Channel SD" tvg-logo="-" group-title="FILMES E SERIES",Warner Channel SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/899.ts
+#EXTINF:-1 tvg-ID="1254" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="WebTV Itapema-SC" tvg-logo="http://lindaflor.net:8080/_tvlogo/1571338329_e7e45294a78f8b39.jpeg" group-title="FILMES E SERIES",WebTV Itapema-SC
+http://lindaflor.net:8080/live/83NQH4/autoteste/1254.ts
+#EXTINF:-1 tvg-ID="801" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Woohoo FHD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Woohoo FHD
+http://lindaflor.net:8080/live/83NQH4/autoteste/801.ts
+#EXTINF:-1 tvg-ID="897" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="Woohoo SD" tvg-logo="-" group-title="VARIEDADES E MUSICAS",Woohoo SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/897.ts
+#EXTINF:-1 tvg-ID="896" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="ZooMoo SD" tvg-logo="-" group-title="INFANTIL",ZooMoo SD
+http://lindaflor.net:8080/live/83NQH4/autoteste/896.ts
+#EXTINF:-1 tvg-ID="1138" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="-" group-title="NOVAERA 24H",[24H] 3 PALAVRINHAS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1138.ts
+#EXTINF:-1 tvg-ID="1137" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] A PANTERA COR DE ROSA" tvg-logo="-" group-title="NOVAERA 24H",[24H] A PANTERA COR DE ROSA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1137.ts
+#EXTINF:-1 tvg-ID="1136" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] A PEQUENA SEREIA" tvg-logo="-" group-title="NOVAERA 24H",[24H] A PEQUENA SEREIA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1136.ts
+#EXTINF:-1 tvg-ID="1126" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] A VACA E O FRANGO" tvg-logo="-" group-title="NOVAERA 24H",[24H] A VACA E O FRANGO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1126.ts
+#EXTINF:-1 tvg-ID="1116" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] BABY LOONEY TUNES" tvg-logo="-" group-title="NOVAERA 24H",[24H] BABY LOONEY TUNES
+http://lindaflor.net:8080/live/83NQH4/autoteste/1116.ts
+#EXTINF:-1 tvg-ID="1145" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] BEN 10" tvg-logo="-" group-title="NOVAERA 24H",[24H] BEN 10
+http://lindaflor.net:8080/live/83NQH4/autoteste/1145.ts
+#EXTINF:-1 tvg-ID="1125" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] BIBO PAI BOBI FILHO" tvg-logo="-" group-title="NOVAERA 24H",[24H] BIBO PAI BOBI FILHO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1125.ts
+#EXTINF:-1 tvg-ID="1097" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] BIG MOUTH" tvg-logo="-" group-title="NOVAERA 24H",[24H] BIG MOUTH
+http://lindaflor.net:8080/live/83NQH4/autoteste/1097.ts
+#EXTINF:-1 tvg-ID="1096" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] BOB ESPONJA" tvg-logo="-" group-title="NOVAERA 24H",[24H] BOB ESPONJA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1096.ts
+#EXTINF:-1 tvg-ID="1141" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] BUZZ LIGHTYEAR" tvg-logo="-" group-title="NOVAERA 24H",[24H] BUZZ LIGHTYEAR
+http://lindaflor.net:8080/live/83NQH4/autoteste/1141.ts
+#EXTINF:-1 tvg-ID="1095" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] CAVALEIRO DO ZODIACO" tvg-logo="-" group-title="NOVAERA 24H",[24H] CAVALEIRO DO ZODIACO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1095.ts
+#EXTINF:-1 tvg-ID="1094" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] CAVERNA DO DRAG?O" tvg-logo="-" group-title="NOVAERA 24H",[24H] CAVERNA DO DRAG?O
+http://lindaflor.net:8080/live/83NQH4/autoteste/1094.ts
+#EXTINF:-1 tvg-ID="1093" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] CHAVES" tvg-logo="-" group-title="NOVAERA 24H",[24H] CHAVES
+http://lindaflor.net:8080/live/83NQH4/autoteste/1093.ts
+#EXTINF:-1 tvg-ID="1124" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] COELHO RICOCHETE" tvg-logo="-" group-title="NOVAERA 24H",[24H] COELHO RICOCHETE
+http://lindaflor.net:8080/live/83NQH4/autoteste/1124.ts
+#EXTINF:-1 tvg-ID="1140" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="-" group-title="NOVAERA 24H",[24H] CORRIDA MALUCA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1140.ts
+#EXTINF:-1 tvg-ID="1139" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] DAKE E JOSH" tvg-logo="-" group-title="NOVAERA 24H",[24H] DAKE E JOSH
+http://lindaflor.net:8080/live/83NQH4/autoteste/1139.ts
+#EXTINF:-1 tvg-ID="1123" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] DENIS O PIMENTINHA" tvg-logo="-" group-title="NOVAERA 24H",[24H] DENIS O PIMENTINHA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1123.ts
+#EXTINF:-1 tvg-ID="1135" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] DORA A AVENTUREIRA" tvg-logo="-" group-title="NOVAERA 24H",[24H] DORA A AVENTUREIRA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1135.ts
+#EXTINF:-1 tvg-ID="1134" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] EU A PATROA E AS CRIANCAS" tvg-logo="-" group-title="NOVAERA 24H",[24H] EU A PATROA E AS CRIANCAS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1134.ts
+#EXTINF:-1 tvg-ID="1092" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] EU A PATROA E AS CRINA?AS" tvg-logo="-" group-title="NOVAERA 24H",[24H] EU A PATROA E AS CRINA?AS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1092.ts
+#EXTINF:-1 tvg-ID="1133" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] FAMILIA DINOSSAURO" tvg-logo="-" group-title="NOVAERA 24H",[24H] FAMILIA DINOSSAURO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1133.ts
+#EXTINF:-1 tvg-ID="1091" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="-" group-title="NOVAERA 24H",[24H] GALINHA PINTADINHA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1091.ts
+#EXTINF:-1 tvg-ID="1122" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] GATO FELIXE" tvg-logo="-" group-title="NOVAERA 24H",[24H] GATO FELIXE
+http://lindaflor.net:8080/live/83NQH4/autoteste/1122.ts
+#EXTINF:-1 tvg-ID="1090" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] HOMEM ARANHA" tvg-logo="-" group-title="NOVAERA 24H",[24H] HOMEM ARANHA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1090.ts
+#EXTINF:-1 tvg-ID="1120" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] IRCALY" tvg-logo="-" group-title="NOVAERA 24H",[24H] IRCALY
+http://lindaflor.net:8080/live/83NQH4/autoteste/1120.ts
+#EXTINF:-1 tvg-ID="1089" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] JONNY QUEST" tvg-logo="-" group-title="NOVAERA 24H",[24H] JONNY QUEST
+http://lindaflor.net:8080/live/83NQH4/autoteste/1089.ts
+#EXTINF:-1 tvg-ID="1088" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] JOSE REI DO EGITO" tvg-logo="-" group-title="NOVAERA 24H",[24H] JOSE REI DO EGITO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1088.ts
+#EXTINF:-1 tvg-ID="1132" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] MASHA E O URSO" tvg-logo="-" group-title="NOVAERA 24H",[24H] MASHA E O URSO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1132.ts
+#EXTINF:-1 tvg-ID="1111" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] MENINAS SUPER PODEROSAS" tvg-logo="-" group-title="NOVAERA 24H",[24H] MENINAS SUPER PODEROSAS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1111.ts
+#EXTINF:-1 tvg-ID="1087" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] NARUTO" tvg-logo="-" group-title="NOVAERA 24H",[24H] NARUTO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1087.ts
+#EXTINF:-1 tvg-ID="1086" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] O FANTASTICO MUNDO DE BOBBY" tvg-logo="-" group-title="NOVAERA 24H",[24H] O FANTASTICO MUNDO DE BOBBY
+http://lindaflor.net:8080/live/83NQH4/autoteste/1086.ts
+#EXTINF:-1 tvg-ID="1131" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] O INCRIVEL MUNDO DE GUMBALL" tvg-logo="-" group-title="NOVAERA 24H",[24H] O INCRIVEL MUNDO DE GUMBALL
+http://lindaflor.net:8080/live/83NQH4/autoteste/1131.ts
+#EXTINF:-1 tvg-ID="1121" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] O MASCARA" tvg-logo="-" group-title="NOVAERA 24H",[24H] O MASCARA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1121.ts
+#EXTINF:-1 tvg-ID="1085" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] O MASKARA" tvg-logo="-" group-title="NOVAERA 24H",[24H] O MASKARA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1085.ts
+#EXTINF:-1 tvg-ID="1130" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] O MUNDO DE BITA" tvg-logo="-" group-title="NOVAERA 24H",[24H] O MUNDO DE BITA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1130.ts
+#EXTINF:-1 tvg-ID="1129" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] O SHOW DA LUNA" tvg-logo="-" group-title="NOVAERA 24H",[24H] O SHOW DA LUNA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1129.ts
+#EXTINF:-1 tvg-ID="1128" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] OS FLINTSTONES" tvg-logo="-" group-title="NOVAERA 24H",[24H] OS FLINTSTONES
+http://lindaflor.net:8080/live/83NQH4/autoteste/1128.ts
+#EXTINF:-1 tvg-ID="1084" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] PATRULHA CANINA" tvg-logo="-" group-title="NOVAERA 24H",[24H] PATRULHA CANINA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1084.ts
+#EXTINF:-1 tvg-ID="1083" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] PEPPA PIG" tvg-logo="-" group-title="NOVAERA 24H",[24H] PEPPA PIG
+http://lindaflor.net:8080/live/83NQH4/autoteste/1083.ts
+#EXTINF:-1 tvg-ID="1119" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] PERNALOGA" tvg-logo="-" group-title="NOVAERA 24H",[24H] PERNALOGA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1119.ts
+#EXTINF:-1 tvg-ID="1082" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] PICA PAU" tvg-logo="-" group-title="NOVAERA 24H",[24H] PICA PAU
+http://lindaflor.net:8080/live/83NQH4/autoteste/1082.ts
+#EXTINF:-1 tvg-ID="1115" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] POCOYO" tvg-logo="-" group-title="NOVAERA 24H",[24H] POCOYO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1115.ts
+#EXTINF:-1 tvg-ID="1081" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] POPEYE" tvg-logo="-" group-title="NOVAERA 24H",[24H] POPEYE
+http://lindaflor.net:8080/live/83NQH4/autoteste/1081.ts
+#EXTINF:-1 tvg-ID="1199" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] POPOYO" tvg-logo="-" group-title="NOVAERA 24H",[24H] POPOYO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1199.ts
+#EXTINF:-1 tvg-ID="1118" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] REI ARNOLD" tvg-logo="-" group-title="NOVAERA 24H",[24H] REI ARNOLD
+http://lindaflor.net:8080/live/83NQH4/autoteste/1118.ts
+#EXTINF:-1 tvg-ID="1080" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] SCOOBY DOO" tvg-logo="-" group-title="NOVAERA 24H",[24H] SCOOBY DOO
+http://lindaflor.net:8080/live/83NQH4/autoteste/1080.ts
+#EXTINF:-1 tvg-ID="1117" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] SUPER AMIGOS" tvg-logo="-" group-title="NOVAERA 24H",[24H] SUPER AMIGOS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1117.ts
+#EXTINF:-1 tvg-ID="1113" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] SUPER WINGS" tvg-logo="-" group-title="NOVAERA 24H",[24H] SUPER WINGS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1113.ts
+#EXTINF:-1 tvg-ID="1112" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] THE MONSTER" tvg-logo="-" group-title="NOVAERA 24H",[24H] THE MONSTER
+http://lindaflor.net:8080/live/83NQH4/autoteste/1112.ts
+#EXTINF:-1 tvg-ID="1127" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] TODO MUNDO ODEIA O CHIRS" tvg-logo="-" group-title="NOVAERA 24H",[24H] TODO MUNDO ODEIA O CHIRS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1127.ts
+#EXTINF:-1 tvg-ID="1200" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" tvg-logo="-" group-title="NOVAERA 24H",[24H] TODO MUNDO ODEIA O CHRIS
+http://lindaflor.net:8080/live/83NQH4/autoteste/1200.ts
+#EXTINF:-1 tvg-ID="1078" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] TOM E JERRY" tvg-logo="-" group-title="NOVAERA 24H",[24H] TOM E JERRY
+http://lindaflor.net:8080/live/83NQH4/autoteste/1078.ts
+#EXTINF:-1 tvg-ID="1110" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] TURMA DO PATETA" tvg-logo="-" group-title="NOVAERA 24H",[24H] TURMA DO PATETA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1110.ts
+#EXTINF:-1 tvg-ID="1077" tvg-link="http://lindaflor.net:8080/xmltv.php" tvg-name="[24H] VAI QUE COLA" tvg-logo="-" group-title="NOVAERA 24H",[24H] VAI QUE COLA
+http://lindaflor.net:8080/live/83NQH4/autoteste/1077.ts
