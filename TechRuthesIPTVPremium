@@ -9,25 +9,1269 @@ https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Ce0126129ff658
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Ce0126129ff658f4006543d66b4c77026%3Bbase64np%3B2r9MCGZEBympgLA%21/amlst%3A2r-0EXsPAii2wDwD/chunklist_b832512.m3u8
 #EXTINF:-1 tvg-id="a fazenda" tvg-name="A FAZENDA HD" tvg-logo="http://img.myapp.st/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="Reality Show",A FAZENDA (480 KB/PS)
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Ce0126129ff658f4006543d66b4c77026%3Bbase64np%3B2r9MCGZEBympgLA%21/amlst%3A2r-0EXsPAii2wDwD/chunklist_b832512.m3u8
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.myapp.st/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD | TechRuthes.com
+#EXTINF:-1 tvg-id=*A&E HD* tvg-name=*A&E HD* tvg-logo=*https://static.psrv.io/logos/canais/a%26e.png* group-title=*Canais | Variedades*,A&E HD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18738
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.myapp.st/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD | TechRuthes.com
+#EXTINF:-1 tvg-id=*A&E HD* tvg-name=*A&E HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/a%26e.png* group-title=*Canais | Variedades*,A&E HD [Alter]
 http://psrv.io:80/fgy0mcZW2k/trixotv/22444
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.myapp.st/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E SD | TechRuthes.com
+#EXTINF:-1 tvg-id=*A&E FHD* tvg-name=*A&E SD* tvg-logo=*https://static.psrv.io/logos/canais/a%26e.png* group-title=*Canais | Variedades*,A&E SD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18739
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.myapp.st/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD | TechRuthes.com
+#EXTINF:-1 tvg-id=*A&E* tvg-name=*A&E SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/a%26e.png* group-title=*Canais | Variedades*,A&E SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22339
+#EXTINF:-1 tvg-id=*AMC HD* tvg-name=*AMC HD* tvg-logo=*https://static.psrv.io/logos/canais/amc.png* group-title=*Canais | Filmes e Séries*,AMC HD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18736
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.myapp.st/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD | TechRuthes.com
+#EXTINF:-1 tvg-id=*AMC HD* tvg-name=*AMC HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/amc.png* group-title=*Canais | Filmes e Séries*,AMC HD [Alter]
 http://psrv.io:80/fgy0mcZW2k/trixotv/22443
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.myapp.st/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC SD | TechRuthes.com
+#EXTINF:-1 tvg-id=*AMC HD* tvg-name=*AMC SD* tvg-logo=*https://static.psrv.io/logos/canais/amc.png* group-title=*Canais | Filmes e Séries*,AMC SD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18737
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET FULL HD" tvg-logo="http://img.myapp.st/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET FULL HD | TechRuthes.com
+#EXTINF:-1 tvg-id=*AMC* tvg-name=*AMC SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/amc.png* group-title=*Canais | Filmes e Séries*,AMC SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22338
+#EXTINF:-1 tvg-id=*Animal Planet HD* tvg-name=*Animal Planet HD* tvg-logo=*https://static.psrv.io/logos/canais/animalplanet.png* group-title=*Canais | Documentários*,Animal Planet HD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18734
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://img.myapp.st/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD | TechRuthes.com
+#EXTINF:-1 tvg-id=*Animal Planet HD* tvg-name=*Animal Planet HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/animalplanet.png* group-title=*Canais | Documentários*,Animal Planet HD [Alter]
 http://psrv.io:80/fgy0mcZW2k/trixotv/22442
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://img.myapp.st/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET SD | TechRuthes.com
+#EXTINF:-1 tvg-id=*Animal Planet* tvg-name=*Animal Planet SD* tvg-logo=*https://static.psrv.io/logos/canais/animalplanet.png* group-title=*Canais | Documentários*,Animal Planet SD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18735
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 FULL HD" tvg-logo="http://img.myapp.st/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas",ARTE 1 FULL HD | TechRuthes.com
+#EXTINF:-1 tvg-id=*Animal Planet* tvg-name=*Animal Planet SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/animalplanet.png* group-title=*Canais | Documentários*,Animal Planet SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22337
+#EXTINF:-1 tvg-id=*Arte 1 HD* tvg-name=*Arte 1 HD* tvg-logo=*https://static.psrv.io/logos/canais/arte1.png* group-title=*Canais | Documentários*,Arte 1 HD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18732
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 HD" tvg-logo="http://img.myapp.st/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas",ARTE 1 SD | TechRuthes.com
+#EXTINF:-1 tvg-id=*Arte 1* tvg-name=*Arte 1 SD* tvg-logo=*https://static.psrv.io/logos/canais/arte1.png* group-title=*Canais | Documentários*,Arte 1 SD
 http://psrv.io:80/fgy0mcZW2k/trixotv/18733
+#EXTINF:-1 tvg-id=*Arte 1* tvg-name=*Arte 1 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/arte1.png* group-title=*Canais | Documentários*,Arte 1 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22228
+#EXTINF:-1 tvg-id=*AXN HD* tvg-name=*AXN HD* tvg-logo=*https://static.psrv.io/logos/canais/axn.png* group-title=*Canais | Filmes e Séries*,AXN HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18730
+#EXTINF:-1 tvg-id=*AXN HD* tvg-name=*AXN HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/axn.png* group-title=*Canais | Filmes e Séries*,AXN HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22441
+#EXTINF:-1 tvg-id=*AXN* tvg-name=*AXN SD* tvg-logo=*https://static.psrv.io/logos/canais/axn.png* group-title=*Canais | Filmes e Séries*,AXN SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18731
+#EXTINF:-1 tvg-id=*AXN* tvg-name=*AXN SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/axn.png* group-title=*Canais | Filmes e Séries*,AXN SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22336
+#EXTINF:-1 tvg-id=*BabyTV* tvg-name=*BabyTV SD* tvg-logo=*https://static.psrv.io/logos/canais/babytv.png* group-title=*Canais | Infantis*,BabyTV SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18729
+#EXTINF:-1 tvg-id=*BabyTV* tvg-name=*BabyTV SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/babytv.png* group-title=*Canais | Infantis*,BabyTV SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22335
+#EXTINF:-1 tvg-id=*Band Rio HD* tvg-name=*Band RJ HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band RJ HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22460
+#EXTINF:-1 tvg-id=** tvg-name=*Band RS HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band RS HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22469
+#EXTINF:-1 tvg-id=*Band* tvg-name=*Band SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22242
+#EXTINF:-1 tvg-id=*Band Aracaju HD* tvg-name=*Band Sergipe HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band Sergipe HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22476
+#EXTINF:-1 tvg-id=*Band SP* tvg-name=*Band SP HD* tvg-logo=*https://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band SP HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18727
+#EXTINF:-1 tvg-id=*Band Paulista HD* tvg-name=*Band SP HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band SP HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22440
+#EXTINF:-1 tvg-id=*Band SP* tvg-name=*Band SP SD* tvg-logo=*https://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band SP SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18728
+#EXTINF:-1 tvg-id=** tvg-name=*Band Taroba PR HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/band.png* group-title=*Canais | Abertos*,Band Taroba PR HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22472
+#EXTINF:-1 tvg-id=*BandNews HD* tvg-name=*BandNews HD* tvg-logo=*https://static.psrv.io/logos/canais/bandnews.png* group-title=*Canais | Notícias*,BandNews HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18725
+#EXTINF:-1 tvg-id=*BandNews* tvg-name=*BandNews SD* tvg-logo=*https://static.psrv.io/logos/canais/bandnews.png* group-title=*Canais | Notícias*,BandNews SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18726
+#EXTINF:-1 tvg-id=*BandNews* tvg-name=*BandNews SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/bandnews.png* group-title=*Canais | Notícias*,BandNews SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22334
+#EXTINF:-1 tvg-id=** tvg-name=*INTERNACIONAL CHAMPIONS 2019 [HD]* tvg-logo=** group-title=*Canais | Esportes*,INTERNACIONAL CHAMPIONS 2019 [HD]
+http://psrv.io:80/fgy0mcZW2k/trixotv/26193
+#EXTINF:-1 tvg-id=** tvg-name=*DAZN - Copa Brasileirao Serie C [HD]* tvg-logo=*https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png* group-title=*Canais | Esportes*,DAZN - Copa Brasileirao Serie C [HD]
+http://psrv.io:80/fgy0mcZW2k/trixotv/26197
+#EXTINF:-1 tvg-id=** tvg-name=*DAZN - Copa Libertadores [HD]* tvg-logo=*https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png* group-title=*Canais | Esportes*,DAZN - Copa Libertadores [HD]
+http://psrv.io:80/fgy0mcZW2k/trixotv/26195
+#EXTINF:-1 tvg-id=** tvg-name=*DAZN - Copa Sul Americana [HD]* tvg-logo=*https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png* group-title=*Canais | Esportes*,DAZN - Copa Sul Americana [HD]
+http://psrv.io:80/fgy0mcZW2k/trixotv/26196
+#EXTINF:-1 tvg-id=*BandSports HD* tvg-name=*BandSports HD* tvg-logo=*https://static.psrv.io/logos/canais/bandsports.png* group-title=*Canais | Esportes*,BandSports HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18723
+#EXTINF:-1 tvg-id=*BandSports HD* tvg-name=*BandSports HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/bandsports.png* group-title=*Canais | Esportes*,BandSports HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22439
+#EXTINF:-1 tvg-id=*BandSports* tvg-name=*BandSports SD* tvg-logo=*https://static.psrv.io/logos/canais/bandsports.png* group-title=*Canais | Esportes*,BandSports SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18724
+#EXTINF:-1 tvg-id=*BandSports* tvg-name=*BandSports SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/bandsports.png* group-title=*Canais | Esportes*,BandSports SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22333
+#EXTINF:-1 tvg-id=*BIS HD* tvg-name=*Bis HD* tvg-logo=*https://static.psrv.io/logos/canais/bis.png* group-title=*Canais | Variedades*,Bis HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18721
+#EXTINF:-1 tvg-id=*BIS HD* tvg-name=*BIS HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/bis.png* group-title=*Canais | Variedades*,BIS HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22438
+#EXTINF:-1 tvg-id=*BIS* tvg-name=*Bis SD* tvg-logo=*https://static.psrv.io/logos/canais/bis.png* group-title=*Canais | Variedades*,Bis SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18722
+#EXTINF:-1 tvg-id=*BIS* tvg-name=*BIS SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/bis.png* group-title=*Canais | Variedades*,BIS SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22236
+#EXTINF:-1 tvg-id=*Boomerang HD* tvg-name=*Boomerang HD* tvg-logo=*https://static.psrv.io/logos/canais/boomerang.png* group-title=*Canais | Infantis*,Boomerang HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18718
+#EXTINF:-1 tvg-id=*Boomerang* tvg-name=*Boomerang SD* tvg-logo=*https://static.psrv.io/logos/canais/boomerang.png* group-title=*Canais | Infantis*,Boomerang SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18719
+#EXTINF:-1 tvg-id=*Boomerang* tvg-name=*Boomerang SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/boomerang.png* group-title=*Canais | Infantis*,Boomerang SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22332
+#EXTINF:-1 tvg-id=*Canal Brasil HD* tvg-name=*Canal Brasil HD* tvg-logo=*https://static.psrv.io/logos/canais/canalbrasil.png* group-title=*Canais | Filmes e Séries*,Canal Brasil HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18716
+#EXTINF:-1 tvg-id=*Canal Brasil* tvg-name=*Canal Brasil SD* tvg-logo=*https://static.psrv.io/logos/canais/canalbrasil.png* group-title=*Canais | Filmes e Séries*,Canal Brasil SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18717
+#EXTINF:-1 tvg-id=*Canal Brasil* tvg-name=*Canal Brasil SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/canalbrasil.png* group-title=*Canais | Filmes e Séries*,Canal Brasil SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22229
+#EXTINF:-1 tvg-id=*Canção Nova FHD* tvg-name=*Cancao Nova SD* tvg-logo=*https://static.psrv.io/logos/canais/cancaonova.png* group-title=*Canais | Abertos*,Cancao Nova SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18713
+#EXTINF:-1 tvg-id=*Canção Nova* tvg-name=*Cancao Nova SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/cancaonova.png* group-title=*Canais | Abertos*,Cancao Nova SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22218
+#EXTINF:-1 tvg-id=*Cartoon Network HD* tvg-name=*Cartoon Network HD* tvg-logo=*https://static.psrv.io/logos/canais/cartoon.png* group-title=*Canais | Infantis*,Cartoon Network HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18711
+#EXTINF:-1 tvg-id=*Cartoon Network HD* tvg-name=*Cartoon Network HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/cartoon.png* group-title=*Canais | Infantis*,Cartoon Network HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22436
+#EXTINF:-1 tvg-id=*Cartoon Network* tvg-name=*Cartoon Network SD* tvg-logo=*https://static.psrv.io/logos/canais/cartoon.png* group-title=*Canais | Infantis*,Cartoon Network SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18712
+#EXTINF:-1 tvg-id=*Cartoon Network* tvg-name=*Cartoon Network SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/cartoon.png* group-title=*Canais | Infantis*,Cartoon Network SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22227
+#EXTINF:-1 tvg-id=*Cinemax HD* tvg-name=*Cinemax HD* tvg-logo=*https://static.psrv.io/logos/canais/cinemax.png* group-title=*Canais | Filmes e Séries*,Cinemax HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18709
+#EXTINF:-1 tvg-id=*Cinemax HD* tvg-name=*Cinemax HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/cinemax.png* group-title=*Canais | Filmes e Séries*,Cinemax HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22435
+#EXTINF:-1 tvg-id=*Cinemax* tvg-name=*Cinemax SD* tvg-logo=*https://static.psrv.io/logos/canais/cinemax.png* group-title=*Canais | Filmes e Séries*,Cinemax SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18710
+#EXTINF:-1 tvg-id=*Cinemax* tvg-name=*Cinemax SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/cinemax.png* group-title=*Canais | Filmes e Séries*,Cinemax SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22246
+#EXTINF:-1 tvg-id=*Combate HD* tvg-name=*Combate HD* tvg-logo=*https://static.psrv.io/logos/canais/combate.png* group-title=*Canais | Esportes*,Combate HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18707
+#EXTINF:-1 tvg-id=*Combate HD* tvg-name=*Combate HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/combate.png* group-title=*Canais | Esportes*,Combate HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22434
+#EXTINF:-1 tvg-id=*Combate* tvg-name=*Combate SD* tvg-logo=*https://static.psrv.io/logos/canais/combate.png* group-title=*Canais | Esportes*,Combate SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18708
+#EXTINF:-1 tvg-id=*Combate* tvg-name=*Combate SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/combate.png* group-title=*Canais | Esportes*,Combate SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22330
+#EXTINF:-1 tvg-id=*Comedy Central HD* tvg-name=*Comedy Central HD* tvg-logo=*https://static.psrv.io/logos/canais/comedycentral.png* group-title=*Canais | Variedades*,Comedy Central HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18705
+#EXTINF:-1 tvg-id=*Comedy Central HD* tvg-name=*Comedy Central HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/comedycentral.png* group-title=*Canais | Variedades*,Comedy Central HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22433
+#EXTINF:-1 tvg-id=*Comedy Central* tvg-name=*Comedy Central SD* tvg-logo=*https://static.psrv.io/logos/canais/comedycentral.png* group-title=*Canais | Variedades*,Comedy Central SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18706
+#EXTINF:-1 tvg-id=*Comedy Central* tvg-name=*Comedy Central SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/comedycentral.png* group-title=*Canais | Variedades*,Comedy Central SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22329
+#EXTINF:-1 tvg-id=*Curta! HD* tvg-name=*Curta! HD* tvg-logo=*https://static.psrv.io/logos/canais/curta.png* group-title=*Canais | Variedades*,Curta! HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18703
+#EXTINF:-1 tvg-id=*Curta!* tvg-name=*Curta! SD* tvg-logo=*https://static.psrv.io/logos/canais/curta.png* group-title=*Canais | Variedades*,Curta! SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18704
+#EXTINF:-1 tvg-id=*Curta!* tvg-name=*Curta! SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/curta.png* group-title=*Canais | Variedades*,Curta! SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22217
+#EXTINF:-1 tvg-id=*Discovery Channel HD* tvg-name=*Discovery Channel HD* tvg-logo=*https://static.psrv.io/logos/canais/discoverychannel.png* group-title=*Canais | Documentários*,Discovery Channel HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18701
+#EXTINF:-1 tvg-id=*Discovery Channel HD* tvg-name=*Discovery Channel HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverychannel.png* group-title=*Canais | Documentários*,Discovery Channel HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22432
+#EXTINF:-1 tvg-id=*Discovery Channel* tvg-name=*Discovery Channel SD* tvg-logo=*https://static.psrv.io/logos/canais/discoverychannel.png* group-title=*Canais | Documentários*,Discovery Channel SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18702
+#EXTINF:-1 tvg-id=*Discovery Channel* tvg-name=*Discovery Channel SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverychannel.png* group-title=*Canais | Documentários*,Discovery Channel SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22327
+#EXTINF:-1 tvg-id=*Discovery Civilization HD* tvg-name=*Discovery Civilization HD* tvg-logo=*https://static.psrv.io/logos/canais/discoverycivilization.png* group-title=*Canais | Documentários*,Discovery Civilization HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18699
+#EXTINF:-1 tvg-id=*Discovery Civilization HD* tvg-name=*Discovery Civilization HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverycivilization.png* group-title=*Canais | Documentários*,Discovery Civilization HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22431
+#EXTINF:-1 tvg-id=*Discovery Civilization* tvg-name=*Discovery Civilization SD* tvg-logo=*https://static.psrv.io/logos/canais/discoverycivilization.png* group-title=*Canais | Documentários*,Discovery Civilization SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18700
+#EXTINF:-1 tvg-id=*Discovery Civilization* tvg-name=*Discovery Civilization SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverycivilization.png* group-title=*Canais | Documentários*,Discovery Civilization SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22232
+#EXTINF:-1 tvg-id=*Discovery Home & Health HD* tvg-name=*Discovery H&H HD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryh%26h.png* group-title=*Canais | Variedades*,Discovery H&H HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18697
+#EXTINF:-1 tvg-id=*Discovery Home & Health HD* tvg-name=*Discovery H&H HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryh%26h.png* group-title=*Canais | Variedades*,Discovery H&H HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22430
+#EXTINF:-1 tvg-id=*Discovery Home & Health* tvg-name=*Discovery H&H SD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryh%26h.png* group-title=*Canais | Variedades*,Discovery H&H SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18698
+#EXTINF:-1 tvg-id=*Discovery Home & Health* tvg-name=*Discovery H&H SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryh%26h.png* group-title=*Canais | Variedades*,Discovery H&H SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22326
+#EXTINF:-1 tvg-id=*Discovery Kids HD* tvg-name=*Discovery Kids HD* tvg-logo=*https://static.psrv.io/logos/canais/discoverykids.png* group-title=*Canais | Infantis*,Discovery Kids HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18695
+#EXTINF:-1 tvg-id=*Discovery Kids HD* tvg-name=*Discovery Kids HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverykids.png* group-title=*Canais | Infantis*,Discovery Kids HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22429
+#EXTINF:-1 tvg-id=*Discovery Kids* tvg-name=*Discovery Kids SD* tvg-logo=*https://static.psrv.io/logos/canais/discoverykids.png* group-title=*Canais | Infantis*,Discovery Kids SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18696
+#EXTINF:-1 tvg-id=*Discovery Kids* tvg-name=*Discovery Kids SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverykids.png* group-title=*Canais | Infantis*,Discovery Kids SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22325
+#EXTINF:-1 tvg-id=*Discovery Science HD* tvg-name=*Discovery Science HD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryscience.png* group-title=*Canais | Documentários*,Discovery Science HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18693
+#EXTINF:-1 tvg-id=*Discovery Science HD* tvg-name=*Discovery Science HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryscience.png* group-title=*Canais | Documentários*,Discovery Science HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22428
+#EXTINF:-1 tvg-id=*Discovery Science* tvg-name=*Discovery Science SD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryscience.png* group-title=*Canais | Documentários*,Discovery Science SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18694
+#EXTINF:-1 tvg-id=*Discovery Science* tvg-name=*Discovery Science SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryscience.png* group-title=*Canais | Documentários*,Discovery Science SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22238
+#EXTINF:-1 tvg-id=*Discovery Theater HD* tvg-name=*Discovery Theater HD* tvg-logo=*https://static.psrv.io/logos/canais/discoverytheater.png* group-title=*Canais | Documentários*,Discovery Theater HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18691
+#EXTINF:-1 tvg-id=*Discovery Theater HD* tvg-name=*Discovery Theater HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverytheater.png* group-title=*Canais | Documentários*,Discovery Theater HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22427
+#EXTINF:-1 tvg-id=*Discovery Theater* tvg-name=*Discovery Theater SD* tvg-logo=*https://static.psrv.io/logos/canais/discoverytheater.png* group-title=*Canais | Documentários*,Discovery Theater SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18692
+#EXTINF:-1 tvg-id=*Discovery Theater* tvg-name=*Discovery Theater SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoverytheater.png* group-title=*Canais | Documentários*,Discovery Theater SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22239
+#EXTINF:-1 tvg-id=*Discovery Turbo HD* tvg-name=*Discovery Turbo HD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryturbo.png* group-title=*Canais | Variedades*,Discovery Turbo HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18689
+#EXTINF:-1 tvg-id=*Discovery Turbo HD* tvg-name=*Discovery Turbo HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryturbo.png* group-title=*Canais | Variedades*,Discovery Turbo HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22426
+#EXTINF:-1 tvg-id=*Discovery Turbo* tvg-name=*Discovery Turbo SD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryturbo.png* group-title=*Canais | Variedades*,Discovery Turbo SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18690
+#EXTINF:-1 tvg-id=*Discovery Turbo* tvg-name=*Discovery Turbo SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryturbo.png* group-title=*Canais | Variedades*,Discovery Turbo SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22324
+#EXTINF:-1 tvg-id=*Discovery World HD* tvg-name=*Discovery World HD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryworld.png* group-title=*Canais | Documentários*,Discovery World HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18687
+#EXTINF:-1 tvg-id=*Discovery World HD* tvg-name=*Discovery World HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryworld.png* group-title=*Canais | Documentários*,Discovery World HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22425
+#EXTINF:-1 tvg-id=*Discovery World* tvg-name=*Discovery World SD* tvg-logo=*https://static.psrv.io/logos/canais/discoveryworld.png* group-title=*Canais | Documentários*,Discovery World SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18688
+#EXTINF:-1 tvg-id=*Discovery World* tvg-name=*Discovery World SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/discoveryworld.png* group-title=*Canais | Documentários*,Discovery World SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22237
+#EXTINF:-1 tvg-id=*Disney Channel HD* tvg-name=*Disney HD* tvg-logo=*https://static.psrv.io/logos/canais/disney.png* group-title=*Canais | Infantis*,Disney HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18685
+#EXTINF:-1 tvg-id=*Disney Channel HD* tvg-name=*Disney HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/disney.png* group-title=*Canais | Infantis*,Disney HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22424
+#EXTINF:-1 tvg-id=*Disney Junior HD* tvg-name=*Disney Jr HD* tvg-logo=*https://static.psrv.io/logos/canais/disneyjr.png* group-title=*Canais | Infantis*,Disney Jr HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18509
+#EXTINF:-1 tvg-id=*Disney Junior HD* tvg-name=*Disney Jr HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/disneyjr.png* group-title=*Canais | Infantis*,Disney Jr HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22423
+#EXTINF:-1 tvg-id=*Disney Junior* tvg-name=*Disney Jr SD* tvg-logo=*https://static.psrv.io/logos/canais/disneyjr.png* group-title=*Canais | Infantis*,Disney Jr SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18684
+#EXTINF:-1 tvg-id=*Disney Junior* tvg-name=*Disney Jr SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/disneyjr.png* group-title=*Canais | Infantis*,Disney Jr SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22322
+#EXTINF:-1 tvg-id=*Disney Channel* tvg-name=*Disney SD* tvg-logo=*https://static.psrv.io/logos/canais/disney.png* group-title=*Canais | Infantis*,Disney SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18686
+#EXTINF:-1 tvg-id=*Disney Channel* tvg-name=*Disney SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/disney.png* group-title=*Canais | Infantis*,Disney SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22323
+#EXTINF:-1 tvg-id=*Disney XD HD* tvg-name=*Disney XD HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/disneyxd.png* group-title=*Canais | Infantis*,Disney XD HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22422
+#EXTINF:-1 tvg-id=*Disney XD* tvg-name=*Disney XD SD* tvg-logo=*https://static.psrv.io/logos/canais/disneyxd.png* group-title=*Canais | Infantis*,Disney XD SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18683
+#EXTINF:-1 tvg-id=*Disney XD* tvg-name=*Disney XD SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/disneyxd.png* group-title=*Canais | Infantis*,Disney XD SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22321
+#EXTINF:-1 tvg-id=*E! HD* tvg-name=*E! HD* tvg-logo=*https://static.psrv.io/logos/canais/e%21.png* group-title=*Canais | Variedades*,E! HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18681
+#EXTINF:-1 tvg-id=*E! HD* tvg-name=*E! HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/e%21.png* group-title=*Canais | Variedades*,E! HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22421
+#EXTINF:-1 tvg-id=*E!* tvg-name=*E! SD* tvg-logo=*https://static.psrv.io/logos/canais/e%21.png* group-title=*Canais | Variedades*,E! SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18682
+#EXTINF:-1 tvg-id=*E!* tvg-name=*E! SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/e%21.png* group-title=*Canais | Variedades*,E! SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22320
+#EXTINF:-1 tvg-id=** tvg-name=*EI Plus 1 HD* tvg-logo=** group-title=*Canais | Esportes*,EI Plus 1 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/22978
+#EXTINF:-1 tvg-id=** tvg-name=*EI Plus 1 SD* tvg-logo=** group-title=*Canais | Esportes*,EI Plus 1 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/26194
+#EXTINF:-1 tvg-id=*ESPN 2 HD* tvg-name=*ESPN 2 HD* tvg-logo=*https://static.psrv.io/logos/canais/espn2.png* group-title=*Canais | Esportes*,ESPN 2 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18678
+#EXTINF:-1 tvg-id=*ESPN 2 HD* tvg-name=*ESPN 2 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/espn2.png* group-title=*Canais | Esportes*,ESPN 2 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22419
+#EXTINF:-1 tvg-id=*ESPN 2* tvg-name=*ESPN 2 SD* tvg-logo=*https://static.psrv.io/logos/canais/espn2.png* group-title=*Canais | Esportes*,ESPN 2 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18679
+#EXTINF:-1 tvg-id=*ESPN 2* tvg-name=*ESPN 2 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/espn2.png* group-title=*Canais | Esportes*,ESPN 2 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22319
+#EXTINF:-1 tvg-id=*ESPN Brasil HD* tvg-name=*ESPN Brasil HD* tvg-logo=*https://static.psrv.io/logos/canais/espnbrasil.png* group-title=*Canais | Esportes*,ESPN Brasil HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18676
+#EXTINF:-1 tvg-id=*ESPN Brasil HD* tvg-name=*ESPN Brasil HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/espnbrasil.png* group-title=*Canais | Esportes*,ESPN Brasil HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22418
+#EXTINF:-1 tvg-id=*ESPN Brasil* tvg-name=*ESPN Brasil SD* tvg-logo=*https://static.psrv.io/logos/canais/espnbrasil.png* group-title=*Canais | Esportes*,ESPN Brasil SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18677
+#EXTINF:-1 tvg-id=*ESPN Brasil* tvg-name=*ESPN Brasil SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/espnbrasil.png* group-title=*Canais | Esportes*,ESPN Brasil SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22318
+#EXTINF:-1 tvg-id=*ESPN Extra HD* tvg-name=*ESPN Extra HD* tvg-logo=*https://static.psrv.io/logos/canais/espnextra.png* group-title=*Canais | Esportes*,ESPN Extra HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18674
+#EXTINF:-1 tvg-id=*ESPN Extra HD* tvg-name=*ESPN Extra HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/espnextra.png* group-title=*Canais | Esportes*,ESPN Extra HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22417
+#EXTINF:-1 tvg-id=*ESPN Extra* tvg-name=*ESPN Extra SD* tvg-logo=*https://static.psrv.io/logos/canais/espnextra.png* group-title=*Canais | Esportes*,ESPN Extra SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18675
+#EXTINF:-1 tvg-id=*ESPN HD* tvg-name=*ESPN HD* tvg-logo=*https://static.psrv.io/logos/canais/espn.png* group-title=*Canais | Esportes*,ESPN HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18673
+#EXTINF:-1 tvg-id=*ESPN HD* tvg-name=*ESPN HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/espn.png* group-title=*Canais | Esportes*,ESPN HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22420
+#EXTINF:-1 tvg-id=*ESPN* tvg-name=*ESPN SD* tvg-logo=*https://static.psrv.io/logos/canais/espn.png* group-title=*Canais | Esportes*,ESPN SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18680
+#EXTINF:-1 tvg-id=*ESPN* tvg-name=*ESPN SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/espn.png* group-title=*Canais | Esportes*,ESPN SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22317
+#EXTINF:-1 tvg-id=*FILM&Arts* tvg-name=*Film & Arts SD* tvg-logo=*https://static.psrv.io/logos/canais/film&arts.png* group-title=*Canais | Variedades*,Film & Arts SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18497
+#EXTINF:-1 tvg-id=*Fish TV HD* tvg-name=*Fish TV HD* tvg-logo=*https://static.psrv.io/logos/canais/fishtv.png* group-title=*Canais | Variedades*,Fish TV HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18671
+#EXTINF:-1 tvg-id=*Fish TV* tvg-name=*Fish TV SD* tvg-logo=*https://static.psrv.io/logos/canais/fishtv.png* group-title=*Canais | Variedades*,Fish TV SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18672
+#EXTINF:-1 tvg-id=*Fish TV* tvg-name=*Fish TV SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/fishtv.png* group-title=*Canais | Variedades*,Fish TV SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22223
+#EXTINF:-1 tvg-id=*Food Network HD* tvg-name=*Food Network HD* tvg-logo=*https://static.psrv.io/logos/canais/foodnetwork.png* group-title=*Canais | Variedades*,Food Network HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18669
+#EXTINF:-1 tvg-id=*Food Network HD* tvg-name=*Food Network HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foodnetwork.png* group-title=*Canais | Variedades*,Food Network HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22415
+#EXTINF:-1 tvg-id=*Food Network* tvg-name=*Food Network SD* tvg-logo=*https://static.psrv.io/logos/canais/foodnetwork.png* group-title=*Canais | Variedades*,Food Network SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18670
+#EXTINF:-1 tvg-id=*Food Network* tvg-name=*Food Network SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foodnetwork.png* group-title=*Canais | Variedades*,Food Network SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22240
+#EXTINF:-1 tvg-id=*Fox Channel HD* tvg-name=*Fox HD* tvg-logo=*https://static.psrv.io/logos/canais/fox.png* group-title=*Canais | Filmes e Séries*,Fox HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18667
+#EXTINF:-1 tvg-id=*Fox Channel HD* tvg-name=*Fox HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/fox.png* group-title=*Canais | Filmes e Séries*,Fox HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22414
+#EXTINF:-1 tvg-id=*FoxLife HD* tvg-name=*Fox Life HD* tvg-logo=*https://static.psrv.io/logos/canais/foxlife.png* group-title=*Canais | Variedades*,Fox Life HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18665
+#EXTINF:-1 tvg-id=*FoxLife HD* tvg-name=*Fox Life HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxlife.png* group-title=*Canais | Variedades*,Fox Life HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22413
+#EXTINF:-1 tvg-id=*FoxLife* tvg-name=*Fox Life SD* tvg-logo=*https://static.psrv.io/logos/canais/foxlife.png* group-title=*Canais | Variedades*,Fox Life SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18666
+#EXTINF:-1 tvg-id=*FoxLife* tvg-name=*Fox Life SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxlife.png* group-title=*Canais | Variedades*,Fox Life SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22316
+#EXTINF:-1 tvg-id=*Fox Premium 1 HD* tvg-name=*Fox Premium 1 HD* tvg-logo=*https://static.psrv.io/logos/canais/foxpremium1.png* group-title=*Canais | Filmes e Séries*,Fox Premium 1 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18663
+#EXTINF:-1 tvg-id=*Fox Premium 1 HD* tvg-name=*Fox Premium 1 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxpremium1.png* group-title=*Canais | Filmes e Séries*,Fox Premium 1 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22412
+#EXTINF:-1 tvg-id=*Fox Premium 1* tvg-name=*Fox Premium 1 SD* tvg-logo=*https://static.psrv.io/logos/canais/foxpremium1.png* group-title=*Canais | Filmes e Séries*,Fox Premium 1 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18664
+#EXTINF:-1 tvg-id=*Fox Premium 2 HD* tvg-name=*Fox Premium 2 HD* tvg-logo=*https://static.psrv.io/logos/canais/foxpremium2.png* group-title=*Canais | Filmes e Séries*,Fox Premium 2 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18661
+#EXTINF:-1 tvg-id=*Fox Premium 2 HD* tvg-name=*Fox Premium 2 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxpremium2.png* group-title=*Canais | Filmes e Séries*,Fox Premium 2 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22411
+#EXTINF:-1 tvg-id=*Fox Premium 2* tvg-name=*Fox Premium 2 SD* tvg-logo=*https://static.psrv.io/logos/canais/foxpremium2.png* group-title=*Canais | Filmes e Séries*,Fox Premium 2 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18662
+#EXTINF:-1 tvg-id=*Fox Channel* tvg-name=*Fox SD* tvg-logo=*https://static.psrv.io/logos/canais/fox.png* group-title=*Canais | Filmes e Séries*,Fox SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18668
+#EXTINF:-1 tvg-id=*Fox Channel* tvg-name=*Fox SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/fox.png* group-title=*Canais | Filmes e Séries*,Fox SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22315
+#EXTINF:-1 tvg-id=*FoxSports 2 HD* tvg-name=*Fox Sports 2 HD* tvg-logo=*https://static.psrv.io/logos/canais/foxsports2.png* group-title=*Canais | Esportes*,Fox Sports 2 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18657
+#EXTINF:-1 tvg-id=*FoxSports 2 HD* tvg-name=*Fox Sports 2 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxsports2.png* group-title=*Canais | Esportes*,Fox Sports 2 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22410
+#EXTINF:-1 tvg-id=*FoxSports 2* tvg-name=*Fox Sports 2 SD* tvg-logo=*https://static.psrv.io/logos/canais/foxsports2.png* group-title=*Canais | Esportes*,Fox Sports 2 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18658
+#EXTINF:-1 tvg-id=*FoxSports 2* tvg-name=*Fox Sports 2 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxsports2.png* group-title=*Canais | Esportes*,Fox Sports 2 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22314
+#EXTINF:-1 tvg-id=*FoxSports HD* tvg-name=*Fox Sports HD* tvg-logo=*https://static.psrv.io/logos/canais/foxsports1.png* group-title=*Canais | Esportes*,Fox Sports HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18659
+#EXTINF:-1 tvg-id=*FoxSports HD* tvg-name=*Fox Sports HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxsports1.png* group-title=*Canais | Esportes*,Fox Sports HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22409
+#EXTINF:-1 tvg-id=*FoxSports* tvg-name=*Fox Sports SD* tvg-logo=*https://static.psrv.io/logos/canais/foxsports1.png* group-title=*Canais | Esportes*,Fox Sports SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18660
+#EXTINF:-1 tvg-id=*FoxSports* tvg-name=*Fox Sports SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/foxsports1.png* group-title=*Canais | Esportes*,Fox Sports SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22313
+#EXTINF:-1 tvg-id=*Futura HD* tvg-name=*Futura HD* tvg-logo=*https://static.psrv.io/logos/canais/futura.png* group-title=*Canais | Abertos*,Futura HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18655
+#EXTINF:-1 tvg-id=*Futura* tvg-name=*Futura SD* tvg-logo=*https://static.psrv.io/logos/canais/futura.png* group-title=*Canais | Abertos*,Futura SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18656
+#EXTINF:-1 tvg-id=*Futura* tvg-name=*Futura SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/futura.png* group-title=*Canais | Abertos*,Futura SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22312
+#EXTINF:-1 tvg-id=*FX HD* tvg-name=*FX HD* tvg-logo=*https://static.psrv.io/logos/canais/fx.png* group-title=*Canais | Filmes e Séries*,FX HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18653
+#EXTINF:-1 tvg-id=*FX HD* tvg-name=*FX HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/fx.png* group-title=*Canais | Filmes e Séries*,FX HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22408
+#EXTINF:-1 tvg-id=*FX* tvg-name=*FX SD* tvg-logo=*https://static.psrv.io/logos/canais/fx.png* group-title=*Canais | Filmes e Séries*,FX SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18654
+#EXTINF:-1 tvg-id=*FX* tvg-name=*FX SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/fx.png* group-title=*Canais | Filmes e Séries*,FX SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22233
+#EXTINF:-1 tvg-id=*Globo Brasília HD* tvg-name=*Globo Brasilia HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Brasilia HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18434
+#EXTINF:-1 tvg-id=*Globo Brasília* tvg-name=*Globo Brasilia SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Brasilia SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18435
+#EXTINF:-1 tvg-id=*Globo Brasília HD* tvg-name=*Globo Brasilia SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Brasilia SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22457
+#EXTINF:-1 tvg-id=** tvg-name=*Globo EPTV Araraquara SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Araraquara SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18433
+#EXTINF:-1 tvg-id=*EPTV Campinas HD* tvg-name=*Globo EPTV Campinas HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Campinas HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18431
+#EXTINF:-1 tvg-id=*EPTV Campinas* tvg-name=*Globo EPTV Campinas SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Campinas SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18432
+#EXTINF:-1 tvg-id=*EPTV Campinas HD* tvg-name=*Globo EPTV Campinas SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Campinas SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22456
+#EXTINF:-1 tvg-id=*EPTV Ribeirão* tvg-name=*Globo EPTV Ribeirao Preto HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Ribeirao Preto HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18430
+#EXTINF:-1 tvg-id=*EPTV Ribeirão HD* tvg-name=*Globo EPTV Ribeirao Preto SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Ribeirao Preto SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18429
+#EXTINF:-1 tvg-id=*EPTV Ribeirão HD* tvg-name=*Globo EPTV Ribeirao Preto SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Ribeirao Preto SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22455
+#EXTINF:-1 tvg-id=** tvg-name=*Globo EPTV Sao Carlos SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Sao Carlos SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18428
+#EXTINF:-1 tvg-id=** tvg-name=*Globo EPTV Sao Carlos SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo EPTV Sao Carlos SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22454
+#EXTINF:-1 tvg-id=*Inter TV Alto Litoral FHD* tvg-name=*Globo Inter TV Alto Litoral HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV Alto Litoral HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18357
+#EXTINF:-1 tvg-id=** tvg-name=*Globo Inter TV Alto Litoral SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV Alto Litoral SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18356
+#EXTINF:-1 tvg-id=*Inter TV dos Vales HD* tvg-name=*Globo Inter TV dos Vales HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV dos Vales HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18354
+#EXTINF:-1 tvg-id=*Inter TV dos Vales* tvg-name=*Globo Inter TV dos Vales SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV dos Vales SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18353
+#EXTINF:-1 tvg-id=*Inter TV Grande Minas* tvg-name=*Globo Inter TV Grande Minas HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV Grande Minas HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18351
+#EXTINF:-1 tvg-id=*Inter TV Grande Minas* tvg-name=*Globo Inter TV Grande Minas SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV Grande Minas SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18350
+#EXTINF:-1 tvg-id=** tvg-name=*Globo Inter TV Natal SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV Natal SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18427
+#EXTINF:-1 tvg-id=*Inter TV Serra Mar HD* tvg-name=*Globo Inter TV Serra Mar HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV Serra Mar HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18348
+#EXTINF:-1 tvg-id=*Inter TV Serra Mar* tvg-name=*Globo Inter TV Serra Mar SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Inter TV Serra Mar SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18347
+#EXTINF:-1 tvg-id=*Globo Minas HD* tvg-name=*Globo Minas HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Minas HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18425
+#EXTINF:-1 tvg-id=*Globo Minas HD* tvg-name=*Globo Minas HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Minas HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22467
+#EXTINF:-1 tvg-id=*Globo Minas* tvg-name=*Globo Minas SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Minas SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18426
+#EXTINF:-1 tvg-id=*Globo Minas* tvg-name=*Globo Minas SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Minas SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22453
+#EXTINF:-1 tvg-id=*GloboNews HD* tvg-name=*Globo News HD* tvg-logo=*https://static.psrv.io/logos/canais/globonews.png* group-title=*Canais | Notícias*,Globo News HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18651
+#EXTINF:-1 tvg-id=*GloboNews HD* tvg-name=*Globo News HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globonews.png* group-title=*Canais | Notícias*,Globo News HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22407
+#EXTINF:-1 tvg-id=*GloboNews* tvg-name=*Globo News SD* tvg-logo=*https://static.psrv.io/logos/canais/globonews.png* group-title=*Canais | Notícias*,Globo News SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18652
+#EXTINF:-1 tvg-id=*GloboNews* tvg-name=*Globo News SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globonews.png* group-title=*Canais | Notícias*,Globo News SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22248
+#EXTINF:-1 tvg-id=*Globo Nordeste HD* tvg-name=*Globo Nordeste HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Nordeste HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18423
+#EXTINF:-1 tvg-id=*Globo Nordeste HD* tvg-name=*Globo Nordeste SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Nordeste SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18424
+#EXTINF:-1 tvg-id=*Globo Nordeste HD* tvg-name=*Globo Nordeste SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Nordeste SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22452
+#EXTINF:-1 tvg-id=*NSC TV Blumenau* tvg-name=*Globo NSC TV Blumenau HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Blumenau HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18345
+#EXTINF:-1 tvg-id=*NSC TV Blumenau* tvg-name=*Globo NSC TV Blumenau SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Blumenau SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18344
+#EXTINF:-1 tvg-id=*NSC TV Chapecó HD* tvg-name=*Globo NSC TV Chapeco HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Chapeco HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18393
+#EXTINF:-1 tvg-id=*NSC TV Chapecó* tvg-name=*Globo NSC TV Chapeco SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Chapeco SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18392
+#EXTINF:-1 tvg-id=*NSC TV Florianópolis* tvg-name=*Globo NSC TV Florianopolis HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Florianopolis HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18421
+#EXTINF:-1 tvg-id=** tvg-name=*Globo NSC TV Florianopolis SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Florianopolis SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18422
+#EXTINF:-1 tvg-id=*NSC TV Joinville HD* tvg-name=*Globo NSC TV Joinville HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Joinville HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18339
+#EXTINF:-1 tvg-id=*NSC TV Joinville* tvg-name=*Globo NSC TV Joinville SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo NSC TV Joinville SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18338
+#EXTINF:-1 tvg-id=*RBS TV Porto Alegre HD* tvg-name=*Globo RBS Porto Alegre SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RBS Porto Alegre SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22451
+#EXTINF:-1 tvg-id=*RBS TV Caxias HD* tvg-name=*Globo RBS TV Caxias do Sul HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RBS TV Caxias do Sul HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18342
+#EXTINF:-1 tvg-id=*RBS TV Caxias* tvg-name=*Globo RBS TV Caxias do Sul SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RBS TV Caxias do Sul SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18341
+#EXTINF:-1 tvg-id=*RBS TV Pelotas HD* tvg-name=*Globo RBS TV Pelotas HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RBS TV Pelotas HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18336
+#EXTINF:-1 tvg-id=*RBS TV Pelotas* tvg-name=*Globo RBS TV Pelotas SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RBS TV Pelotas SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18335
+#EXTINF:-1 tvg-id=*RBS TV Porto Alegre HD* tvg-name=*Globo RBS TV Porto Alegre HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RBS TV Porto Alegre HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18419
+#EXTINF:-1 tvg-id=*RBS TV Porto Alegre* tvg-name=*Globo RBS TV Porto Alegre SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RBS TV Porto Alegre SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18420
+#EXTINF:-1 tvg-id=*Rede Amazônica Boa Vista* tvg-name=*Globo Rede Amazonas Manaus SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Rede Amazonas Manaus SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18418
+#EXTINF:-1 tvg-id=*Rede Amazônica Manaus HD* tvg-name=*Globo Rede Amazonas Manaus SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Rede Amazonas Manaus SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22450
+#EXTINF:-1 tvg-id=*Globo Rio HD* tvg-name=*Globo RJ HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RJ HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18416
+#EXTINF:-1 tvg-id=*Globo Rio HD* tvg-name=*Globo RJ HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RJ HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22463
+#EXTINF:-1 tvg-id=*Globo Rio* tvg-name=*Globo RJ SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RJ SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18417
+#EXTINF:-1 tvg-id=*Globo Rio* tvg-name=*Globo RJ SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RJ SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22449
+#EXTINF:-1 tvg-id=*RPC Curitiba HD* tvg-name=*Globo RPC Curitiba HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RPC Curitiba HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18413
+#EXTINF:-1 tvg-id=*RPC Curitiba* tvg-name=*Globo RPC Curitiba SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RPC Curitiba SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18414
+#EXTINF:-1 tvg-id=*RPC Foz do Iguaçu HD* tvg-name=*Globo RPC Foz do Iguacu HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RPC Foz do Iguacu HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18389
+#EXTINF:-1 tvg-id=*RPC Foz do Iguaçu* tvg-name=*Globo RPC Foz do Iguacu SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo RPC Foz do Iguacu SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18391
+#EXTINF:-1 tvg-id=** tvg-name=*Globo Sao Jose dos Campos SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo Sao Jose dos Campos SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22448
+#EXTINF:-1 tvg-id=*Globo SP HD* tvg-name=*Globo SP HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo SP HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18410
+#EXTINF:-1 tvg-id=*Globo SP HD* tvg-name=*Globo SP HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo SP HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22350
+#EXTINF:-1 tvg-id=*Globo SP* tvg-name=*Globo SP SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo SP SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18411
+#EXTINF:-1 tvg-id=*Globo SP* tvg-name=*Globo SP SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo SP SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22243
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Anhanguera HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Anhanguera HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18407
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Anhanguera HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Anhanguera HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22461
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Anhanguera SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Anhanguera SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18408
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Bahia HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Bahia HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18405
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Bahia SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Bahia SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18406
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV C. America Cuiaba SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV C. America Cuiaba SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18404
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Cabo Branco HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Cabo Branco HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18333
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Cabo Branco SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Cabo Branco SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18332
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Clube Teresina HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Clube Teresina HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18386
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Clube Teresina SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Clube Teresina SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18388
+#EXTINF:-1 tvg-id=*Globo Nordeste HD* tvg-name=*Globo TV Diario Fortaleza HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Diario Fortaleza HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18490
+#EXTINF:-1 tvg-id=*Globo Nordeste* tvg-name=*Globo TV Diario Fortaleza SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Diario Fortaleza SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18489
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Gazeta Alagoas HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Gazeta Alagoas HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18362
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Gazeta Alagoas SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Gazeta Alagoas SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18364
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Gazeta Sul ES HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Gazeta Sul ES HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18360
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Gazeta Vitoria HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Gazeta Vitoria HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18383
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Gazeta Vitoria SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Gazeta Vitoria SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18385
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Liberal Belem SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Liberal Belem SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18403
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Mirante Sao Luis HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Mirante Sao Luis HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18370
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Mirante Sao Luis SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Mirante Sao Luis SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18369
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Moreno Campo Grande HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Moreno Campo Grande HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18367
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Moreno Campo Grande SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Moreno Campo Grande SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18366
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Rio Sul HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Rio Sul HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18330
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Rio Sul SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Rio Sul SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18329
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Santa Cruz HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Santa Cruz HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18327
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Santa Cruz SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Santa Cruz SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18326
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Sergipe HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Sergipe HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18380
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Sergipe HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Sergipe HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22475
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Sergipe SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Sergipe SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18382
+#EXTINF:-1 tvg-id=*TV TEM Bauru* tvg-name=*Globo TV TEM Bauru SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV TEM Bauru SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18402
+#EXTINF:-1 tvg-id=*TV TEM SJRP* tvg-name=*Globo TV TEM S. J. do Rio Preto HD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV TEM S. J. do Rio Preto HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18400
+#EXTINF:-1 tvg-id=*TV TEM SJRP HD* tvg-name=*Globo TV TEM S. J. do Rio Preto SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV TEM S. J. do Rio Preto SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18399
+#EXTINF:-1 tvg-id=*TV TEM Sorocaba* tvg-name=*Globo TV TEM Sorocaba SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV TEM Sorocaba SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18401
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Tribuna Santas SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Tribuna Santas SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18398
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Vanguarda S. J. dos Campos SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Vanguarda S. J. dos Campos SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18397
+#EXTINF:-1 tvg-id=** tvg-name=*Globo TV Verdes Mares Fortaleza SD* tvg-logo=*https://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,Globo TV Verdes Mares Fortaleza SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18396
+#EXTINF:-1 tvg-id=** tvg-name=*GloboSat HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/maisglobosat.png* group-title=*Canais | Variedades*,GloboSat HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22406
+#EXTINF:-1 tvg-id=** tvg-name=*GloboSat SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/maisglobosat.png* group-title=*Canais | Variedades*,GloboSat SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22311
+#EXTINF:-1 tvg-id=*Gloob  HD* tvg-name=*Gloob HD* tvg-logo=*https://static.psrv.io/logos/canais/gloob.png* group-title=*Canais | Infantis*,Gloob HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18649
+#EXTINF:-1 tvg-id=*Gloob  HD* tvg-name=*Gloob HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/gloob.png* group-title=*Canais | Infantis*,Gloob HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22405
+#EXTINF:-1 tvg-id=*Gloob* tvg-name=*Gloob SD* tvg-logo=*https://static.psrv.io/logos/canais/gloob.png* group-title=*Canais | Infantis*,Gloob SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18650
+#EXTINF:-1 tvg-id=*Gloob* tvg-name=*Gloob SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/gloob.png* group-title=*Canais | Infantis*,Gloob SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22310
+#EXTINF:-1 tvg-id=*Gloobinho HD* tvg-name=*Gloobinho HD* tvg-logo=*https://static.psrv.io/logos/canais/gloobinho.png* group-title=*Canais | Infantis*,Gloobinho HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18648
+#EXTINF:-1 tvg-id=*Gloobinho HD* tvg-name=*Gloobinho SD* tvg-logo=*https://static.psrv.io/logos/canais/gloobinho.png* group-title=*Canais | Infantis*,Gloobinho SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18647
+#EXTINF:-1 tvg-id=*GNT HD* tvg-name=*GNT HD* tvg-logo=*https://static.psrv.io/logos/canais/gnt.png* group-title=*Canais | Variedades*,GNT HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18645
+#EXTINF:-1 tvg-id=*GNT HD* tvg-name=*GNT HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/gnt.png* group-title=*Canais | Variedades*,GNT HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22404
+#EXTINF:-1 tvg-id=*GNT* tvg-name=*GNT SD* tvg-logo=*https://static.psrv.io/logos/canais/gnt.png* group-title=*Canais | Variedades*,GNT SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18646
+#EXTINF:-1 tvg-id=*GNT* tvg-name=*GNT SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/gnt.png* group-title=*Canais | Variedades*,GNT SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22235
+#EXTINF:-1 tvg-id=*History 2 HD* tvg-name=*H2 HD* tvg-logo=*https://static.psrv.io/logos/canais/h2.png* group-title=*Canais | Documentários*,H2 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18643
+#EXTINF:-1 tvg-id=*History 2 HD* tvg-name=*H2 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/h2.png* group-title=*Canais | Documentários*,H2 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22403
+#EXTINF:-1 tvg-id=*History 2* tvg-name=*H2 SD* tvg-logo=*https://static.psrv.io/logos/canais/h2.png* group-title=*Canais | Documentários*,H2 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18644
+#EXTINF:-1 tvg-id=*History 2* tvg-name=*H2 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/h2.png* group-title=*Canais | Documentários*,H2 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22309
+#EXTINF:-1 tvg-id=*HBO 2  HD* tvg-name=*HBO 2 HD* tvg-logo=*https://static.psrv.io/logos/canais/hbo2.png* group-title=*Canais | Filmes e Séries*,HBO 2 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18640
+#EXTINF:-1 tvg-id=*HBO 2  HD* tvg-name=*HBO 2 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbo2.png* group-title=*Canais | Filmes e Séries*,HBO 2 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22402
+#EXTINF:-1 tvg-id=*HBO 2* tvg-name=*HBO 2 SD* tvg-logo=*https://static.psrv.io/logos/canais/hbo2.png* group-title=*Canais | Filmes e Séries*,HBO 2 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18641
+#EXTINF:-1 tvg-id=*HBO 2* tvg-name=*HBO 2 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbo2.png* group-title=*Canais | Filmes e Séries*,HBO 2 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22241
+#EXTINF:-1 tvg-id=*HBO Family HD* tvg-name=*HBO Family HD* tvg-logo=*https://static.psrv.io/logos/canais/hbofamily.png* group-title=*Canais | Filmes e Séries*,HBO Family HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18638
+#EXTINF:-1 tvg-id=*HBO Family HD* tvg-name=*HBO Family HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbofamily.png* group-title=*Canais | Filmes e Séries*,HBO Family HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22401
+#EXTINF:-1 tvg-id=*HBO Family* tvg-name=*HBO Family SD* tvg-logo=*https://static.psrv.io/logos/canais/hbofamily.png* group-title=*Canais | Filmes e Séries*,HBO Family SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18639
+#EXTINF:-1 tvg-id=*HBO Family* tvg-name=*HBO Family SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbofamily.png* group-title=*Canais | Filmes e Séries*,HBO Family SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22308
+#EXTINF:-1 tvg-id=*HBO HD* tvg-name=*HBO HD* tvg-logo=*https://static.psrv.io/logos/canais/hbo.png* group-title=*Canais | Filmes e Séries*,HBO HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18637
+#EXTINF:-1 tvg-id=*HBO HD* tvg-name=*HBO HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbo.png* group-title=*Canais | Filmes e Séries*,HBO HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22400
+#EXTINF:-1 tvg-id=** tvg-name=*HBO Plus E SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hboplus.png* group-title=*Canais | Filmes e Séries*,HBO Plus E SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22307
+#EXTINF:-1 tvg-id=*HBO +* tvg-name=*HBO Plus HD* tvg-logo=*https://static.psrv.io/logos/canais/hboplus.png* group-title=*Canais | Filmes e Séries*,HBO Plus HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18635
+#EXTINF:-1 tvg-id=*HBO + FHD* tvg-name=*HBO Plus HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hboplus.png* group-title=*Canais | Filmes e Séries*,HBO Plus HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22399
+#EXTINF:-1 tvg-id=*HBO +* tvg-name=*HBO Plus SD* tvg-logo=*https://static.psrv.io/logos/canais/hboplus.png* group-title=*Canais | Filmes e Séries*,HBO Plus SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18636
+#EXTINF:-1 tvg-id=** tvg-name=*HBO Plus SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hboplus.png* group-title=*Canais | Filmes e Séries*,HBO Plus SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22306
+#EXTINF:-1 tvg-id=*HBO* tvg-name=*HBO SD* tvg-logo=*https://static.psrv.io/logos/canais/hbo.png* group-title=*Canais | Filmes e Séries*,HBO SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18642
+#EXTINF:-1 tvg-id=*HBO* tvg-name=*HBO SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbo.png* group-title=*Canais | Filmes e Séries*,HBO SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22305
+#EXTINF:-1 tvg-id=*HBO Signature HD* tvg-name=*HBO Signature HD* tvg-logo=*https://static.psrv.io/logos/canais/hbosignature.png* group-title=*Canais | Filmes e Séries*,HBO Signature HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18633
+#EXTINF:-1 tvg-id=*HBO Signature HD* tvg-name=*HBO Signature HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbosignature.png* group-title=*Canais | Filmes e Séries*,HBO Signature HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22398
+#EXTINF:-1 tvg-id=*HBO Signature* tvg-name=*HBO Signature SD* tvg-logo=*https://static.psrv.io/logos/canais/hbosignature.png* group-title=*Canais | Filmes e Séries*,HBO Signature SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18634
+#EXTINF:-1 tvg-id=*HBO Signature* tvg-name=*HBO Signature SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/hbosignature.png* group-title=*Canais | Filmes e Séries*,HBO Signature SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22304
+#EXTINF:-1 tvg-id=*History HD* tvg-name=*History Channel HD* tvg-logo=*https://static.psrv.io/logos/canais/history.png* group-title=*Canais | Documentários*,History Channel HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18631
+#EXTINF:-1 tvg-id=*History HD* tvg-name=*History Channel HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/history.png* group-title=*Canais | Documentários*,History Channel HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22359
+#EXTINF:-1 tvg-id=*History* tvg-name=*History Channel SD* tvg-logo=*https://static.psrv.io/logos/canais/history.png* group-title=*Canais | Documentários*,History Channel SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18632
+#EXTINF:-1 tvg-id=*History* tvg-name=*History Channel SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/history.png* group-title=*Canais | Documentários*,History Channel SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22260
+#EXTINF:-1 tvg-id=** tvg-name=*HIT TV HD* tvg-logo=*https://static.psrv.io/logos/canais/mtvlive.png* group-title=*Canais | Variedades*,HIT TV HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/2513
+#EXTINF:-1 tvg-id=*ID: Investigação Discovery HD* tvg-name=*ID: Investigacao Discovery HD* tvg-logo=*https://static.psrv.io/logos/canais/id.png* group-title=*Canais | Variedades*,ID: Investigacao Discovery HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18629
+#EXTINF:-1 tvg-id=*ID: Investigação Discovery HD* tvg-name=*ID: Investigacao Discovery HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/id.png* group-title=*Canais | Variedades*,ID: Investigacao Discovery HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22397
+#EXTINF:-1 tvg-id=*ID: Investigação Discovery* tvg-name=*ID: Investigacao Discovery SD* tvg-logo=*https://static.psrv.io/logos/canais/id.png* group-title=*Canais | Variedades*,ID: Investigacao Discovery SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18630
+#EXTINF:-1 tvg-id=*ID: Investigação Discovery* tvg-name=*ID: Investigacao Discovery SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/id.png* group-title=*Canais | Variedades*,ID: Investigacao Discovery SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22234
+#EXTINF:-1 tvg-id=*Lifetime HD* tvg-name=*Lifetime HD* tvg-logo=*https://static.psrv.io/logos/canais/lifetime.png* group-title=*Canais | Variedades*,Lifetime HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18627
+#EXTINF:-1 tvg-id=*Lifetime HD* tvg-name=*Lifetime HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/lifetime.png* group-title=*Canais | Variedades*,Lifetime HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22396
+#EXTINF:-1 tvg-id=*Lifetime* tvg-name=*Lifetime SD* tvg-logo=*https://static.psrv.io/logos/canais/lifetime.png* group-title=*Canais | Variedades*,Lifetime SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18628
+#EXTINF:-1 tvg-id=*Lifetime* tvg-name=*Lifetime SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/lifetime.png* group-title=*Canais | Variedades*,Lifetime SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22303
+#EXTINF:-1 tvg-id=*Mais GloboSat HD* tvg-name=*Mais GloboSat HD* tvg-logo=*https://static.psrv.io/logos/canais/maisglobosat.png* group-title=*Canais | Variedades*,Mais GloboSat HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18625
+#EXTINF:-1 tvg-id=*Mais GloboSat* tvg-name=*Mais GloboSat SD* tvg-logo=*https://static.psrv.io/logos/canais/maisglobosat.png* group-title=*Canais | Variedades*,Mais GloboSat SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18626
+#EXTINF:-1 tvg-id=** tvg-name=*Max HD* tvg-logo=*https://static.psrv.io/logos/canais/max.png* group-title=*Canais | Filmes e Séries*,Max HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18623
+#EXTINF:-1 tvg-id=*MaxPrime HD* tvg-name=*Max HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/max.png* group-title=*Canais | Filmes e Séries*,Max HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22395
+#EXTINF:-1 tvg-id=*MaxPrime HD* tvg-name=*Max Prime HD* tvg-logo=*https://static.psrv.io/logos/canais/maxprime.png* group-title=*Canais | Filmes e Séries*,Max Prime HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18621
+#EXTINF:-1 tvg-id=** tvg-name=*Max Prime HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/maxprime.png* group-title=*Canais | Filmes e Séries*,Max Prime HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22394
+#EXTINF:-1 tvg-id=*MaxPrime* tvg-name=*Max Prime SD* tvg-logo=*https://static.psrv.io/logos/canais/maxprime.png* group-title=*Canais | Filmes e Séries*,Max Prime SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18622
+#EXTINF:-1 tvg-id=*MaxPrime* tvg-name=*Max Prime SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/maxprime.png* group-title=*Canais | Filmes e Séries*,Max Prime SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22302
+#EXTINF:-1 tvg-id=** tvg-name=*Max SD* tvg-logo=*https://static.psrv.io/logos/canais/max.png* group-title=*Canais | Filmes e Séries*,Max SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18624
+#EXTINF:-1 tvg-id=** tvg-name=*Max SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/max.png* group-title=*Canais | Filmes e Séries*,Max SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22301
+#EXTINF:-1 tvg-id=*Max UP HD* tvg-name=*Max UP HD* tvg-logo=*https://static.psrv.io/logos/canais/maxup.png* group-title=*Canais | Filmes e Séries*,Max UP HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18619
+#EXTINF:-1 tvg-id=*Max UP HD* tvg-name=*Max UP HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/maxup.png* group-title=*Canais | Filmes e Séries*,Max UP HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22393
+#EXTINF:-1 tvg-id=*Max UP* tvg-name=*Max UP SD* tvg-logo=*https://static.psrv.io/logos/canais/maxup.png* group-title=*Canais | Filmes e Séries*,Max UP SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18620
+#EXTINF:-1 tvg-id=*Max UP* tvg-name=*Max UP SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/maxup.png* group-title=*Canais | Filmes e Séries*,Max UP SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22300
+#EXTINF:-1 tvg-id=*Megapix HD* tvg-name=*Megapix HD* tvg-logo=*https://static.psrv.io/logos/canais/megapix.png* group-title=*Canais | Filmes e Séries*,Megapix HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18617
+#EXTINF:-1 tvg-id=*Megapix HD* tvg-name=*Megapix HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/megapix.png* group-title=*Canais | Filmes e Séries*,Megapix HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22392
+#EXTINF:-1 tvg-id=*Megapix* tvg-name=*Megapix SD* tvg-logo=*https://static.psrv.io/logos/canais/megapix.png* group-title=*Canais | Filmes e Séries*,Megapix SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18618
+#EXTINF:-1 tvg-id=*Megapix* tvg-name=*Megapix SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/megapix.png* group-title=*Canais | Filmes e Séries*,Megapix SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22299
+#EXTINF:-1 tvg-id=*MTV HD* tvg-name=*MTV HD* tvg-logo=*https://static.psrv.io/logos/canais/mtv.png* group-title=*Canais | Variedades*,MTV HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18615
+#EXTINF:-1 tvg-id=*MTV HD* tvg-name=*MTV HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/mtv.png* group-title=*Canais | Variedades*,MTV HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22391
+#EXTINF:-1 tvg-id=*MTV Live HD HD* tvg-name=*MTV Live HD* tvg-logo=*https://static.psrv.io/logos/canais/mtvlive.png* group-title=*Canais | Variedades*,MTV Live HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18507
+#EXTINF:-1 tvg-id=*MTV Live HD* tvg-name=*MTV Live SD* tvg-logo=*https://static.psrv.io/logos/canais/mtvlive.png* group-title=*Canais | Variedades*,MTV Live SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18508
+#EXTINF:-1 tvg-id=*MTV* tvg-name=*MTV SD* tvg-logo=*https://static.psrv.io/logos/canais/mtv.png* group-title=*Canais | Variedades*,MTV SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18616
+#EXTINF:-1 tvg-id=*MTV* tvg-name=*MTV SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/mtv.png* group-title=*Canais | Variedades*,MTV SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22298
+#EXTINF:-1 tvg-id=*Multishow HD* tvg-name=*Multishow HD* tvg-logo=*https://static.psrv.io/logos/canais/multishow.png* group-title=*Canais | Variedades*,Multishow HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18613
+#EXTINF:-1 tvg-id=*Multishow HD* tvg-name=*Multishow HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/multishow.png* group-title=*Canais | Variedades*,Multishow HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22390
+#EXTINF:-1 tvg-id=*Multishow* tvg-name=*Multishow SD* tvg-logo=*https://static.psrv.io/logos/canais/multishow.png* group-title=*Canais | Variedades*,Multishow SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18614
+#EXTINF:-1 tvg-id=*Multishow* tvg-name=*Multishow SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/multishow.png* group-title=*Canais | Variedades*,Multishow SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22297
+#EXTINF:-1 tvg-id=*Music Box Brazil HD* tvg-name=*Music Box Brasil HD* tvg-logo=*https://static.psrv.io/logos/canais/musicboxbrazil.png* group-title=*Canais | Variedades*,Music Box Brasil HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18611
+#EXTINF:-1 tvg-id=*Music Box Brazil* tvg-name=*Music Box Brasil SD* tvg-logo=*https://static.psrv.io/logos/canais/musicboxbrazil.png* group-title=*Canais | Variedades*,Music Box Brasil SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18612
+#EXTINF:-1 tvg-id=*National Geographic HD* tvg-name=*NatGeo HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nationalgeographic.png* group-title=*Canais | Documentários*,NatGeo HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22389
+#EXTINF:-1 tvg-id=*NatGeo Kids HD* tvg-name=*NatGeo Kids HD* tvg-logo=*https://static.psrv.io/logos/canais/natgeokids.png* group-title=*Canais | Infantis*,NatGeo Kids HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18607
+#EXTINF:-1 tvg-id=*NatGeo Kids HD* tvg-name=*NatGeo Kids HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/natgeokids.png* group-title=*Canais | Infantis*,NatGeo Kids HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22388
+#EXTINF:-1 tvg-id=*NatGeo Kids* tvg-name=*NatGeo Kids SD* tvg-logo=*https://static.psrv.io/logos/canais/natgeokids.png* group-title=*Canais | Infantis*,NatGeo Kids SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18608
+#EXTINF:-1 tvg-id=*NatGeo Kids* tvg-name=*NatGeo Kids SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/natgeokids.png* group-title=*Canais | Infantis*,NatGeo Kids SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22295
+#EXTINF:-1 tvg-id=*National Geographic* tvg-name=*NatGeo SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nationalgeographic.png* group-title=*Canais | Documentários*,NatGeo SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22294
+#EXTINF:-1 tvg-id=*National Geographic Wild HD* tvg-name=*NatGeo Wild HD* tvg-logo=*https://static.psrv.io/logos/canais/natgeowild.png* group-title=*Canais | Documentários*,NatGeo Wild HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18606
+#EXTINF:-1 tvg-id=*National Geographic Wild HD* tvg-name=*NatGeo Wild HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/natgeowild.png* group-title=*Canais | Documentários*,NatGeo Wild HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22387
+#EXTINF:-1 tvg-id=*National Geographic Wild* tvg-name=*NatGeo Wild SD* tvg-logo=*https://static.psrv.io/logos/canais/natgeowild.png* group-title=*Canais | Documentários*,NatGeo Wild SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18605
+#EXTINF:-1 tvg-id=*National Geographic Wild* tvg-name=*NatGeo Wild SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/natgeowild.png* group-title=*Canais | Documentários*,NatGeo Wild SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22293
+#EXTINF:-1 tvg-id=*National Geographic HD* tvg-name=*National Geographic HD* tvg-logo=*https://static.psrv.io/logos/canais/nationalgeographic.png* group-title=*Canais | Documentários*,National Geographic HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18609
+#EXTINF:-1 tvg-id=*National Geographic* tvg-name=*National Geographic SD* tvg-logo=*https://static.psrv.io/logos/canais/nationalgeographic.png* group-title=*Canais | Documentários*,National Geographic SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18610
+#EXTINF:-1 tvg-id=*NBR* tvg-name=*NBR SD* tvg-logo=*https://static.psrv.io/logos/canais/nbr.png* group-title=*Canais | Abertos*,NBR SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18604
+#EXTINF:-1 tvg-id=** tvg-name=*NBR SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nbr.png* group-title=*Canais | Abertos*,NBR SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22231
+#EXTINF:-1 tvg-id=*NHK World Japan* tvg-name=*NHK SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nhk.png* group-title=*Canais | Internacionais*,NHK SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22219
+#EXTINF:-1 tvg-id=*Nick Jr. HD* tvg-name=*Nick Jr HD* tvg-logo=*https://static.psrv.io/logos/canais/nickjr.png* group-title=*Canais | Infantis*,Nick Jr HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18602
+#EXTINF:-1 tvg-id=*Nick Jr. HD* tvg-name=*Nick Jr HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nickjr.png* group-title=*Canais | Infantis*,Nick Jr HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22386
+#EXTINF:-1 tvg-id=*Nick Jr.* tvg-name=*Nick Jr SD* tvg-logo=*https://static.psrv.io/logos/canais/nickjr.png* group-title=*Canais | Infantis*,Nick Jr SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18603
+#EXTINF:-1 tvg-id=*Nick Jr.* tvg-name=*Nick Jr SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nickjr.png* group-title=*Canais | Infantis*,Nick Jr SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22292
+#EXTINF:-1 tvg-id=*Nick HD* tvg-name=*Nickelodeon HD* tvg-logo=*https://static.psrv.io/logos/canais/nick.png* group-title=*Canais | Infantis*,Nickelodeon HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18600
+#EXTINF:-1 tvg-id=*Nick HD* tvg-name=*Nickelodeon HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nick.png* group-title=*Canais | Infantis*,Nickelodeon HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22385
+#EXTINF:-1 tvg-id=*Nick* tvg-name=*Nickelodeon SD* tvg-logo=*https://static.psrv.io/logos/canais/nick.png* group-title=*Canais | Infantis*,Nickelodeon SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18601
+#EXTINF:-1 tvg-id=*Nick* tvg-name=*Nickelodeon SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/nick.png* group-title=*Canais | Infantis*,Nickelodeon SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22291
+#EXTINF:-1 tvg-id=*Off HD* tvg-name=*OFF HD* tvg-logo=*https://static.psrv.io/logos/canais/off.png* group-title=*Canais | Variedades*,OFF HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18598
+#EXTINF:-1 tvg-id=*Off HD* tvg-name=*OFF HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/off.png* group-title=*Canais | Variedades*,OFF HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22384
+#EXTINF:-1 tvg-id=*Off* tvg-name=*OFF SD* tvg-logo=*https://static.psrv.io/logos/canais/off.png* group-title=*Canais | Variedades*,OFF SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18599
+#EXTINF:-1 tvg-id=*Off* tvg-name=*OFF SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/off.png* group-title=*Canais | Variedades*,OFF SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22290
+#EXTINF:-1 tvg-id=*Paramount Channel HD* tvg-name=*Paramount HD* tvg-logo=*https://static.psrv.io/logos/canais/paramount.png* group-title=*Canais | Filmes e Séries*,Paramount HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18596
+#EXTINF:-1 tvg-id=*Paramount Channel HD* tvg-name=*Paramount HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/paramount.png* group-title=*Canais | Filmes e Séries*,Paramount HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22383
+#EXTINF:-1 tvg-id=*Paramount Channel* tvg-name=*Paramount SD* tvg-logo=*https://static.psrv.io/logos/canais/paramount.png* group-title=*Canais | Filmes e Séries*,Paramount SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18597
+#EXTINF:-1 tvg-id=*Paramount Channel* tvg-name=*Paramount SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/paramount.png* group-title=*Canais | Filmes e Séries*,Paramount SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22289
+#EXTINF:-1 tvg-id=*PlayTV* tvg-name=*Play TV SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/playtv.png* group-title=*Canais | Variedades*,Play TV SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22288
+#EXTINF:-1 tvg-id=** tvg-name=*PlayKids HD* tvg-logo=*https://static.psrv.io/logos/canais/playkids.png* group-title=*Canais | Infantis*,PlayKids HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18499
+#EXTINF:-1 tvg-id=** tvg-name=*PlayKids SD* tvg-logo=*https://static.psrv.io/logos/canais/playkids.png* group-title=*Canais | Infantis*,PlayKids SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18498
+#EXTINF:-1 tvg-id=*Premiere 2 HD* tvg-name=*Premiere 2 HD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 2 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18594
+#EXTINF:-1 tvg-id=*Premiere 2 HD* tvg-name=*Premiere 2 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 2 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22382
+#EXTINF:-1 tvg-id=*Premiere 2* tvg-name=*Premiere 2 SD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 2 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18595
+#EXTINF:-1 tvg-id=*Premiere 2* tvg-name=*Premiere 2 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 2 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22286
+#EXTINF:-1 tvg-id=*Premiere 3 HD* tvg-name=*Premiere 3 HD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 3 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18592
+#EXTINF:-1 tvg-id=*Premiere 3 HD* tvg-name=*Premiere 3 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 3 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22381
+#EXTINF:-1 tvg-id=*Premiere 3* tvg-name=*Premiere 3 SD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 3 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18593
+#EXTINF:-1 tvg-id=*Premiere 3* tvg-name=*Premiere 3 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 3 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22285
+#EXTINF:-1 tvg-id=*Premiere 4 HD* tvg-name=*Premiere 4 HD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 4 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18590
+#EXTINF:-1 tvg-id=*Premiere 4 HD* tvg-name=*Premiere 4 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 4 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22380
+#EXTINF:-1 tvg-id=*Premiere 4* tvg-name=*Premiere 4 SD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 4 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18591
+#EXTINF:-1 tvg-id=*Premiere 4* tvg-name=*Premiere 4 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 4 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22284
+#EXTINF:-1 tvg-id=*Premiere 5 HD* tvg-name=*Premiere 5 HD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 5 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18588
+#EXTINF:-1 tvg-id=*Premiere 5 HD* tvg-name=*Premiere 5 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 5 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22379
+#EXTINF:-1 tvg-id=*Premiere 5* tvg-name=*Premiere 5 SD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 5 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18589
+#EXTINF:-1 tvg-id=*Premiere 5* tvg-name=*Premiere 5 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 5 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22283
+#EXTINF:-1 tvg-id=*Premiere 6 HD* tvg-name=*Premiere 6 HD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 6 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18586
+#EXTINF:-1 tvg-id=*Premiere 6 HD* tvg-name=*Premiere 6 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 6 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22378
+#EXTINF:-1 tvg-id=*Premiere 6* tvg-name=*Premiere 6 SD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 6 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18587
+#EXTINF:-1 tvg-id=*Premiere 6* tvg-name=*Premiere 6 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 6 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22282
+#EXTINF:-1 tvg-id=*Premiere 7 HD* tvg-name=*Premiere 7 HD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 7 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18584
+#EXTINF:-1 tvg-id=*Premiere 7 HD* tvg-name=*Premiere 7 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 7 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22377
+#EXTINF:-1 tvg-id=*Premiere 7* tvg-name=*Premiere 7 SD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 7 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18585
+#EXTINF:-1 tvg-id=*Premiere 7* tvg-name=*Premiere 7 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 7 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22281
+#EXTINF:-1 tvg-id=*Premiere 8 - Mosaico* tvg-name=*Premiere 8 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere 8 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22280
+#EXTINF:-1 tvg-id=*Premiere Clubes HD* tvg-name=*Premiere Clubes HD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere Clubes HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18582
+#EXTINF:-1 tvg-id=*Premiere Clubes HD* tvg-name=*Premiere Clubes HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere Clubes HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22376
+#EXTINF:-1 tvg-id=*Premiere Clubes* tvg-name=*Premiere Clubes SD* tvg-logo=*https://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere Clubes SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18583
+#EXTINF:-1 tvg-id=*Premiere Clubes* tvg-name=*Premiere Clubes SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/premiere.png* group-title=*Canais | Esportes*,Premiere Clubes SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22279
+#EXTINF:-1 tvg-id=*Prime Box Brazil HD* tvg-name=*Prime Box Brasil HD* tvg-logo=*https://static.psrv.io/logos/canais/primeboxbrazil.png* group-title=*Canais | Variedades*,Prime Box Brasil HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18580
+#EXTINF:-1 tvg-id=*Prime Box Brazil* tvg-name=*Prime Box Brasil SD* tvg-logo=*https://static.psrv.io/logos/canais/primeboxbrazil.png* group-title=*Canais | Variedades*,Prime Box Brasil SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18581
+#EXTINF:-1 tvg-id=*Record News HD* tvg-name=*Record News HD* tvg-logo=*https://static.psrv.io/logos/canais/recordnews.png* group-title=*Canais | Notícias*,Record News HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18577
+#EXTINF:-1 tvg-id=*Record News* tvg-name=*Record News SD* tvg-logo=*https://static.psrv.io/logos/canais/recordnews.png* group-title=*Canais | Notícias*,Record News SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18578
+#EXTINF:-1 tvg-id=*RecordTV Itapoan* tvg-name=*RecordTV BA HD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV BA HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18496
+#EXTINF:-1 tvg-id=*RecordTV Itapoan* tvg-name=*RecordTV BA SD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV BA SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18495
+#EXTINF:-1 tvg-id=*RecordTV Brasília HD* tvg-name=*RecordTV DF HD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV DF HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18494
+#EXTINF:-1 tvg-id=*RecordTV Brasília* tvg-name=*RecordTV DF SD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV DF SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18493
+#EXTINF:-1 tvg-id=** tvg-name=*RecordTV GYN HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV GYN HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22465
+#EXTINF:-1 tvg-id=*RecordTV Minas HD* tvg-name=*RecordTV MG HD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV MG HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18501
+#EXTINF:-1 tvg-id=*RecordTV Minas* tvg-name=*RecordTV MG SD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV MG SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18500
+#EXTINF:-1 tvg-id=*Record News* tvg-name=*RecordTV News SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/recordnews.png* group-title=*Canais | Notícias*,RecordTV News SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22216
+#EXTINF:-1 tvg-id=** tvg-name=*RecordTV PR HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV PR HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22471
+#EXTINF:-1 tvg-id=*RecordTV Rio* tvg-name=*RecordTV Rio HD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV Rio HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18503
+#EXTINF:-1 tvg-id=*RecordTV Rio HD* tvg-name=*RecordTV Rio HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV Rio HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22459
+#EXTINF:-1 tvg-id=*RecordTV Rio HD* tvg-name=*RecordTV Rio SD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV Rio SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18502
+#EXTINF:-1 tvg-id=*RecordTV RS HD* tvg-name=*RecordTV RS HD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV RS HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18492
+#EXTINF:-1 tvg-id=*RecordTV RS* tvg-name=*RecordTV RS SD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV RS SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18491
+#EXTINF:-1 tvg-id=** tvg-name=*RecordTV SC HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV SC HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22478
+#EXTINF:-1 tvg-id=*RecordTV* tvg-name=*RecordTV SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22277
+#EXTINF:-1 tvg-id=** tvg-name=*RecordTV Sergipe HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV Sergipe HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22474
+#EXTINF:-1 tvg-id=*RecordTV Paulista* tvg-name=*RecordTV SP* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV SP
+http://psrv.io:80/fgy0mcZW2k/trixotv/18576
+#EXTINF:-1 tvg-id=*RecordTV Paulista HD* tvg-name=*RecordTV SP HD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV SP HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18575
+#EXTINF:-1 tvg-id=*RecordTV HD* tvg-name=*RecordTV SP HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV SP HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22375
+#EXTINF:-1 tvg-id=*RecordTV* tvg-name=*RecordTV SP SD* tvg-logo=*https://static.psrv.io/logos/canais/record.png* group-title=*Canais | Abertos*,RecordTV SP SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18579
+#EXTINF:-1 tvg-id=*Rede Brasil* tvg-name=*Rede Brasil SD* tvg-logo=*https://static.psrv.io/logos/canais/redebrasil.png* group-title=*Canais | Abertos*,Rede Brasil SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18574
+#EXTINF:-1 tvg-id=*Rede Brasil* tvg-name=*Rede Brasil SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/redebrasil.png* group-title=*Canais | Abertos*,Rede Brasil SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22224
+#EXTINF:-1 tvg-id=*Rede Vida HD* tvg-name=*Rede Vida HD* tvg-logo=*https://static.psrv.io/logos/canais/redevida.png* group-title=*Canais | Abertos*,Rede Vida HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18504
+#EXTINF:-1 tvg-id=*Rede Vida* tvg-name=*Rede Vida SD* tvg-logo=*https://static.psrv.io/logos/canais/redevida.png* group-title=*Canais | Abertos*,Rede Vida SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18571
+#EXTINF:-1 tvg-id=*Rede Vida* tvg-name=*Rede Vida SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/redevida.png* group-title=*Canais | Abertos*,Rede Vida SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22225
+#EXTINF:-1 tvg-id=*RedeTV! HD* tvg-name=*RedeTV! HD* tvg-logo=*https://static.psrv.io/logos/canais/redetv.png* group-title=*Canais | Abertos*,RedeTV! HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18572
+#EXTINF:-1 tvg-id=*RedeTV! HD* tvg-name=*RedeTV! HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/redetv.png* group-title=*Canais | Abertos*,RedeTV! HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22374
+#EXTINF:-1 tvg-id=** tvg-name=*RedeTV! RS HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/redetv.png* group-title=*Canais | Abertos*,RedeTV! RS HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22464
+#EXTINF:-1 tvg-id=*RedeTV!* tvg-name=*RedeTV! SD* tvg-logo=*https://static.psrv.io/logos/canais/redetv.png* group-title=*Canais | Abertos*,RedeTV! SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18573
+#EXTINF:-1 tvg-id=*RedeTV!* tvg-name=*RedeTV! SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/redetv.png* group-title=*Canais | Abertos*,RedeTV! SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22230
+#EXTINF:-1 tvg-id=*SBT HD* tvg-name=*SBT HD* tvg-logo=*https://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18569
+#EXTINF:-1 tvg-id=** tvg-name=*SBT PR HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT PR HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22470
+#EXTINF:-1 tvg-id=*SBT Rio HD* tvg-name=*SBT RJ HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT RJ HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22458
+#EXTINF:-1 tvg-id=*SBT RS HD* tvg-name=*SBT RS HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT RS HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22468
+#EXTINF:-1 tvg-id=*SCC SBT FHD* tvg-name=*SBT SC HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT SC HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22477
+#EXTINF:-1 tvg-id=*SBT* tvg-name=*SBT SD* tvg-logo=*https://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18570
+#EXTINF:-1 tvg-id=** tvg-name=*SBT Sergipe HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT Sergipe HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22473
+#EXTINF:-1 tvg-id=*SBT HD* tvg-name=*SBT SP HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT SP HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22373
+#EXTINF:-1 tvg-id=*SBT Interior SP* tvg-name=*SBT SP Interior SD* tvg-logo=*https://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT SP Interior SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18568
+#EXTINF:-1 tvg-id=*SBT* tvg-name=*SBT SP SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sbt.png* group-title=*Canais | Abertos*,SBT SP SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22276
+#EXTINF:-1 tvg-id=*Sony HD* tvg-name=*Sony HD* tvg-logo=*https://static.psrv.io/logos/canais/sony.png* group-title=*Canais | Filmes e Séries*,Sony HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18714
+#EXTINF:-1 tvg-id=*Sony HD* tvg-name=*Sony HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sony.png* group-title=*Canais | Filmes e Séries*,Sony HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22437
+#EXTINF:-1 tvg-id=*Sony* tvg-name=*Sony SD* tvg-logo=*https://static.psrv.io/logos/canais/sony.png* group-title=*Canais | Filmes e Séries*,Sony SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18715
+#EXTINF:-1 tvg-id=*Sony* tvg-name=*Sony SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sony.png* group-title=*Canais | Filmes e Séries*,Sony SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22331
+#EXTINF:-1 tvg-id=*Space HD* tvg-name=*Space HD* tvg-logo=*https://static.psrv.io/logos/canais/space.png* group-title=*Canais | Filmes e Séries*,Space HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18564
+#EXTINF:-1 tvg-id=*Space HD* tvg-name=*Space HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/space.png* group-title=*Canais | Filmes e Séries*,Space HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22372
+#EXTINF:-1 tvg-id=*Space* tvg-name=*Space SD* tvg-logo=*https://static.psrv.io/logos/canais/space.png* group-title=*Canais | Filmes e Séries*,Space SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18565
+#EXTINF:-1 tvg-id=*Space* tvg-name=*Space SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/space.png* group-title=*Canais | Filmes e Séries*,Space SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22273
+#EXTINF:-1 tvg-id=*SporTV 2 HD* tvg-name=*SporTV 2 HD* tvg-logo=*https://static.psrv.io/logos/canais/sportv2.png* group-title=*Canais | Esportes*,SporTV 2 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18561
+#EXTINF:-1 tvg-id=*SporTV 2 HD* tvg-name=*SporTV 2 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sportv2.png* group-title=*Canais | Esportes*,SporTV 2 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22371
+#EXTINF:-1 tvg-id=*SporTV 2* tvg-name=*SporTV 2 SD* tvg-logo=*https://static.psrv.io/logos/canais/sportv2.png* group-title=*Canais | Esportes*,SporTV 2 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18562
+#EXTINF:-1 tvg-id=*SporTV 2* tvg-name=*SporTV 2 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sportv2.png* group-title=*Canais | Esportes*,SporTV 2 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22272
+#EXTINF:-1 tvg-id=*SporTV 3 HD* tvg-name=*SporTV 3 HD* tvg-logo=*https://static.psrv.io/logos/canais/sportv3.png* group-title=*Canais | Esportes*,SporTV 3 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18559
+#EXTINF:-1 tvg-id=*SporTV 3 HD* tvg-name=*SporTV 3 HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sportv3.png* group-title=*Canais | Esportes*,SporTV 3 HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22370
+#EXTINF:-1 tvg-id=*SporTV 3* tvg-name=*SporTV 3 SD* tvg-logo=*https://static.psrv.io/logos/canais/sportv3.png* group-title=*Canais | Esportes*,SporTV 3 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18560
+#EXTINF:-1 tvg-id=*SporTV 3* tvg-name=*SporTV 3 SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sportv3.png* group-title=*Canais | Esportes*,SporTV 3 SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22247
+#EXTINF:-1 tvg-id=*SporTV HD* tvg-name=*SporTV HD* tvg-logo=*https://static.psrv.io/logos/canais/sportv.png* group-title=*Canais | Esportes*,SporTV HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18558
+#EXTINF:-1 tvg-id=*SporTV HD* tvg-name=*SporTV HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sportv.png* group-title=*Canais | Esportes*,SporTV HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22369
+#EXTINF:-1 tvg-id=*SporTV* tvg-name=*SporTV SD* tvg-logo=*https://static.psrv.io/logos/canais/sportv.png* group-title=*Canais | Esportes*,SporTV SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18563
+#EXTINF:-1 tvg-id=*SporTV* tvg-name=*SporTV SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sportv.png* group-title=*Canais | Esportes*,SporTV SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22271
+#EXTINF:-1 tvg-id=*Studio Universal HD* tvg-name=*Studio Universal HD* tvg-logo=*https://static.psrv.io/logos/canais/studiouniversal.png* group-title=*Canais | Filmes e Séries*,Studio Universal HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18556
+#EXTINF:-1 tvg-id=*Studio Universal HD* tvg-name=*Studio Universal HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/studiouniversal.png* group-title=*Canais | Filmes e Séries*,Studio Universal HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22368
+#EXTINF:-1 tvg-id=*Studio Universal* tvg-name=*Studio Universal SD* tvg-logo=*https://static.psrv.io/logos/canais/studiouniversal.png* group-title=*Canais | Filmes e Séries*,Studio Universal SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18557
+#EXTINF:-1 tvg-id=*Studio Universal* tvg-name=*Studio Universal SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/studiouniversal.png* group-title=*Canais | Filmes e Séries*,Studio Universal SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22270
+#EXTINF:-1 tvg-id=*Syfy HD* tvg-name=*Syfy HD* tvg-logo=*https://static.psrv.io/logos/canais/syfy.png* group-title=*Canais | Filmes e Séries*,Syfy HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18566
+#EXTINF:-1 tvg-id=*Syfy HD* tvg-name=*Syfy HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/syfy.png* group-title=*Canais | Filmes e Séries*,Syfy HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22367
+#EXTINF:-1 tvg-id=*Syfy* tvg-name=*Syfy SD* tvg-logo=*https://static.psrv.io/logos/canais/syfy.png* group-title=*Canais | Filmes e Séries*,Syfy SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18567
+#EXTINF:-1 tvg-id=*Syfy* tvg-name=*Syfy SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/syfy.png* group-title=*Canais | Filmes e Séries*,Syfy SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22269
+#EXTINF:-1 tvg-id=*TBS HD* tvg-name=*TBS HD* tvg-logo=*https://static.psrv.io/logos/canais/tbs.png* group-title=*Canais | Filmes e Séries*,TBS HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18554
+#EXTINF:-1 tvg-id=*TBS HD* tvg-name=*TBS HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tbs.png* group-title=*Canais | Filmes e Séries*,TBS HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22366
+#EXTINF:-1 tvg-id=*TBS* tvg-name=*TBS SD* tvg-logo=*https://static.psrv.io/logos/canais/tbs.png* group-title=*Canais | Filmes e Séries*,TBS SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18555
+#EXTINF:-1 tvg-id=*TBS* tvg-name=*TBS SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tbs.png* group-title=*Canais | Filmes e Séries*,TBS SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22268
+#EXTINF:-1 tvg-id=*TCM* tvg-name=*TCM SD* tvg-logo=*https://static.psrv.io/logos/canais/tcm.png* group-title=*Canais | Filmes e Séries*,TCM SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18553
+#EXTINF:-1 tvg-id=*TCM* tvg-name=*TCM SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tcm.png* group-title=*Canais | Filmes e Séries*,TCM SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22267
+#EXTINF:-1 tvg-id=*Telecine Action HD* tvg-name=*Telecine Action HD* tvg-logo=*https://static.psrv.io/logos/canais/telecineaction.png* group-title=*Canais | Filmes e Séries*,Telecine Action HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18551
+#EXTINF:-1 tvg-id=*Telecine Action HD* tvg-name=*Telecine Action HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecineaction.png* group-title=*Canais | Filmes e Séries*,Telecine Action HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22365
+#EXTINF:-1 tvg-id=*Telecine Action* tvg-name=*Telecine Action SD* tvg-logo=*https://static.psrv.io/logos/canais/telecineaction.png* group-title=*Canais | Filmes e Séries*,Telecine Action SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18552
+#EXTINF:-1 tvg-id=*Telecine Action* tvg-name=*Telecine Action SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecineaction.png* group-title=*Canais | Filmes e Séries*,Telecine Action SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22266
+#EXTINF:-1 tvg-id=*Telecine Cult HD* tvg-name=*Telecine Cult HD* tvg-logo=*https://static.psrv.io/logos/canais/telecinecult.png* group-title=*Canais | Filmes e Séries*,Telecine Cult HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18549
+#EXTINF:-1 tvg-id=*Telecine Cult HD* tvg-name=*Telecine Cult HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinecult.png* group-title=*Canais | Filmes e Séries*,Telecine Cult HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22364
+#EXTINF:-1 tvg-id=*Telecine Cult* tvg-name=*Telecine Cult SD* tvg-logo=*https://static.psrv.io/logos/canais/telecinecult.png* group-title=*Canais | Filmes e Séries*,Telecine Cult SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18550
+#EXTINF:-1 tvg-id=*Telecine Cult* tvg-name=*Telecine Cult SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinecult.png* group-title=*Canais | Filmes e Séries*,Telecine Cult SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22265
+#EXTINF:-1 tvg-id=*Telecine Fun HD* tvg-name=*Telecine Fun HD* tvg-logo=*https://static.psrv.io/logos/canais/telecinefun.png* group-title=*Canais | Filmes e Séries*,Telecine Fun HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18547
+#EXTINF:-1 tvg-id=*Telecine Fun HD* tvg-name=*Telecine Fun HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinefun.png* group-title=*Canais | Filmes e Séries*,Telecine Fun HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22363
+#EXTINF:-1 tvg-id=*Telecine Fun* tvg-name=*Telecine Fun SD* tvg-logo=*https://static.psrv.io/logos/canais/telecinefun.png* group-title=*Canais | Filmes e Séries*,Telecine Fun SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18548
+#EXTINF:-1 tvg-id=*Telecine Fun* tvg-name=*Telecine Fun SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinefun.png* group-title=*Canais | Filmes e Séries*,Telecine Fun SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22264
+#EXTINF:-1 tvg-id=*Telecine Pipoca  HD* tvg-name=*Telecine Pipoca HD* tvg-logo=*https://static.psrv.io/logos/canais/telecinepipoca.png* group-title=*Canais | Filmes e Séries*,Telecine Pipoca HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18545
+#EXTINF:-1 tvg-id=*Telecine Pipoca  HD* tvg-name=*Telecine Pipoca HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinepipoca.png* group-title=*Canais | Filmes e Séries*,Telecine Pipoca HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22362
+#EXTINF:-1 tvg-id=*Telecine Pipoca* tvg-name=*Telecine Pipoca SD* tvg-logo=*https://static.psrv.io/logos/canais/telecinepipoca.png* group-title=*Canais | Filmes e Séries*,Telecine Pipoca SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18546
+#EXTINF:-1 tvg-id=*Telecine Pipoca* tvg-name=*Telecine Pipoca SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinepipoca.png* group-title=*Canais | Filmes e Séries*,Telecine Pipoca SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22263
+#EXTINF:-1 tvg-id=*Telecine Premium HD* tvg-name=*Telecine Premium HD* tvg-logo=*https://static.psrv.io/logos/canais/telecinepremium.png* group-title=*Canais | Filmes e Séries*,Telecine Premium HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18543
+#EXTINF:-1 tvg-id=*Telecine Premium HD* tvg-name=*Telecine Premium HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinepremium.png* group-title=*Canais | Filmes e Séries*,Telecine Premium HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22361
+#EXTINF:-1 tvg-id=*Telecine Premium* tvg-name=*Telecine Premium SD* tvg-logo=*https://static.psrv.io/logos/canais/telecinepremium.png* group-title=*Canais | Filmes e Séries*,Telecine Premium SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18544
+#EXTINF:-1 tvg-id=*Telecine Premium* tvg-name=*Telecine Premium SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinepremium.png* group-title=*Canais | Filmes e Séries*,Telecine Premium SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22262
+#EXTINF:-1 tvg-id=*Telecine Touch HD* tvg-name=*Telecine Touch HD* tvg-logo=*https://static.psrv.io/logos/canais/telecinetouch.png* group-title=*Canais | Filmes e Séries*,Telecine Touch HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18541
+#EXTINF:-1 tvg-id=*Telecine Touch HD* tvg-name=*Telecine Touch HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinetouch.png* group-title=*Canais | Filmes e Séries*,Telecine Touch HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22360
+#EXTINF:-1 tvg-id=*Telecine Touch* tvg-name=*Telecine Touch SD* tvg-logo=*https://static.psrv.io/logos/canais/telecinetouch.png* group-title=*Canais | Filmes e Séries*,Telecine Touch SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18542
+#EXTINF:-1 tvg-id=*Telecine Touch* tvg-name=*Telecine Touch SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/telecinetouch.png* group-title=*Canais | Filmes e Séries*,Telecine Touch SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22261
+#EXTINF:-1 tvg-id=*Terra Viva* tvg-name=*Terra Viva SD* tvg-logo=*https://static.psrv.io/logos/canais/terraviva.png* group-title=*Canais | Abertos*,Terra Viva SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18540
+#EXTINF:-1 tvg-id=*TLC HD* tvg-name=*TLC HD* tvg-logo=*https://static.psrv.io/logos/canais/tlc.png* group-title=*Canais | Variedades*,TLC HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18538
+#EXTINF:-1 tvg-id=*TLC HD* tvg-name=*TLC HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tlc.png* group-title=*Canais | Variedades*,TLC HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22358
+#EXTINF:-1 tvg-id=*TLC* tvg-name=*TLC SD* tvg-logo=*https://static.psrv.io/logos/canais/tlc.png* group-title=*Canais | Variedades*,TLC SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18539
+#EXTINF:-1 tvg-id=*TLC* tvg-name=*TLC SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tlc.png* group-title=*Canais | Variedades*,TLC SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22259
+#EXTINF:-1 tvg-id=*TNT HD* tvg-name=*TNT HD* tvg-logo=*https://static.psrv.io/logos/canais/tnt.png* group-title=*Canais | Filmes e Séries*,TNT HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18536
+#EXTINF:-1 tvg-id=*TNT HD* tvg-name=*TNT HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tnt.png* group-title=*Canais | Filmes e Séries*,TNT HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22357
+#EXTINF:-1 tvg-id=*TNT* tvg-name=*TNT SD* tvg-logo=*https://static.psrv.io/logos/canais/tnt.png* group-title=*Canais | Filmes e Séries*,TNT SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18537
+#EXTINF:-1 tvg-id=*TNT* tvg-name=*TNT SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tnt.png* group-title=*Canais | Filmes e Séries*,TNT SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22258
+#EXTINF:-1 tvg-id=*TNT Séries HD* tvg-name=*TNT Series HD* tvg-logo=*https://static.psrv.io/logos/canais/tntseries.png* group-title=*Canais | Filmes e Séries*,TNT Series HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18534
+#EXTINF:-1 tvg-id=*TNT Séries HD* tvg-name=*TNT Series HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tntseries.png* group-title=*Canais | Filmes e Séries*,TNT Series HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22356
+#EXTINF:-1 tvg-id=*TNT Séries* tvg-name=*TNT Series SD* tvg-logo=*https://static.psrv.io/logos/canais/tntseries.png* group-title=*Canais | Filmes e Séries*,TNT Series SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18535
+#EXTINF:-1 tvg-id=*TNT Séries* tvg-name=*TNT Series SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tntseries.png* group-title=*Canais | Filmes e Séries*,TNT Series SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22257
+#EXTINF:-1 tvg-id=*Tooncast HD* tvg-name=*Tooncast HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tooncast.png* group-title=*Canais | Infantis*,Tooncast HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22355
+#EXTINF:-1 tvg-id=*Tooncast* tvg-name=*Tooncast SD* tvg-logo=*https://static.psrv.io/logos/canais/tooncast.png* group-title=*Canais | Infantis*,Tooncast SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18533
+#EXTINF:-1 tvg-id=*Tooncast* tvg-name=*Tooncast SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tooncast.png* group-title=*Canais | Infantis*,Tooncast SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22256
+#EXTINF:-1 tvg-id=*TruTV HD* tvg-name=*TruTV HD* tvg-logo=*https://static.psrv.io/logos/canais/trutv.png* group-title=*Canais | Documentários*,TruTV HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18522
+#EXTINF:-1 tvg-id=*TruTV* tvg-name=*TruTV SD* tvg-logo=*https://static.psrv.io/logos/canais/trutv.png* group-title=*Canais | Documentários*,TruTV SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18523
+#EXTINF:-1 tvg-id=** tvg-name=*TV Alterosa HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/globo.png* group-title=*Canais | Globo*,TV Alterosa HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22466
+#EXTINF:-1 tvg-id=** tvg-name=*TV Aparecida SD* tvg-logo=*https://static.psrv.io/logos/canais/aparecida.png* group-title=*Canais | Abertos*,TV Aparecida SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18530
+#EXTINF:-1 tvg-id=** tvg-name=*TV Aparecida SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/aparecida.png* group-title=*Canais | Abertos*,TV Aparecida SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22220
+#EXTINF:-1 tvg-id=** tvg-name=*TV Brasil SD* tvg-logo=*https://static.psrv.io/logos/canais/tvbrasil.png* group-title=*Canais | Abertos*,TV Brasil SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18529
+#EXTINF:-1 tvg-id=** tvg-name=*TV Camara SD* tvg-logo=*https://static.psrv.io/logos/canais/tvcamara.png* group-title=*Canais | Abertos*,TV Camara SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18528
+#EXTINF:-1 tvg-id=*Cultura HD* tvg-name=*TV Cultura HD* tvg-logo=*https://static.psrv.io/logos/canais/tvcultura.png* group-title=*Canais | Abertos*,TV Cultura HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18505
+#EXTINF:-1 tvg-id=*Cultura* tvg-name=*TV Cultura SD* tvg-logo=*https://static.psrv.io/logos/canais/tvcultura.png* group-title=*Canais | Abertos*,TV Cultura SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18506
+#EXTINF:-1 tvg-id=*Cultura* tvg-name=*TV Cultura SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tvcultura.png* group-title=*Canais | Abertos*,TV Cultura SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22222
+#EXTINF:-1 tvg-id=*TV Escola* tvg-name=*TV Escola SD* tvg-logo=*https://static.psrv.io/logos/canais/tvescola.png* group-title=*Canais | Abertos*,TV Escola SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18527
+#EXTINF:-1 tvg-id=*Gazeta* tvg-name=*TV Gazeta SP HD* tvg-logo=*https://static.psrv.io/logos/canais/tvgazeta.png* group-title=*Canais | Abertos*,TV Gazeta SP HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18526
+#EXTINF:-1 tvg-id=*TV Justiça* tvg-name=*TV Justica SD* tvg-logo=*https://static.psrv.io/logos/canais/tvjustica.png* group-title=*Canais | Abertos*,TV Justica SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18531
+#EXTINF:-1 tvg-id=*TV Justiça* tvg-name=*TV Justica SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tvjustica.png* group-title=*Canais | Abertos*,TV Justica SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22254
+#EXTINF:-1 tvg-id=** tvg-name=*TV Ra Tim Bum HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/ratimbum.png* group-title=*Canais | Infantis*,TV Ra Tim Bum HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22343
+#EXTINF:-1 tvg-id=** tvg-name=*TV Ra Tim Bum SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/ratimbum.png* group-title=*Canais | Infantis*,TV Ra Tim Bum SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22245
+#EXTINF:-1 tvg-id=** tvg-name=*TV Ra-Tim-Bum HD* tvg-logo=*https://static.psrv.io/logos/canais/ratimbum.png* group-title=*Canais | Infantis*,TV Ra-Tim-Bum HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18524
+#EXTINF:-1 tvg-id=** tvg-name=*TV Ra-Tim-Bum SD* tvg-logo=*https://static.psrv.io/logos/canais/ratimbum.png* group-title=*Canais | Infantis*,TV Ra-Tim-Bum SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18525
+#EXTINF:-1 tvg-id=*TV Senado* tvg-name=*TV Senado SD* tvg-logo=*https://static.psrv.io/logos/canais/tvsenado.png* group-title=*Canais | Abertos*,TV Senado SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18532
+#EXTINF:-1 tvg-id=*TV Senado* tvg-name=*TV Senado SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/tvsenado.png* group-title=*Canais | Abertos*,TV Senado SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22244
+#EXTINF:-1 tvg-id=*Universal TV HD* tvg-name=*Universal Channel HD* tvg-logo=*https://static.psrv.io/logos/canais/universalchannel.png* group-title=*Canais | Filmes e Séries*,Universal Channel HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18520
+#EXTINF:-1 tvg-id=*Universal TV HD* tvg-name=*Universal Channel HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/universalchannel.png* group-title=*Canais | Filmes e Séries*,Universal Channel HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22354
+#EXTINF:-1 tvg-id=*Universal TV HD* tvg-name=*Universal Channel SD* tvg-logo=*https://static.psrv.io/logos/canais/universalchannel.png* group-title=*Canais | Filmes e Séries*,Universal Channel SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18521
+#EXTINF:-1 tvg-id=*Universal TV* tvg-name=*Universal Channel SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/universalchannel.png* group-title=*Canais | Filmes e Séries*,Universal Channel SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22253
+#EXTINF:-1 tvg-id=*VH1 HD HD* tvg-name=*VH1 HD* tvg-logo=*https://static.psrv.io/logos/canais/vh1.png* group-title=*Canais | Variedades*,VH1 HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18518
+#EXTINF:-1 tvg-id=*VH1 MegaHits* tvg-name=*VH1 MegaHits SD* tvg-logo=*https://static.psrv.io/logos/canais/vh1.png* group-title=*Canais | Variedades*,VH1 MegaHits SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18517
+#EXTINF:-1 tvg-id=*VH1 MegaHits* tvg-name=*VH1 MegaHits SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/vh1megahits.png* group-title=*Canais | Variedades*,VH1 MegaHits SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22252
+#EXTINF:-1 tvg-id=*VH1 HD* tvg-name=*VH1 SD* tvg-logo=*https://static.psrv.io/logos/canais/vh1.png* group-title=*Canais | Variedades*,VH1 SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18519
+#EXTINF:-1 tvg-id=*Viva HD* tvg-name=*Viva HD* tvg-logo=*https://static.psrv.io/logos/canais/viva.png* group-title=*Canais | Variedades*,Viva HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18515
+#EXTINF:-1 tvg-id=*Viva HD* tvg-name=*Viva HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/viva.png* group-title=*Canais | Variedades*,Viva HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22353
+#EXTINF:-1 tvg-id=*Viva* tvg-name=*Viva SD* tvg-logo=*https://static.psrv.io/logos/canais/viva.png* group-title=*Canais | Variedades*,Viva SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18516
+#EXTINF:-1 tvg-id=*Viva* tvg-name=*Viva SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/viva.png* group-title=*Canais | Variedades*,Viva SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22251
+#EXTINF:-1 tvg-id=*Warner Channel HD* tvg-name=*Warner Channel HD* tvg-logo=*https://static.psrv.io/logos/canais/warner.png* group-title=*Canais | Filmes e Séries*,Warner Channel HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18513
+#EXTINF:-1 tvg-id=*Warner Channel HD* tvg-name=*Warner Channel HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/warner.png* group-title=*Canais | Filmes e Séries*,Warner Channel HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22352
+#EXTINF:-1 tvg-id=*Warner Channel* tvg-name=*Warner Channel SD* tvg-logo=*https://static.psrv.io/logos/canais/warner.png* group-title=*Canais | Filmes e Séries*,Warner Channel SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18514
+#EXTINF:-1 tvg-id=*Warner Channel* tvg-name=*Warner Channel SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/warner.png* group-title=*Canais | Filmes e Séries*,Warner Channel SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22250
+#EXTINF:-1 tvg-id=*Woohoo HD* tvg-name=*Woohoo HD* tvg-logo=*https://static.psrv.io/logos/canais/woohoo.png* group-title=*Canais | Variedades*,Woohoo HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18511
+#EXTINF:-1 tvg-id=*Woohoo* tvg-name=*Woohoo SD* tvg-logo=*https://static.psrv.io/logos/canais/woohoo.png* group-title=*Canais | Variedades*,Woohoo SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18512
+#EXTINF:-1 tvg-id=*Woohoo* tvg-name=*Woohoo SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/woohoo.png* group-title=*Canais | Variedades*,Woohoo SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22249
+#EXTINF:-1 tvg-id=*Zoomoo* tvg-name=*Zoomoo SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/zoomoo.png* group-title=*Canais | Infantis*,Zoomoo SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22226
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Aladdin* tvg-logo=*http://static.psrv.io/logos/24h/24-aladdin.png* group-title=*Canais | 24 Horas*,[24H] Aladdin
+http://psrv.io:80/fgy0mcZW2k/trixotv/19223
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] As aventuras de Jackie Chan* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] As aventuras de Jackie Chan
+http://psrv.io:80/fgy0mcZW2k/trixotv/24980
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] As Meninas Superpoderosas* tvg-logo=*http://static.psrv.io/logos/24h/24-meninassuperpoderosas.png* group-title=*Canais | 24 Horas*,[24H] As Meninas Superpoderosas
+http://psrv.io:80/fgy0mcZW2k/trixotv/19222
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] As Tartarugas Ninjas* tvg-logo=*http://static.psrv.io/logos/24h/24-tartarugasninja.png* group-title=*Canais | 24 Horas*,[24H] As Tartarugas Ninjas
+http://psrv.io:80/fgy0mcZW2k/trixotv/19221
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Ben 10* tvg-logo=*http://static.psrv.io/logos/24h/24-ben10.png* group-title=*Canais | 24 Horas*,[24H] Ben 10
+http://psrv.io:80/fgy0mcZW2k/trixotv/19219
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Bob Esponja* tvg-logo=*http://static.psrv.io/logos/24h/24-bobesponja.png* group-title=*Canais | 24 Horas*,[24H] Bob Esponja
+http://psrv.io:80/fgy0mcZW2k/trixotv/19220
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Caverna do Dragao* tvg-logo=*http://static.psrv.io/logos/24h/24-cavernadodragao.png* group-title=*Canais | 24 Horas*,[24H] Caverna do Dragao
+http://psrv.io:80/fgy0mcZW2k/trixotv/19216
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Chaves* tvg-logo=*http://static.psrv.io/logos/24h/24-chaves.png* group-title=*Canais | 24 Horas*,[24H] Chaves
+http://psrv.io:80/fgy0mcZW2k/trixotv/19218
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Chaves Desenho Animado* tvg-logo=*http://static.psrv.io/logos/24h/24-chaves.png* group-title=*Canais | 24 Horas*,[24H] Chaves Desenho Animado
+http://psrv.io:80/fgy0mcZW2k/trixotv/19217
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Classicos Disney* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Classicos Disney
+http://psrv.io:80/fgy0mcZW2k/trixotv/24972
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Coragem - O Cao Covarde* tvg-logo=*http://static.psrv.io/logos/24h/24-coragem.png* group-title=*Canais | 24 Horas*,[24H] Coragem - O Cao Covarde
+http://psrv.io:80/fgy0mcZW2k/trixotv/19215
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Corrida Maluca* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Corrida Maluca
+http://psrv.io:80/fgy0mcZW2k/trixotv/24981
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Dennis - O Pimentinha* tvg-logo=*http://static.psrv.io/logos/24h/24-dennis.png* group-title=*Canais | 24 Horas*,[24H] Dennis - O Pimentinha
+http://psrv.io:80/fgy0mcZW2k/trixotv/19214
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Digimon* tvg-logo=*http://static.psrv.io/logos/24h/24-digimon.png* group-title=*Canais | 24 Horas*,[24H] Digimon
+http://psrv.io:80/fgy0mcZW2k/trixotv/19213
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Dois Homens e Meio* tvg-logo=*http://static.psrv.io/logos/24h/24-doishomensemeio.png* group-title=*Canais | 24 Horas*,[24H] Dois Homens e Meio
+http://psrv.io:80/fgy0mcZW2k/trixotv/19212
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Dragon Ball Super* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Dragon Ball Super
+http://psrv.io:80/fgy0mcZW2k/trixotv/19179
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Dragon Ball Z* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Dragon Ball Z
+http://psrv.io:80/fgy0mcZW2k/trixotv/19211
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Eu a Patroa e as Crianças* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Eu a Patroa e as Crianças
+http://psrv.io:80/fgy0mcZW2k/trixotv/19177
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Família da Pesada* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Família da Pesada
+http://psrv.io:80/fgy0mcZW2k/trixotv/24973
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Formiga Atômica* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Formiga Atômica
+http://psrv.io:80/fgy0mcZW2k/trixotv/24974
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Futurama* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Futurama
+http://psrv.io:80/fgy0mcZW2k/trixotv/24975
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Galinha Pintadinha* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Galinha Pintadinha
+http://psrv.io:80/fgy0mcZW2k/trixotv/19210
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Gospel Cartoon* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Gospel Cartoon
+http://psrv.io:80/fgy0mcZW2k/trixotv/19209
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] He-Man* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] He-Man
+http://psrv.io:80/fgy0mcZW2k/trixotv/19208
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Historias da Disney* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Historias da Disney
+http://psrv.io:80/fgy0mcZW2k/trixotv/19207
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Homem-Aranha* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Homem-Aranha
+http://psrv.io:80/fgy0mcZW2k/trixotv/19206
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Jaspion* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Jaspion
+http://psrv.io:80/fgy0mcZW2k/trixotv/19205
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Jiraya* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Jiraya
+http://psrv.io:80/fgy0mcZW2k/trixotv/19204
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Kenan e Kel* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Kenan e Kel
+http://psrv.io:80/fgy0mcZW2k/trixotv/24982
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Luluzinha* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Luluzinha
+http://psrv.io:80/fgy0mcZW2k/trixotv/24976
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Medabots* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Medabots
+http://psrv.io:80/fgy0mcZW2k/trixotv/19203
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Mickey e Donald* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Mickey e Donald
+http://psrv.io:80/fgy0mcZW2k/trixotv/24977
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Naruto* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Naruto
+http://psrv.io:80/fgy0mcZW2k/trixotv/19202
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Naruto Shippuden* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Naruto Shippuden
+http://psrv.io:80/fgy0mcZW2k/trixotv/19201
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] O Inspertor* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] O Inspertor
+http://psrv.io:80/fgy0mcZW2k/trixotv/19200
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] O Máscara* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] O Máscara
+http://psrv.io:80/fgy0mcZW2k/trixotv/24983
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] O Maskara* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] O Maskara
+http://psrv.io:80/fgy0mcZW2k/trixotv/19199
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Os Cavaleiros do Zodiaco* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Os Cavaleiros do Zodiaco
+http://psrv.io:80/fgy0mcZW2k/trixotv/19197
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Os Flintstones* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Os Flintstones
+http://psrv.io:80/fgy0mcZW2k/trixotv/19196
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Os Simpsons* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Os Simpsons
+http://psrv.io:80/fgy0mcZW2k/trixotv/19195
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Os Trapalhões* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Os Trapalhões
+http://psrv.io:80/fgy0mcZW2k/trixotv/24978
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Papa-Leguas* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Papa-Leguas
+http://psrv.io:80/fgy0mcZW2k/trixotv/19176
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Peppa Pig* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Peppa Pig
+http://psrv.io:80/fgy0mcZW2k/trixotv/24979
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Pernalonga* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Pernalonga
+http://psrv.io:80/fgy0mcZW2k/trixotv/19194
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Phineas e Ferb* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Phineas e Ferb
+http://psrv.io:80/fgy0mcZW2k/trixotv/19193
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Pica-Pau* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Pica-Pau
+http://psrv.io:80/fgy0mcZW2k/trixotv/19192
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Rambo* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Rambo
+http://psrv.io:80/fgy0mcZW2k/trixotv/19191
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Scooby Doo* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Scooby Doo
+http://psrv.io:80/fgy0mcZW2k/trixotv/19190
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] South Park* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] South Park
+http://psrv.io:80/fgy0mcZW2k/trixotv/19189
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Steven Universo* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Steven Universo
+http://psrv.io:80/fgy0mcZW2k/trixotv/19188
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Tesouros da Disney* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Tesouros da Disney
+http://psrv.io:80/fgy0mcZW2k/trixotv/19187
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] The Big Bang Theory* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] The Big Bang Theory
+http://psrv.io:80/fgy0mcZW2k/trixotv/24984
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Thundercats* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Thundercats
+http://psrv.io:80/fgy0mcZW2k/trixotv/19178
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Tico e Teco* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Tico e Teco
+http://psrv.io:80/fgy0mcZW2k/trixotv/24985
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Timao e Pumba* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Timao e Pumba
+http://psrv.io:80/fgy0mcZW2k/trixotv/19186
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Todo Mundo Odeia o Chris* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Todo Mundo Odeia o Chris
+http://psrv.io:80/fgy0mcZW2k/trixotv/19185
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Tom e Jerry* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Tom e Jerry
+http://psrv.io:80/fgy0mcZW2k/trixotv/19184
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Um Maluco no Pedaço* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Um Maluco no Pedaço
+http://psrv.io:80/fgy0mcZW2k/trixotv/19183
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Ursinhos Carinhosos* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Ursinhos Carinhosos
+http://psrv.io:80/fgy0mcZW2k/trixotv/19182
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] X-Men* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] X-Men
+http://psrv.io:80/fgy0mcZW2k/trixotv/19181
+#EXTINF:-1 tvg-id=** tvg-name=*[24H] Yu-Gi-Oh!* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Yu-Gi-Oh!
+http://psrv.io:80/fgy0mcZW2k/trixotv/19180
