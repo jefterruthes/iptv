@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="A FAZENDA HD" tvg-logo="http://img.myapp.st/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="Variedades e Musicas",A FAZENDA HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/50846.m3u8
+http://list.deeplist.nl/live/cantel07/cantel321/50846.m3u8
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
 http://list.deeplist.nl:80/live/cantel07/cantel321/46898.m3u8
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
