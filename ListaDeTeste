@@ -165,104 +165,22 @@ http://list.deeplist.nl:80/live/cantel07/cantel321/20803.m3u8
 http://list.deeplist.nl:80/live/cantel07/cantel321/26040.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX HD
 http://list.deeplist.nl:80/live/cantel07/cantel321/2386.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/49721.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/49729.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/17121.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD+
-http://list.deeplist.nl:80/live/cantel07/cantel321/21804.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS FULL HD" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48808.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48809.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO FULL HD" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48801.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48800.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO INTER TV CABUGI FULL HD" tvg-logo="http://img.starbr.in/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO INTER TV CABUGI FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48816.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://img.starbr.in/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO INTER TV CABUGI HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48815.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/17129.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG HD+
-http://list.deeplist.nl:80/live/cantel07/cantel321/21803.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FULL HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS FULL HD
 http://list.deeplist.nl:80/live/cantel07/cantel321/46919.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/5085.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/17130.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC BLUMENAU" tvg-name="GLOBO NSC BLUMENAU FULL HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC BLUMENAU FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46939.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC BLUMENAU" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC BLUMENAU HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46940.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO NSC FLORIANÓPOLIS FULL HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC FLORIANÓPOLIS FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46941.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO NSC FLORIANÓPOLIS HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC FLORIANÓPOLIS HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46942.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC JOINVILLE" tvg-name="GLOBO NSC JOINVILLE FULL HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC JOINVILLE FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46944.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC JOINVILLE" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC JOINVILLE HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46943.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC TV CRICIÚMA" tvg-name="GLOBO NSC TV CRICIÚMA FULL HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC TV CRICIÚMA FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48813.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC TV CRICIÚMA" tvg-name="GLOBO NSC TV CRICIÚMA HD" tvg-logo="http://img.starbr.in/1561322462_0b29b23eca10f114600ed84779f642b50f7bc382.png" group-title="Canais Abertos",GLOBO NSC TV CRICIÚMA HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48814.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RBS TV PORTO ALEGRE FULL HD" tvg-logo="http://img.starbr.in/1559759167_af8cd55f6efe7c8aa302d4b63dd7318f4548e801.png" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46915.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="http://img.starbr.in/1559759167_af8cd55f6efe7c8aa302d4b63dd7318f4548e801.png" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46914.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/38452.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46913.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/1207.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD+
-http://list.deeplist.nl:80/live/cantel07/cantel321/21801.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC CURITIBA FULL HD" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC CURITIBA FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46917.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC CURITIBA HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46916.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC MARINGA" tvg-name="GLOBO RPC MARINGÁ FULL HD" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC MARINGÁ FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48810.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC MARINGA" tvg-name="GLOBO RPC MARINGÁ HD" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC MARINGÁ HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48811.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP FULL HD
 http://bldtv.vip/live/Diogo1020/1020diogo/5136.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
 http://list.deeplist.nl:80/live/cantel07/cantel321/17122.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD
 http://list.deeplist.nl:80/live/cantel07/cantel321/21800.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/49719.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO TV BAHIA FULL HD" tvg-logo="http://img.starbr.in/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO TV BAHIA FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48803.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://img.starbr.in/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO TV BAHIA HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48802.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ALAGOAS" tvg-name="GLOBO TV GAZETA ALAGOAS FULL HD" tvg-logo="http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO TV GAZETA ALAGOAS FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48805.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ALAGOAS" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO TV GAZETA ALAGOAS HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48804.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO TV GAZETA ES FULL HD" tvg-logo="http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO TV GAZETA ES FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48812.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO TV GAZETA ES HD" tvg-logo="http://img.starbr.in/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO TV GAZETA ES HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/24484.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV SERGIPE" tvg-name="GLOBO TV SERGIPE FULL HD" tvg-logo="http://img.starbr.in/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" group-title="Canais Abertos",GLOBO TV SERGIPE FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46954.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV SERGIPE" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://img.starbr.in/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" group-title="Canais Abertos",GLOBO TV SERGIPE HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/46953.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO TV TEM SAO JOSE DO RIO PRETO FULL HD" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO TV TEM SAO JOSE DO RIO PRETO FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/50200.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO TV TEM SAO JOSE DO RIO PRETO HD" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO TV TEM SAO JOSE DO RIO PRETO HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/50199.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO TV VERDES MARES FULL HD" tvg-logo="http://img.starbr.in/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO TV VERDES MARES FULL HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48799.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="http://img.starbr.in/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO TV VERDES MARES HD
-http://list.deeplist.nl:80/live/cantel07/cantel321/48798.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
+http://list.deeplist.nl:80/live/cantel07/cantel321/5085.m3u8
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ FULL HD
+http://list.deeplist.nl:80/live/cantel07/cantel321/46913.m3u8
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD
+http://list.deeplist.nl:80/live/cantel07/cantel321/1207.m3u8
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD
+http://list.deeplist.nl:80/live/cantel07/cantel321/21801.m3u8
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB FULL HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB FULL HD
 http://list.deeplist.nl:80/live/cantel07/cantel321/48806.m3u8
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB HD
