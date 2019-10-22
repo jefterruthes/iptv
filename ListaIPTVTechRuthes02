@@ -1,269 +1,29 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://img.cs10.tv/3.png" group-title="CANAIS GLOBO",GLOBO RJ HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/3.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://img.cs10.tv/1.png" group-title="CANAIS GLOBO",GLOBO RJ FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/1.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://img.cs10.tv/6.png" group-title="CANAIS GLOBO",GLOBO RJ SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/6.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD ALT" tvg-logo="http://img.cs10.tv/1.png" group-title="CANAIS GLOBO",GLOBO RJ HD ALT
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4236.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD ALT" tvg-logo="http://img.cs10.tv/1.png" group-title="CANAIS GLOBO",GLOBO RJ FHD ALT
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4541.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://img.cs10.tv/8.png" group-title="CANAIS GLOBO",GLOBO SP HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/8.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://img.cs10.tv/7.png" group-title="CANAIS GLOBO",GLOBO SP FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://img.cs10.tv/10.png" group-title="CANAIS GLOBO",GLOBO SP SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/10.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ALT" tvg-logo="http://img.cs10.tv/8.png" group-title="CANAIS GLOBO",GLOBO SP HD ALT
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4309.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD ALT" tvg-logo="http://img.cs10.tv/8.png" group-title="CANAIS GLOBO",GLOBO SP FHD ALT
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4315.m3u8
-#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA ES HD" tvg-logo="http://s2.glbimg.com/Y9XKVren8ZAGj4ScXCeIbZLSBr8=/0x62:1403x850/178x100/s.glbimg.com/jo/g1/f/original/2016/11/29/fundo_tv_gazeta.jpg" group-title="CANAIS GLOBO",GLOBO TV GAZETA VITÓRIA ES HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4209.m3u8
-#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA ES FHD" tvg-logo="http://s2.glbimg.com/Y9XKVren8ZAGj4ScXCeIbZLSBr8=/0x62:1403x850/178x100/s.glbimg.com/jo/g1/f/original/2016/11/29/fundo_tv_gazeta.jpg" group-title="CANAIS GLOBO",GLOBO TV GAZETA VITÓRIA ES FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4208.m3u8
-#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA ES SD" tvg-logo="http://s2.glbimg.com/Y9XKVren8ZAGj4ScXCeIbZLSBr8=/0x62:1403x850/178x100/s.glbimg.com/jo/g1/f/original/2016/11/29/fundo_tv_gazeta.jpg" group-title="CANAIS GLOBO",GLOBO TV GAZETA VITÓRIA ES SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4534.m3u8
-#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO GAZETA SUL ES HD" tvg-logo="http://img.cs10.tv/3619.jpg" group-title="CANAIS GLOBO",GLOBO GAZETA SUL ES HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/3619.m3u8
-#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO GAZETA SUL ES FHD" tvg-logo="http://img.cs10.tv/22.jpg" group-title="CANAIS GLOBO",GLOBO GAZETA SUL ES FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/22.m3u8
-#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO GAZETA SUL ES SD" tvg-logo="http://img.cs10.tv/3619.jpg" group-title="CANAIS GLOBO",GLOBO GAZETA SUL ES SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/8586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO USA PREMIUM SD" tvg-logo="http://img.cs10.tv/60.png" group-title="CANAIS GLOBO",GLOBO USA PREMIUM SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/6245.m3u8
-#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA CUIABA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png" group-title="CANAIS GLOBO",GLOBO CENTRO AMERICA CUIABA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/6809.m3u8
-#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="http://img.cs10.tv/50.png" group-title="CANAIS GLOBO",GLOBO RBS PORTO ALEGRE FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/6256.m3u8
-#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://img.cs10.tv/50.png" group-title="CANAIS GLOBO",GLOBO RBS PORTO ALEGRE HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/50.m3u8
-#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="http://img.cs10.tv/50.png" group-title="CANAIS GLOBO",GLOBO RBS PORTO ALEGRE SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/3763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7688.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RBS TV PELOTAS FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RBS TV PELOTAS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RBS TV PELOTAS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7680.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://img.cs10.tv/30.png" group-title="CANAIS GLOBO",GLOBO NORDESTE FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4318.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.cs10.tv/30.png" group-title="CANAIS GLOBO",GLOBO NORDESTE HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/30.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://img.cs10.tv/30.png" group-title="CANAIS GLOBO",GLOBO NORDESTE SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4540.m3u8
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA TV SANTA CRUZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Logotipo_da_TV_Santa_Cruz.jpg" group-title="CANAIS GLOBO",GLOBO BAHIA TV SANTA CRUZ HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7416.m3u8
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA TV SUBAE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bf/Logotipo_da_TV_Suba%C3%A9.jpg/200px-Logotipo_da_TV_Suba%C3%A9.jpg" group-title="CANAIS GLOBO",GLOBO BAHIA TV SUBAE HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7720.m3u8
-#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://img.cs10.tv/12.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/12.m3u8
-#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://img.cs10.tv/13.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7704.m3u8
-#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://img.cs10.tv/15.png" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRAO PRETO HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/15.m3u8
-#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="http://img.cs10.tv/16.png" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRAO PRETO SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/16.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="http://img.cs10.tv/3658.jpg" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/5498.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://img.cs10.tv/3658.jpg" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/3658.m3u8
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="http://img.cs10.tv/18.png" group-title="CANAIS GLOBO",GLOBO MINAS FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/18.m3u8
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://img.cs10.tv/19.png" group-title="CANAIS GLOBO",GLOBO MINAS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/19.m3u8
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://img.cs10.tv/21.png" group-title="CANAIS GLOBO",GLOBO MINAS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/21.m3u8
-#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV SUL DE MINAS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4337.m3u8
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA GOIANIA HD" tvg-logo="http://img.cs10.tv/17.png" group-title="CANAIS GLOBO",GLOBO ANHANGUERA GOIANIA HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/17.m3u8
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA GOIANIA SD" tvg-logo="http://img.cs10.tv/17.png" group-title="CANAIS GLOBO",GLOBO ANHANGUERA GOIANIA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4539.m3u8
-#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO VANGUARDA S.J.CAMPOS SD" tvg-logo="http://img.cs10.tv/3660.jpg" group-title="CANAIS GLOBO",GLOBO VANGUARDA S.J.CAMPOS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/3660.m3u8
-#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="http://1.bp.blogspot.com/_02Tf63H8kkE/SydnzSe-pYI/AAAAAAAANUw/_NA7zfFBprk/s400/image004.jpg" group-title="CANAIS GLOBO",GLOBO TV TRIBUNA SANTOS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7626.m3u8
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES SD" tvg-logo="http://img.cs10.tv/3661.png" group-title="CANAIS GLOBO",GLOBO VERDES MARES SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/3661.m3u8
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://img.cs10.tv/27.png" group-title="CANAIS GLOBO",GLOBO BRASILIA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4077.m3u8
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.cs10.tv/27.png" group-title="CANAIS GLOBO",GLOBO BRASILIA HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA SD" tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.jpg" group-title="CANAIS GLOBO",GLOBO FORTALEZA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/6244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV BAHIA FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7715.m3u8
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://img.cs10.tv/3662.jpg" group-title="CANAIS GLOBO",GLOBO TV BAHIA HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4538.m3u8
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://img.cs10.tv/3662.jpg" group-title="CANAIS GLOBO",GLOBO TV BAHIA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/3662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV FLORIANOPOLIS FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7718.m3u8
-#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV FLORIANOPOLIS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4231.m3u8
-#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV FLORIANOPOLIS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV BLUMENAU FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV BLUMENAU HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV BLUMENAU SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV CHAPECO FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV CHAPECO HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV CHAPECO SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV JOINVILLE FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV JOINVILLE HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO NSC TV JOINVILLE SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7683.m3u8
-#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="http://img.cs10.tv/35.png" group-title="CANAIS GLOBO",GLOBO TV TEM SOROCABA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/35.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="http://img.cs10.tv/36.png" group-title="CANAIS GLOBO",GLOBO TV TEM BAURU SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. RIO PRETO FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV TEM S. J. RIO PRETO FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7708.m3u8
-#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="GLOBO TV TEM S. J. RIO PRETO SD" tvg-logo="http://img.cs10.tv/37.png" group-title="CANAIS GLOBO",GLOBO TV TEM S. J. RIO PRETO SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO BRASILIA FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV ARARAQUARA SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO EPTV ARARAQUARA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SÃO CARLOS SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO EPTV SÃO CARLOS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV ALTO LITORAL FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV ALTO LITORAL HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV ALTO LITORAL SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV DOS VALES FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV DOS VALES HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV DOS VALES SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV GRANDE MINAS FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV GRANDE MINAS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV GRANDE MINAS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV NATAL SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV NATAL SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV SERRA MAR FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV SERRA MAR HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7693.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO INTER TV SERRA MAR SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FULLHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO MINAS FULLHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AM. MANAUS SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO REDE AM. MANAUS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RPC FOZ DO IGUACU FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RPC FOZ DO IGUACU HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO RPC FOZ DO IGUACU SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV C. AMÉRICA CUIABA SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV C. AMÉRICA CUIABA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV CABO BRANCO FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV CABO BRANCO HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV CABO BRANCO SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV CLUBE TERESINA FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV CLUBE TERESINA HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV CLUBE TERESINA SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV GAZETA ALAGOAS FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV GAZETA ALAGOAS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV GAZETA ALAGOAS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV LIBERAL BELEM SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV MIRANTE SAO LUIS FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7714.m3u8
-#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV MIRANTE SAO LUIS HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV MIRANTE SAO LUIS SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV MORENA CAMPO GRANDE SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV RIO SUL FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV RIO SUL HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV RIO SUL SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SANTA CRUZ FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SANTA CRUZ HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SANTA CRUZ SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SERGIPE FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SERGIPE HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE SD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SERGIPE SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7724.m3u8
-#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="GLOBO USA PREMIUM HD" tvg-logo="http://img.cs10.tv/60.png" group-title="CANAIS GLOBO",GLOBO USA PREMIUM HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/60.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT FHD" tvg-logo="http://img.cs10.tv/431.png" group-title="VARIEDADES",+GLOBOSAT FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/7657.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD" tvg-logo="http://img.cs10.tv/431.png" group-title="VARIEDADES",+GLOBOSAT HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/431.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD ALT" tvg-logo="http://img.cs10.tv/431.png" group-title="VARIEDADES",+GLOBOSAT HD ALT
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4104.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT SD" tvg-logo="http://img.cs10.tv/433.png" group-title="VARIEDADES",+GLOBOSAT SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/433.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="http://img.cs10.tv/64.png" group-title="CANAIS ABERTOS",RECORDTV SP FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/64.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV HD" tvg-logo="http://img.cs10.tv/66.png" group-title="CANAIS ABERTOS",RECORDTV HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/66.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD ALT" tvg-logo="http://img.cs10.tv/66.png" group-title="CANAIS ABERTOS",RECORDTV SP HD ALT
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4094.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD" tvg-logo="http://img.cs10.tv/69.png" group-title="CANAIS ABERTOS",RECORDTV SP SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/69.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD ALT" tvg-logo="http://img.cs10.tv/66.png" group-title="CANAIS ABERTOS",RECORDTV SP SD ALT
-http://tv1.cs10.tv:25461/live/imp34066125/63275/5512.m3u8
-#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/TV_Record_Minas.jpg" group-title="CANAIS ABERTOS",RECORDTV MG FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/5514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/TV_Record_Minas.jpg" group-title="CANAIS ABERTOS",RECORDTV MG HD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV MG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/TV_Record_Minas.jpg" group-title="CANAIS ABERTOS",RECORDTV MG SD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/4258.m3u8
-#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_Record_Rio_de_Janeiro.png" group-title="CANAIS ABERTOS",RECORDTV RJ FHD
-http://tv1.cs10.tv:25461/live/imp34066125/63275/5513.m3u8
+#EXTM3U8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10891
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10892
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10246
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10893
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/30110
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band FHD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/22232
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10447
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record FHD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10446
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10437
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT FHD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/23299
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",RedeTV | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10441
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/22710
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10444
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News HD | TechRuthes.com
+http://tv.minhalista.vip:80/kinho3670/698mol/10190
