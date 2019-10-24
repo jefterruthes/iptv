@@ -1,49 +1,49 @@
 #EXTM3U8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7183
+http://ge.server.kyankee.live/HD_GLOBO_SP/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP SD | TechRuthes.com
+http://ge.server.kuniform.live/SD_GLOBO_SP/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7184
+http://ge.server.kvictor.live/HD_GLOBO_RJ/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ SD | TechRuthes.com
+http://ge.server.kvictor.live/SD_GLOBO_RJ/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF HD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/13732
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo MG HD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7185
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band 4K | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/26404
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/22195
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7179
+http://ge.server.kvictor.live/HD_GLOBO_BRASILIA/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF SD | TechRuthes.com
+http://ge.server.kyankee.live/SD_GLOBO_BRASILIA/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD | TechRuthes.com
+http://ge.server.kyankee.live/HD_BAND_ALTER/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record HD | TechRuthes.com
+http://us12.server.kklima.xyz/HD_RECORD_ALTER/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT HD | TechRuthes.com
+http://ge.server.kx-ray.live/HD_SBT/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7156
+http://us12.server.kktango.xyz/FHD_GLOBONEWS/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7294
+http://us12.server.kecho.store/HD_RECORD_NEWS/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News FHD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7150
+http://us.server.klima.live/FHD_BAND_NEWS/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/26420
+http://us12.server.kkdelta.xyz/HD_AE/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7489
+http://us.server.klima.live/HD_ARTE1/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/13770
+http://pl.server.kkfoxtrot.xyz/HD_GNT/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/13724
+http://pl.server.kkecho.xyz/HD_FOOD_NETWORK/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/22238
+http://eu.server.kudagama.live/HD_LIFETIME_ALTER/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7152
-#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow 4k | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/26412
+http://ge2.server.kudabeta.live/HD_VIVA/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow HD | TechRuthes.com
+http://ge.server.kyankee.live/HD_MULTISHOW/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV HD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/22233
+http://us12.server.kecho.store/HD_MTV/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7162
-#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",The History Channel FHD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/7139
-#EXTINF:-1 tvg-ID="h2" tvg-name="H2 HD" group-title="Documentários",H2 | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/13768
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet 4k | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/26411
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel FHD" group-title="Documentários",Discovery Channel 4k | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/26407
-#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation HD" group-title="Documentários",Discovery Civilzation HD | TechRuthes.com
-http://painel.smartlista.org:8880/fs9u6y7rq4p/svdjhfwape5/13706
+http://ge.server.kwhiskey.live/HD_BIS/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",The History Channel FHD HD | TechRuthes.com
+http://us.server.kfoxtrot.live/FHD_HISTORY/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="h2" tvg-name="H2 HD" group-title="Documentários",History2 HD | TechRuthes.com
+http://eu.server.kecho.live/HD_H2/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet HD | TechRuthes.com
+http://us.server.klima.live/FHD_ANIMAL_PLANET/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
