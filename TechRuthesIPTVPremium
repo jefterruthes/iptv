@@ -1,153 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RICTV Curitiba" tvg-name="Tv Novo Tempo SD" tvg-logo="" group-title="Canais | Abertos",Tv Novo Tempo SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/28051.m3u8
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18858.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD [H265]" tvg-logo="http://z4.vc/uuz" group-title="Canais | Variedades",A&E FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22213.m3u8
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18738.m3u8
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [Alter]" tvg-logo="http://z4.vc/g7m" group-title="Canais | Variedades",A&E HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22444.m3u8
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E SD" tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18739.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD [Alter]" tvg-logo="http://z4.vc/7UI" group-title="Canais | Variedades",A&E SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS HD" tvg-logo="http://z4.vc/Hqo" group-title="Canais | Internacionais",ABC NEWS HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26422.m3u8
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18857.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [H265]" tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22212.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18736.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD [Alter]" tvg-logo="http://z4.vc/ns0" group-title="Canais | Filmes e Séries",AMC HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22443.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18737.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD [Alter]" tvg-logo="http://z4.vc/DfG" group-title="Canais | Filmes e Séries",AMC SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22338.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET [4K]" tvg-logo="http://z4.vc/s04" group-title="Canais | 4K",ANIMAL PLANET [4K]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26189.m3u8
-#EXTINF:-1 tvg-id="Animal Planet FHD" tvg-name="Animal Planet FHD" tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18856.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD [H265]" tvg-logo="http://z4.vc/aPp" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22211.m3u8
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18734.m3u8
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD [Alter]" tvg-logo="http://z4.vc/kqL" group-title="Canais | Documentários",Animal Planet HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22442.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18735.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD [Alter]" tvg-logo="http://z4.vc/IR9" group-title="Canais | Documentários",Animal Planet SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22337.m3u8
-#EXTINF:-1 tvg-id="Arte 1 FHD" tvg-name="Arte 1 FHD" tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18855.m3u8
-#EXTINF:-1 tvg-id="Arte 1 FHD" tvg-name="Arte 1 FHD [H265]" tvg-logo="http://z4.vc/2KF" group-title="Canais | Documentários",Arte 1 FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/25196.m3u8
-#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://z4.vc/cdR" group-title="Canais | Documentários",Arte 1 HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18732.m3u8
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 SD" tvg-logo="http://z4.vc/8td" group-title="Canais | Documentários",Arte 1 SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18733.m3u8
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 SD [Alter]" tvg-logo="http://z4.vc/Ny7" group-title="Canais | Documentários",Arte 1 SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22228.m3u8
-#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="http://z4.vc/rpV" group-title="Canais | Filmes e Séries",AXN FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18854.m3u8
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD [H265]" tvg-logo="http://z4.vc/ItW" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22210.m3u8
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://z4.vc/j1K" group-title="Canais | Filmes e Séries",AXN HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18730.m3u8
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD [Alter]" tvg-logo="http://z4.vc/Yzz" group-title="Canais | Filmes e Séries",AXN HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22441.m3u8
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD [Legendado]" tvg-logo="http://z4.vc/5v1" group-title="Canais | Legendados",AXN HD [Legendado]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18325.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18731.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD [Alter]" tvg-logo="http://z4.vc/cKp" group-title="Canais | Filmes e Séries",AXN SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22336.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD [Legendado]" tvg-logo="http://z4.vc/b4l" group-title="Canais | Legendados",AXN SD [Legendado]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18324.m3u8
-#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV SD" tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18729.m3u8
-#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV SD [Alter]" tvg-logo="http://z4.vc/kmI" group-title="Canais | Infantis",BabyTV SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND [4K]" tvg-logo="http://z4.vc/ocG" group-title="Canais | 4K",BAND [4K]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26179.m3u8
-#EXTINF:-1 tvg-id="Band" tvg-name="Band SD" tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22242.m3u8
-#EXTINF:-1 tvg-id="Band Aracaju HD" tvg-name="Band Sergipe HD [Alter]" tvg-logo="http://z4.vc/68l" group-title="Canais | Abertos",Band Sergipe HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22476.m3u8
-#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="http://z4.vc/iGF" group-title="Canais | Abertos",Band SP FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band SP FHD [H265]" tvg-logo="http://z4.vc/wHL" group-title="Canais | Abertos",Band SP FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/25249.m3u8
-#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP HD" tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18727.m3u8
-#EXTINF:-1 tvg-id="Band Paulista HD" tvg-name="Band SP HD [Alter]" tvg-logo="http://z4.vc/T2q" group-title="Canais | Abertos",Band SP HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22440.m3u8
-#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP SD" tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band Taroba PR HD [Alter]" tvg-logo="http://z4.vc/rjk" group-title="Canais | Abertos",Band Taroba PR HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22472.m3u8
-#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="BandNews FHD" tvg-logo="http://z4.vc/jeQ" group-title="Canais | Notícias",BandNews FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18853.m3u8
-#EXTINF:-1 tvg-id="BandNews FHD" tvg-name="BandNews FHD [H265]" tvg-logo="http://z4.vc/vx0" group-title="Canais | Notícias",BandNews FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22152.m3u8
-#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18725.m3u8
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews SD" tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18726.m3u8
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews SD [Alter]" tvg-logo="http://z4.vc/Nw0" group-title="Canais | Notícias",BandNews SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22334.m3u8
-#EXTINF:-1 tvg-id="BandSports FHD" tvg-name="BandSports FHD" tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",BandSports FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BandSports FHD [H265]" tvg-logo="http://z4.vc/mPu" group-title="Canais | Esportes",BandSports FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22151.m3u8
-#EXTINF:-1 tvg-id="BandSports HD" tvg-name="BandSports HD" tvg-logo="http://z4.vc/0ev" group-title="Canais | Esportes",BandSports HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18723.m3u8
-#EXTINF:-1 tvg-id="BandSports HD" tvg-name="BandSports HD [Alter]" tvg-logo="http://z4.vc/TR3" group-title="Canais | Esportes",BandSports HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22439.m3u8
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports SD" tvg-logo="http://z4.vc/ral" group-title="Canais | Esportes",BandSports SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18724.m3u8
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports SD [Alter]" tvg-logo="http://z4.vc/bSa" group-title="Canais | Esportes",BandSports SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22333.m3u8
-#EXTINF:-1 tvg-id="BIS FHD" tvg-name="Bis FHD" tvg-logo="http://z4.vc/UIf" group-title="Canais | Variedades",Bis FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18785.m3u8
-#EXTINF:-1 tvg-id="BIS FHD" tvg-name="Bis FHD [H265]" tvg-logo="http://z4.vc/XaE" group-title="Canais | Variedades",Bis FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22150.m3u8
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="Bis HD" tvg-logo="http://z4.vc/PAl" group-title="Canais | Variedades",Bis HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18721.m3u8
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD [Alter]" tvg-logo="http://z4.vc/dkw" group-title="Canais | Variedades",BIS HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22438.m3u8
-#EXTINF:-1 tvg-id="BIS" tvg-name="Bis SD" tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18722.m3u8
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD [Alter]" tvg-logo="http://z4.vc/sRR" group-title="Canais | Variedades",BIS SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BloomBerg SD" tvg-logo="" group-title="Canais | Internacionais",BloomBerg SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26423.m3u8
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="http://z4.vc/6f2" group-title="Canais | Infantis",Boomerang FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18851.m3u8
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD [H265]" tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerang FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/25317.m3u8
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD [H265] [Alter]" tvg-logo="http://z4.vc/SQY" group-title="Canais | Infantis",Boomerang FHD [H265] [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22149.m3u8
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18718.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD" tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18719.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD [Alter]" tvg-logo="http://z4.vc/8CW" group-title="Canais | Infantis",Boomerang SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA HD" tvg-logo="" group-title="Canais | Internacionais",CANAL 26 ARGENTINA HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26427.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18753.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://z4.vc/bUk" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/25316.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD [H265] [Alter]" tvg-logo="http://z4.vc/HcH" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265] [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22132.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://z4.vc/GsJ" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18716.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD" tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18717.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD [Alter]" tvg-logo="http://z4.vc/BtQ" group-title="Canais | Filmes e Séries",Canal Brasil SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22229.m3u8
+#EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/27861.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18857.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18736.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18858.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18738.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET FULL HD" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18856.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18734.m3u8
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 FULL HD" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas",ARTE 1 FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18855.m3u8
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 HD" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas",ARTE 1 HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18732.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULL HD" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Series",AXN FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18854.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Series",AXN HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18730.m3u8
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS FULL HD" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Noticias",BAND NEWS FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/22152.m3u8
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS HD" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Noticias",BAND NEWS HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18725.m3u8
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP FULL HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/25249.m3u8
