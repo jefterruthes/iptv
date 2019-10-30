@@ -1,41 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RICTV Curitiba" tvg-name="Tv Novo Tempo SD" tvg-logo="" group-title="Canais | Abertos",Tv Novo Tempo SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/28051
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/28051.m3u8
 #EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18858
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18858.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD [H265]" tvg-logo="http://z4.vc/uuz" group-title="Canais | Variedades",A&E FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22213
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22213.m3u8
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18738
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18738.m3u8
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [Alter]" tvg-logo="http://z4.vc/g7m" group-title="Canais | Variedades",A&E HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22444
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22444.m3u8
 #EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E SD" tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18739
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18739.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD [Alter]" tvg-logo="http://z4.vc/7UI" group-title="Canais | Variedades",A&E SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22339
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22339.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS HD" tvg-logo="http://z4.vc/Hqo" group-title="Canais | Internacionais",ABC NEWS HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26422
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26422.m3u8
 #EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18857
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18857.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [H265]" tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22212
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22212.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18736
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18736.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD [Alter]" tvg-logo="http://z4.vc/ns0" group-title="Canais | Filmes e Séries",AMC HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22443
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22443.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18737
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18737.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD [Alter]" tvg-logo="http://z4.vc/DfG" group-title="Canais | Filmes e Séries",AMC SD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22338
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22338.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET [4K]" tvg-logo="http://z4.vc/s04" group-title="Canais | 4K",ANIMAL PLANET [4K]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26189
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/26189.m3u8
 #EXTINF:-1 tvg-id="Animal Planet FHD" tvg-name="Animal Planet FHD" tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18856
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18856.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD [H265]" tvg-logo="http://z4.vc/aPp" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22211
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22211.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18734
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18734.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD [Alter]" tvg-logo="http://z4.vc/kqL" group-title="Canais | Documentários",Animal Planet HD [Alter]
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22442
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/22442.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
-http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18735
+http://psrv.io//live/ddXSV6V3Ks/coreurl.me/18735.m3u8
