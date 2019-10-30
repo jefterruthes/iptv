@@ -27,3 +27,7 @@ http://psrv.io/live/ddXSV6V3Ks/coreurl.me/22152.m3u8
 http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18725.m3u8
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP FULL HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP FULL HD
 http://psrv.io/live/ddXSV6V3Ks/coreurl.me/25249.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18409.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18410.m3u8
