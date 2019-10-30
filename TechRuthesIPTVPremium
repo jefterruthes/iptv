@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11
 http://psrv.io/live/ddXSV6V3Ks/coreurl.me/27861.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18409.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18410.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
 http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18857.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
@@ -27,7 +31,21 @@ http://psrv.io/live/ddXSV6V3Ks/coreurl.me/22152.m3u8
 http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18725.m3u8
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP FULL HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP FULL HD
 http://psrv.io/live/ddXSV6V3Ks/coreurl.me/25249.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP FULL HD
-http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18409.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
-http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18410.m3u8
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18727.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS FULL HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18852.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18723.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FULL HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18785.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18721.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG FULL HD" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Infantil",BOOMERANG FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18851.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG HD" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Infantil",BOOMERANG HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18718.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK FULL HD" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK FULL HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18849.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK HD
+http://psrv.io/live/ddXSV6V3Ks/coreurl.me/18711.m3u8
