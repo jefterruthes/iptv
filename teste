@@ -1,127 +1,338 @@
-#EXTM3U
-#EXTINF:-1,GLOBO RJ HD
-http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,GLOBO RJ SD
-http://ge2.server.kzulu.live/SD_GLOBO_RJ/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,BAND HD
-http://ge.server.kuniform.live/HD_BAND/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,BAND SD
-http://ge.server.kyankee.live/SD_BAND/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,FOX SPORTS HD
-http://us12.server.kklima.xyz/HD_FOX_SPORTS_1/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,FOX SPORTS SD
-http://fr.server.kpapa.live/SD_FOX_SPORTS/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 2 HD
-http://us14.server.kp2hotel.xyz/HD_PFC_2/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 2 SD
-http://us14.server.kp2lima.xyz/SD_PFC_2/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 3 HD
-http://us14.server.kp2india.xyz/HD_PFC_3_ALTER/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 3 SD
-http://us14.server.kp2hotel.xyz/SD_PFC_3/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 4 HD
-http://us14.server.kp2golf.xyz/HD_PFC_4/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 4 SD
-http://us14.server.kp2india.xyz/SD_PFC_4/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 5 HD
-http://us14.server.kp2lima.xyz/FHD_PFC_5/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 6 HD
-http://us14.server.kpfoxtrot.xyz/HD_PFC_6/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 6 SD
-http://us14.server.kp2india.xyz/SD_PFC_6/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 7 HD
-http://us14.server.kp2kilo.xyz/HD_PFC_7/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE 8 SD
-http://us14.server.kp2india.xyz/SD_PFC_8/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE CLUBE HD
-http://us14.server.kp2india.xyz/HD_PFC_CLUBES/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,PREMIERE CLUBE SD
-http://us14.server.kpfoxtrot.xyz/SD_PFC_CLUBES/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,SPORTV HD
-http://us14.server.kp2kilo.xyz/HD_SPORTV_1/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,SPORTV SD
-http://us12.server.kkdelta.xyz/SD_SPORTV_1/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,SPORTV 2 HD
-http://us14.server.kpbravo.xyz/HD_SPORTV_2/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,SPORTV 2 SD
-http://us11.server.kgolf.store/SD_SPORTV_2/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,SPORTV 3 HD
-http://us14.server.kp2lima.xyz/HD_SPORTV_3/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,SPORTV 3 SD
-http://us11.server.kgolf.store/SD_SPORTV_3/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,COMBATE HD
-http://us14.server.kpbravo.xyz/HD_COMBATE/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,COMBATE SD
-http://us14.server.kp2hotel.xyz/SD_COMBATE/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,ESPN HD
-http://pl.server.kbravo.xyz/HD_ESPN/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,ESPN SD
-http://us11.server.kfoxtrot.store/SD_ESPN/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,ESPN BRASIL HD
-http://us12.server.kkalfa.xyz/HD_ESPN_BRASIL/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,ESPN BRASIL SD
-http://us11.server.kfoxtrot.store/SD_ESPN_BRASIL/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,FOX HD
-http://us11.server.koscar.live/HD_FOX/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,FOX SD
-http://us11.server.kgolf.store/SD_FOX/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE ACTION HD
-http://pl.server.kbravo.xyz/HD_TC_ACTION/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE ACTION SD
-http://pl.server.kecho.xyz/SD_TC_ACTION/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE FUN HD
-http://pl.server.kkfoxtrot.xyz/HD_TC_FUN/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE FUN SD
-http://us13.server.kkyankee.xyz/SD_TC_FUN/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE PIPOCA HD
-http://us13.server.kkyankee.xyz/HD_TC_PIPOCA/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE PIPOCA SD
-http://us13.server.kkyankee.xyz/SD_TC_PIPOCA/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE PREMIUM HD
-http://us11.server.kromeo.live/HD_TC_PREMIUM/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE PREMIUM SD
-http://us12.server.kklima.xyz/SD_TC_PREMIUM/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE TOUCH HD
-http://us12.server.kkvictor.xyz/HD_TC_TOUCH/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,TELECINE TOUCH SD
-http://us11.server.kgolf.store/SD_TC_TOUCH/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,WARNER HD
-http://us12.server.kkdelta.xyz/HD_WARNER/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,WARNER SD
-http://us11.server.kgolf.store/FHD_WARNER/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO 2 HD
-http://ge.server.kwhiskey.live/HD_HBO_2/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO 2 SD
-ttp://us13.server.kudaalpha.com/SD_HBO_2/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO FAMILY HD
-http://pl.server.kcharlie.xyz/HD_HBO_FAMILY/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO FAMILY SD
-http://us11.server.koscar.live/SD_HBO_FAMILY/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO PLUS HD
-http://ge2.server.kzulu.live/HD_HBO_PLUS/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO PLUS SD
-http://us13.server.kkyankee.xyz/SD_HBO_PLUS/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO SINGNATURE HD
-http://us13.server.kkx-ray.xyz/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HBO SINGNATURE SD
-http://us4.server.kkilo.xyz/SD_HBO_SINGNATURE/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,MEGAPIX HD
-http://pl.server.kcharlie.xyz/HD_MEGAPIX/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,MEGAPIX SD
-http://ge.server.kwhiskey.live/SD_MEGAPIX/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HISTORY HD
-http://us12.server.kkalfa.xyz/HD_HISTORY/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,HISTORY SD
-http://eu.server.kudaplay.com/SD_HISTORY/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,DICOVERY TURBO HD
-http://pl.server.kbravo.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,DISCOVERY TURBO SD
-http://ge.server.kvictor.live/SD_DISCOVERY_TURBO/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
+#EXTINF:-1, A&E
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18739
+#EXTINF:-1,A&E HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18738
+#EXTINF:-1,AMC
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18737
+#EXTINF:-1,AMC HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18736
+#EXTINF:-1,ANIMAL PLANET
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18735
+#EXTINF:-1,ANIMAL PLANET HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18734
+#EXTINF:-1,ARTE 1
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18733
+#EXTINF:-1,ARTE 1 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18732
+#EXTINF:-1,AXN
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18731
+#EXTINF:-1,AXN HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18730
+#EXTINF:-1,Baby TV
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18729
+#EXTINF:-1,Band News
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18726
+#EXTINF:-1,Band News HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18725
+#EXTINF:-1,Band Sports
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18724
+#EXTINF:-1,Band Sports HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18723
+#EXTINF:-1,BIS
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18722
+#EXTINF:-1,BIS HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18721
+#EXTINF:-1,BOOMERANG
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18719
+#EXTINF:-1,BOOMERANG HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18718
+#EXTINF:-1,CANAL BRASIL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18717
+#EXTINF:-1,CANAL BRASIL HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18716
+#EXTINF:-1,CANAL SONY
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18715
+#EXTINF:-1,CANAL SONY HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18714
+#EXTINF:-1,CARTOON NETWORK
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18712
 #EXTINF:-1,CARTOON NETWORK HD
-http://pl.server.kbravo.xyz/HD_CARTOON_NETWORK/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,CARTOON NETWORK SD
-http://pl.server.kbravo.xyz/SD_CARTOON_NETWORK/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,DISNEY XD HD
-http://us12.server.kklima.xyz/HD_DISNEY_XD/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
-#EXTINF:-1,DISNEY XD SD
-http://us12.server.kkcharlie.xyz/SD_DISNEY_XD/video.m3u8?token=e32ac1153729745ce81a2d9fc5b513a8
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18711
+#EXTINF:-1,CINEMAX
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18710
+#EXTINF:-1,CINEMAX HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18709
+#EXTINF:-1,COMBATE
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18708
+#EXTINF:-1,COMBATE HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18707
+#EXTINF:-1,COMEDY CENTRAL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18706
+#EXTINF:-1,COMEDY CENTRAL HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18705
+#EXTINF:-1,CURTA
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18704
+#EXTINF:-1,CURTA HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18703
+#EXTINF:-1,DISCOVERY CHANNEL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18702
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18701
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18700
+#EXTINF:-1,DISCOVERY HOME E HEALTH​
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18698
+#EXTINF:-1,DISCOVERY HOME E HEALTH​ HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18697
+#EXTINF:-1,DISCOVERY KIDS HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18695
+#EXTINF:-1,DISCOVERY SCIENCE
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18694
+#EXTINF:-1,DISCOVERY THEATER
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18692
+#EXTINF:-1,DISCOVERY THEATER HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18691
+#EXTINF:-1,DISCOVERY TURBO
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18690
+#EXTINF:-1,DISCOVERY TURBO HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18689
+#EXTINF:-1,DISCOVERY WORLD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18688
+#EXTINF:-1,DISCOVERY WORLD HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18687
+#EXTINF:-1,DISNEY CHANNEL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18686
+#EXTINF:-1,DISNEY CHANNEL HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18685
+#EXTINF:-1,E! Entertainment Television
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18682
+#EXTINF:-1,E! Entertainment Television HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18681
+#EXTINF:-1,ESPN
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18680
+#EXTINF:-1,ESPN Brasil
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18677
+#EXTINF:-1,ESPN Brasil HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18676
+#EXTINF:-1,ESPN Extra
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18675
+#EXTINF:-1,ESPN Extra HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18674
+#EXTINF:-1,ESPN HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18673
+#EXTINF:-1,ESPN2
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18679
+#EXTINF:-1,ESPN2 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18678
+#EXTINF:-1,FISH TV
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18672
+#EXTINF:-1,FISH TV HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18671
+#EXTINF:-1,FOOD NETWORK
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18670
+#EXTINF:-1,FOOD NETWORK HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18669
+#EXTINF:-1,FOX
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18668
+#EXTINF:-1,FOX HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18667
+#EXTINF:-1,FOX LIFE
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18666
+#EXTINF:-1,FOX LIFE HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18665
+#EXTINF:-1,FOX PREMIUM 1
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18664
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18661
+#EXTINF:-1,FOX SPORTS 2
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18658
+#EXTINF:-1,FOX SPORTS 2 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18657
+#EXTINF:-1,FOX SPORTS HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18659
+#EXTINF:-1,FX
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18654
+#EXTINF:-1,FX HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18653
+#EXTINF:-1,GLOBINHO HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18648
+#EXTINF:-1,GLOBO NEWS HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18651
+#EXTINF:-1,GLOOB
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18650
+#EXTINF:-1,GLOOB HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18649
+#EXTINF:-1,GNT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18646
+#EXTINF:-1,GNT HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18645
+#EXTINF:-1,H2 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18643
+#EXTINF:-1,HBO SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18642
+#EXTINF:-1,HBO HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18637
+#EXTINF:-1,HBO 2 SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18641
+#EXTINF:-1,HBO 2 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18640
+#EXTINF:-1,HBO Family SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18639
+#EXTINF:-1,HBO Family HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18638
+#EXTINF:-1,HBO Plus SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18636
+#EXTINF:-1,HBO Plus HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18635
+#EXTINF:-1,HBO Signature SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18634
+#EXTINF:-1,HBO Signature HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18633
+#EXTINF:-1,HISTORY CHANNEL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18632
+#EXTINF:-1,HISTORY CHANNEL HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18631
+#EXTINF:-1,ID
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18630
+#EXTINF:-1,ID HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18629
+#EXTINF:-1,LIFETIME
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18628
+#EXTINF:-1,LIFETIME HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18627
+#EXTINF:-1,MAIS GLOBOSAT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18626
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18625
+#EXTINF:-1,MAX HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18623
+#EXTINF:-1,MAX PRIME HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18621
+#EXTINF:-1,MAX UP
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18620
+#EXTINF:-1,MAX UP HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18619
+#EXTINF:-1,MEGAPIX
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18618
+#EXTINF:-1,MEGAPIX HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18617
+#EXTINF:-1,MTV
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18616
+#EXTINF:-1,MTV HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18615
+#EXTINF:-1,MULTISHOW HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18613
+#EXTINF:-1,NATGEO KIDS HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18608
+#EXTINF:-1,NATGEO WILD HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18606
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18610
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18609
+#EXTINF:-1,NICK HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18600
+#EXTINF:-1,NICK JR
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18603
+#EXTINF:-1,NICK JR HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18602
+#EXTINF:-1,NICKELODEON
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18601
+#EXTINF:-1,OFF
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18599
+#EXTINF:-1,PARAMOUNT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18597
+#EXTINF:-1,PREMIERE 1 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18595
+#EXTINF:-1,PREMIERE 2 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18594
+#EXTINF:-1,PREMIERE 3 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18591
+#EXTINF:-1,PREMIERE 4 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18590
+#EXTINF:-1,PREMIERE 5 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18589
+#EXTINF:-1,PREMIERE 6 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18588
+#EXTINF:-1,PREMIERE 7 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18587
+#EXTINF:-1,PREMIERE 8 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18586
+#EXTINF:-1,PREMIERE 9 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18585
+#EXTINF:-1,PREMIERE 10 ALT
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18584
+#EXTINF:-1,PREMIERE CLUBES HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18582
+#EXTINF:-1,PREMIERE SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18583
+#EXTINF:-1,RECORD NEWS
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18578
+#EXTINF:-1,REDE BRASIL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18574
+#EXTINF:-1,SEXTREME
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18486
+#EXTINF:-1,SEXY HOT HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18485
+#EXTINF:-1,SPACE
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18565
+#EXTINF:-1,SPACE HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18564
+#EXTINF:-1,SPORTV
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18563
+#EXTINF:-1,SPORTV 2
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18562
+#EXTINF:-1,SPORTV 2 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18561
+#EXTINF:-1,SPORTV 3
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18560
+#EXTINF:-1,SPORTV 3 HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18559
+#EXTINF:-1,SPORTV HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18558
+#EXTINF:-1,STUDIO UNIVERSAL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18557
+#EXTINF:-1,SYFY
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18567
+#EXTINF:-1,SYFY HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18566
+#EXTINF:-1,TBS
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18555
+#EXTINF:-1,TBS HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18554
+#EXTINF:-1,TCM
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18553
+#EXTINF:-1,TELECINE Action SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18552
+#EXTINF:-1,TELECINE Action HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18551
+#EXTINF:-1,TELECINE Fun SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18548
+#EXTINF:-1,TELECINE Fun HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18547
+#EXTINF:-1,TELECINE Cult HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18549
+#EXTINF:-1,TELECINE PIPOCA SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18546
+#EXTINF:-1,TELECINE PIPOCA HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18545
+#EXTINF:-1,TELECINE PREMIUM SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18544
+#EXTINF:-1,TELECINE PREMIUM HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18543
+#EXTINF:-1,TELECINE TOUCH SD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18542
+#EXTINF:-1,TELECINE TOUCH HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18541
+#EXTINF:-1,TLC
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18539
+#EXTINF:-1,TLC HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18538
+#EXTINF:-1,TNT HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18537
+#EXTINF:-1,TOONCAST
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18533
+#EXTINF:-1,TRUTV HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18522
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18521
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18520
+#EXTINF:-1,VIVA HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18515
+#EXTINF:-1,WARNER CHANNEL
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18514
+#EXTINF:-1,WARNER CHANNEL HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18513
+#EXTINF:-1,WOOHOO HD
+http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18511
