@@ -1,127 +1,315 @@
-#EXTM3U
-#EXTINF:-1,GLOBO RJ HD
-http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,GLOBO RJ SD
-http://ge2.server.kzulu.live/SD_GLOBO_RJ/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,BAND HD
-http://ge.server.kuniform.live/HD_BAND/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,BAND SD
-http://ge.server.kyankee.live/SD_BAND/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,FOX SPORTS HD
-http://us12.server.kklima.xyz/HD_FOX_SPORTS_1/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,FOX SPORTS SD
-http://fr.server.kpapa.live/SD_FOX_SPORTS/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 2 HD
-http://us14.server.kp2hotel.xyz/HD_PFC_2/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 2 SD
-http://us14.server.kp2lima.xyz/SD_PFC_2/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 3 HD
-http://us14.server.kp2india.xyz/HD_PFC_3_ALTER/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 3 SD
-http://us14.server.kp2hotel.xyz/SD_PFC_3/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 4 HD
-http://us14.server.kp2golf.xyz/HD_PFC_4/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 4 SD
-http://us14.server.kp2india.xyz/SD_PFC_4/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 5 HD
-http://us14.server.kp2lima.xyz/FHD_PFC_5/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 6 HD
-http://us14.server.kpfoxtrot.xyz/HD_PFC_6/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 6 SD
-http://us14.server.kp2india.xyz/SD_PFC_6/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 7 HD
-http://us14.server.kp2kilo.xyz/HD_PFC_7/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE 8 SD
-http://us14.server.kp2india.xyz/SD_PFC_8/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE CLUBE HD
-http://us14.server.kp2india.xyz/HD_PFC_CLUBES/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,PREMIERE CLUBE SD
-http://us14.server.kpfoxtrot.xyz/SD_PFC_CLUBES/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,SPORTV HD
-http://us14.server.kp2kilo.xyz/HD_SPORTV_1/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,SPORTV SD
-http://us12.server.kkdelta.xyz/SD_SPORTV_1/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,SPORTV 2 HD
-http://us14.server.kpbravo.xyz/HD_SPORTV_2/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,SPORTV 2 SD
-http://us11.server.kgolf.store/SD_SPORTV_2/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,SPORTV 3 HD
-http://us14.server.kp2lima.xyz/HD_SPORTV_3/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,SPORTV 3 SD
-http://us11.server.kgolf.store/SD_SPORTV_3/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,COMBATE HD
-http://us14.server.kpbravo.xyz/HD_COMBATE/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,COMBATE SD
-http://us14.server.kp2hotel.xyz/SD_COMBATE/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,ESPN HD
-http://pl.server.kbravo.xyz/HD_ESPN/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,ESPN SD
-http://us11.server.kfoxtrot.store/SD_ESPN/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,ESPN BRASIL HD
-http://us12.server.kkalfa.xyz/HD_ESPN_BRASIL/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,ESPN BRASIL SD
-http://us11.server.kfoxtrot.store/SD_ESPN_BRASIL/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,FOX HD
-http://us11.server.koscar.live/HD_FOX/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,FOX SD
-http://us11.server.kgolf.store/SD_FOX/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE ACTION HD
-http://pl.server.kbravo.xyz/HD_TC_ACTION/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE ACTION SD
-http://pl.server.kecho.xyz/SD_TC_ACTION/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE FUN HD
-http://pl.server.kkfoxtrot.xyz/HD_TC_FUN/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE FUN SD
-http://us13.server.kkyankee.xyz/SD_TC_FUN/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE PIPOCA HD
-http://us13.server.kkyankee.xyz/HD_TC_PIPOCA/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE PIPOCA SD
-http://us13.server.kkyankee.xyz/SD_TC_PIPOCA/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE PREMIUM HD
-http://us11.server.kromeo.live/HD_TC_PREMIUM/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE PREMIUM SD
-http://us12.server.kklima.xyz/SD_TC_PREMIUM/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE TOUCH HD
-http://us12.server.kkvictor.xyz/HD_TC_TOUCH/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,TELECINE TOUCH SD
-http://us11.server.kgolf.store/SD_TC_TOUCH/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,WARNER HD
-http://us12.server.kkdelta.xyz/HD_WARNER/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,WARNER SD
-http://us11.server.kgolf.store/FHD_WARNER/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HBO 2 HD
-http://ge.server.kwhiskey.live/HD_HBO_2/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HBO 2 SD
-http://us13.server.kudaalpha.com/SD_HBO_2/video.m3u8?token=32f6f9948fd44679f45d14787d86e51dd
-#EXTINF:-1,HBO FAMILY HD
-http://pl.server.kcharlie.xyz/HD_HBO_FAMILY/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HBO FAMILY SD
-http://us11.server.koscar.live/SD_HBO_FAMILY/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HBO PLUS HD
-http://ge2.server.kzulu.live/HD_HBO_PLUS/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HBO PLUS SD
-http://us13.server.kkyankee.xyz/SD_HBO_PLUS/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HBO SINGNATURE HD
-http://us13.server.kkx-ray.xyz/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HBO SINGNATURE SD
-http://us4.server.kkilo.xyz/SD_HBO_SINGNATURE/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,MEGAPIX HD
-http://pl.server.kcharlie.xyz/HD_MEGAPIX/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,MEGAPIX SD
-http://ge.server.kwhiskey.live/SD_MEGAPIX/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HISTORY HD
-http://us12.server.kkalfa.xyz/HD_HISTORY/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,HISTORY SD
-http://eu.server.kudaplay.com/SD_HISTORY/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,DICOVERY TURBO HD
-http://pl.server.kbravo.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,DISCOVERY TURBO SD
-http://ge.server.kvictor.live/SD_DISCOVERY_TURBO/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,CARTOON NETWORK HD
-http://pl.server.kbravo.xyz/HD_CARTOON_NETWORK/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,CARTOON NETWORK SD
-http://pl.server.kbravo.xyz/SD_CARTOON_NETWORK/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,DISNEY XD HD
-http://us12.server.kklima.xyz/HD_DISNEY_XD/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
-#EXTINF:-1,DISNEY XD SD
-http://us12.server.kkcharlie.xyz/SD_DISNEY_XD/video.m3u8?token=32f6f9948fd44679f45d14787d86e51d
+#EXTM3U8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/17122.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1207.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/17121.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo MG HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/17129.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1108.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1210.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1208.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",RedeTV | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/963.3mu8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/46919.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5085.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News" group-title="Notícias",Globo News | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38716.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2400.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News" group-title="Notícias",Record News | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38784.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/18028.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/17951.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News" group-title="Notícias",Band News | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1107.m3u8
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5078.m3u8
+#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20795.m3u8
+#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2466.m3u8
+#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5084.m3u8
+#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5087.m3u8
+#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2476.m3u8
+#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2385.m3u8
+#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/26018.m3u8
+#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV" group-title="Variedades e Músicas",MTV | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5092.m3u8
+#EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1104.m3u8
+#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2468.m3u8
+#EXTINF:-1 tvg-ID="history" tvg-name="History" group-title="Documentários",History | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/923.m3u8
+#EXTINF:-1 tvg-ID="h2" tvg-name="H2 HD" group-title="Documentários",H2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1021.m3u8
+#EXTINF:-1 tvg-ID="h2" tvg-name="H2" group-title="Documentários",H2 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2486.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1117.m3u8
+#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1719.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel FHD" group-title="Documentários",Discovery Channel FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5035.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel HD" group-title="Documentários",Discovery Channel HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2410.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1084.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation HD" group-title="Documentários",Discovery Civilzation HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/16005.m3u8
+#EXTINF:-1 tvg-ID="discoverycivilzation" tvg-name="Discovery Civilzation" group-title="Documentários",Discovery Civilzation | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20805.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/16006.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science" group-title="Documentários",Discovery Science | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20806.m3u8
+#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater HD" group-title="Documentários",Discovery Theater HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2460.m3u8
+#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20807.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo HD" group-title="Documentários",Discovery Turbo HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2411.m3u8
+#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1072.m3u8
+#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World HD" group-title="Documentários",Discovery World HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2461.m3u8
+#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World" group-title="Documentários",Discovery World | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20808.m3u8
+#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Natgeo Wild HD" group-title="Documentários",Natgeo Wild HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/994.m3u8
+#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Natgeo Wild" group-title="Documentários",Natgeo Wild | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/995.m3u8
+#EXTINF:-1 tvg-ID="nationalgeographics" tvg-name="National Geographics HD" group-title="Documentários",National Geographics HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/990.m3u8
+#EXTINF:-1 tvg-ID="nationalgeographics" tvg-name="National Geographics" group-title="Documentários",National Geographics | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/991.m3u8
+#EXTINF:-1 tvg-ID="id" tvg-name="ID HD" group-title="Documentários",ID HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2469.m3u8
+#EXTINF:-1 tvg-ID="id" tvg-name="ID" group-title="Documentários",ID | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1011.m3u8
+#EXTINF:-1 tvg-ID="id" tvg-name="ID" group-title="Documentários",ID | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1011.m3u8
+#EXTINF:-1 tvg-ID="axn" tvg-name="AXN FHD" group-title="Filmes e Séries",AXN FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5033.m3u8
+#EXTINF:-1 tvg-ID="anx" tvg-name="AXN HD" group-title="Filmes e Séries",AXN HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1114.m3u8
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1047.m3u8
+#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1329.m3u8
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2464.m3u8
+#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20815.m3u8
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2465.m3u8
+#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20816.m3u8
+#EXTINF:-1 tvg-ID="megapix" tvg-name="Megapix" group-title="Filmes e Séries",Megapix HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2470.m3u8
+#EXTINF:-1 tvg-ID="max" tvg-name="Max" group-title="Filmes e Séries",Max HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5089.m3u8
+#EXTINF:-1 tvg-ID="max" tvg-name="Max" group-title="Filmes e Séries",Max | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1007.m3u8
+#EXTINF:-1 tvg-ID="maxup" tvg-name="Max UP HD" group-title="Filmes e Séries",Max UP HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5091.m3u8
+#EXTINF:-1 tvg-ID="maxup" tvg-name="Max UP" group-title="Filmes e Séries",Max UP | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1005.m3u8
+#EXTINF:-1 tvg-ID="maxprime" tvg-name="Max Prime HD" group-title="Filmes e Séries",Max Prime HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5090.m3u8
+#EXTINF:-1 tvg-ID="maxprime" tvg-name="Max Prime" group-title="Filmes e Séries",Max Prime | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1006.m3u8
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO HD" group-title="Filmes e Séries",HBO HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1209.m3u8
+#EXTINF:-1 tvg-ID="hbo" tvg-name="HBO" group-title="Filmes e Séries",HBO | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1020.m3u8
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2 HD" group-title="Filmes e Séries",HBO 2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1017.m3u8
+#EXTINF:-1 tvg-ID="hbo2" tvg-name="HBO 2" group-title="Filmes e Séries",HBO 2 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2489.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus HD" group-title="Filmes e Séries",HBO Plus HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2467.m3u8
+#EXTINF:-1 tvg-ID="hboplus" tvg-name="HBO Plus" group-title="Filmes e Séries",HBO Plus | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1014.m3u8
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family HD" group-title="Filmes e Séries",HBO Family HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2392.m3u8
+#EXTINF:-1 tvg-ID="hbofamily" tvg-name="HBO Family" group-title="Filmes e Séries",HBO Family | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1016.m3u8
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature HD" group-title="Filmes e Séries",HBO Signature HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1013.m3u8
+#EXTINF:-1 tvg-ID="hbosignature" tvg-name="HBO Signature" group-title="Filmes e Séries",HBO Signature | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2488.m3u8
+#EXTINF:-1 tvg-ID="tcpremium" tvg-name="Telecine Premium HD" group-title="Filmes e Séries",Telecine Premium HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/928.m3u8
+#EXTINF:-1 tvg-ID="tcpremium" tvg-name="Telecine Premium" group-title="Filmes e Séries",Telecine Premium | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2415.m3u8
+#EXTINF:-1 tvg-ID="tcpipoca" tvg-name="Telecine Pipoca HD" group-title="Filmes e Séries",Telecine Pipoca HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/930.m3u8
+#EXTINF:-1 tvg-ID="tcpipoca" tvg-name="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/929.m3u8
+#EXTINF:-1 tvg-ID="tcaction" tvg-name="Telecine Action HD" group-title="Filmes e Séries",Telecine Action HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/936.m3u8
+#EXTINF:-1 tvg-ID="tcaction" tvg-name="Telecine Action" group-title="Filmes e Séries",Telecine Action | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/935.m3u8
+#EXTINF:-1 tvg-ID="tcfun" tvg-name="Telecine Fun HD" group-title="Filmes e Séries",Telecine Fun HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/932.m3u8
+#EXTINF:-1 tvg-ID="tcfun" tvg-name="Telecine Fun" group-title="Filmes e Séries",Telecine Fun | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/931.m3u8
+#EXTINF:-1 tvg-ID="tctouch" tvg-name="Telecine Touch HD" group-title="Filmes e Séries",Telecine Touch HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/927.m3u8
+#EXTINF:-1 tvg-ID="tctouch" tvg-name="Telecine Touch" group-title="Filmes e Séries",Telecine Touch | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/926.m3u8
+#EXTINF:-1 tvg-ID="space" tvg-name="Space HD" group-title="Filmes e Séries",Space HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1327.m3u8
+#EXTINF:-1 tvg-ID="space" tvg-name="Space" group-title="Filmes e Séries",Space | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2501.m3u8
+#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount FHD" group-title="Filmes e Séries",Paramount FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/26014.m3u8
+#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount HD" group-title="Filmes e Séries",Paramount HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2472.m3u8
+#EXTINF:-1 tvg-ID="paramount" tvg-name="Paramount" group-title="Filmes e Séries",Paramount | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/980.m3u8
+#EXTINF:-1 tvg-ID="sony" tvg-name="Sony FHD" group-title="Filmes e Séries",Sony FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/26012.m3u8
+#EXTINF:-1 tvg-ID="sony" tvg-name="Sony HD" group-title="Filmes e Séries",Sony HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2409.m3u8
+#EXTINF:-1 tvg-ID="studio" tvg-name="Studio Universal HD" group-title="Filmes e Séries",Studio Universal HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5094.m3u8
+#EXTINF:-1 tvg-ID="studio" tvg-name="Studio Universal" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2384.m3u8
+#EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang HD" group-title="Infantis",Boomerang HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20801.m3u8
+#EXTINF:-1 tvg-ID="boomberang" tvg-name="Boomerang" group-title="Infantis",Boomerang | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1102.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network HD" group-title="Infantis",Cartoon Network HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2479.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork" tvg-name="Cartoon Network" group-title="Infantis",Cartoon Network | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1095.m3u8
+#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids HD" group-title="Infantis",Discovery Kids HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5081.m3u8
+#EXTINF:-1 tvg-ID="discoverykids" tvg-name="Discovery Kids" group-title="Infantis",Discovery Kids | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1080.m3u8
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel HD" group-title="Infantis",Disney Channel HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38438.m3u8
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel HD" group-title="Infantis",Disney Channel HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5082.m3u8
+#EXTINF:-1 tvg-ID="disneychannel" tvg-name="Disney Channel" group-title="Infantis",Disney Channel | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38763.m3u8
+#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Jr HD" group-title="Infantis",Disney Jr HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20809.m3u8
+#EXTINF:-1 tvg-ID="disneyjr" tvg-name="Disney Jr" group-title="Infantis",Disney Jr | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38783.m3u8
+#EXTINF:-1 tvg-ID="disneyxd" tvg-name="Disney XD HD" group-title="Infantis",Disney XD HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20810.m3u8
+#EXTINF:-1 tvg-ID="disneyxd" tvg-name="Disney XD" group-title="Infantis",Disney XD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38763.m3u8
+#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob HD" group-title="Infantis",Gloob HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5086.m3u8
+#EXTINF:-1 tvg-ID="gloob" tvg-name="Gloob" group-title="Infantis",Gloob | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38719.m3u8
+#EXTINF:-1 tvg-ID="nick" tvg-name="Nick HD" group-title="Infantis",Nick HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5093.m3u8
+#EXTINF:-1 tvg-ID="nick" tvg-name="Nick" group-title="Infantis",Nick | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1206.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1033.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2391.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports 2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1031.m3u8
+#EXTINF:-1 tvg-ID="foxsports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports 2 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1717.m3u8
+#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1203.m3u8
+#EXTINF:-1 tvg-ID="sportv" tvg-name="SporTV" group-title="Esportes",SporTV | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/47527.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2401.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 2" group-title="Esportes",SporTV 2 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38710.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 3" group-title="Esportes",SporTV 3 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2402.m3u8
+#EXTINF:-1 tvg-ID="sportv2" tvg-name="SporTV 3" group-title="Esportes",SporTV 3 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38713.m3u8
+#EXTINF:-1 tvg-ID="espn" tvg-name="ESPN" group-title="Esportes",ESPN HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1129.m3u8
+#EXTINF:-1 tvg-ID="espn" tvg-name="ESPN" group-title="Esportes",ESPN | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38754.m3u8
+#EXTINF:-1 tvg-ID="espn2" tvg-name="ESPN 2" group-title="Esportes",ESPN 2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2394.m3u8
+#EXTINF:-1 tvg-ID="espn2" tvg-name="ESPN 2" group-title="Esportes",ESPN 2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38756.m3u8
+#EXTINF:-1 tvg-ID="espnbrasil" tvg-name="ESPN BrasilL" group-title="Esportes",ESPN Brasil HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/2387.m3u8
+#EXTINF:-1 tvg-ID="espnbrasil" tvg-name="ESPN BrasilL" group-title="Esportes",ESPN Brasil | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38758.m3u8
+#EXTINF:-1 tvg-ID="ei" tvg-name="Esporte Interativo Plus" group-title="Esportes",Esporte Interativo Plus HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/42914.m3u8
+#EXTINF:-1 tvg-ID="ei" tvg-name="Esporte Interativo Plus" group-title="Esportes",Esporte Interativo Plus | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/42916.m3u8
+#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1088.m3u8
+#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38746.m3u8
+#EXTINF:-1 tvg-ID="combate" tvg-name="Combate" group-title="Esportes",Combate | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38744.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5065.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1714.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38672.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 FHD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/5062.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1213.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere 2" group-title="Esportes",Premiere 2 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38788.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere 3" group-title="Esportes",Premiere 3 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1214.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38791.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4" group-title="Esportes",Premiere 4 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1215.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere 4 HD" group-title="Esportes",Premiere 4 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38792.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5 HD" group-title="Esportes",Premiere 5 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/1216.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere 5" group-title="Esportes",Premiere 5 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38797.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6 HD" group-title="Esportes",Premiere 6 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/16211.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere 6" group-title="Esportes",Premiere 6 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38800.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7 HD" group-title="Esportes",Premiere 7 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/16213.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere 7" group-title="Esportes",Premiere 7 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38802.m3u8
+#EXTINF:-1 tvg-ID="premiere8" tvg-name="Premiere 8 HD" group-title="Esportes",Premiere 8 HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38359.m3u8
+#EXTINF:-1 tvg-ID="premiere8" tvg-name="Premiere 8" group-title="Esportes",Premiere 8 | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/41343.m3u8
+#EXTINF:-1 tvg-ID="danz" tvg-name="DANZ HD" group-title="Esportes",DANZ HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/46925.m3u8
+#EXTINF:-1 tvg-ID="danzlibertadores" tvg-name="DANZ Libertadores HD" group-title="Esportes",DANZ Libertadores HD | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/48114.m3u8
+#EXTINF:-1 tvg-ID="tvaparecida" tvg-name="TV Aparecida" group-title="Religiosos",TV Aparecida | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/20831.m3u8
+#EXTINF:-1 tvg-ID="cancaonova" tvg-name="Canção Nova" group-title="Religiosos",Canção Nova | TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/38470.m3u8
+#EXTINF:-1 tvg-ID="rititv" tvg-name="RIT TV" group-title="Religiosos",RIT TV| TechRuthes.com
+http://play.starbr.top/live/admteste20/extreme21/37780.m3u8
