@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,GLOBO RJ HD
-http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=81a15c8d9a9e2079e0a010f672d0cb19
-#EXTINF:-1,GLOBO RJ SD
-http://ge2.server.kzulu.live/SD_GLOBO_RJ/video.m3u8?token=81a15c8d9a9e2079e0a010f672d0cb19
+#EXTINF:-1,GLOBO SP HD
+http://load.kudaplay.tv/aovivo/FHD_AE/video.m3u8?token=81a15c8d9a9e2079e0a010f672d0cb19
+#EXTINF:-1,GLOBO SP SD
+http://ge.server.kuniform.live/SD_GLOBO_SP/video.m3u8?token=81a15c8d9a9e2079e0a010f672d0cb19
 #EXTINF:-1,BAND HD
 http://ge.server.kuniform.live/HD_BAND/video.m3u8?token=81a15c8d9a9e2079e0a010f672d0cb19
 #EXTINF:-1,BAND SD
