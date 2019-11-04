@@ -1,8 +1,12 @@
 #EXTM3U8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo Nordeste | TechRuthes.com
-http://edge-aws.aovivo.club/hls/s:78.47.74.192/globonordeste_acf10f2c_4f6be93cc0ca07b4a52c9f9ad98df8d0f40d5bb8.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ | TechRuthes.com
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_82dec1c2a07a7e56f859eed1ad87c59590ef22f4/playlist.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
+http://clienteworld.com:8080/Andre9/Andre9/8205
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD² | TechRuthes.com
+http://clienteworld.com:8080/Andre9/Andre9/13031
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
+http://clienteworld.com:8080/Andre9/Andre9/8206
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD2 | TechRuthes.com
+http://clienteworld.com:8080/Andre9/Andre9/13033
 #EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD | TechRuthes.com
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record RJ | TechRuthes.com
