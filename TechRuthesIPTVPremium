@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD" tvg-logo="http://fotos.caras.uol.com.br/media//images/large/2019/09/16/vaza-suposta-lista-de-participantes-de-a-fazenda-871949.jpg" group-title="A FAZENDA",A FAZENDA HD
+http://clienteworld.com:8080/Andre9/Andre9/76659
 #EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="http://site.kazaz-design.com/wp-content/uploads/2015/04/3333.jpg" group-title="ESPORTES",ALL SPORTS HD
 http://clienteworld.com:8080/Andre9/Andre9/47670
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://2.bp.blogspot.com/-yUr9gubW2eM/W0x5XN_HziI/AAAAAAAAH_0/zqjZiBx98mQai2htc9nmGyPg95iFzI66QCLcBGAs/s1600/oie_9h93eMxOf50E.jpg" group-title="FILMES E SÉRIES",A&E HD
