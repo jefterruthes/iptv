@@ -1,311 +1,1197 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD" tvg-logo="http://fotos.caras.uol.com.br/media//images/large/2019/09/16/vaza-suposta-lista-de-participantes-de-a-fazenda-871949.jpg" group-title="A FAZENDA",A FAZENDA HD
-http://clienteworld.com:8080/Andre9/Andre9/76659
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="http://site.kazaz-design.com/wp-content/uploads/2015/04/3333.jpg" group-title="ESPORTES",ALL SPORTS HD
-http://clienteworld.com:8080/Andre9/Andre9/47670
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://2.bp.blogspot.com/-yUr9gubW2eM/W0x5XN_HziI/AAAAAAAAH_0/zqjZiBx98mQai2htc9nmGyPg95iFzI66QCLcBGAs/s1600/oie_9h93eMxOf50E.jpg" group-title="FILMES E SÉRIES",A&E HD
-http://clienteworld.com:8080/Andre9/Andre9/8241
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="A&E FHD" tvg-logo="" group-title="CANAIS FULL HD",A&E FHD
-http://clienteworld.com:8080/Andre9/Andre9/28249
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://4.bp.blogspot.com/-rJDnEg2_-rA/W0x9alg7SRI/AAAAAAAAIAA/ilzzOVZroBkqgiVAl9wZZF0_sadyZgNKgCLcBGAs/s1600/oie_9BkEAfwS8LP4.jpg" group-title="FILMES E SÉRIES",AMC HD
-http://clienteworld.com:8080/Andre9/Andre9/8240
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="" group-title="CANAIS FULL HD",AMC FHD
-http://clienteworld.com:8080/Andre9/Andre9/28248
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-9jcAuJgadwk/W0AaFKpCAGI/AAAAAAAAH6Y/Xsi5zLm68_8h68UVopW7TkZEtBpBkoc0gCLcBGAs/s1600/oie_VkEAbb43rvze.jpg" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://clienteworld.com:8080/Andre9/Andre9/8239
-#EXTINF:-1 tvg-id="Animal  Planet FHD" tvg-name="ANIMAL  PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-9jcAuJgadwk/W0AaFKpCAGI/AAAAAAAAH6Y/Xsi5zLm68_8h68UVopW7TkZEtBpBkoc0gCLcBGAs/s1600/oie_VkEAbb43rvze.jpg" group-title="CANAIS FULL HD",ANIMAL  PLANET FHD
-http://clienteworld.com:8080/Andre9/Andre9/28247
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="VARIEDADES E MUSICAS",ARTE 1 HD
-http://clienteworld.com:8080/Andre9/Andre9/8152
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="" group-title="CANAIS FULL HD",ARTE 1 FHD
-http://clienteworld.com:8080/Andre9/Andre9/28246
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://2.bp.blogspot.com/-8oaE7YLSGTo/W0yDfMrvKgI/AAAAAAAAIAM/UPazICmdmAcqKNUqaWxav8YR5byJAc9fgCLcBGAs/s1600/oie_sLrtpDgNsTHp.jpg" group-title="FILMES E SÉRIES",AXN HD
-http://clienteworld.com:8080/Andre9/Andre9/8238
-#EXTINF:-1 tvg-id="Bandeirantes.br" tvg-name="BAND HD" tvg-logo="https://3.bp.blogspot.com/-mJRx7HXjbks/Wp0mTLyV6tI/AAAAAAAAAFM/hs7SAXwI-o0kUzRGNAx-4iCofHw7HL97wCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="CANAIS ABERTOS",BAND HD
-http://clienteworld.com:8080/Andre9/Andre9/294
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP FULLHD" tvg-logo="" group-title="CANAIS FULL HD",BAND SP FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28177
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="https://1.bp.blogspot.com/-OAqtwJaWwx0/W1eOdN17YRI/AAAAAAAAIGY/gV8Z2gFYfpgoyVZY716ElMxgkHP_x8NVgCLcBGAs/s1600/oie_GUunCOWGVHIR.jpg" group-title="NOTÍCIAS",BAND NEWS HD
-http://clienteworld.com:8080/Andre9/Andre9/8148
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="" group-title="CANAIS FULL HD",BAND NEWS FHD
-http://clienteworld.com:8080/Andre9/Andre9/28244
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://3.bp.blogspot.com/-XpEwqcINFeA/WqvTOZXCgiI/AAAAAAAAAZ0/AH7gBxdXLKcos5n9Pjuj2t6mHoTehm22gCLcBGAs/s1600/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="ESPORTES",BAND SPORTS HD
-http://clienteworld.com:8080/Andre9/Andre9/8236
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="" group-title="CANAIS FULL HD",BAND SPORTS FHD
-http://clienteworld.com:8080/Andre9/Andre9/28243
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://3.bp.blogspot.com/-l9Mc3AAMeTU/WqvTPUixyEI/AAAAAAAAAZ4/gBCBz_WiSw4AlRaxphWorDgNnWBI7NrJgCLcBGAs/s1600/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="VARIEDADES E MUSICAS",BIS HD
-http://clienteworld.com:8080/Andre9/Andre9/8235
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FULLHD" tvg-logo="" group-title="CANAIS FULL HD",BIS FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28176
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="https://2.bp.blogspot.com/-LTXnHxIYJhU/WqvTPVUQ-JI/AAAAAAAAAZ8/GEdiLYSVW1wGBpTPKa1aniVhGNyv7H32wCLcBGAs/s1600/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="INFANTIL",BOOMERANG HD
-http://clienteworld.com:8080/Andre9/Andre9/8144
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://3.bp.blogspot.com/-qktTx-clZcI/W0ywwFXbcHI/AAAAAAAAIAk/CDd5KjgGDokHi3xAK8oPKP9XTfGCvMDrwCLcBGAs/s1600/oie_wX0vDOsG9Dk8.png" group-title="FILMES E SÉRIES",CANAL SONY HD
-http://clienteworld.com:8080/Andre9/Andre9/8141
-#EXTINF:-1 tvg-id="Sony" tvg-name="CANAL SONY FHD" tvg-logo="https://3.bp.blogspot.com/-qktTx-clZcI/W0ywwFXbcHI/AAAAAAAAIAk/CDd5KjgGDokHi3xAK8oPKP9XTfGCvMDrwCLcBGAs/s1600/oie_wX0vDOsG9Dk8.png" group-title="CANAIS FULL HD",CANAL SONY FHD
-http://clienteworld.com:8080/Andre9/Andre9/28241
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="INFANTIL",CARTOON NETWORK HD
-http://clienteworld.com:8080/Andre9/Andre9/8232
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="CANAIS FULL HD",CARTOON NETWORK FHD
-http://clienteworld.com:8080/Andre9/Andre9/28240
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://4.bp.blogspot.com/-YjvpzNv-wOE/W0y1Sj6dFTI/AAAAAAAAIAw/TGoq8UhLytUAAUnh371gr9trhfHpLUmWwCLcBGAs/s1600/oie_tk1jOYekcQnu.jpg" group-title="FILMES E SÉRIES",CINEMAX HD
-http://clienteworld.com:8080/Andre9/Andre9/8231
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FHD" tvg-logo="https://4.bp.blogspot.com/-YjvpzNv-wOE/W0y1Sj6dFTI/AAAAAAAAIAw/TGoq8UhLytUAAUnh371gr9trhfHpLUmWwCLcBGAs/s1600/oie_tk1jOY" group-title="CANAIS FULL HD",CINEMAX FHD
-http://clienteworld.com:8080/Andre9/Andre9/28239
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="ESPORTES",COMBATE HD
-http://clienteworld.com:8080/Andre9/Andre9/8230
-#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE FULLHD" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="CANAIS FULL HD",COMBATE FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28175
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="VARIEDADES E MUSICAS",COMEDY CENTRAL HD
-http://clienteworld.com:8080/Andre9/Andre9/8229
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="CANAIS FULL HD",COMEDY CENTRAL FHD
-http://clienteworld.com:8080/Andre9/Andre9/28238
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="http://www.aaerj.org.br/wp-content/uploads/2014/04/logo.png" group-title="VARIEDADES E MUSICAS",CURTA! HD
-http://clienteworld.com:8080/Andre9/Andre9/8135
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! FHD" tvg-logo="" group-title="CANAIS FULL HD",CURTA! FHD
-http://clienteworld.com:8080/Andre9/Andre9/28237
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://4.bp.blogspot.com/-_ILbLGrnkT0/W0AaK0uaJII/AAAAAAAAH6c/PXEgm9aHFhkyE6IGgPVKfeDhY1RJkj8lgCLcBGAs/s1600/oie_z0IUXwz2bubz.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://clienteworld.com:8080/Andre9/Andre9/8228
-#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="https://4.bp.blogspot.com/-_ILbLGrnkT0/W0AaK0uaJII/AAAAAAAAH6c/PXEgm9aHFhkyE6IGgPVKfeDhY1RJkj8lgCLcBGAs/s1600/oie_z0IUXwz2bubz.jpg" group-title="CANAIS FULL HD",DISCOVERY CHANNEL FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28174
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://2.bp.blogspot.com/-67daxyJYjyc/W0AabP9BILI/AAAAAAAAH6o/1yjdiC-eljYND1GCHwTd4TatGtYPqgG7QCLcBGAs/s1600/oie_qDIi5V7Ie8SW%2B%25281%2529.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION HD
-http://clienteworld.com:8080/Andre9/Andre9/8227
-#EXTINF:-1 tvg-id="Discovery Civilization (BR)" tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="https://2.bp.blogspot.com/-67daxyJYjyc/W0AabP9BILI/AAAAAAAAH6o/1yjdiC-eljYND1GCHwTd4TatGtYPqgG7QCLcBGAs/s1600/oie_qDIi5V7Ie8SW%2B%25281%2529.jpg" group-title="CANAIS FULL HD",DISCOVERY CIVILIZATION FHD
-http://clienteworld.com:8080/Andre9/Andre9/28236
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://4.bp.blogspot.com/-2JhVMwvi15s/W0Ag6DotK-I/AAAAAAAAH60/dX64kbcWe-EKPSnyEONFjU7c9qSBF5sfQCLcBGAs/s1600/oie_I6DvSD8uP7jQ.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
-http://clienteworld.com:8080/Andre9/Andre9/8226
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://4.bp.blogspot.com/-2JhVMwvi15s/W0Ag6DotK-I/AAAAAAAAH60/dX64kbcWe-EKPSnyEONFjU7c9qSBF5sfQCLcBGAs/s1600/oie_I6DvSD8uP7jQ.jpg" group-title="CANAIS FULL HD",DISCOVERY HOME & HEALTH FHD
-http://clienteworld.com:8080/Andre9/Andre9/28235
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s320/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="INFANTIL",DISCOVERY KIDS HD
-http://clienteworld.com:8080/Andre9/Andre9/8225
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s320/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="CANAIS FULL HD",DISCOVERY KIDS FHD
-http://clienteworld.com:8080/Andre9/Andre9/28234
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s320/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://clienteworld.com:8080/Andre9/Andre9/8129
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s320/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="CANAIS FULL HD",DISCOVERY SCIENCE FHD
-http://clienteworld.com:8080/Andre9/Andre9/28233
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://2.bp.blogspot.com/-leJj6Ou90lE/WqvTVas8DhI/AAAAAAAAAa8/pK-sAAuYYHA9FZs1iK2aG4UMq-E2hx7KACLcBGAs/s1600/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://clienteworld.com:8080/Andre9/Andre9/8224
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://2.bp.blogspot.com/-leJj6Ou90lE/WqvTVas8DhI/AAAAAAAAAa8/pK-sAAuYYHA9FZs1iK2aG4UMq-E2hx7KACLcBGAs/s1600/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="CANAIS FULL HD",DISCOVERY THEATER FHD
-http://clienteworld.com:8080/Andre9/Andre9/28232
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://clienteworld.com:8080/Andre9/Andre9/8223
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="CANAIS FULL HD",DISCOVERY TURBO FHD
-http://clienteworld.com:8080/Andre9/Andre9/28231
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD  HD
-http://clienteworld.com:8080/Andre9/Andre9/8222
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="CANAIS FULL HD",DISCOVERY WORLD FHD
-http://clienteworld.com:8080/Andre9/Andre9/28230
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://2.bp.blogspot.com/-yS-DF0XYMAI/WqvTW9yJn2I/AAAAAAAAAbI/5ahRfOC_FlQt4W-YgHiAcGCoZ_e7S9Q6gCLcBGAs/s1600/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="INFANTIL",DISNEY CHANNEL HD
-http://clienteworld.com:8080/Andre9/Andre9/8221
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="https://2.bp.blogspot.com/-yS-DF0XYMAI/WqvTW9yJn2I/AAAAAAAAAbI/5ahRfOC_FlQt4W-YgHiAcGCoZ_e7S9Q6gCLcBGAs/s1600/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="CANAIS FULL HD",DISNEY CHANNEL FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28173
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2012/10/logo-Disney-Junior1.png" group-title="INFANTIL",DISNEY JUNIOR HD
-http://clienteworld.com:8080/Andre9/Andre9/14091
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR FHD" tvg-logo="" group-title="CANAIS FULL HD",DISNEY JR FHD
-http://clienteworld.com:8080/Andre9/Andre9/28179
-#EXTINF:-1 tvg-id="EiPlus" tvg-name="EI PLUS HD*" tvg-logo="https://www.socioesquadrao.com.br/wp-content/uploads/2015/09/logo_500x500_eiplus.png" group-title="ESPORTES",EI PLUS HD*
-http://clienteworld.com:8080/Andre9/Andre9/45178
-#EXTINF:-1 tvg-id="Esporteint.br" tvg-name="ESPORTE INTERATIVO HD  ²" tvg-logo="https://odia.ig.com.br/_midias/png/2018/08/09/700x470/1_19510665_10157445658718504_4719318051247690804_n-7612664.png" group-title="ESPORTES",ESPORTE INTERATIVO HD  ²
-http://clienteworld.com:8080/Andre9/Andre9/47678
-#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://3.bp.blogspot.com/-7rNUMj3bcvE/WqvTYykZW0I/AAAAAAAAAbU/CUe1Q60a7KwbEbClMkNWpoYVjP6bnFwwwCLcBGAs/s1600/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="VARIEDADES E MUSICAS",E! HD
-http://clienteworld.com:8080/Andre9/Andre9/8220
-#EXTINF:-1 tvg-id="E!" tvg-name="E! FHD" tvg-logo="https://3.bp.blogspot.com/-7rNUMj3bcvE/WqvTYykZW0I/AAAAAAAAAbU/CUe1Q60a7KwbEbClMkNWpoYVjP6bnFwwwCLcBGAs/s1600/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="CANAIS FULL HD",E! FHD
-http://clienteworld.com:8080/Andre9/Andre9/28229
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN HD" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="ESPORTES",ESPN HD
-http://clienteworld.com:8080/Andre9/Andre9/8219
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FULLHD" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS FULL HD",ESPN FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28171
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS FULL HD",ESPN 2 FHD
-http://clienteworld.com:8080/Andre9/Andre9/28228
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://4.bp.blogspot.com/-J3Uq2QZjPZg/WqvTZIvmuoI/AAAAAAAAAbc/DGVFoHswuR4-p7RzIN0E07vjqRVoGBEdACLcBGAs/s1600/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="ESPORTES",ESPN BRASIL HD
-http://clienteworld.com:8080/Andre9/Andre9/8243
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL FULLHD" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS FULL HD",ESPN BRASIL FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28172
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN+ HD" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="ESPORTES",ESPN+ HD
-http://clienteworld.com:8080/Andre9/Andre9/8118
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra FHD" tvg-logo="https://1.bp.blogspot.com/-RFRhfYYQCR0/WqvTZDN2JeI/AAAAAAAAAbY/5bgkxkdeC8AH7fowXcpSYqdiZcRHcBXRACLcBGAs/s1600/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="CANAIS FULL HD",ESPN Extra FHD
-http://clienteworld.com:8080/Andre9/Andre9/28227
-#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="https://2.bp.blogspot.com/-K5NOwRbe4Qw/WqvTZyAgHnI/AAAAAAAAAbo/sLOT6Zu685IKJvGXShApbMtPPq82sZOdwCLcBGAs/s1600/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="VARIEDADES E MUSICAS",FOOD NETWORK HD
-http://clienteworld.com:8080/Andre9/Andre9/8218
-#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FHD" tvg-logo="https://2.bp.blogspot.com/-K5NOwRbe4Qw/WqvTZyAgHnI/AAAAAAAAAbo/sLOT6Zu685IKJvGXShApbMtPPq82sZOdwCLcBGAs/s1600/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="CANAIS FULL HD",FOOD NETWORK FHD
-http://clienteworld.com:8080/Andre9/Andre9/28225
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://4.bp.blogspot.com/-_COuXvL225Q/W0y3Su9DE3I/AAAAAAAAIA8/tEsl1K1zIpIAqhqh8gmr-3aQA6n_Xd04QCLcBGAs/s1600/oie_881qBKa9m2hD.jpg" group-title="FILMES E SÉRIES",FOX HD
-http://clienteworld.com:8080/Andre9/Andre9/8217
-#EXTINF:-1 tvg-id="" tvg-name="FOX FULLHD" tvg-logo="" group-title="CANAIS FULL HD",FOX FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28170
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://1.bp.blogspot.com/-P_2HEh4lCWY/W0y6cp8f_aI/AAAAAAAAIBI/jCuPNc581hk44T19Q8WJI7wP0ktfJktnwCLcBGAs/s1600/oie_ZnIx5C5enY2N.jpg" group-title="FILMES E SÉRIES",FOX LIFE HD
-http://clienteworld.com:8080/Andre9/Andre9/8216
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE FHD" tvg-logo="https://4.bp.blogspot.com/-_COuXvL225Q/W0y3Su9DE3I/AAAAAAAAIA8/tEsl1K1zIpIAqhqh8gmr-3aQA6n_Xd04QCLcBGAs/s1600/oie_881qBKa9m2hD.jpg" group-title="CANAIS FULL HD",FOX LIFE FHD
-http://clienteworld.com:8080/Andre9/Andre9/28224
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://4.bp.blogspot.com/-J0vF08ItjSg/W0zAjLZrmLI/AAAAAAAAIBU/2Oh-T2IxjbMW96qmzsHRiFxnukyfcqqZQCLcBGAs/s1600/oie_T8ZhggxkN4Ur.jpg" group-title="FILMES E SÉRIES",FOX PREMIUM 1 HD
-http://clienteworld.com:8080/Andre9/Andre9/8215
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="https://4.bp.blogspot.com/-J0vF08ItjSg/W0zAjLZrmLI/AAAAAAAAIBU/2Oh-T2IxjbMW96qmzsHRiFxnukyfcqqZQCLcBGAs/s1600/oie_T8ZhggxkN4Ur.jpg" group-title="CANAIS FULL HD",FOX PREMIUM 1 FHD
-http://clienteworld.com:8080/Andre9/Andre9/28223
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://i0.wp.com/i.imgur.com/Hs4nWaB.jpg" group-title="FILMES E SÉRIES",FOX PREMIUM 2 HD
-http://clienteworld.com:8080/Andre9/Andre9/15075
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://i0.wp.com/i.imgur.com/Hs4nWaB.jpg" group-title="CANAIS FULL HD",FOX PREMIUM 2 FHD
-http://clienteworld.com:8080/Andre9/Andre9/28222
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://3.bp.blogspot.com/-6UiJ1oEVJzc/WqvTcepjeOI/AAAAAAAAAb8/0JhPbfaAL9kDKeSPC9Uj2Vn6uUfVXutuwCLcBGAs/s1600/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="ESPORTES",FOX SPORTS HD
-http://clienteworld.com:8080/Andre9/Andre9/8213
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FULLHD" tvg-logo="" group-title="CANAIS FULL HD",FOX SPORTS FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28168
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://3.bp.blogspot.com/-ExCzXcEsBKg/WqvTcw9K3uI/AAAAAAAAAcA/hZCPZXCB-vgvIVZjuMUB3gFfFZf3dTLSwCLcBGAs/s1600/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="ESPORTES",FOX SPORTS 2 HD
-http://clienteworld.com:8080/Andre9/Andre9/8099
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FULLHD" tvg-logo="" group-title="CANAIS FULL HD",FOX SPORTS 2 FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28169
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://3.bp.blogspot.com/-EK-_pitbqA4/W0zsLPienkI/AAAAAAAAIBs/_sFmNJ__PKsXrOqLpgQbksTi3GHP7Jh1QCLcBGAs/s1600/oie_yfleiPuvHvrC.jpg" group-title="FILMES E SÉRIES",FX HD
-http://clienteworld.com:8080/Andre9/Andre9/8211
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2018/11/globo-baixas-no-jornalismo-990x530.jpg" group-title="CANAIS FULL HD",GLOBO BRASILIA FHD
-http://clienteworld.com:8080/Andre9/Andre9/28255
-#EXTINF:-1 tvg-id="Globo News (BR)" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-0L9Afsh3ynQ/W1eQRxboQ4I/AAAAAAAAIGk/Ez4PlN7bfxIrnadvv4MzcAy1aw79xPIMACLcBGAs/s1600/oie_rqi3t0eukfT9.jpg" group-title="NOTÍCIAS",GLOBO NEWS HD
-http://clienteworld.com:8080/Andre9/Andre9/8209
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FULLHD" tvg-logo="" group-title="CANAIS FULL HD",GLOBO NEWS FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28167
-#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="GLOBO RJ HD" tvg-logo="https://2.bp.blogspot.com/-_7WmndfE1dw/W124Eflz55I/AAAAAAAAIKU/U7vG-iXikJE41id2KVqRlF0QO-a25th_gCLcBGAs/s1600/oie_Njynok0t77Th.jpg" group-title="CANAIS GLOBO",GLOBO RJ HD
-http://clienteworld.com:8080/Andre9/Andre9/8206
-#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="GLOBO SP HD" tvg-logo="https://2.bp.blogspot.com/-_7WmndfE1dw/W124Eflz55I/AAAAAAAAIKU/U7vG-iXikJE41id2KVqRlF0QO-a25th_gCLcBGAs/s1600/oie_Njynok0t77Th.jpg" group-title="CANAIS GLOBO",GLOBO SP HD
-http://clienteworld.com:8080/Andre9/Andre9/8205
-#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD" tvg-logo="https://2.bp.blogspot.com/-jlk12OCOpD0/WqvTm98gxAI/AAAAAAAAAdc/Nrglw7t0CFURSY5Polh9pdIw-2oevSErQCLcBGAs/s1600/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="VARIEDADES E MUSICAS",GLOBOSAT HD
-http://clienteworld.com:8080/Andre9/Andre9/8056
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD" tvg-logo="https://3.bp.blogspot.com/-x16BRujGjSw/WqvThQl9WBI/AAAAAAAAAcs/Zj1KrysHaAY9oviAzlzF7IQMEQagYTd6wCLcBGAs/s1600/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="INFANTIL",GLOOB HD
-http://clienteworld.com:8080/Andre9/Andre9/8072
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB FULLHD" tvg-logo="" group-title="CANAIS FULL HD",GLOOB FULLHD
-http://clienteworld.com:8080/Andre9/Andre9/28166
-#EXTINF:-1 tvg-id="Gloobinho (BR)" tvg-name="GLOOBINHO HD" tvg-logo="https://3.bp.blogspot.com/-x16BRujGjSw/WqvThQl9WBI/AAAAAAAAAcs/Zj1KrysHaAY9oviAzlzF7IQMEQagYTd6wCLcBGAs/s1600/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="INFANTIL",GLOOBINHO HD
-http://clienteworld.com:8080/Andre9/Andre9/8071
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FHD" tvg-logo="" group-title="CANAIS FULL HD",GLOOBINHO FHD
-http://clienteworld.com:8080/Andre9/Andre9/28219
-#EXTINF:-1 tvg-id="GNT (BR)" tvg-name="GNT HD" tvg-logo="https://4.bp.blogspot.com/-2Sp2DsOkoUM/WqvThyBHU8I/AAAAAAAAAcw/daJCX8-uBts2Ry_IRDs_YtQr3_2wtFvEwCLcBGAs/s1600/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="VARIEDADES E MUSICAS",GNT HD
-http://clienteworld.com:8080/Andre9/Andre9/8204
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="DOCUMENTÁRIOS",H2 HD
-http://clienteworld.com:8080/Andre9/Andre9/8203
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://3.bp.blogspot.com/-_zSPeoaaJ3w/WqvTi90SJTI/AAAAAAAAAc4/H12ZM4pC3LYoassT25tacdUQjEEFv2crACLcBGAs/s1600/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="REDE HBO",HBO HD
-http://clienteworld.com:8080/Andre9/Andre9/8200
-#EXTINF:-1 tvg-id="Hbo2hd.br" tvg-name="HBO 2 HD" tvg-logo="https://2.bp.blogspot.com/--bM9qZHisTA/WqvTjaZDdGI/AAAAAAAAAc8/9Thy9en62ZU5cXsW7828TiTem3cC2JOawCLcBGAs/s1600/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="REDE HBO",HBO 2 HD
-http://clienteworld.com:8080/Andre9/Andre9/8202
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://1.bp.blogspot.com/-7uitk8TLIIU/WqvTj36FMUI/AAAAAAAAAdA/r4hOWrjc4FIJvrFiCxW8cIvdETuvAI2EgCLcBGAs/s1600/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="REDE HBO",HBO FAMILY HD
-http://clienteworld.com:8080/Andre9/Andre9/8201
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://3.bp.blogspot.com/-MMFUbv91NHk/WqvTkbnJJTI/AAAAAAAAAdE/niFwlj26Uj8Dcxwsp-V_2fZ-f5eybfdnQCLcBGAs/s1600/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="REDE HBO",HBO PLUS HD
-http://clienteworld.com:8080/Andre9/Andre9/8199
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://4.bp.blogspot.com/-9lokj6SJA34/WqvTlPvuKTI/AAAAAAAAAdM/1kycmfLxPy0_KSvJgvuDV_KzUWZeWxX9wCLcBGAs/s1600/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="REDE HBO",HBO SIGNATURE HD
-http://clienteworld.com:8080/Andre9/Andre9/8198
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s320/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="DOCUMENTÁRIOS",HISTORY HD
-http://clienteworld.com:8080/Andre9/Andre9/8060
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://3.bp.blogspot.com/-jqX3QGIWoa4/WqvTmLSn-JI/AAAAAAAAAdU/jQZQRWFzoKIItPlh9dTJALU2AoYZ5mGnQCLcBGAs/s1600/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY HD
-http://clienteworld.com:8080/Andre9/Andre9/8197
-#EXTINF:-1 tvg-id="Lifetime (BR)" tvg-name="LIFETIME HD" tvg-logo="https://1.bp.blogspot.com/-vrxPzQJtEbI/WqvTmpsw7UI/AAAAAAAAAdg/qKnkQMUsosACYdVooH1YYt5AqJO3iWwOACLcBGAs/s1600/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="VARIEDADES E MUSICAS",LIFETIME HD
-http://clienteworld.com:8080/Andre9/Andre9/8196
-#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="https://2.bp.blogspot.com/-YrmnhgwzYTo/W0z0KpM5mCI/AAAAAAAAICE/attKLIjzMXoXw9rICwi6Ik5ERPT-I2TnACLcBGAs/s1600/oie_5myFmC38aJ1D.jpg" group-title="FILMES E SÉRIES",MAX HD
-http://clienteworld.com:8080/Andre9/Andre9/8195
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="https://3.bp.blogspot.com/-x5XCdbvb0yo/W0z_Flutg7I/AAAAAAAAICQ/FrQgwL-i-_MYce7CiwkMueML-pHPugUwwCLcBGAs/s1600/oie_737pJWsX7JO9.jpg" group-title="FILMES E SÉRIES",MAX PRIME HD
-http://clienteworld.com:8080/Andre9/Andre9/8194
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="MAX UP HD" tvg-logo="https://4.bp.blogspot.com/-y0ZReS6xPcI/W00GKNdMhkI/AAAAAAAAICo/fJd1koIpWV4P8xYKaFEKuVktn0EV4ht5ACLcBGAs/s1600/oie_afWukvv2QBsW.jpg" group-title="FILMES E SÉRIES",MAX UP HD
-http://clienteworld.com:8080/Andre9/Andre9/8193
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://1.bp.blogspot.com/-R24Tb-Npi3c/W0zw2d6aLYI/AAAAAAAAIB4/CSJsYGmup0AwF3exkyvnecTEUCS8Gz5pACLcBGAs/s1600/oie_17iR1GkhI5bg.jpg" group-title="FILMES E SÉRIES",MEGAPIX HD
-http://clienteworld.com:8080/Andre9/Andre9/8192
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://3.bp.blogspot.com/-c10KhKKWcCo/WqvToVSIrXI/AAAAAAAAAdw/9y3UiWxpFbUGkZdfxDttZT7NxLgxIh_PACLcBGAs/s1600/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="VARIEDADES E MUSICAS",MTV HD
-http://clienteworld.com:8080/Andre9/Andre9/8191
-#EXTINF:-1 tvg-id="Multishow (BR)" tvg-name="MULTISHOW HD" tvg-logo="https://4.bp.blogspot.com/-vfVZeD00t-Q/WqvTpCeCODI/AAAAAAAAAd8/C31degynfnYJ5MMzArdcLHi4zUNvWsVwgCLcBGAs/s1600/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="VARIEDADES E MUSICAS",MULTISHOW HD
-http://clienteworld.com:8080/Andre9/Andre9/8190
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="DOCUMENTÁRIOS",NAT GEO HD
-http://clienteworld.com:8080/Andre9/Andre9/8189
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS HD" tvg-logo="https://2.bp.blogspot.com/-Y2rtUjbV4nM/WqvTpbfOVZI/AAAAAAAAAeA/E-H35Ouqx0MfyO50RjTY9QYdHTUoXfLhwCLcBGAs/s1600/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="INFANTIL",NATGEO KIDS HD
-http://clienteworld.com:8080/Andre9/Andre9/8045
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT GEO WILD HD" tvg-logo="https://3.bp.blogspot.com/-42UIMlKbD-g/WqvTpAtFIPI/AAAAAAAAAd4/n1Xxsuc90D0eb0TGIPrKb8s9GtzdWLe4gCLcBGAs/s1600/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD
-http://clienteworld.com:8080/Andre9/Andre9/8187
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR HD" tvg-logo="https://1.bp.blogspot.com/-FDjOqWO2mUM/WqvTrcbyu8I/AAAAAAAAAeU/rVYGXOQNhzkGlAXVLT--Db58L3nLOCoQACLcBGAs/s1600/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="INFANTIL",NICK JR HD
-http://clienteworld.com:8080/Andre9/Andre9/8041
-#EXTINF:-1 tvg-id="Nick" tvg-name="NICKELODEON HD" tvg-logo="https://4.bp.blogspot.com/-uSmTfg3rhdA/WqvTq0NOzgI/AAAAAAAAAeQ/HyyyY29WUU8R06v_vNCa5-euSmXzKx-PwCLcBGAs/s1600/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="INFANTIL",NICKELODEON HD
-http://clienteworld.com:8080/Andre9/Andre9/8039
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="https://2.bp.blogspot.com/-W84NqL7shvI/WqvTs0Y1xzI/AAAAAAAAAec/td0AuIbSmNgdNcmhto4GOqZ8_eM4dLzPgCLcBGAs/s1600/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="VARIEDADES E MUSICAS",OFF HD
-http://clienteworld.com:8080/Andre9/Andre9/8186
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-Rp0FR7Xuez8/W00VO3rKEnI/AAAAAAAAIC0/eVY1JbKhc9g4zGChgSGVUsxtCGRSBjo3QCLcBGAs/s1600/oie_sylFyRnfO3bc.jpg" group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL HD
-http://clienteworld.com:8080/Andre9/Andre9/8185
-#EXTINF:-1 tvg-id="Paramount (BR)" tvg-name="PARAMOUNT CHANNEL FHD ²" tvg-logo="https://1.bp.blogspot.com/-Rp0FR7Xuez8/W00VO3rKEnI/AAAAAAAAIC0/eVY1JbKhc9g4zGChgSGVUsxtCGRSBjo3QCLcBGAs/s1600/oie_sylFyRnfO3bc.jpg" group-title="CANAIS FULL HD",PARAMOUNT CHANNEL FHD ²
-http://clienteworld.com:8080/Andre9/Andre9/12975
-#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="http://julessebastian.com/wp-content/uploads/2015/07/LogoPlayKids.jpg" group-title="INFANTIL",PLAYKIDS HD
-http://clienteworld.com:8080/Andre9/Andre9/15138
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE CLUBES HD
-http://clienteworld.com:8080/Andre9/Andre9/8028
-#EXTINF:-1 tvg-id="da1fc0028aab38444c07bd3afdb9f6a3" tvg-name="PREMIERE 2 HD" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE 2 HD
-http://clienteworld.com:8080/Andre9/Andre9/8036
-#EXTINF:-1 tvg-id="76812c601dcf6162155a43afa8be4b74" tvg-name="PREMIERE 3 HD" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE 3 HD
-http://clienteworld.com:8080/Andre9/Andre9/8035
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE 4 HD
-http://clienteworld.com:8080/Andre9/Andre9/8034
-#EXTINF:-1 tvg-id="e03d3f078902a2d4f6097c800992e3e0" tvg-name="PREMIERE 5 HD" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE 5 HD
-http://clienteworld.com:8080/Andre9/Andre9/8033
-#EXTINF:-1 tvg-id="d837592359ec775df8162e4b6d6e4e83" tvg-name="PREMIERE 6 HD" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE 6 HD
-http://clienteworld.com:8080/Andre9/Andre9/8032
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE 7
-http://clienteworld.com:8080/Andre9/Andre9/8031
-#EXTINF:-1 tvg-id="2c06f9c54787c3f522623ef56b299a91" tvg-name="PREMIERE 7 HD" tvg-logo="https://3.bp.blogspot.com/-5U-1BqnRAW0/WqvTuYn8nAI/AAAAAAAAAe0/c1V9TFU3YpsxU-qtgJOdVG7NEtDZ-XqtQCLcBGAs/s1600/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="PREMIERE CLUBES",PREMIERE 7 HD
-http://clienteworld.com:8080/Andre9/Andre9/8030
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  HD" tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="CANAIS ABERTOS",RECORD  HD
-http://clienteworld.com:8080/Andre9/Andre9/8024
-#EXTINF:-1 tvg-id="RecordTV Paulista" tvg-name="RECORD SP HD" tvg-logo="https://4.bp.blogspot.com/-l2p4alY9zss/WqvTv3bkxGI/AAAAAAAAAfA/PoNaWQLsbtYIPV9wyh-JBsPWkOpyOlFDgCLcBGAs/s1600/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="CANAIS ABERTOS",RECORD SP HD
-http://clienteworld.com:8080/Andre9/Andre9/8020
-#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="RECORD NEWS FHD ²" tvg-logo="https://1.bp.blogspot.com/-Lq2YsTBa4xo/W1eUMo5szhI/AAAAAAAAIGw/sGzsYLA59oUr24_iuYn3tA9xSajjz5tvACLcBGAs/s1600/oie_0cmKW2aZSXhX.jpg" group-title="NOTÍCIAS",RECORD NEWS FHD ²
-http://clienteworld.com:8080/Andre9/Andre9/12963
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="https://1.bp.blogspot.com/-Lq2YsTBa4xo/W1eUMo5szhI/AAAAAAAAIGw/sGzsYLA59oUr24_iuYn3tA9xSajjz5tvACLcBGAs/s1600/oie_0cmKW2aZSXhX.jpg" group-title="NOTÍCIAS",RECORD NEWS HD
-http://clienteworld.com:8080/Andre9/Andre9/8022
-#EXTINF:-1 tvg-id="RecordTV Rio" tvg-name="RECORDTV RIO HD" tvg-logo="http://comercial.recordtv.com.br/files/2016/12/RIO.png" group-title="CANAIS ABERTOS",RECORDTV RIO HD
-http://clienteworld.com:8080/Andre9/Andre9/15082
-#EXTINF:-1 tvg-id="Rede TV (BR)" tvg-name="REDE TV HD" tvg-logo="https://1.bp.blogspot.com/-avn2dEhGrRQ/WqvTxsaIicI/AAAAAAAAAfQ/3m3yDkKLC5swh3FjxptXZDaMihj_e6zeACLcBGAs/s1600/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="CANAIS ABERTOS",REDE TV HD
-http://clienteworld.com:8080/Andre9/Andre9/8179
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://4.bp.blogspot.com/-YRj2HLilM_0/WqvTyNdPcMI/AAAAAAAAAfg/sEz7YvBuTC0YQ_dH8PhoFusZK5mxCStOwCLcBGAs/s1600/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="CANAIS ABERTOS",SBT HD
-http://clienteworld.com:8080/Andre9/Andre9/8178
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://4.bp.blogspot.com/-XR_HW1szkes/W00YpI-9SwI/AAAAAAAAIDA/9mpgT-cH9b8uRJ9xfa_n6mrlJejmmEBRQCLcBGAs/s1600/oie_xGStCT33SXe4.jpg" group-title="FILMES E SÉRIES",SPACE HD
-http://clienteworld.com:8080/Andre9/Andre9/8176
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD h265 ²" tvg-logo="https://2.bp.blogspot.com/-GpdcBjqsXoQ/WqvTzld62lI/AAAAAAAAAfw/aq1ryUjzJ7MzpIwrN2YMkvaWDxK0W2KRQCLcBGAs/s1600/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="ESPORTES",SPORTV FHD h265 ²
-http://clienteworld.com:8080/Andre9/Andre9/12815
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="https://2.bp.blogspot.com/-GpdcBjqsXoQ/WqvTzld62lI/AAAAAAAAAfw/aq1ryUjzJ7MzpIwrN2YMkvaWDxK0W2KRQCLcBGAs/s1600/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="ESPORTES",SPORTV HD
-http://clienteworld.com:8080/Andre9/Andre9/8173
-#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="SPORTV 2 HD" tvg-logo="https://2.bp.blogspot.com/-2u2HJrPa8-c/WqvTz7EefRI/AAAAAAAAAf0/msT5LO00rIMiChKlasT8Vhy0TwBFFXrbQCLcBGAs/s1600/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="ESPORTES",SPORTV 2 HD
-http://clienteworld.com:8080/Andre9/Andre9/8175
-#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="SPORTV 2 FHD h265" tvg-logo="https://2.bp.blogspot.com/-2u2HJrPa8-c/WqvTz7EefRI/AAAAAAAAAf0/msT5LO00rIMiChKlasT8Vhy0TwBFFXrbQCLcBGAs/s1600/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="ESPORTES",SPORTV 2 FHD h265
-http://clienteworld.com:8080/Andre9/Andre9/12813
-#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="SPORTV 3 HD" tvg-logo="https://2.bp.blogspot.com/-isiNNoPARoU/WqvT0Ebb0NI/AAAAAAAAAf4/BeTILqaF48AofEK4SuLOhHmQfK5J5oSUACLcBGAs/s1600/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="ESPORTES",SPORTV 3 HD
-http://clienteworld.com:8080/Andre9/Andre9/8174
-#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="SPORTV 3 FHD h265 ²" tvg-logo="https://2.bp.blogspot.com/-isiNNoPARoU/WqvT0Ebb0NI/AAAAAAAAAf4/BeTILqaF48AofEK4SuLOhHmQfK5J5oSUACLcBGAs/s320/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="ESPORTES",SPORTV 3 FHD h265 ²
-http://clienteworld.com:8080/Andre9/Andre9/12812
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://4.bp.blogspot.com/-T6mu9X-hhJs/W03VCxgCusI/AAAAAAAAIDM/FfYhgH2TUzs3zZVhK8qm8nCIlW3k6-dQACLcBGAs/s1600/B8x2TJhsQQ82.jpg" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL HD
-http://clienteworld.com:8080/Andre9/Andre9/8172
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="https://1.bp.blogspot.com/-w1SZmZcO_As/WqvT1Ll6hHI/AAAAAAAAAgA/xoQ1nqVX9AE988oi_G4QewRB9x4s6LSIwCLcBGAs/s1600/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="VARIEDADES E MUSICAS",SYFY HD
-http://clienteworld.com:8080/Andre9/Andre9/8177
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s1600/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="REDE TELECINE",TELECINE ACTION HD
-http://clienteworld.com:8080/Andre9/Andre9/8171
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD h265 ²" tvg-logo="https://2.bp.blogspot.com/-oZuN_6pmEOs/WqvT14Z6jnI/AAAAAAAAAgI/L04Pi82IWzsAVs8lb1HNuMyxYJrgH-FcQCLcBGAs/s320/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="REDE TELECINE",TELECINE ACTION FHD h265 ²
-http://clienteworld.com:8080/Andre9/Andre9/12760
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://3.bp.blogspot.com/-CgwPZPiJvgQ/WqvT2XOgIhI/AAAAAAAAAgM/ntjW9B5fIEAKcmXHYPw3htfKzVE74rtewCLcBGAs/s1600/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="REDE TELECINE",TELECINE CULT HD
-http://clienteworld.com:8080/Andre9/Andre9/8170
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="REDE TELECINE",TELECINE FUN HD
-http://clienteworld.com:8080/Andre9/Andre9/8169
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD h265 ²" tvg-logo="https://3.bp.blogspot.com/-EWT2YsdU1WI/WqvT2tCLyzI/AAAAAAAAAgQ/spIBStzUjw01ukHY8YjWuHqHSQDHdn6UACLcBGAs/s1600/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="REDE TELECINE",TELECINE FUN FHD h265 ²
-http://clienteworld.com:8080/Andre9/Andre9/12756
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD h265 ²" tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s320/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="REDE TELECINE",TELECINE PIPOCA FHD h265 ²
-http://clienteworld.com:8080/Andre9/Andre9/12754
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://3.bp.blogspot.com/-0ueHjIMPvIU/WqvT3MvY43I/AAAAAAAAAgU/DCtlRvcqaDUWJSj3JvUIsy9kw0HqqCSkgCLcBGAs/s1600/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
-http://clienteworld.com:8080/Andre9/Andre9/8168
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD h.265 ²" tvg-logo="https://4.bp.blogspot.com/-Ky5n23ZYFRE/WqvT3s4s-NI/AAAAAAAAAgY/7IWJcUa44dwTzna3TbI0DflgoTv8eMKCwCLcBGAs/s320/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="REDE TELECINE",Telecine Premium FHD h.265 ²
-http://clienteworld.com:8080/Andre9/Andre9/12752
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://4.bp.blogspot.com/-Ky5n23ZYFRE/WqvT3s4s-NI/AAAAAAAAAgY/7IWJcUa44dwTzna3TbI0DflgoTv8eMKCwCLcBGAs/s1600/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
-http://clienteworld.com:8080/Andre9/Andre9/8167
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://4.bp.blogspot.com/-tPAoNZ9x26A/WqvT4DXTL_I/AAAAAAAAAgc/hK9mp190eCIER-IUzcULFIWQ_ltf-D4iwCLcBGAs/s1600/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="REDE TELECINE",TELECINE TOUCH HD
-http://clienteworld.com:8080/Andre9/Andre9/8166
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://3.bp.blogspot.com/-yj9Np1y6kes/WqvT6JRKomI/AAAAAAAAAgw/tw9LURKrUhArK4Y3UPvk8l_rw4cKGRY2ACLcBGAs/s1600/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="DOCUMENTÁRIOS",TLC HD
-http://clienteworld.com:8080/Andre9/Andre9/8165
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://2.bp.blogspot.com/-CNPoxnTIZc4/W03Z2Lw7BxI/AAAAAAAAIDo/ABRexrV5QTcT1J6GZqImWXEeeRVxvcW7gCEwYBhgL/s1600/oie_98GA1UN37n1a.jpg" group-title="FILMES E SÉRIES",TNT HD
-http://clienteworld.com:8080/Andre9/Andre9/8164
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://4.bp.blogspot.com/-pxPYGcxJAQM/W03p4udJKII/AAAAAAAAID4/6Cs5ZeFeLeggbH9y0LTd1otLBEpnL8MqgCLcBGAs/s1600/oie_gSS5dlQO0nst.jpg" group-title="FILMES E SÉRIES",TNT SERIES HD
-http://clienteworld.com:8080/Andre9/Andre9/8163
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://4.bp.blogspot.com/-N5MKssttd_8/W1O3oByKm7I/AAAAAAAAIFg/SbB80G13858uWq2zDS5lQ0AFg0bxxXKLQCLcBGAs/s320/oie_gSqJvimMBCII.jpg" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL HD
-http://clienteworld.com:8080/Andre9/Andre9/8161
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="" group-title="VARIEDADES E MUSICAS",VH1 HD
-http://clienteworld.com:8080/Andre9/Andre9/8160
-#EXTINF:-1 tvg-id="VIVA HD" tvg-name="VIVA HD" tvg-logo="https://4.bp.blogspot.com/-GWGf6snd5_4/WqvT_ICSp3I/AAAAAAAAAho/iR8OdmwND5MYP7Xvj44A6l8Kwym-DK6RwCLcBGAs/s1600/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="VARIEDADES E MUSICAS",VIVA HD
-http://clienteworld.com:8080/Andre9/Andre9/8159
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://4.bp.blogspot.com/-Okoc7dHCesw/W1O9fLiK6lI/AAAAAAAAIFs/FIQqfO4PGSIY7AapFuFeHbgSCyHuuILIQCLcBGAs/s1600/oie_8NnIDWlqlcqW.jpg" group-title="FILMES E SÉRIES",WARNER CHANNEL HD
-http://clienteworld.com:8080/Andre9/Andre9/8158
-#EXTINF:-1 tvg-id="WOOHOOO HD" tvg-name="WOOHOO HD" tvg-logo="https://4.bp.blogspot.com/-UZdSAYJwN8k/WqvUAGIvTXI/AAAAAAAAAhw/fJ1IHTK7-ncBhevo5ImhnNhEo9qRc_RvQCLcBGAs/s1600/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="VARIEDADES E MUSICAS",WOOHOO HD
-http://clienteworld.com:8080/Andre9/Andre9/7977
+#EXTINF:-1,A Fazenda HD
+http://listaccess.me:8880/pizza/1234/26451
+#EXTINF:-1,A&E
+http://listaccess.me:8880/pizza/1234/2346
+#EXTINF:-1,A&E [Alter 2]
+http://listaccess.me:8880/pizza/1234/13681
+#EXTINF:-1,A&E [Alter]
+http://listaccess.me:8880/pizza/1234/7495
+#EXTINF:-1,A&E FHD
+http://listaccess.me:8880/pizza/1234/26420
+#EXTINF:-1,A&E FHD H.265
+http://listaccess.me:8880/pizza/1234/22278
+#EXTINF:-1,A&E HD
+http://listaccess.me:8880/pizza/1234/7088
+#EXTINF:-1,A&E HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13682
+#EXTINF:-1,A&E HD [Alter]
+http://listaccess.me:8880/pizza/1234/7494
+#EXTINF:-1,AMC
+http://listaccess.me:8880/pizza/1234/2345
+#EXTINF:-1,AMC [Alter 2]
+http://listaccess.me:8880/pizza/1234/13683
+#EXTINF:-1,AMC [Alter]
+http://listaccess.me:8880/pizza/1234/7493
+#EXTINF:-1,AMC FHD
+http://listaccess.me:8880/pizza/1234/26421
+#EXTINF:-1,AMC FHD H.265
+http://listaccess.me:8880/pizza/1234/22277
+#EXTINF:-1,AMC HD
+http://listaccess.me:8880/pizza/1234/2344
+#EXTINF:-1,AMC HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13686
+#EXTINF:-1,AMC HD [Alter]
+http://listaccess.me:8880/pizza/1234/7492
+#EXTINF:-1,Animal  Planet FHD
+http://listaccess.me:8880/pizza/1234/7151
+#EXTINF:-1,Animal Planet
+http://listaccess.me:8880/pizza/1234/2343
+#EXTINF:-1,Animal Planet [Alter 2]
+http://listaccess.me:8880/pizza/1234/13695
+#EXTINF:-1,Animal Planet [Alter]
+http://listaccess.me:8880/pizza/1234/7491
+#EXTINF:-1,Animal Planet 4K
+http://listaccess.me:8880/pizza/1234/26411
+#EXTINF:-1,Animal Planet FHD H.265
+http://listaccess.me:8880/pizza/1234/22276
+#EXTINF:-1,Animal Planet HD
+http://listaccess.me:8880/pizza/1234/2342
+#EXTINF:-1,Animal Planet HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13696
+#EXTINF:-1,Animal Planet HD [Alter]
+http://listaccess.me:8880/pizza/1234/7490
+#EXTINF:-1,Aparecida
+http://listaccess.me:8880/pizza/1234/2341
+#EXTINF:-1,Apenas um Show 24H
+http://listaccess.me:8880/pizza/1234/21028
+#EXTINF:-1,Arte 1
+http://listaccess.me:8880/pizza/1234/2339
+#EXTINF:-1,Arte 1 [Alter]
+http://listaccess.me:8880/pizza/1234/7489
+#EXTINF:-1,Arte 1 HD [Alter]
+http://listaccess.me:8880/pizza/1234/7488
+#EXTINF:-1,As aventuras de Jackie Chan 24H
+http://listaccess.me:8880/pizza/1234/7202
+#EXTINF:-1,AXN
+http://listaccess.me:8880/pizza/1234/2338
+#EXTINF:-1,AXN [Alter 2]
+http://listaccess.me:8880/pizza/1234/13697
+#EXTINF:-1,AXN [Alter]
+http://listaccess.me:8880/pizza/1234/7487
+#EXTINF:-1,AXN FHD H.265
+http://listaccess.me:8880/pizza/1234/22275
+#EXTINF:-1,AXN HD
+http://listaccess.me:8880/pizza/1234/2337
+#EXTINF:-1,AXN HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13698
+#EXTINF:-1,AXN HD [Alter]
+http://listaccess.me:8880/pizza/1234/7486
+#EXTINF:-1,Baby TV
+http://listaccess.me:8880/pizza/1234/2336
+#EXTINF:-1,Baby TV [Alter]
+http://listaccess.me:8880/pizza/1234/7485
+#EXTINF:-1,Band
+http://listaccess.me:8880/pizza/1234/2335
+#EXTINF:-1,Band [Alter 2]
+http://listaccess.me:8880/pizza/1234/13699
+#EXTINF:-1,Band [Alter]
+http://listaccess.me:8880/pizza/1234/7484
+#EXTINF:-1,Band 4k
+http://listaccess.me:8880/pizza/1234/26404
+#EXTINF:-1,Band FHD
+http://listaccess.me:8880/pizza/1234/7188
+#EXTINF:-1,Band FHD H.265
+http://listaccess.me:8880/pizza/1234/22274
+#EXTINF:-1,Band HD
+http://listaccess.me:8880/pizza/1234/2334
+#EXTINF:-1,Band HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13700
+#EXTINF:-1,Band HD [Alter]
+http://listaccess.me:8880/pizza/1234/7483
+#EXTINF:-1,Band News
+http://listaccess.me:8880/pizza/1234/2333
+#EXTINF:-1,Band News [Alter 2]
+http://listaccess.me:8880/pizza/1234/13771
+#EXTINF:-1,Band News [Alter]
+http://listaccess.me:8880/pizza/1234/7482
+#EXTINF:-1,Band News FHD
+http://listaccess.me:8880/pizza/1234/7150
+#EXTINF:-1,Band News FHD H.265
+http://listaccess.me:8880/pizza/1234/22273
+#EXTINF:-1,Band News HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13772
+#EXTINF:-1,Band News HD [Alter]
+http://listaccess.me:8880/pizza/1234/7481
+#EXTINF:-1,Band Sports
+http://listaccess.me:8880/pizza/1234/2332
+#EXTINF:-1,Band Sports [Alter 2]
+http://listaccess.me:8880/pizza/1234/13773
+#EXTINF:-1,Band Sports [Alter]
+http://listaccess.me:8880/pizza/1234/7480
+#EXTINF:-1,Band Sports FHD
+http://listaccess.me:8880/pizza/1234/26422
+#EXTINF:-1,Band Sports FHD H.265
+http://listaccess.me:8880/pizza/1234/22272
+#EXTINF:-1,Band Sports HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13774
+#EXTINF:-1,Band Sports HD [Alter]
+http://listaccess.me:8880/pizza/1234/7479
+#EXTINF:-1,Ben 10 24H
+http://listaccess.me:8880/pizza/1234/7598
+#EXTINF:-1,BIS
+http://listaccess.me:8880/pizza/1234/2330
+#EXTINF:-1,BIS [Alter]
+http://listaccess.me:8880/pizza/1234/7478
+#EXTINF:-1,BIS FHD
+http://listaccess.me:8880/pizza/1234/7162
+#EXTINF:-1,BIS FHD H.265
+http://listaccess.me:8880/pizza/1234/22271
+#EXTINF:-1,BIS HD
+http://listaccess.me:8880/pizza/1234/2329
+#EXTINF:-1,BIS HD [Alter]
+http://listaccess.me:8880/pizza/1234/7477
+#EXTINF:-1,Black Kamen Rider 24H
+http://listaccess.me:8880/pizza/1234/11946
+#EXTINF:-1,Boa Vontade
+http://listaccess.me:8880/pizza/1234/7476
+#EXTINF:-1,Bob Esponja 24H
+http://listaccess.me:8880/pizza/1234/7220
+#EXTINF:-1,Boomerang
+http://listaccess.me:8880/pizza/1234/2328
+#EXTINF:-1,Boomerang  FHD
+http://listaccess.me:8880/pizza/1234/7149
+#EXTINF:-1,Boomerang [Alter]
+http://listaccess.me:8880/pizza/1234/7475
+#EXTINF:-1,Boomerang FHD H.265
+http://listaccess.me:8880/pizza/1234/22270
+#EXTINF:-1,Boomerang HD [Alter]
+http://listaccess.me:8880/pizza/1234/7474
+#EXTINF:-1,Caillou 24H
+http://listaccess.me:8880/pizza/1234/3834
+#EXTINF:-1,Canal Brasil [Alter]
+http://listaccess.me:8880/pizza/1234/7473
+#EXTINF:-1,Canal Brasil HD [Alter]
+http://listaccess.me:8880/pizza/1234/7472
+#EXTINF:-1,Canal do Boi
+http://listaccess.me:8880/pizza/1234/11574
+#EXTINF:-1,Canal Sony
+http://listaccess.me:8880/pizza/1234/2325
+#EXTINF:-1,Canal Sony [Alter]
+http://listaccess.me:8880/pizza/1234/7471
+#EXTINF:-1,Canal Sony FHD H.265
+http://listaccess.me:8880/pizza/1234/22224
+#EXTINF:-1,Canal Sony HD
+http://listaccess.me:8880/pizza/1234/2324
+#EXTINF:-1,Canal Sony HD [Alter]
+http://listaccess.me:8880/pizza/1234/7470
+#EXTINF:-1,Cancao Nova
+http://listaccess.me:8880/pizza/1234/22152
+#EXTINF:-1,Capitao Planeta 24H
+http://listaccess.me:8880/pizza/1234/13286
+#EXTINF:-1,Carl o Super Caminhao 24H
+http://listaccess.me:8880/pizza/1234/8288
+#EXTINF:-1,Cartoon Network
+http://listaccess.me:8880/pizza/1234/2322
+#EXTINF:-1,Cartoon Network [Alter 2]
+http://listaccess.me:8880/pizza/1234/13701
+#EXTINF:-1,Cartoon Network [Alter]
+http://listaccess.me:8880/pizza/1234/7468
+#EXTINF:-1,Cartoon Network FHD
+http://listaccess.me:8880/pizza/1234/26423
+#EXTINF:-1,Cartoon Network FHD H.265
+http://listaccess.me:8880/pizza/1234/22269
+#EXTINF:-1,Cartoon Network HD
+http://listaccess.me:8880/pizza/1234/2321
+#EXTINF:-1,Cartoon Network HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13702
+#EXTINF:-1,Cartoon Network HD [Alter]
+http://listaccess.me:8880/pizza/1234/7467
+#EXTINF:-1,Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://listaccess.me:8880/pizza/1234/7219
+#EXTINF:-1,Cavaleiros Zodiaco 24h
+http://listaccess.me:8880/pizza/1234/9
+#EXTINF:-1,Cavalo de Fogo 24H
+http://listaccess.me:8880/pizza/1234/13962
+#EXTINF:-1,Changeman 24H
+http://listaccess.me:8880/pizza/1234/11691
+#EXTINF:-1,Chapolin 24H
+http://listaccess.me:8880/pizza/1234/11608
+#EXTINF:-1,Cinemax
+http://listaccess.me:8880/pizza/1234/2320
+#EXTINF:-1,Cinemax [Alter]
+http://listaccess.me:8880/pizza/1234/7466
+#EXTINF:-1,Cinemax FHD H.265
+http://listaccess.me:8880/pizza/1234/22268
+#EXTINF:-1,Cinemax HD
+http://listaccess.me:8880/pizza/1234/7089
+#EXTINF:-1,Cinemax HD [Alter]
+http://listaccess.me:8880/pizza/1234/7465
+#EXTINF:-1,Clarêncio o Otimista 24H
+http://listaccess.me:8880/pizza/1234/7599
+#EXTINF:-1,Combat FHD H.265
+http://listaccess.me:8880/pizza/1234/22267
+#EXTINF:-1,Combate
+http://listaccess.me:8880/pizza/1234/2319
+#EXTINF:-1,Combate [Alter 2]
+http://listaccess.me:8880/pizza/1234/13630
+#EXTINF:-1,Combate [Alter]
+http://listaccess.me:8880/pizza/1234/7464
+#EXTINF:-1,Combate 4K
+http://listaccess.me:8880/pizza/1234/22155
+#EXTINF:-1,Combate FHD
+http://listaccess.me:8880/pizza/1234/7187
+#EXTINF:-1,Combate HD
+http://listaccess.me:8880/pizza/1234/2318
+#EXTINF:-1,Combate HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13631
+#EXTINF:-1,Combate HD [Alter]
+http://listaccess.me:8880/pizza/1234/7463
+#EXTINF:-1,Comedy Central
+http://listaccess.me:8880/pizza/1234/2317
+#EXTINF:-1,Comedy Central [Alter]
+http://listaccess.me:8880/pizza/1234/7462
+#EXTINF:-1,Comedy Central FHD H.265
+http://listaccess.me:8880/pizza/1234/22266
+#EXTINF:-1,Comedy Central HD
+http://listaccess.me:8880/pizza/1234/7098
+#EXTINF:-1,Comedy Central HD [Alter]
+http://listaccess.me:8880/pizza/1234/7461
+#EXTINF:-1,Copa Libertadores HD
+http://listaccess.me:8880/pizza/1234/21761
+#EXTINF:-1,Copa Sul Americana HD
+http://listaccess.me:8880/pizza/1234/21760
+#EXTINF:-1,Coragem o Cão Covarde 24H
+http://listaccess.me:8880/pizza/1234/7217
+#EXTINF:-1,Corrida Maluca 24H
+http://listaccess.me:8880/pizza/1234/7201
+#EXTINF:-1,Curta
+http://listaccess.me:8880/pizza/1234/7110
+#EXTINF:-1,Curta [Alter]
+http://listaccess.me:8880/pizza/1234/7460
+#EXTINF:-1,Curta HD [Alter]
+http://listaccess.me:8880/pizza/1234/7459
+#EXTINF:-1,Daniel Tigre 24H
+http://listaccess.me:8880/pizza/1234/3833
+#EXTINF:-1,Dazn HD
+http://listaccess.me:8880/pizza/1234/21776
+#EXTINF:-1,Dazn HD [Alter]
+http://listaccess.me:8880/pizza/1234/25423
+#EXTINF:-1,DC Comics 24H
+http://listaccess.me:8880/pizza/1234/12369
+#EXTINF:-1,Desenhos Biblicos 24H
+http://listaccess.me:8880/pizza/1234/3835
+#EXTINF:-1,Discovery Channel
+http://listaccess.me:8880/pizza/1234/2316
+#EXTINF:-1,Discovery Channel [Alter 2]
+http://listaccess.me:8880/pizza/1234/13703
+#EXTINF:-1,Discovery Channel [Alter]
+http://listaccess.me:8880/pizza/1234/7458
+#EXTINF:-1,Discovery Channel 4K
+http://listaccess.me:8880/pizza/1234/26407
+#EXTINF:-1,Discovery Channel FHD
+http://listaccess.me:8880/pizza/1234/7163
+#EXTINF:-1,Discovery Channel FHD H.265
+http://listaccess.me:8880/pizza/1234/22265
+#EXTINF:-1,Discovery Channel HD
+http://listaccess.me:8880/pizza/1234/2315
+#EXTINF:-1,Discovery Channel HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13704
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://listaccess.me:8880/pizza/1234/7457
+#EXTINF:-1,Discovery Civilization [Alter 2]
+http://listaccess.me:8880/pizza/1234/13705
+#EXTINF:-1,Discovery Civilization [Alter]
+http://listaccess.me:8880/pizza/1234/7456
+#EXTINF:-1,Discovery Civilization FHD
+http://listaccess.me:8880/pizza/1234/26424
+#EXTINF:-1,Discovery Civilization FHD H.265
+http://listaccess.me:8880/pizza/1234/22264
+#EXTINF:-1,Discovery Civilization HD
+http://listaccess.me:8880/pizza/1234/2130
+#EXTINF:-1,Discovery Civilization HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13706
+#EXTINF:-1,Discovery Civilization HD [Alter]
+http://listaccess.me:8880/pizza/1234/7455
+#EXTINF:-1,Discovery Home Health
+http://listaccess.me:8880/pizza/1234/2314
+#EXTINF:-1,Discovery Home Health [Alter 2]
+http://listaccess.me:8880/pizza/1234/13707
+#EXTINF:-1,Discovery Home Health [Alter]
+http://listaccess.me:8880/pizza/1234/7454
+#EXTINF:-1,Discovery Home Health FHD
+http://listaccess.me:8880/pizza/1234/7148
+#EXTINF:-1,Discovery Home Health FHD [Alter 2]
+http://listaccess.me:8880/pizza/1234/26427
+#EXTINF:-1,Discovery Home Health FHD H.265
+http://listaccess.me:8880/pizza/1234/22263
+#EXTINF:-1,Discovery Home Health HD
+http://listaccess.me:8880/pizza/1234/2313
+#EXTINF:-1,Discovery Home Health HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13708
+#EXTINF:-1,Discovery Home Health HD [Alter]
+http://listaccess.me:8880/pizza/1234/7453
+#EXTINF:-1,Discovery Kids
+http://listaccess.me:8880/pizza/1234/2312
+#EXTINF:-1,Discovery Kids [Alter 2]
+http://listaccess.me:8880/pizza/1234/13709
+#EXTINF:-1,Discovery Kids [Alter]
+http://listaccess.me:8880/pizza/1234/7452
+#EXTINF:-1,Discovery Kids FHD
+http://listaccess.me:8880/pizza/1234/7147
+#EXTINF:-1,Discovery Kids FHD [Alter 2]
+http://listaccess.me:8880/pizza/1234/26426
+#EXTINF:-1,Discovery Kids FHD H.265
+http://listaccess.me:8880/pizza/1234/22262
+#EXTINF:-1,Discovery Kids HD
+http://listaccess.me:8880/pizza/1234/2146
+#EXTINF:-1,Discovery Kids HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13710
+#EXTINF:-1,Discovery Kids HD [Alter]
+http://listaccess.me:8880/pizza/1234/7451
+#EXTINF:-1,Discovery Science [Alter 2]
+http://listaccess.me:8880/pizza/1234/13711
+#EXTINF:-1,Discovery Science FHD H.265
+http://listaccess.me:8880/pizza/1234/22261
+#EXTINF:-1,Discovery Science HD
+http://listaccess.me:8880/pizza/1234/2129
+#EXTINF:-1,Discovery Science HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13712
+#EXTINF:-1,Discovery Science HD [Alter]
+http://listaccess.me:8880/pizza/1234/7449
+#EXTINF:-1,Discovery Theater [Alter]
+http://listaccess.me:8880/pizza/1234/7448
+#EXTINF:-1,Discovery Theater FHD [Alter 2]
+http://listaccess.me:8880/pizza/1234/26425
+#EXTINF:-1,Discovery Theater FHD H.265
+http://listaccess.me:8880/pizza/1234/22260
+#EXTINF:-1,Discovery Theater HD
+http://listaccess.me:8880/pizza/1234/2311
+#EXTINF:-1,Discovery Theater HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13714
+#EXTINF:-1,Discovery Theater HD [Alter]
+http://listaccess.me:8880/pizza/1234/7447
+#EXTINF:-1,Discovery Turbo
+http://listaccess.me:8880/pizza/1234/2310
+#EXTINF:-1,Discovery Turbo [Alter 2]
+http://listaccess.me:8880/pizza/1234/13715
+#EXTINF:-1,Discovery Turbo [Alter]
+http://listaccess.me:8880/pizza/1234/7446
+#EXTINF:-1,Discovery Turbo FHD
+http://listaccess.me:8880/pizza/1234/7146
+#EXTINF:-1,Discovery Turbo FHD H.265
+http://listaccess.me:8880/pizza/1234/22212
+#EXTINF:-1,Discovery Turbo HD
+http://listaccess.me:8880/pizza/1234/2309
+#EXTINF:-1,Discovery Turbo HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13716
+#EXTINF:-1,Discovery Turbo HD [Alter]
+http://listaccess.me:8880/pizza/1234/7445
+#EXTINF:-1,Discovery World  HD [Alter]
+http://listaccess.me:8880/pizza/1234/7443
+#EXTINF:-1,Discovery World FHD
+http://listaccess.me:8880/pizza/1234/7145
+#EXTINF:-1,Discovery World FHD H.265
+http://listaccess.me:8880/pizza/1234/22259
+#EXTINF:-1,Discovery World HD
+http://listaccess.me:8880/pizza/1234/2308
+#EXTINF:-1,Disney Channel
+http://listaccess.me:8880/pizza/1234/2307
+#EXTINF:-1,Disney Channel [Alter]
+http://listaccess.me:8880/pizza/1234/7442
+#EXTINF:-1,Disney Channel FHD
+http://listaccess.me:8880/pizza/1234/7161
+#EXTINF:-1,Disney Channel HD
+http://listaccess.me:8880/pizza/1234/2128
+#EXTINF:-1,Disney Channel HD [Alter]
+http://listaccess.me:8880/pizza/1234/7441
+#EXTINF:-1,Disney FHD H.265
+http://listaccess.me:8880/pizza/1234/22258
+#EXTINF:-1,Disney Jr FHD H.265
+http://listaccess.me:8880/pizza/1234/22257
+#EXTINF:-1,Disney Junior
+http://listaccess.me:8880/pizza/1234/2306
+#EXTINF:-1,Disney Junior [Alter]
+http://listaccess.me:8880/pizza/1234/7440
+#EXTINF:-1,Disney Junior HD
+http://listaccess.me:8880/pizza/1234/13795
+#EXTINF:-1,Disney Junior HD [Alter]
+http://listaccess.me:8880/pizza/1234/26377
+#EXTINF:-1,Disney XD
+http://listaccess.me:8880/pizza/1234/2305
+#EXTINF:-1,Disney XD [Alter]
+http://listaccess.me:8880/pizza/1234/7439
+#EXTINF:-1,Disney XD HD [Alter]
+http://listaccess.me:8880/pizza/1234/26376
+#EXTINF:-1,Du Dudu e Edu 24H
+http://listaccess.me:8880/pizza/1234/13581
+#EXTINF:-1,Duck Tales 24H
+http://listaccess.me:8880/pizza/1234/12964
+#EXTINF:-1,E! Entertainment Television
+http://listaccess.me:8880/pizza/1234/2304
+#EXTINF:-1,E! Entertainment Television [Alter]
+http://listaccess.me:8880/pizza/1234/7436
+#EXTINF:-1,E! Entertainment Television HD
+http://listaccess.me:8880/pizza/1234/7090
+#EXTINF:-1,E! Entertainment Television HD [Alter]
+http://listaccess.me:8880/pizza/1234/7435
+#EXTINF:-1,EI Plus
+http://listaccess.me:8880/pizza/1234/25484
+#EXTINF:-1,EI Plus HD
+http://listaccess.me:8880/pizza/1234/25483
+#EXTINF:-1,ESPN
+http://listaccess.me:8880/pizza/1234/2303
+#EXTINF:-1,ESPN [Alter 2]
+http://listaccess.me:8880/pizza/1234/13956
+#EXTINF:-1,ESPN [Alter]
+http://listaccess.me:8880/pizza/1234/7434
+#EXTINF:-1,ESPN +
+http://listaccess.me:8880/pizza/1234/7111
+#EXTINF:-1,ESPN + FHD
+http://listaccess.me:8880/pizza/1234/26500
+#EXTINF:-1,ESPN + HD
+http://listaccess.me:8880/pizza/1234/7099
+#EXTINF:-1,ESPN + HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13961
+#EXTINF:-1,ESPN + HD [Alter]
+http://listaccess.me:8880/pizza/1234/26501
+#EXTINF:-1,ESPN 2 FHD H.265
+http://listaccess.me:8880/pizza/1234/22197
+#EXTINF:-1,ESPN 4K
+http://listaccess.me:8880/pizza/1234/26418
+#EXTINF:-1,ESPN Brasil
+http://listaccess.me:8880/pizza/1234/2301
+#EXTINF:-1,ESPN Brasil [Alter 2]
+http://listaccess.me:8880/pizza/1234/13959
+#EXTINF:-1,ESPN Brasil [Alter]
+http://listaccess.me:8880/pizza/1234/7431
+#EXTINF:-1,ESPN Brasil FHD
+http://listaccess.me:8880/pizza/1234/7172
+#EXTINF:-1,ESPN Brasil FHD H.265
+http://listaccess.me:8880/pizza/1234/22256
+#EXTINF:-1,ESPN Brasil HD
+http://listaccess.me:8880/pizza/1234/2300
+#EXTINF:-1,ESPN Brasil HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13958
+#EXTINF:-1,ESPN Brasil HD [Alter]
+http://listaccess.me:8880/pizza/1234/7430
+#EXTINF:-1,ESPN Extra
+http://listaccess.me:8880/pizza/1234/7429
+#EXTINF:-1,ESPN Extra FHD
+http://listaccess.me:8880/pizza/1234/7136
+#EXTINF:-1,ESPN Extra HD
+http://listaccess.me:8880/pizza/1234/7428
+#EXTINF:-1,ESPN FHD
+http://listaccess.me:8880/pizza/1234/7160
+#EXTINF:-1,ESPN FHD H.265
+http://listaccess.me:8880/pizza/1234/22255
+#EXTINF:-1,ESPN HD
+http://listaccess.me:8880/pizza/1234/2302
+#EXTINF:-1,ESPN HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13957
+#EXTINF:-1,ESPN HD [Alter]
+http://listaccess.me:8880/pizza/1234/7427
+#EXTINF:-1,Familia da Pesada (Family Guy) 24H
+http://listaccess.me:8880/pizza/1234/7214
+#EXTINF:-1,Familia Dinossauro 24H
+http://listaccess.me:8880/pizza/1234/12296
+#EXTINF:-1,Fish TV
+http://listaccess.me:8880/pizza/1234/2294
+#EXTINF:-1,Fish TV [Alter]
+http://listaccess.me:8880/pizza/1234/7420
+#EXTINF:-1,Flashman 24H
+http://listaccess.me:8880/pizza/1234/11719
+#EXTINF:-1,FLY o Pequeno Guerreiro 24H
+http://listaccess.me:8880/pizza/1234/14019
+#EXTINF:-1,Food Network
+http://listaccess.me:8880/pizza/1234/2293
+#EXTINF:-1,Food Network [Alter 2]
+http://listaccess.me:8880/pizza/1234/13723
+#EXTINF:-1,Food Network [Alter]
+http://listaccess.me:8880/pizza/1234/7418
+#EXTINF:-1,Food Network FHD H.265
+http://listaccess.me:8880/pizza/1234/22254
+#EXTINF:-1,Food Network HD
+http://listaccess.me:8880/pizza/1234/2144
+#EXTINF:-1,Food Network HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13724
+#EXTINF:-1,Food Network HD [Alter]
+http://listaccess.me:8880/pizza/1234/7417
+#EXTINF:-1,FOX
+http://listaccess.me:8880/pizza/1234/2292
+#EXTINF:-1,FOX [Alter]
+http://listaccess.me:8880/pizza/1234/7416
+#EXTINF:-1,FOX FHD
+http://listaccess.me:8880/pizza/1234/7186
+#EXTINF:-1,FOX FHD H.265
+http://listaccess.me:8880/pizza/1234/22253
+#EXTINF:-1,FOX HD
+http://listaccess.me:8880/pizza/1234/2291
+#EXTINF:-1,FOX HD [Alter]
+http://listaccess.me:8880/pizza/1234/7415
+#EXTINF:-1,Fox Life
+http://listaccess.me:8880/pizza/1234/2290
+#EXTINF:-1,Fox Life [Alter]
+http://listaccess.me:8880/pizza/1234/7414
+#EXTINF:-1,FOX Life FHD H.265
+http://listaccess.me:8880/pizza/1234/22252
+#EXTINF:-1,Fox Life HD
+http://listaccess.me:8880/pizza/1234/2289
+#EXTINF:-1,Fox Life HD [Alter]
+http://listaccess.me:8880/pizza/1234/7413
+#EXTINF:-1,Fox Premium 1 FHD
+http://listaccess.me:8880/pizza/1234/26445
+#EXTINF:-1,Fox Premium 1 HD
+http://listaccess.me:8880/pizza/1234/2288
+#EXTINF:-1,Fox Premium 1 HD [Alter]
+http://listaccess.me:8880/pizza/1234/7411
+#EXTINF:-1,Fox Premium 2 FHD
+http://listaccess.me:8880/pizza/1234/7144
+#EXTINF:-1,Fox Premium 2 HD
+http://listaccess.me:8880/pizza/1234/2287
+#EXTINF:-1,Fox Premium 2 HD [Alter]
+http://listaccess.me:8880/pizza/1234/7409
+#EXTINF:-1,Fox Sport HD
+http://listaccess.me:8880/pizza/1234/2286
+#EXTINF:-1,Fox Sports
+http://listaccess.me:8880/pizza/1234/2285
+#EXTINF:-1,Fox Sports [Alter 2]
+http://listaccess.me:8880/pizza/1234/13757
+#EXTINF:-1,Fox Sports [Alter]
+http://listaccess.me:8880/pizza/1234/7408
+#EXTINF:-1,Fox Sports 2
+http://listaccess.me:8880/pizza/1234/2284
+#EXTINF:-1,Fox Sports 2 [Alter 2]
+http://listaccess.me:8880/pizza/1234/13759
+#EXTINF:-1,Fox Sports 2 [Alter]
+http://listaccess.me:8880/pizza/1234/7406
+#EXTINF:-1,Fox Sports 2 4K
+http://listaccess.me:8880/pizza/1234/26415
+#EXTINF:-1,FOX Sports 2 FHD H.265
+http://listaccess.me:8880/pizza/1234/22251
+#EXTINF:-1,FOX Sports 2 HD
+http://listaccess.me:8880/pizza/1234/2283
+#EXTINF:-1,Fox Sports 2 HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13760
+#EXTINF:-1,Fox Sports 2 HD [Alter]
+http://listaccess.me:8880/pizza/1234/7405
+#EXTINF:-1,Fox Sports 4K
+http://listaccess.me:8880/pizza/1234/26409
+#EXTINF:-1,Fox Sports FHD
+http://listaccess.me:8880/pizza/1234/7171
+#EXTINF:-1,FOX Sports FHD H.265
+http://listaccess.me:8880/pizza/1234/22250
+#EXTINF:-1,Fox Sports HD [Alter]
+http://listaccess.me:8880/pizza/1234/7407
+#EXTINF:-1,FOX Sportv 2 FHD
+http://listaccess.me:8880/pizza/1234/7157
+#EXTINF:-1,Friends 24H
+http://listaccess.me:8880/pizza/1234/11740
+#EXTINF:-1,Futura
+http://listaccess.me:8880/pizza/1234/2282
+#EXTINF:-1,Futura [Alter]
+http://listaccess.me:8880/pizza/1234/7404
+#EXTINF:-1,FX
+http://listaccess.me:8880/pizza/1234/2281
+#EXTINF:-1,FX [Alter]
+http://listaccess.me:8880/pizza/1234/7402
+#EXTINF:-1,FX FHD H.265
+http://listaccess.me:8880/pizza/1234/22249
+#EXTINF:-1,FX HD
+http://listaccess.me:8880/pizza/1234/2280
+#EXTINF:-1,FX HD [Alter]
+http://listaccess.me:8880/pizza/1234/7401
+#EXTINF:-1,Galinha Pintadinha 24H
+http://listaccess.me:8880/pizza/1234/7211
+#EXTINF:-1,Globo 4k
+http://listaccess.me:8880/pizza/1234/26448
+#EXTINF:-1,Globo Bahia
+http://listaccess.me:8880/pizza/1234/7105
+#EXTINF:-1,Globo Bahia [Alter 2]
+http://listaccess.me:8880/pizza/1234/13751
+#EXTINF:-1,Globo Bahia [Alter]
+http://listaccess.me:8880/pizza/1234/7376
+#EXTINF:-1,Globo Bahia HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13752
+#EXTINF:-1,Globo Bahia HD [Alter]
+http://listaccess.me:8880/pizza/1234/7375
+#EXTINF:-1,Globo Bauru [Alter 2]
+http://listaccess.me:8880/pizza/1234/13753
+#EXTINF:-1,Globo Bauru [Alter]
+http://listaccess.me:8880/pizza/1234/7374
+#EXTINF:-1,Globo Brasilia
+http://listaccess.me:8880/pizza/1234/2143
+#EXTINF:-1,Globo Brasilia [Alter 2]
+http://listaccess.me:8880/pizza/1234/13731
+#EXTINF:-1,Globo Brasilia [Alter]
+http://listaccess.me:8880/pizza/1234/7400
+#EXTINF:-1,Globo Brasilia HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13732
+#EXTINF:-1,Globo Brasilia HD [Alter]
+http://listaccess.me:8880/pizza/1234/7399
+#EXTINF:-1,Globo Centro America Cuiaba
+http://listaccess.me:8880/pizza/1234/11667
+#EXTINF:-1,Globo Eptv Campinas
+http://listaccess.me:8880/pizza/1234/11663
+#EXTINF:-1,Globo Eptv Campinas [Alter 2]
+http://listaccess.me:8880/pizza/1234/13733
+#EXTINF:-1,Globo Eptv Campinas [Alter]
+http://listaccess.me:8880/pizza/1234/7398
+#EXTINF:-1,Globo Eptv Campinas HD
+http://listaccess.me:8880/pizza/1234/7397
+#EXTINF:-1,Globo Eptv Campinas HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13734
+#EXTINF:-1,Globo Eptv Ribeirao Preto
+http://listaccess.me:8880/pizza/1234/11664
+#EXTINF:-1,Globo Eptv Ribeirao Preto [Alter 2]
+http://listaccess.me:8880/pizza/1234/13735
+#EXTINF:-1,Globo Eptv Ribeirao Preto [Alter]
+http://listaccess.me:8880/pizza/1234/7395
+#EXTINF:-1,Globo Eptv Ribeirão Preto HD
+http://listaccess.me:8880/pizza/1234/7396
+#EXTINF:-1,Globo Eptv Ribeirão Preto HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13736
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD [Alter]
+http://listaccess.me:8880/pizza/1234/26398
+#EXTINF:-1,Globo EPTV São Carlos
+http://listaccess.me:8880/pizza/1234/11665
+#EXTINF:-1,Globo EPTV São Carlos [Alter]
+http://listaccess.me:8880/pizza/1234/8674
+#EXTINF:-1,Globo Esporte
+http://listaccess.me:8880/pizza/1234/26494
+#EXTINF:-1,Globo Inter Tv Alto Litoral
+http://listaccess.me:8880/pizza/1234/20385
+#EXTINF:-1,Globo Inter Tv Alto Litoral FHD
+http://listaccess.me:8880/pizza/1234/26483
+#EXTINF:-1,Globo Inter Tv Alto Litoral HD
+http://listaccess.me:8880/pizza/1234/26482
+#EXTINF:-1,Globo Inter Tv dos Vales FHD
+http://listaccess.me:8880/pizza/1234/26487
+#EXTINF:-1,Globo Inter Tv dos Vales HD
+http://listaccess.me:8880/pizza/1234/26486
+#EXTINF:-1,Globo Inter Tv Grande Minas
+http://listaccess.me:8880/pizza/1234/20391
+#EXTINF:-1,Globo Inter Tv Grande Minas FHD
+http://listaccess.me:8880/pizza/1234/26485
+#EXTINF:-1,Globo Inter Tv Grande Minas HD
+http://listaccess.me:8880/pizza/1234/26484
+#EXTINF:-1,Globo Inter Tv Serra Mar
+http://listaccess.me:8880/pizza/1234/20382
+#EXTINF:-1,Globo Inter Tv Serra Mar HD
+http://listaccess.me:8880/pizza/1234/26480
+#EXTINF:-1,Globo Minas
+http://listaccess.me:8880/pizza/1234/7112
+#EXTINF:-1,Globo Minas [Alter 2]
+http://listaccess.me:8880/pizza/1234/13737
+#EXTINF:-1,Globo Minas [Alter]
+http://listaccess.me:8880/pizza/1234/7394
+#EXTINF:-1,Globo Minas FHD
+http://listaccess.me:8880/pizza/1234/7185
+#EXTINF:-1,Globo Minas HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13738
+#EXTINF:-1,Globo Minas HD [Alter]
+http://listaccess.me:8880/pizza/1234/7393
+#EXTINF:-1,Globo News
+http://listaccess.me:8880/pizza/1234/2274
+#EXTINF:-1,Globo News [Alter 2]
+http://listaccess.me:8880/pizza/1234/13739
+#EXTINF:-1,Globo News [Alter]
+http://listaccess.me:8880/pizza/1234/7392
+#EXTINF:-1,Globo News FHD
+http://listaccess.me:8880/pizza/1234/7156
+#EXTINF:-1,Globo News FHD H.265
+http://listaccess.me:8880/pizza/1234/22248
+#EXTINF:-1,Globo News HD
+http://listaccess.me:8880/pizza/1234/2273
+#EXTINF:-1,Globo News HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13740
+#EXTINF:-1,Globo News HD [Alter]
+http://listaccess.me:8880/pizza/1234/7391
+#EXTINF:-1,Globo Nordeste
+http://listaccess.me:8880/pizza/1234/7104
+#EXTINF:-1,Globo Nordeste [Alter 2]
+http://listaccess.me:8880/pizza/1234/13741
+#EXTINF:-1,Globo Nordeste [Alter]
+http://listaccess.me:8880/pizza/1234/7390
+#EXTINF:-1,Globo Nordeste HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13742
+#EXTINF:-1,Globo Nordeste HD [Alter]
+http://listaccess.me:8880/pizza/1234/7389
+#EXTINF:-1,Globo Nsc Tv Blumenau
+http://listaccess.me:8880/pizza/1234/26473
+#EXTINF:-1,Globo Nsc Tv Blumenau FHD
+http://listaccess.me:8880/pizza/1234/26475
+#EXTINF:-1,Globo Nsc Tv Blumenau HD
+http://listaccess.me:8880/pizza/1234/26474
+#EXTINF:-1,Globo NSC TV Chapeco
+http://listaccess.me:8880/pizza/1234/26464
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://listaccess.me:8880/pizza/1234/26466
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://listaccess.me:8880/pizza/1234/26465
+#EXTINF:-1,Globo Nsc Tv Florianopolis
+http://listaccess.me:8880/pizza/1234/7388
+#EXTINF:-1,Globo Nsc Tv Florianopolis HD
+http://listaccess.me:8880/pizza/1234/7387
+#EXTINF:-1,Globo Nsc Tv JoinVille
+http://listaccess.me:8880/pizza/1234/26470
+#EXTINF:-1,Globo Nsc Tv JoinVille
+http://listaccess.me:8880/pizza/1234/20373
+#EXTINF:-1,Globo Nsc Tv JoinVille FHD
+http://listaccess.me:8880/pizza/1234/26472
+#EXTINF:-1,Globo Nsc Tv JoinVille HD
+http://listaccess.me:8880/pizza/1234/26471
+#EXTINF:-1,Globo Rbs Tv Caxias do Sul
+http://listaccess.me:8880/pizza/1234/26491
+#EXTINF:-1,Globo Rbs Tv Caxias do Sul FHD
+http://listaccess.me:8880/pizza/1234/26493
+#EXTINF:-1,Globo Rbs Tv Caxias do Sul HD
+http://listaccess.me:8880/pizza/1234/26492
+#EXTINF:-1,Globo Rbs Tv Pelotas
+http://listaccess.me:8880/pizza/1234/26488
+#EXTINF:-1,Globo Rbs Tv Pelotas FHD
+http://listaccess.me:8880/pizza/1234/26490
+#EXTINF:-1,Globo Rbs Tv Pelotas HD
+http://listaccess.me:8880/pizza/1234/26489
+#EXTINF:-1,Globo RBS TV POA FHD H.265
+http://listaccess.me:8880/pizza/1234/22247
+#EXTINF:-1,Globo Rbs Tv Porto Alegre
+http://listaccess.me:8880/pizza/1234/7386
+#EXTINF:-1,Globo Rbs Tv Porto Alegre [Alter 2]
+http://listaccess.me:8880/pizza/1234/13745
+#EXTINF:-1,Globo Rbs Tv Porto Alegre HD
+http://listaccess.me:8880/pizza/1234/7385
+#EXTINF:-1,Globo Rbs Tv Porto Alegre HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13746
+#EXTINF:-1,Globo RJ
+http://listaccess.me:8880/pizza/1234/2278
+#EXTINF:-1,Globo RJ [Alter 2]
+http://listaccess.me:8880/pizza/1234/13427
+#EXTINF:-1,Globo RJ [Alter]
+http://listaccess.me:8880/pizza/1234/7384
+#EXTINF:-1,Globo RJ FHD
+http://listaccess.me:8880/pizza/1234/7184
+#EXTINF:-1,Globo RJ FHD H.265
+http://listaccess.me:8880/pizza/1234/22246
+#EXTINF:-1,Globo RJ HD
+http://listaccess.me:8880/pizza/1234/2277
+#EXTINF:-1,Globo RJ HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13428
+#EXTINF:-1,Globo RJ HD [Alter]
+http://listaccess.me:8880/pizza/1234/7383
+#EXTINF:-1,Globo Rpc Curitiba
+http://listaccess.me:8880/pizza/1234/11666
+#EXTINF:-1,Globo Rpc Curitiba [Alter 2]
+http://listaccess.me:8880/pizza/1234/13747
+#EXTINF:-1,Globo Rpc Curitiba [Alter]
+http://listaccess.me:8880/pizza/1234/7382
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://listaccess.me:8880/pizza/1234/7137
+#EXTINF:-1,Globo Rpc Curitiba HD
+http://listaccess.me:8880/pizza/1234/7381
+#EXTINF:-1,Globo Rpc Curitiba HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13748
+#EXTINF:-1,Globo RPC Foz do Iguacu
+http://listaccess.me:8880/pizza/1234/26461
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+http://listaccess.me:8880/pizza/1234/26462
+#EXTINF:-1,Globo Sorocaba
+http://listaccess.me:8880/pizza/1234/2138
+#EXTINF:-1,Globo Sorocaba [Alter 2]
+http://listaccess.me:8880/pizza/1234/13756
+#EXTINF:-1,Globo Sorocaba [Alter]
+http://listaccess.me:8880/pizza/1234/7371
+#EXTINF:-1,Globo Sorocaba HD [Alter]
+http://listaccess.me:8880/pizza/1234/26397
+#EXTINF:-1,Globo SP
+http://listaccess.me:8880/pizza/1234/2276
+#EXTINF:-1,Globo SP [Alter 2]
+http://listaccess.me:8880/pizza/1234/13426
+#EXTINF:-1,Globo SP [Alter]
+http://listaccess.me:8880/pizza/1234/7380
+#EXTINF:-1,Globo SP FHD
+http://listaccess.me:8880/pizza/1234/7183
+#EXTINF:-1,Globo SP FHD H.265
+http://listaccess.me:8880/pizza/1234/22245
+#EXTINF:-1,Globo SP HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13632
+#EXTINF:-1,Globo SP HD [Alter]
+http://listaccess.me:8880/pizza/1234/7379
+#EXTINF:-1,Globo TV Anhanguera [Alter 2]
+http://listaccess.me:8880/pizza/1234/13749
+#EXTINF:-1,Globo TV Anhanguera [Alter]
+http://listaccess.me:8880/pizza/1234/7378
+#EXTINF:-1,Globo TV Anhanguera HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13750
+#EXTINF:-1,Globo TV Anhanguera HD [Alter]
+http://listaccess.me:8880/pizza/1234/7377
+#EXTINF:-1,Globo TV Clube Teresina
+http://listaccess.me:8880/pizza/1234/26458
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://listaccess.me:8880/pizza/1234/26460
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://listaccess.me:8880/pizza/1234/26459
+#EXTINF:-1,Globo TV Gazeta Alagoas
+http://listaccess.me:8880/pizza/1234/26467
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://listaccess.me:8880/pizza/1234/26469
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://listaccess.me:8880/pizza/1234/26468
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://listaccess.me:8880/pizza/1234/16205
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://listaccess.me:8880/pizza/1234/16204
+#EXTINF:-1,Globo TV Gazeta Vitoria 
+http://listaccess.me:8880/pizza/1234/26455
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://listaccess.me:8880/pizza/1234/26457
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://listaccess.me:8880/pizza/1234/26456
+#EXTINF:-1,Globo Tv Rio Sul
+http://listaccess.me:8880/pizza/1234/26476
+#EXTINF:-1,Globo Tv Rio Sul
+http://listaccess.me:8880/pizza/1234/20379
+#EXTINF:-1,Globo Tv Rio Sul FHD
+http://listaccess.me:8880/pizza/1234/26479
+#EXTINF:-1,Globo Tv Rio Sul HD
+http://listaccess.me:8880/pizza/1234/26477
+#EXTINF:-1,Globo Tv Santa Cruz
+http://listaccess.me:8880/pizza/1234/20397
+#EXTINF:-1,Globo TV Sergipe
+http://listaccess.me:8880/pizza/1234/13782
+#EXTINF:-1,Globo TV Sergipe FHD
+http://listaccess.me:8880/pizza/1234/13781
+#EXTINF:-1,Globo TV Sergipe HD
+http://listaccess.me:8880/pizza/1234/13780
+#EXTINF:-1,Globo TV Tem S.J. do Rio Preto
+http://listaccess.me:8880/pizza/1234/7372
+#EXTINF:-1,Globo TV Tem S.J. do Rio Preto HD
+http://listaccess.me:8880/pizza/1234/7373
+#EXTINF:-1,Globo TV Tribuna Santos
+http://listaccess.me:8880/pizza/1234/16533
+#EXTINF:-1,Globo TV Vanguarda
+http://listaccess.me:8880/pizza/1234/11668
+#EXTINF:-1,Globo TV Vanguarda [Alter]
+http://listaccess.me:8880/pizza/1234/10455
+#EXTINF:-1,Globo Tv Vanguarda HD
+http://listaccess.me:8880/pizza/1234/26396
+#EXTINF:-1,Globo TV Verdes mares [Alter]
+http://listaccess.me:8880/pizza/1234/8673
+#EXTINF:-1,Globo TV Verdes Mares HD [Alter]
+http://listaccess.me:8880/pizza/1234/26395
+#EXTINF:-1,Gloob
+http://listaccess.me:8880/pizza/1234/2272
+#EXTINF:-1,Gloob [Alter]
+http://listaccess.me:8880/pizza/1234/7370
+#EXTINF:-1,Gloob FHD
+http://listaccess.me:8880/pizza/1234/7155
+#EXTINF:-1,Gloob HD
+http://listaccess.me:8880/pizza/1234/2142
+#EXTINF:-1,Gloob HD [Alter]
+http://listaccess.me:8880/pizza/1234/7369
+#EXTINF:-1,GNT
+http://listaccess.me:8880/pizza/1234/2271
+#EXTINF:-1,GNT [Alter 2]
+http://listaccess.me:8880/pizza/1234/13769
+#EXTINF:-1,GNT [Alter]
+http://listaccess.me:8880/pizza/1234/7366
+#EXTINF:-1,GNT HD
+http://listaccess.me:8880/pizza/1234/2270
+#EXTINF:-1,GNT HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13770
+#EXTINF:-1,GNT HD [Alter]
+http://listaccess.me:8880/pizza/1234/7365
+#EXTINF:-1,Gospel Cartoon
+http://listaccess.me:8880/pizza/1234/11095
+#EXTINF:-1,Guia Futebol FHD
+http://listaccess.me:8880/pizza/1234/26449
+#EXTINF:-1,H2
+http://listaccess.me:8880/pizza/1234/2269
+#EXTINF:-1,H2 [Alter 2]
+http://listaccess.me:8880/pizza/1234/13767
+#EXTINF:-1,H2 [Alter]
+http://listaccess.me:8880/pizza/1234/7364
+#EXTINF:-1,H2 FHD H.265
+http://listaccess.me:8880/pizza/1234/22211
+#EXTINF:-1,H2 HD
+http://listaccess.me:8880/pizza/1234/2268
+#EXTINF:-1,H2 HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13768
+#EXTINF:-1,H2 HD [Alter]
+http://listaccess.me:8880/pizza/1234/7363
+#EXTINF:-1,HBO
+http://listaccess.me:8880/pizza/1234/2267
+#EXTINF:-1,HBO [Alter 2]
+http://listaccess.me:8880/pizza/1234/13670
+#EXTINF:-1,HBO [Alter]
+http://listaccess.me:8880/pizza/1234/7362
+#EXTINF:-1,HBO 2
+http://listaccess.me:8880/pizza/1234/2266
+#EXTINF:-1,HBO 2 [Alter 2]
+http://listaccess.me:8880/pizza/1234/13672
+#EXTINF:-1,HBO 2 [Alter]
+http://listaccess.me:8880/pizza/1234/7361
+#EXTINF:-1,HBO 2 FHD
+http://listaccess.me:8880/pizza/1234/7182
+#EXTINF:-1,HBO 2 FHD H.265
+http://listaccess.me:8880/pizza/1234/22244
+#EXTINF:-1,HBO 2 HD
+http://listaccess.me:8880/pizza/1234/2265
+#EXTINF:-1,HBO 2 HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13673
+#EXTINF:-1,HBO 2 HD [Alter]
+http://listaccess.me:8880/pizza/1234/7360
+#EXTINF:-1,HBO Family
+http://listaccess.me:8880/pizza/1234/2264
+#EXTINF:-1,HBO Family [Alter 2]
+http://listaccess.me:8880/pizza/1234/13674
+#EXTINF:-1,HBO Family [Alter]
+http://listaccess.me:8880/pizza/1234/7359
+#EXTINF:-1,HBO Family FHD H.265
+http://listaccess.me:8880/pizza/1234/22243
+#EXTINF:-1,HBO Family HD
+http://listaccess.me:8880/pizza/1234/2263
+#EXTINF:-1,HBO Family HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13675
+#EXTINF:-1,HBO Family HD [Alter]
+http://listaccess.me:8880/pizza/1234/7358
+#EXTINF:-1,HBO FHD
+http://listaccess.me:8880/pizza/1234/7181
+#EXTINF:-1,HBO FHD H.265
+http://listaccess.me:8880/pizza/1234/22242
+#EXTINF:-1,HBO HD
+http://listaccess.me:8880/pizza/1234/2262
+#EXTINF:-1,HBO HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13671
+#EXTINF:-1,HBO HD [Alter]
+http://listaccess.me:8880/pizza/1234/7357
+#EXTINF:-1,HBO Plus
+http://listaccess.me:8880/pizza/1234/2261
+#EXTINF:-1,HBO Plus [Alter 2]
+http://listaccess.me:8880/pizza/1234/13676
+#EXTINF:-1,HBO Plus [Alter]
+http://listaccess.me:8880/pizza/1234/7356
+#EXTINF:-1,HBO Plus FHD H.265
+http://listaccess.me:8880/pizza/1234/22241
+#EXTINF:-1,HBO Plus HD
+http://listaccess.me:8880/pizza/1234/2259
+#EXTINF:-1,HBO Plus HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13677
+#EXTINF:-1,HBO Plus HD [Alter]
+http://listaccess.me:8880/pizza/1234/7354
+#EXTINF:-1,HBO Signature
+http://listaccess.me:8880/pizza/1234/2258
+#EXTINF:-1,HBO Signature [Alter 2]
+http://listaccess.me:8880/pizza/1234/13679
+#EXTINF:-1,HBO Signature [Alter]
+http://listaccess.me:8880/pizza/1234/7353
+#EXTINF:-1,HBO Signature FHD H.265
+http://listaccess.me:8880/pizza/1234/22240
+#EXTINF:-1,HBO Signature HD
+http://listaccess.me:8880/pizza/1234/2257
+#EXTINF:-1,HBO Signature HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13680
+#EXTINF:-1,HBO Signature HD [Alter]
+http://listaccess.me:8880/pizza/1234/7352
+#EXTINF:-1,He-man 24H
+http://listaccess.me:8880/pizza/1234/11609
+#EXTINF:-1,Hora de Aventura 24H
+http://listaccess.me:8880/pizza/1234/8999
+#EXTINF:-1,I-SAT
+http://listaccess.me:8880/pizza/1234/2255
+#EXTINF:-1,ID - Investigacao Discovery
+http://listaccess.me:8880/pizza/1234/2254
+#EXTINF:-1,ID - Investigação Discovery HD
+http://listaccess.me:8880/pizza/1234/2253
+#EXTINF:-1,Ideal TV
+http://listaccess.me:8880/pizza/1234/7108
+#EXTINF:-1,Inter TV Cabugi
+http://listaccess.me:8880/pizza/1234/7106
+#EXTINF:-1,Investigacao Discovery [Alter]
+http://listaccess.me:8880/pizza/1234/7349
+#EXTINF:-1,Investigação Discovery FHD H.265
+http://listaccess.me:8880/pizza/1234/22239
+#EXTINF:-1,Jambo e Ruivao 24H
+http://listaccess.me:8880/pizza/1234/12941
+#EXTINF:-1,Jaspion 24H
+http://listaccess.me:8880/pizza/1234/11607
+#EXTINF:-1,Jovens Titans 24H
+http://listaccess.me:8880/pizza/1234/8856
+#EXTINF:-1,Kenan e Kel 24H
+http://listaccess.me:8880/pizza/1234/7200
+#EXTINF:-1,Lifetime
+http://listaccess.me:8880/pizza/1234/2252
+#EXTINF:-1,Lifetime [Alter]
+http://listaccess.me:8880/pizza/1234/7347
+#EXTINF:-1,Lifetime FHD H.265
+http://listaccess.me:8880/pizza/1234/22238
+#EXTINF:-1,Lifetime HD
+http://listaccess.me:8880/pizza/1234/2141
+#EXTINF:-1,Lifetime HD [Alter]
+http://listaccess.me:8880/pizza/1234/7346
+#EXTINF:-1,Liga da Justiça 24H
+http://listaccess.me:8880/pizza/1234/11720
+#EXTINF:-1,Luluzinha 24H
+http://listaccess.me:8880/pizza/1234/7210
+#EXTINF:-1,Mais Globosat
+http://listaccess.me:8880/pizza/1234/2251
+#EXTINF:-1,Mais Globosat [Alter]
+http://listaccess.me:8880/pizza/1234/7345
+#EXTINF:-1,Mais Globosat HD
+http://listaccess.me:8880/pizza/1234/2127
+#EXTINF:-1,Mais Globosat HD [Alter]
+http://listaccess.me:8880/pizza/1234/7344
+#EXTINF:-1,Manda Chuva 24H
+http://listaccess.me:8880/pizza/1234/13370
+#EXTINF:-1,Marvel 24H
+http://listaccess.me:8880/pizza/1234/12687
+#EXTINF:-1,Masha e o Urso 24H
+http://listaccess.me:8880/pizza/1234/3827
+#EXTINF:-1,MAX
+http://listaccess.me:8880/pizza/1234/2250
+#EXTINF:-1,MAX [Alter]
+http://listaccess.me:8880/pizza/1234/7343
+#EXTINF:-1,MAX FHD H.265
+http://listaccess.me:8880/pizza/1234/22237
+#EXTINF:-1,Max HD
+http://listaccess.me:8880/pizza/1234/7091
+#EXTINF:-1,MAX HD [Alter]
+http://listaccess.me:8880/pizza/1234/7342
+#EXTINF:-1,MAX Prime
+http://listaccess.me:8880/pizza/1234/2249
+#EXTINF:-1,MAX Prime [Alter]
+http://listaccess.me:8880/pizza/1234/7341
+#EXTINF:-1,MAX Prime FHD H.265
+http://listaccess.me:8880/pizza/1234/22236
+#EXTINF:-1,Max Prime HD
+http://listaccess.me:8880/pizza/1234/7092
+#EXTINF:-1,Max Prime HD [Alter]
+http://listaccess.me:8880/pizza/1234/7339
+#EXTINF:-1,MAX UP
+http://listaccess.me:8880/pizza/1234/2247
+#EXTINF:-1,MAX UP [Alter]
+http://listaccess.me:8880/pizza/1234/7338
+#EXTINF:-1,MAX UP FHD H.265
+http://listaccess.me:8880/pizza/1234/22235
+#EXTINF:-1,Max UP HD
+http://listaccess.me:8880/pizza/1234/7093
+#EXTINF:-1,MAX UP HD [Alter]
+http://listaccess.me:8880/pizza/1234/7337
+#EXTINF:-1,Megapix
+http://listaccess.me:8880/pizza/1234/2246
+#EXTINF:-1,Megapix [Alter 2]
+http://listaccess.me:8880/pizza/1234/13719
+#EXTINF:-1,Megapix [Alter]
+http://listaccess.me:8880/pizza/1234/7336
+#EXTINF:-1,Megapix 4K
+http://listaccess.me:8880/pizza/1234/26414
+#EXTINF:-1,Megapix FHD H.265
+http://listaccess.me:8880/pizza/1234/22234
+#EXTINF:-1,Megapix HD
+http://listaccess.me:8880/pizza/1234/2245
+#EXTINF:-1,Megapix HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/13720
+#EXTINF:-1,Megapix HD [Alter]
+http://listaccess.me:8880/pizza/1234/7335
+#EXTINF:-1,Meu Amigãozão 24H
+http://listaccess.me:8880/pizza/1234/3830
+#EXTINF:-1,Mickey e Donald 24H
+http://listaccess.me:8880/pizza/1234/7209
+#EXTINF:-1,Miraculous LadyBug 24H
+http://listaccess.me:8880/pizza/1234/24140
+#EXTINF:-1,Mr. Bean 24H
+http://listaccess.me:8880/pizza/1234/9592
+#EXTINF:-1,MTV
+http://listaccess.me:8880/pizza/1234/2244
+#EXTINF:-1,MTV [Alter]
+http://listaccess.me:8880/pizza/1234/7334
+#EXTINF:-1,MTV FHD H.265
+http://listaccess.me:8880/pizza/1234/22233
+#EXTINF:-1,MTV HD
+http://listaccess.me:8880/pizza/1234/2140
+#EXTINF:-1,MTV HD [Alter]
+http://listaccess.me:8880/pizza/1234/7333
+#EXTINF:-1,Multishow
+http://listaccess.me:8880/pizza/1234/2243
+#EXTINF:-1,Multishow [Alter 2]
+http://listaccess.me:8880/pizza/1234/14020
+#EXTINF:-1,Multishow [Alter]
+http://listaccess.me:8880/pizza/1234/7332
+#EXTINF:-1,Multishow 4K
+http://listaccess.me:8880/pizza/1234/26412
+#EXTINF:-1,Multishow FHD H.265
+http://listaccess.me:8880/pizza/1234/22232
+#EXTINF:-1,Multishow HD
+http://listaccess.me:8880/pizza/1234/2242
+#EXTINF:-1,Multishow HD [Alter 2]
+http://listaccess.me:8880/pizza/1234/14021
+#EXTINF:-1,Multishow HD [Alter]
+http://listaccess.me:8880/pizza/1234/7331
+#EXTINF:-1,Muppets Babies 24H
+http://listaccess.me:8880/pizza/1234/13077
+#EXTINF:-1,Music Box Brasil [Alter]
+http://listaccess.me:8880/pizza/1234/7330
+#EXTINF:-1,Music Box Brazil
+http://listaccess.me:8880/pizza/1234/2241
+#EXTINF:-1,Nat Geo 4K
+http://listaccess.me:8880/pizza/1234/26416
+#EXTINF:-1,Nat Geo Wild FHD
+http://listaccess.me:8880/pizza/1234/7143
+#EXTINF:-1,Natgeo FHD H.265
+http://listaccess.me:8880/pizza/1234/22231
+#EXTINF:-1,NatGeo Kids
+http://listaccess.me:8880/pizza/1234/2240
+#EXTINF:-1,NatGeo Kids [Alter]
+http://listaccess.me:8880/pizza/1234/7326
+#EXTINF:-1,Natgeo Kids FHD H.265
+http://listaccess.me:8880/pizza/1234/22230
+#EXTINF:-1,NatGeo Kids HD
+http://listaccess.me:8880/pizza/1234/2126
+#EXTINF:-1,NatGeo Kids HD [Alter]
+http://listaccess.me:8880/pizza/1234/7325
+#EXTINF:-1,NatGeo Wild
+http://listaccess.me:8880/pizza/1234/2239
+#EXTINF:-1,NatGeo Wild [Alter]
+http://listaccess.me:8880/pizza/1234/7323
+#EXTINF:-1,Natgeo Wild FHD H.265
+http://listaccess.me:8880/pizza/1234/22229
+#EXTINF:-1,NatGeoWild HD
+http://listaccess.me:8880/pizza/1234/2238
+#EXTINF:-1,NatGeoWild HD [Alter]
+http://listaccess.me:8880/pizza/1234/7324
+#EXTINF:-1,National Geographic
+http://listaccess.me:8880/pizza/1234/2237
+#EXTINF:-1,National Geographic [Alter]
+http://listaccess.me:8880/pizza/1234/7328
+#EXTINF:-1,National Geographic HD [Alter]
+http://listaccess.me:8880/pizza/1234/7327
+#EXTINF:-1,NBR
+http://listaccess.me:8880/pizza/1234/2235
+#EXTINF:-1,NBR [Alter]
+http://listaccess.me:8880/pizza/1234/7322
+#EXTINF:-1,NHK
+http://listaccess.me:8880/pizza/1234/2234
+#EXTINF:-1,Nick FHD H.265
+http://listaccess.me:8880/pizza/1234/22228
+#EXTINF:-1,Nick Jr
+http://listaccess.me:8880/pizza/1234/2233
+#EXTINF:-1,Nick Jr [Alter]
+http://listaccess.me:8880/pizza/1234/7321
+#EXTINF:-1,NICK JR FHD
+http://listaccess.me:8880/pizza/1234/7142
+#EXTINF:-1,Nick Jr FHD H.265
+http://listaccess.me:8880/pizza/1234/22227
+#EXTINF:-1,Nick Jr HD
+http://listaccess.me:8880/pizza/1234/2145
+#EXTINF:-1,Nick Jr HD [Alter]
+http://listaccess.me:8880/pizza/1234/7320
+#EXTINF:-1,Nickelodeon
+http://listaccess.me:8880/pizza/1234/2232
+#EXTINF:-1,Nickelodeon [Alter]
+http://listaccess.me:8880/pizza/1234/7319
+#EXTINF:-1,Nickelodeon FHD
+http://listaccess.me:8880/pizza/1234/7141
+#EXTINF:-1,Nickelodeon HD
+http://listaccess.me:8880/pizza/1234/2125
+#EXTINF:-1,NovoTempo
+http://listaccess.me:8880/pizza/1234/2231
+#EXTINF:-1,O Incrível Mundo de Gumball 24H
+http://listaccess.me:8880/pizza/1234/7600
+#EXTINF:-1,OFF
+http://listaccess.me:8880/pizza/1234/2230
+#EXTINF:-1,OFF [Alter]
+http://listaccess.me:8880/pizza/1234/7317
+#EXTINF:-1,OFF HD
+http://listaccess.me:8880/pizza/1234/2229
+#EXTINF:-1,OFF HD [Alter]
+http://listaccess.me:8880/pizza/1234/7316
