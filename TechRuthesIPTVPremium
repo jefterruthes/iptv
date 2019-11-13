@@ -1,1197 +1,828 @@
-#EXTM3U
-#EXTINF:-1,A Fazenda HD
-http://listaccess.me:8880/pizza/1234/26451
 #EXTINF:-1,A&E
-http://listaccess.me:8880/pizza/1234/2346
-#EXTINF:-1,A&E [Alter 2]
-http://listaccess.me:8880/pizza/1234/13681
-#EXTINF:-1,A&E [Alter]
-http://listaccess.me:8880/pizza/1234/7495
-#EXTINF:-1,A&E FHD
-http://listaccess.me:8880/pizza/1234/26420
-#EXTINF:-1,A&E FHD H.265
-http://listaccess.me:8880/pizza/1234/22278
+http://lista.digitalgroup.me:80/Cristina/1234/1120
 #EXTINF:-1,A&E HD
-http://listaccess.me:8880/pizza/1234/7088
-#EXTINF:-1,A&E HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13682
-#EXTINF:-1,A&E HD [Alter]
-http://listaccess.me:8880/pizza/1234/7494
+http://lista.digitalgroup.me:80/Cristina/1234/5078
 #EXTINF:-1,AMC
-http://listaccess.me:8880/pizza/1234/2345
-#EXTINF:-1,AMC [Alter 2]
-http://listaccess.me:8880/pizza/1234/13683
-#EXTINF:-1,AMC [Alter]
-http://listaccess.me:8880/pizza/1234/7493
-#EXTINF:-1,AMC FHD
-http://listaccess.me:8880/pizza/1234/26421
-#EXTINF:-1,AMC FHD H.265
-http://listaccess.me:8880/pizza/1234/22277
+http://lista.digitalgroup.me:80/Cristina/1234/9609
 #EXTINF:-1,AMC HD
-http://listaccess.me:8880/pizza/1234/2344
-#EXTINF:-1,AMC HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13686
-#EXTINF:-1,AMC HD [Alter]
-http://listaccess.me:8880/pizza/1234/7492
-#EXTINF:-1,Animal  Planet FHD
-http://listaccess.me:8880/pizza/1234/7151
-#EXTINF:-1,Animal Planet
-http://listaccess.me:8880/pizza/1234/2343
-#EXTINF:-1,Animal Planet [Alter 2]
-http://listaccess.me:8880/pizza/1234/13695
-#EXTINF:-1,Animal Planet [Alter]
-http://listaccess.me:8880/pizza/1234/7491
-#EXTINF:-1,Animal Planet 4K
-http://listaccess.me:8880/pizza/1234/26411
-#EXTINF:-1,Animal Planet FHD H.265
-http://listaccess.me:8880/pizza/1234/22276
-#EXTINF:-1,Animal Planet HD
-http://listaccess.me:8880/pizza/1234/2342
-#EXTINF:-1,Animal Planet HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13696
-#EXTINF:-1,Animal Planet HD [Alter]
-http://listaccess.me:8880/pizza/1234/7490
-#EXTINF:-1,Aparecida
-http://listaccess.me:8880/pizza/1234/2341
-#EXTINF:-1,Apenas um Show 24H
-http://listaccess.me:8880/pizza/1234/21028
-#EXTINF:-1,Arte 1
-http://listaccess.me:8880/pizza/1234/2339
-#EXTINF:-1,Arte 1 [Alter]
-http://listaccess.me:8880/pizza/1234/7489
-#EXTINF:-1,Arte 1 HD [Alter]
-http://listaccess.me:8880/pizza/1234/7488
-#EXTINF:-1,As aventuras de Jackie Chan 24H
-http://listaccess.me:8880/pizza/1234/7202
+http://lista.digitalgroup.me:80/Cristina/1234/15406
+#EXTINF:-1,ANIMAL PLANET
+http://lista.digitalgroup.me:80/Cristina/1234/1719
+#EXTINF:-1,APARECIDA
+http://lista.digitalgroup.me:80/Cristina/1234/916
+#EXTINF:-1,APARECIDA HD
+http://lista.digitalgroup.me:80/Cristina/1234/20831
+#EXTINF:-1,ARTE 1
+http://lista.digitalgroup.me:80/Cristina/1234/52237
+#EXTINF:-1,ARTE 1 HD
+http://lista.digitalgroup.me:80/Cristina/1234/20795
 #EXTINF:-1,AXN
-http://listaccess.me:8880/pizza/1234/2338
-#EXTINF:-1,AXN [Alter 2]
-http://listaccess.me:8880/pizza/1234/13697
-#EXTINF:-1,AXN [Alter]
-http://listaccess.me:8880/pizza/1234/7487
-#EXTINF:-1,AXN FHD H.265
-http://listaccess.me:8880/pizza/1234/22275
+http://lista.digitalgroup.me:80/Cristina/1234/1712
 #EXTINF:-1,AXN HD
-http://listaccess.me:8880/pizza/1234/2337
-#EXTINF:-1,AXN HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13698
-#EXTINF:-1,AXN HD [Alter]
-http://listaccess.me:8880/pizza/1234/7486
-#EXTINF:-1,Baby TV
-http://listaccess.me:8880/pizza/1234/2336
-#EXTINF:-1,Baby TV [Alter]
-http://listaccess.me:8880/pizza/1234/7485
-#EXTINF:-1,Band
-http://listaccess.me:8880/pizza/1234/2335
-#EXTINF:-1,Band [Alter 2]
-http://listaccess.me:8880/pizza/1234/13699
-#EXTINF:-1,Band [Alter]
-http://listaccess.me:8880/pizza/1234/7484
-#EXTINF:-1,Band 4k
-http://listaccess.me:8880/pizza/1234/26404
-#EXTINF:-1,Band FHD
-http://listaccess.me:8880/pizza/1234/7188
-#EXTINF:-1,Band FHD H.265
-http://listaccess.me:8880/pizza/1234/22274
-#EXTINF:-1,Band HD
-http://listaccess.me:8880/pizza/1234/2334
-#EXTINF:-1,Band HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13700
-#EXTINF:-1,Band HD [Alter]
-http://listaccess.me:8880/pizza/1234/7483
-#EXTINF:-1,Band News
-http://listaccess.me:8880/pizza/1234/2333
-#EXTINF:-1,Band News [Alter 2]
-http://listaccess.me:8880/pizza/1234/13771
-#EXTINF:-1,Band News [Alter]
-http://listaccess.me:8880/pizza/1234/7482
-#EXTINF:-1,Band News FHD
-http://listaccess.me:8880/pizza/1234/7150
-#EXTINF:-1,Band News FHD H.265
-http://listaccess.me:8880/pizza/1234/22273
-#EXTINF:-1,Band News HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13772
-#EXTINF:-1,Band News HD [Alter]
-http://listaccess.me:8880/pizza/1234/7481
-#EXTINF:-1,Band Sports
-http://listaccess.me:8880/pizza/1234/2332
-#EXTINF:-1,Band Sports [Alter 2]
-http://listaccess.me:8880/pizza/1234/13773
-#EXTINF:-1,Band Sports [Alter]
-http://listaccess.me:8880/pizza/1234/7480
-#EXTINF:-1,Band Sports FHD
-http://listaccess.me:8880/pizza/1234/26422
-#EXTINF:-1,Band Sports FHD H.265
-http://listaccess.me:8880/pizza/1234/22272
-#EXTINF:-1,Band Sports HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13774
-#EXTINF:-1,Band Sports HD [Alter]
-http://listaccess.me:8880/pizza/1234/7479
-#EXTINF:-1,Ben 10 24H
-http://listaccess.me:8880/pizza/1234/7598
-#EXTINF:-1,BIS
-http://listaccess.me:8880/pizza/1234/2330
-#EXTINF:-1,BIS [Alter]
-http://listaccess.me:8880/pizza/1234/7478
-#EXTINF:-1,BIS FHD
-http://listaccess.me:8880/pizza/1234/7162
-#EXTINF:-1,BIS FHD H.265
-http://listaccess.me:8880/pizza/1234/22271
+http://lista.digitalgroup.me:80/Cristina/1234/1114
+#EXTINF:-1,BABY TV
+http://lista.digitalgroup.me:80/Cristina/1234/52235
+#EXTINF:-1,BABY TV HD
+http://lista.digitalgroup.me:80/Cristina/1234/52236
+#EXTINF:-1,BAND CAMPINAS
+http://lista.digitalgroup.me:80/Cristina/1234/52233
+#EXTINF:-1,BAND CAMPINAS HD
+http://lista.digitalgroup.me:80/Cristina/1234/52234
+#EXTINF:-1,BAND NEWS
+http://lista.digitalgroup.me:80/Cristina/1234/1107
+#EXTINF:-1,BAND NEWS HD
+http://lista.digitalgroup.me:80/Cristina/1234/17951
+#EXTINF:-1,BAND SP
+http://lista.digitalgroup.me:80/Cristina/1234/1713
+#EXTINF:-1,BAND SPORTS
+http://lista.digitalgroup.me:80/Cristina/1234/1106
+#EXTINF:-1,BAND SPORTS HD
+http://lista.digitalgroup.me:80/Cristina/1234/2407
 #EXTINF:-1,BIS HD
-http://listaccess.me:8880/pizza/1234/2329
-#EXTINF:-1,BIS HD [Alter]
-http://listaccess.me:8880/pizza/1234/7477
-#EXTINF:-1,Black Kamen Rider 24H
-http://listaccess.me:8880/pizza/1234/11946
-#EXTINF:-1,Boa Vontade
-http://listaccess.me:8880/pizza/1234/7476
-#EXTINF:-1,Bob Esponja 24H
-http://listaccess.me:8880/pizza/1234/7220
-#EXTINF:-1,Boomerang
-http://listaccess.me:8880/pizza/1234/2328
-#EXTINF:-1,Boomerang  FHD
-http://listaccess.me:8880/pizza/1234/7149
-#EXTINF:-1,Boomerang [Alter]
-http://listaccess.me:8880/pizza/1234/7475
-#EXTINF:-1,Boomerang FHD H.265
-http://listaccess.me:8880/pizza/1234/22270
-#EXTINF:-1,Boomerang HD [Alter]
-http://listaccess.me:8880/pizza/1234/7474
-#EXTINF:-1,Caillou 24H
-http://listaccess.me:8880/pizza/1234/3834
-#EXTINF:-1,Canal Brasil [Alter]
-http://listaccess.me:8880/pizza/1234/7473
-#EXTINF:-1,Canal Brasil HD [Alter]
-http://listaccess.me:8880/pizza/1234/7472
-#EXTINF:-1,Canal do Boi
-http://listaccess.me:8880/pizza/1234/11574
-#EXTINF:-1,Canal Sony
-http://listaccess.me:8880/pizza/1234/2325
-#EXTINF:-1,Canal Sony [Alter]
-http://listaccess.me:8880/pizza/1234/7471
-#EXTINF:-1,Canal Sony FHD H.265
-http://listaccess.me:8880/pizza/1234/22224
-#EXTINF:-1,Canal Sony HD
-http://listaccess.me:8880/pizza/1234/2324
-#EXTINF:-1,Canal Sony HD [Alter]
-http://listaccess.me:8880/pizza/1234/7470
-#EXTINF:-1,Cancao Nova
-http://listaccess.me:8880/pizza/1234/22152
-#EXTINF:-1,Capitao Planeta 24H
-http://listaccess.me:8880/pizza/1234/13286
-#EXTINF:-1,Carl o Super Caminhao 24H
-http://listaccess.me:8880/pizza/1234/8288
-#EXTINF:-1,Cartoon Network
-http://listaccess.me:8880/pizza/1234/2322
-#EXTINF:-1,Cartoon Network [Alter 2]
-http://listaccess.me:8880/pizza/1234/13701
-#EXTINF:-1,Cartoon Network [Alter]
-http://listaccess.me:8880/pizza/1234/7468
-#EXTINF:-1,Cartoon Network FHD
-http://listaccess.me:8880/pizza/1234/26423
-#EXTINF:-1,Cartoon Network FHD H.265
-http://listaccess.me:8880/pizza/1234/22269
-#EXTINF:-1,Cartoon Network HD
-http://listaccess.me:8880/pizza/1234/2321
-#EXTINF:-1,Cartoon Network HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13702
-#EXTINF:-1,Cartoon Network HD [Alter]
-http://listaccess.me:8880/pizza/1234/7467
-#EXTINF:-1,Cavaleiros dos Zodiacos 24H Saga Doze Casas
-http://listaccess.me:8880/pizza/1234/7219
-#EXTINF:-1,Cavaleiros Zodiaco 24h
-http://listaccess.me:8880/pizza/1234/9
-#EXTINF:-1,Cavalo de Fogo 24H
-http://listaccess.me:8880/pizza/1234/13962
-#EXTINF:-1,Changeman 24H
-http://listaccess.me:8880/pizza/1234/11691
-#EXTINF:-1,Chapolin 24H
-http://listaccess.me:8880/pizza/1234/11608
-#EXTINF:-1,Cinemax
-http://listaccess.me:8880/pizza/1234/2320
-#EXTINF:-1,Cinemax [Alter]
-http://listaccess.me:8880/pizza/1234/7466
-#EXTINF:-1,Cinemax FHD H.265
-http://listaccess.me:8880/pizza/1234/22268
-#EXTINF:-1,Cinemax HD
-http://listaccess.me:8880/pizza/1234/7089
-#EXTINF:-1,Cinemax HD [Alter]
-http://listaccess.me:8880/pizza/1234/7465
-#EXTINF:-1,Clarêncio o Otimista 24H
-http://listaccess.me:8880/pizza/1234/7599
-#EXTINF:-1,Combat FHD H.265
-http://listaccess.me:8880/pizza/1234/22267
-#EXTINF:-1,Combate
-http://listaccess.me:8880/pizza/1234/2319
-#EXTINF:-1,Combate [Alter 2]
-http://listaccess.me:8880/pizza/1234/13630
-#EXTINF:-1,Combate [Alter]
-http://listaccess.me:8880/pizza/1234/7464
-#EXTINF:-1,Combate 4K
-http://listaccess.me:8880/pizza/1234/22155
-#EXTINF:-1,Combate FHD
-http://listaccess.me:8880/pizza/1234/7187
-#EXTINF:-1,Combate HD
-http://listaccess.me:8880/pizza/1234/2318
-#EXTINF:-1,Combate HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13631
-#EXTINF:-1,Combate HD [Alter]
-http://listaccess.me:8880/pizza/1234/7463
-#EXTINF:-1,Comedy Central
-http://listaccess.me:8880/pizza/1234/2317
-#EXTINF:-1,Comedy Central [Alter]
-http://listaccess.me:8880/pizza/1234/7462
-#EXTINF:-1,Comedy Central FHD H.265
-http://listaccess.me:8880/pizza/1234/22266
-#EXTINF:-1,Comedy Central HD
-http://listaccess.me:8880/pizza/1234/7098
-#EXTINF:-1,Comedy Central HD [Alter]
-http://listaccess.me:8880/pizza/1234/7461
-#EXTINF:-1,Copa Libertadores HD
-http://listaccess.me:8880/pizza/1234/21761
-#EXTINF:-1,Copa Sul Americana HD
-http://listaccess.me:8880/pizza/1234/21760
-#EXTINF:-1,Coragem o Cão Covarde 24H
-http://listaccess.me:8880/pizza/1234/7217
-#EXTINF:-1,Corrida Maluca 24H
-http://listaccess.me:8880/pizza/1234/7201
-#EXTINF:-1,Curta
-http://listaccess.me:8880/pizza/1234/7110
-#EXTINF:-1,Curta [Alter]
-http://listaccess.me:8880/pizza/1234/7460
-#EXTINF:-1,Curta HD [Alter]
-http://listaccess.me:8880/pizza/1234/7459
-#EXTINF:-1,Daniel Tigre 24H
-http://listaccess.me:8880/pizza/1234/3833
-#EXTINF:-1,Dazn HD
-http://listaccess.me:8880/pizza/1234/21776
-#EXTINF:-1,Dazn HD [Alter]
-http://listaccess.me:8880/pizza/1234/25423
-#EXTINF:-1,DC Comics 24H
-http://listaccess.me:8880/pizza/1234/12369
-#EXTINF:-1,Desenhos Biblicos 24H
-http://listaccess.me:8880/pizza/1234/3835
-#EXTINF:-1,Discovery Channel
-http://listaccess.me:8880/pizza/1234/2316
-#EXTINF:-1,Discovery Channel [Alter 2]
-http://listaccess.me:8880/pizza/1234/13703
-#EXTINF:-1,Discovery Channel [Alter]
-http://listaccess.me:8880/pizza/1234/7458
-#EXTINF:-1,Discovery Channel 4K
-http://listaccess.me:8880/pizza/1234/26407
-#EXTINF:-1,Discovery Channel FHD
-http://listaccess.me:8880/pizza/1234/7163
-#EXTINF:-1,Discovery Channel FHD H.265
-http://listaccess.me:8880/pizza/1234/22265
-#EXTINF:-1,Discovery Channel HD
-http://listaccess.me:8880/pizza/1234/2315
-#EXTINF:-1,Discovery Channel HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13704
-#EXTINF:-1,Discovery Channel HD [Alter]
-http://listaccess.me:8880/pizza/1234/7457
-#EXTINF:-1,Discovery Civilization [Alter 2]
-http://listaccess.me:8880/pizza/1234/13705
-#EXTINF:-1,Discovery Civilization [Alter]
-http://listaccess.me:8880/pizza/1234/7456
-#EXTINF:-1,Discovery Civilization FHD
-http://listaccess.me:8880/pizza/1234/26424
-#EXTINF:-1,Discovery Civilization FHD H.265
-http://listaccess.me:8880/pizza/1234/22264
-#EXTINF:-1,Discovery Civilization HD
-http://listaccess.me:8880/pizza/1234/2130
-#EXTINF:-1,Discovery Civilization HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13706
-#EXTINF:-1,Discovery Civilization HD [Alter]
-http://listaccess.me:8880/pizza/1234/7455
-#EXTINF:-1,Discovery Home Health
-http://listaccess.me:8880/pizza/1234/2314
-#EXTINF:-1,Discovery Home Health [Alter 2]
-http://listaccess.me:8880/pizza/1234/13707
-#EXTINF:-1,Discovery Home Health [Alter]
-http://listaccess.me:8880/pizza/1234/7454
-#EXTINF:-1,Discovery Home Health FHD
-http://listaccess.me:8880/pizza/1234/7148
-#EXTINF:-1,Discovery Home Health FHD [Alter 2]
-http://listaccess.me:8880/pizza/1234/26427
-#EXTINF:-1,Discovery Home Health FHD H.265
-http://listaccess.me:8880/pizza/1234/22263
-#EXTINF:-1,Discovery Home Health HD
-http://listaccess.me:8880/pizza/1234/2313
-#EXTINF:-1,Discovery Home Health HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13708
-#EXTINF:-1,Discovery Home Health HD [Alter]
-http://listaccess.me:8880/pizza/1234/7453
-#EXTINF:-1,Discovery Kids
-http://listaccess.me:8880/pizza/1234/2312
-#EXTINF:-1,Discovery Kids [Alter 2]
-http://listaccess.me:8880/pizza/1234/13709
-#EXTINF:-1,Discovery Kids [Alter]
-http://listaccess.me:8880/pizza/1234/7452
-#EXTINF:-1,Discovery Kids FHD
-http://listaccess.me:8880/pizza/1234/7147
-#EXTINF:-1,Discovery Kids FHD [Alter 2]
-http://listaccess.me:8880/pizza/1234/26426
-#EXTINF:-1,Discovery Kids FHD H.265
-http://listaccess.me:8880/pizza/1234/22262
-#EXTINF:-1,Discovery Kids HD
-http://listaccess.me:8880/pizza/1234/2146
-#EXTINF:-1,Discovery Kids HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13710
-#EXTINF:-1,Discovery Kids HD [Alter]
-http://listaccess.me:8880/pizza/1234/7451
-#EXTINF:-1,Discovery Science [Alter 2]
-http://listaccess.me:8880/pizza/1234/13711
-#EXTINF:-1,Discovery Science FHD H.265
-http://listaccess.me:8880/pizza/1234/22261
-#EXTINF:-1,Discovery Science HD
-http://listaccess.me:8880/pizza/1234/2129
-#EXTINF:-1,Discovery Science HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13712
-#EXTINF:-1,Discovery Science HD [Alter]
-http://listaccess.me:8880/pizza/1234/7449
-#EXTINF:-1,Discovery Theater [Alter]
-http://listaccess.me:8880/pizza/1234/7448
-#EXTINF:-1,Discovery Theater FHD [Alter 2]
-http://listaccess.me:8880/pizza/1234/26425
-#EXTINF:-1,Discovery Theater FHD H.265
-http://listaccess.me:8880/pizza/1234/22260
-#EXTINF:-1,Discovery Theater HD
-http://listaccess.me:8880/pizza/1234/2311
-#EXTINF:-1,Discovery Theater HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13714
-#EXTINF:-1,Discovery Theater HD [Alter]
-http://listaccess.me:8880/pizza/1234/7447
-#EXTINF:-1,Discovery Turbo
-http://listaccess.me:8880/pizza/1234/2310
-#EXTINF:-1,Discovery Turbo [Alter 2]
-http://listaccess.me:8880/pizza/1234/13715
-#EXTINF:-1,Discovery Turbo [Alter]
-http://listaccess.me:8880/pizza/1234/7446
-#EXTINF:-1,Discovery Turbo FHD
-http://listaccess.me:8880/pizza/1234/7146
-#EXTINF:-1,Discovery Turbo FHD H.265
-http://listaccess.me:8880/pizza/1234/22212
-#EXTINF:-1,Discovery Turbo HD
-http://listaccess.me:8880/pizza/1234/2309
-#EXTINF:-1,Discovery Turbo HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13716
-#EXTINF:-1,Discovery Turbo HD [Alter]
-http://listaccess.me:8880/pizza/1234/7445
-#EXTINF:-1,Discovery World  HD [Alter]
-http://listaccess.me:8880/pizza/1234/7443
-#EXTINF:-1,Discovery World FHD
-http://listaccess.me:8880/pizza/1234/7145
-#EXTINF:-1,Discovery World FHD H.265
-http://listaccess.me:8880/pizza/1234/22259
-#EXTINF:-1,Discovery World HD
-http://listaccess.me:8880/pizza/1234/2308
-#EXTINF:-1,Disney Channel
-http://listaccess.me:8880/pizza/1234/2307
-#EXTINF:-1,Disney Channel [Alter]
-http://listaccess.me:8880/pizza/1234/7442
-#EXTINF:-1,Disney Channel FHD
-http://listaccess.me:8880/pizza/1234/7161
-#EXTINF:-1,Disney Channel HD
-http://listaccess.me:8880/pizza/1234/2128
-#EXTINF:-1,Disney Channel HD [Alter]
-http://listaccess.me:8880/pizza/1234/7441
-#EXTINF:-1,Disney FHD H.265
-http://listaccess.me:8880/pizza/1234/22258
-#EXTINF:-1,Disney Jr FHD H.265
-http://listaccess.me:8880/pizza/1234/22257
-#EXTINF:-1,Disney Junior
-http://listaccess.me:8880/pizza/1234/2306
-#EXTINF:-1,Disney Junior [Alter]
-http://listaccess.me:8880/pizza/1234/7440
-#EXTINF:-1,Disney Junior HD
-http://listaccess.me:8880/pizza/1234/13795
-#EXTINF:-1,Disney Junior HD [Alter]
-http://listaccess.me:8880/pizza/1234/26377
-#EXTINF:-1,Disney XD
-http://listaccess.me:8880/pizza/1234/2305
-#EXTINF:-1,Disney XD [Alter]
-http://listaccess.me:8880/pizza/1234/7439
-#EXTINF:-1,Disney XD HD [Alter]
-http://listaccess.me:8880/pizza/1234/26376
-#EXTINF:-1,Du Dudu e Edu 24H
-http://listaccess.me:8880/pizza/1234/13581
-#EXTINF:-1,Duck Tales 24H
-http://listaccess.me:8880/pizza/1234/12964
-#EXTINF:-1,E! Entertainment Television
-http://listaccess.me:8880/pizza/1234/2304
-#EXTINF:-1,E! Entertainment Television [Alter]
-http://listaccess.me:8880/pizza/1234/7436
-#EXTINF:-1,E! Entertainment Television HD
-http://listaccess.me:8880/pizza/1234/7090
-#EXTINF:-1,E! Entertainment Television HD [Alter]
-http://listaccess.me:8880/pizza/1234/7435
-#EXTINF:-1,EI Plus
-http://listaccess.me:8880/pizza/1234/25484
-#EXTINF:-1,EI Plus HD
-http://listaccess.me:8880/pizza/1234/25483
-#EXTINF:-1,ESPN
-http://listaccess.me:8880/pizza/1234/2303
-#EXTINF:-1,ESPN [Alter 2]
-http://listaccess.me:8880/pizza/1234/13956
-#EXTINF:-1,ESPN [Alter]
-http://listaccess.me:8880/pizza/1234/7434
-#EXTINF:-1,ESPN +
-http://listaccess.me:8880/pizza/1234/7111
-#EXTINF:-1,ESPN + FHD
-http://listaccess.me:8880/pizza/1234/26500
-#EXTINF:-1,ESPN + HD
-http://listaccess.me:8880/pizza/1234/7099
-#EXTINF:-1,ESPN + HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13961
-#EXTINF:-1,ESPN + HD [Alter]
-http://listaccess.me:8880/pizza/1234/26501
-#EXTINF:-1,ESPN 2 FHD H.265
-http://listaccess.me:8880/pizza/1234/22197
-#EXTINF:-1,ESPN 4K
-http://listaccess.me:8880/pizza/1234/26418
-#EXTINF:-1,ESPN Brasil
-http://listaccess.me:8880/pizza/1234/2301
-#EXTINF:-1,ESPN Brasil [Alter 2]
-http://listaccess.me:8880/pizza/1234/13959
-#EXTINF:-1,ESPN Brasil [Alter]
-http://listaccess.me:8880/pizza/1234/7431
-#EXTINF:-1,ESPN Brasil FHD
-http://listaccess.me:8880/pizza/1234/7172
-#EXTINF:-1,ESPN Brasil FHD H.265
-http://listaccess.me:8880/pizza/1234/22256
-#EXTINF:-1,ESPN Brasil HD
-http://listaccess.me:8880/pizza/1234/2300
-#EXTINF:-1,ESPN Brasil HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13958
-#EXTINF:-1,ESPN Brasil HD [Alter]
-http://listaccess.me:8880/pizza/1234/7430
-#EXTINF:-1,ESPN Extra
-http://listaccess.me:8880/pizza/1234/7429
-#EXTINF:-1,ESPN Extra FHD
-http://listaccess.me:8880/pizza/1234/7136
-#EXTINF:-1,ESPN Extra HD
-http://listaccess.me:8880/pizza/1234/7428
-#EXTINF:-1,ESPN FHD
-http://listaccess.me:8880/pizza/1234/7160
-#EXTINF:-1,ESPN FHD H.265
-http://listaccess.me:8880/pizza/1234/22255
-#EXTINF:-1,ESPN HD
-http://listaccess.me:8880/pizza/1234/2302
-#EXTINF:-1,ESPN HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13957
-#EXTINF:-1,ESPN HD [Alter]
-http://listaccess.me:8880/pizza/1234/7427
-#EXTINF:-1,Familia da Pesada (Family Guy) 24H
-http://listaccess.me:8880/pizza/1234/7214
-#EXTINF:-1,Familia Dinossauro 24H
-http://listaccess.me:8880/pizza/1234/12296
-#EXTINF:-1,Fish TV
-http://listaccess.me:8880/pizza/1234/2294
-#EXTINF:-1,Fish TV [Alter]
-http://listaccess.me:8880/pizza/1234/7420
-#EXTINF:-1,Flashman 24H
-http://listaccess.me:8880/pizza/1234/11719
-#EXTINF:-1,FLY o Pequeno Guerreiro 24H
-http://listaccess.me:8880/pizza/1234/14019
-#EXTINF:-1,Food Network
-http://listaccess.me:8880/pizza/1234/2293
-#EXTINF:-1,Food Network [Alter 2]
-http://listaccess.me:8880/pizza/1234/13723
-#EXTINF:-1,Food Network [Alter]
-http://listaccess.me:8880/pizza/1234/7418
-#EXTINF:-1,Food Network FHD H.265
-http://listaccess.me:8880/pizza/1234/22254
-#EXTINF:-1,Food Network HD
-http://listaccess.me:8880/pizza/1234/2144
-#EXTINF:-1,Food Network HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13724
-#EXTINF:-1,Food Network HD [Alter]
-http://listaccess.me:8880/pizza/1234/7417
+http://lista.digitalgroup.me:80/Cristina/1234/1104
+#EXTINF:-1,BIS SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38740
+#EXTINF:-1,BIS SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38739
+#EXTINF:-1,BIS SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38738
+#EXTINF:-1,BIS SD+
+http://lista.digitalgroup.me:80/Cristina/1234/24187
+#EXTINF:-1,BOOMERANG
+http://lista.digitalgroup.me:80/Cristina/1234/1102
+#EXTINF:-1,BOOMERANG HD
+http://lista.digitalgroup.me:80/Cristina/1234/20801
+#EXTINF:-1,CANAL BRASIL HD
+http://lista.digitalgroup.me:80/Cristina/1234/5079
+#EXTINF:-1,CANAL BRASIL SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38743
+#EXTINF:-1,CANAL BRASIL SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38742
+#EXTINF:-1,CANAL BRASIL SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38741
+#EXTINF:-1,CANAL BRASIL SD+
+http://lista.digitalgroup.me:80/Cristina/1234/24745
+#EXTINF:-1,CANAL DO BOI
+http://lista.digitalgroup.me:80/Cristina/1234/2382
+#EXTINF:-1,CANCAO NOVA
+http://lista.digitalgroup.me:80/Cristina/1234/1220
+#EXTINF:-1,CANCAO NOVA HD
+http://lista.digitalgroup.me:80/Cristina/1234/52243
+#EXTINF:-1,CARTOON NETWORK
+http://lista.digitalgroup.me:80/Cristina/1234/1095
+#EXTINF:-1,CARTOON NETWORK HD
+http://lista.digitalgroup.me:80/Cristina/1234/2479
+#EXTINF:-1,CARTOON NETWORK SD+
+http://lista.digitalgroup.me:80/Cristina/1234/43516
+#EXTINF:-1,CINEMAX
+http://lista.digitalgroup.me:80/Cristina/1234/2483
+#EXTINF:-1,CINEMAX HD
+http://lista.digitalgroup.me:80/Cristina/1234/5080
+#EXTINF:-1,COMBATE HD
+http://lista.digitalgroup.me:80/Cristina/1234/1088
+#EXTINF:-1,COMBATE SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38746
+#EXTINF:-1,COMBATE SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38745
+#EXTINF:-1,COMBATE SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38744
+#EXTINF:-1,COMBATE SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22442
+#EXTINF:-1,COMEDY CENTRAL
+http://lista.digitalgroup.me:80/Cristina/1234/52240
+#EXTINF:-1,COMEDY CENTRAL HD
+http://lista.digitalgroup.me:80/Cristina/1234/16004
+#EXTINF:-1,CULTURA
+http://lista.digitalgroup.me:80/Cristina/1234/52238
+#EXTINF:-1,CULTURA HD
+http://lista.digitalgroup.me:80/Cristina/1234/52239
+#EXTINF:-1,CURTA !
+http://lista.digitalgroup.me:80/Cristina/1234/52241
+#EXTINF:-1,CURTA ! HD
+http://lista.digitalgroup.me:80/Cristina/1234/52242
+#EXTINF:-1,DEUTSCH
+http://lista.digitalgroup.me:80/Cristina/1234/18034
+#EXTINF:-1,DEUTSCH HD
+http://lista.digitalgroup.me:80/Cristina/1234/37776
+#EXTINF:-1,DEUTSCH SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38471
+#EXTINF:-1,DISCOVERY CHANNEL
+http://lista.digitalgroup.me:80/Cristina/1234/1084
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/Cristina/1234/2410
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://lista.digitalgroup.me:80/Cristina/1234/20805
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://lista.digitalgroup.me:80/Cristina/1234/16005
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://lista.digitalgroup.me:80/Cristina/1234/2399
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://lista.digitalgroup.me:80/Cristina/1234/1082
+#EXTINF:-1,DISCOVERY KIDS
+http://lista.digitalgroup.me:80/Cristina/1234/1080
+#EXTINF:-1,DISCOVERY KIDS HD
+http://lista.digitalgroup.me:80/Cristina/1234/5081
+#EXTINF:-1,DISCOVERY SCIENCE
+http://lista.digitalgroup.me:80/Cristina/1234/20806
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://lista.digitalgroup.me:80/Cristina/1234/16006
+#EXTINF:-1,DISCOVERY THEATER
+http://lista.digitalgroup.me:80/Cristina/1234/20807
+#EXTINF:-1,DISCOVERY THEATER HD
+http://lista.digitalgroup.me:80/Cristina/1234/2460
+#EXTINF:-1,DISCOVERY TURBO
+http://lista.digitalgroup.me:80/Cristina/1234/1072
+#EXTINF:-1,DISCOVERY TURBO HD
+http://lista.digitalgroup.me:80/Cristina/1234/2411
+#EXTINF:-1,DISCOVERY WORLD
+http://lista.digitalgroup.me:80/Cristina/1234/20808
+#EXTINF:-1,DISCOVERY WORLD HD
+http://lista.digitalgroup.me:80/Cristina/1234/2461
+#EXTINF:-1,DISNEY CHANNEL HD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38438
+#EXTINF:-1,DISNEY CHANNEL HD 2
+http://lista.digitalgroup.me:80/Cristina/1234/5082
+#EXTINF:-1,DISNEY CHANNEL SD
+http://lista.digitalgroup.me:80/Cristina/1234/38763
+#EXTINF:-1,DISNEY CHANNEL SD+
+http://lista.digitalgroup.me:80/Cristina/1234/1071
+#EXTINF:-1,DISNEY JR HD
+http://lista.digitalgroup.me:80/Cristina/1234/20809
+#EXTINF:-1,DISNEY JR SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38783
+#EXTINF:-1,DISNEY JR SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/1068
+#EXTINF:-1,DISNEY JR SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38441
+#EXTINF:-1,DISNEY XD HD
+http://lista.digitalgroup.me:80/Cristina/1234/20810
+#EXTINF:-1,DISNEY XD SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38761
+#EXTINF:-1,DISNEY XD SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/1065
+#EXTINF:-1,DISNEY XD SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38440
+#EXTINF:-1,E!
+http://lista.digitalgroup.me:80/Cristina/1234/1063
+#EXTINF:-1,E! HD
+http://lista.digitalgroup.me:80/Cristina/1234/52246
+#EXTINF:-1,ESPN 1 HD
+http://lista.digitalgroup.me:80/Cristina/1234/1129
+#EXTINF:-1,ESPN 1 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38754
+#EXTINF:-1,ESPN 1 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/1718
+#EXTINF:-1,ESPN 1 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38387
+#EXTINF:-1,ESPN 2 HD
+http://lista.digitalgroup.me:80/Cristina/1234/2394
+#EXTINF:-1,ESPN 2 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38756
+#EXTINF:-1,ESPN 2 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/2395
+#EXTINF:-1,ESPN 2 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38416
+#EXTINF:-1,ESPN BRASIL HD
+http://lista.digitalgroup.me:80/Cristina/1234/2387
+#EXTINF:-1,ESPN BRASIL SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38758
+#EXTINF:-1,ESPN BRASIL SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/1060
+#EXTINF:-1,ESPN BRASIL SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38415
+#EXTINF:-1,ESPN EXTRA HD
+http://lista.digitalgroup.me:80/Cristina/1234/20813
+#EXTINF:-1,ESPN EXTRA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/20812
+#EXTINF:-1,ESPN EXTRA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/40435
+#EXTINF:-1,ESPN EXTRA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38417
+#EXTINF:-1,FISH TV
+http://lista.digitalgroup.me:80/Cristina/1234/52244
+#EXTINF:-1,FISH TV HD
+http://lista.digitalgroup.me:80/Cristina/1234/52245
+#EXTINF:-1,FOOD NETWORK
+http://lista.digitalgroup.me:80/Cristina/1234/1049
+#EXTINF:-1,FOOD NETWORK HD
+http://lista.digitalgroup.me:80/Cristina/1234/5084
 #EXTINF:-1,FOX
-http://listaccess.me:8880/pizza/1234/2292
-#EXTINF:-1,FOX [Alter]
-http://listaccess.me:8880/pizza/1234/7416
-#EXTINF:-1,FOX FHD
-http://listaccess.me:8880/pizza/1234/7186
-#EXTINF:-1,FOX FHD H.265
-http://listaccess.me:8880/pizza/1234/22253
+http://lista.digitalgroup.me:80/Cristina/1234/1329
 #EXTINF:-1,FOX HD
-http://listaccess.me:8880/pizza/1234/2291
-#EXTINF:-1,FOX HD [Alter]
-http://listaccess.me:8880/pizza/1234/7415
-#EXTINF:-1,Fox Life
-http://listaccess.me:8880/pizza/1234/2290
-#EXTINF:-1,Fox Life [Alter]
-http://listaccess.me:8880/pizza/1234/7414
-#EXTINF:-1,FOX Life FHD H.265
-http://listaccess.me:8880/pizza/1234/22252
-#EXTINF:-1,Fox Life HD
-http://listaccess.me:8880/pizza/1234/2289
-#EXTINF:-1,Fox Life HD [Alter]
-http://listaccess.me:8880/pizza/1234/7413
-#EXTINF:-1,Fox Premium 1 FHD
-http://listaccess.me:8880/pizza/1234/26445
-#EXTINF:-1,Fox Premium 1 HD
-http://listaccess.me:8880/pizza/1234/2288
-#EXTINF:-1,Fox Premium 1 HD [Alter]
-http://listaccess.me:8880/pizza/1234/7411
-#EXTINF:-1,Fox Premium 2 FHD
-http://listaccess.me:8880/pizza/1234/7144
-#EXTINF:-1,Fox Premium 2 HD
-http://listaccess.me:8880/pizza/1234/2287
-#EXTINF:-1,Fox Premium 2 HD [Alter]
-http://listaccess.me:8880/pizza/1234/7409
-#EXTINF:-1,Fox Sport HD
-http://listaccess.me:8880/pizza/1234/2286
-#EXTINF:-1,Fox Sports
-http://listaccess.me:8880/pizza/1234/2285
-#EXTINF:-1,Fox Sports [Alter 2]
-http://listaccess.me:8880/pizza/1234/13757
-#EXTINF:-1,Fox Sports [Alter]
-http://listaccess.me:8880/pizza/1234/7408
-#EXTINF:-1,Fox Sports 2
-http://listaccess.me:8880/pizza/1234/2284
-#EXTINF:-1,Fox Sports 2 [Alter 2]
-http://listaccess.me:8880/pizza/1234/13759
-#EXTINF:-1,Fox Sports 2 [Alter]
-http://listaccess.me:8880/pizza/1234/7406
-#EXTINF:-1,Fox Sports 2 4K
-http://listaccess.me:8880/pizza/1234/26415
-#EXTINF:-1,FOX Sports 2 FHD H.265
-http://listaccess.me:8880/pizza/1234/22251
-#EXTINF:-1,FOX Sports 2 HD
-http://listaccess.me:8880/pizza/1234/2283
-#EXTINF:-1,Fox Sports 2 HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13760
-#EXTINF:-1,Fox Sports 2 HD [Alter]
-http://listaccess.me:8880/pizza/1234/7405
-#EXTINF:-1,Fox Sports 4K
-http://listaccess.me:8880/pizza/1234/26409
-#EXTINF:-1,Fox Sports FHD
-http://listaccess.me:8880/pizza/1234/7171
-#EXTINF:-1,FOX Sports FHD H.265
-http://listaccess.me:8880/pizza/1234/22250
-#EXTINF:-1,Fox Sports HD [Alter]
-http://listaccess.me:8880/pizza/1234/7407
-#EXTINF:-1,FOX Sportv 2 FHD
-http://listaccess.me:8880/pizza/1234/7157
-#EXTINF:-1,Friends 24H
-http://listaccess.me:8880/pizza/1234/11740
-#EXTINF:-1,Futura
-http://listaccess.me:8880/pizza/1234/2282
-#EXTINF:-1,Futura [Alter]
-http://listaccess.me:8880/pizza/1234/7404
+http://lista.digitalgroup.me:80/Cristina/1234/1047
+#EXTINF:-1,FOX LIFE
+http://lista.digitalgroup.me:80/Cristina/1234/1038
+#EXTINF:-1,FOX LIFE HD
+http://lista.digitalgroup.me:80/Cristina/1234/1037
+#EXTINF:-1,FOX PREMIUM 1
+http://lista.digitalgroup.me:80/Cristina/1234/20815
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://lista.digitalgroup.me:80/Cristina/1234/2464
+#EXTINF:-1,FOX PREMIUM 2
+http://lista.digitalgroup.me:80/Cristina/1234/20816
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://lista.digitalgroup.me:80/Cristina/1234/2465
+#EXTINF:-1,FOX SPORTS
+http://lista.digitalgroup.me:80/Cristina/1234/2391
+#EXTINF:-1,FOX SPORTS 2
+http://lista.digitalgroup.me:80/Cristina/1234/1717
+#EXTINF:-1,FOX SPORTS 2 HD
+http://lista.digitalgroup.me:80/Cristina/1234/1031
+#EXTINF:-1,FOX SPORTS HD
+http://lista.digitalgroup.me:80/Cristina/1234/50188
+#EXTINF:-1,FUTURA HD
+http://lista.digitalgroup.me:80/Cristina/1234/20803
+#EXTINF:-1,FUTURA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38735
+#EXTINF:-1,FUTURA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38736
+#EXTINF:-1,FUTURA SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38737
+#EXTINF:-1,FUTURA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38484
 #EXTINF:-1,FX
-http://listaccess.me:8880/pizza/1234/2281
-#EXTINF:-1,FX [Alter]
-http://listaccess.me:8880/pizza/1234/7402
-#EXTINF:-1,FX FHD H.265
-http://listaccess.me:8880/pizza/1234/22249
+http://lista.digitalgroup.me:80/Cristina/1234/1028
 #EXTINF:-1,FX HD
-http://listaccess.me:8880/pizza/1234/2280
-#EXTINF:-1,FX HD [Alter]
-http://listaccess.me:8880/pizza/1234/7401
-#EXTINF:-1,Galinha Pintadinha 24H
-http://listaccess.me:8880/pizza/1234/7211
-#EXTINF:-1,Globo 4k
-http://listaccess.me:8880/pizza/1234/26448
-#EXTINF:-1,Globo Bahia
-http://listaccess.me:8880/pizza/1234/7105
-#EXTINF:-1,Globo Bahia [Alter 2]
-http://listaccess.me:8880/pizza/1234/13751
-#EXTINF:-1,Globo Bahia [Alter]
-http://listaccess.me:8880/pizza/1234/7376
-#EXTINF:-1,Globo Bahia HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13752
-#EXTINF:-1,Globo Bahia HD [Alter]
-http://listaccess.me:8880/pizza/1234/7375
-#EXTINF:-1,Globo Bauru [Alter 2]
-http://listaccess.me:8880/pizza/1234/13753
-#EXTINF:-1,Globo Bauru [Alter]
-http://listaccess.me:8880/pizza/1234/7374
-#EXTINF:-1,Globo Brasilia
-http://listaccess.me:8880/pizza/1234/2143
-#EXTINF:-1,Globo Brasilia [Alter 2]
-http://listaccess.me:8880/pizza/1234/13731
-#EXTINF:-1,Globo Brasilia [Alter]
-http://listaccess.me:8880/pizza/1234/7400
-#EXTINF:-1,Globo Brasilia HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13732
-#EXTINF:-1,Globo Brasilia HD [Alter]
-http://listaccess.me:8880/pizza/1234/7399
-#EXTINF:-1,Globo Centro America Cuiaba
-http://listaccess.me:8880/pizza/1234/11667
-#EXTINF:-1,Globo Eptv Campinas
-http://listaccess.me:8880/pizza/1234/11663
-#EXTINF:-1,Globo Eptv Campinas [Alter 2]
-http://listaccess.me:8880/pizza/1234/13733
-#EXTINF:-1,Globo Eptv Campinas [Alter]
-http://listaccess.me:8880/pizza/1234/7398
-#EXTINF:-1,Globo Eptv Campinas HD
-http://listaccess.me:8880/pizza/1234/7397
-#EXTINF:-1,Globo Eptv Campinas HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13734
-#EXTINF:-1,Globo Eptv Ribeirao Preto
-http://listaccess.me:8880/pizza/1234/11664
-#EXTINF:-1,Globo Eptv Ribeirao Preto [Alter 2]
-http://listaccess.me:8880/pizza/1234/13735
-#EXTINF:-1,Globo Eptv Ribeirao Preto [Alter]
-http://listaccess.me:8880/pizza/1234/7395
-#EXTINF:-1,Globo Eptv Ribeirão Preto HD
-http://listaccess.me:8880/pizza/1234/7396
-#EXTINF:-1,Globo Eptv Ribeirão Preto HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13736
-#EXTINF:-1,Globo EPTV Ribeirao Preto HD [Alter]
-http://listaccess.me:8880/pizza/1234/26398
-#EXTINF:-1,Globo EPTV São Carlos
-http://listaccess.me:8880/pizza/1234/11665
-#EXTINF:-1,Globo EPTV São Carlos [Alter]
-http://listaccess.me:8880/pizza/1234/8674
-#EXTINF:-1,Globo Esporte
-http://listaccess.me:8880/pizza/1234/26494
-#EXTINF:-1,Globo Inter Tv Alto Litoral
-http://listaccess.me:8880/pizza/1234/20385
-#EXTINF:-1,Globo Inter Tv Alto Litoral FHD
-http://listaccess.me:8880/pizza/1234/26483
-#EXTINF:-1,Globo Inter Tv Alto Litoral HD
-http://listaccess.me:8880/pizza/1234/26482
-#EXTINF:-1,Globo Inter Tv dos Vales FHD
-http://listaccess.me:8880/pizza/1234/26487
-#EXTINF:-1,Globo Inter Tv dos Vales HD
-http://listaccess.me:8880/pizza/1234/26486
-#EXTINF:-1,Globo Inter Tv Grande Minas
-http://listaccess.me:8880/pizza/1234/20391
-#EXTINF:-1,Globo Inter Tv Grande Minas FHD
-http://listaccess.me:8880/pizza/1234/26485
-#EXTINF:-1,Globo Inter Tv Grande Minas HD
-http://listaccess.me:8880/pizza/1234/26484
-#EXTINF:-1,Globo Inter Tv Serra Mar
-http://listaccess.me:8880/pizza/1234/20382
-#EXTINF:-1,Globo Inter Tv Serra Mar HD
-http://listaccess.me:8880/pizza/1234/26480
-#EXTINF:-1,Globo Minas
-http://listaccess.me:8880/pizza/1234/7112
-#EXTINF:-1,Globo Minas [Alter 2]
-http://listaccess.me:8880/pizza/1234/13737
-#EXTINF:-1,Globo Minas [Alter]
-http://listaccess.me:8880/pizza/1234/7394
-#EXTINF:-1,Globo Minas FHD
-http://listaccess.me:8880/pizza/1234/7185
-#EXTINF:-1,Globo Minas HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13738
-#EXTINF:-1,Globo Minas HD [Alter]
-http://listaccess.me:8880/pizza/1234/7393
-#EXTINF:-1,Globo News
-http://listaccess.me:8880/pizza/1234/2274
-#EXTINF:-1,Globo News [Alter 2]
-http://listaccess.me:8880/pizza/1234/13739
-#EXTINF:-1,Globo News [Alter]
-http://listaccess.me:8880/pizza/1234/7392
-#EXTINF:-1,Globo News FHD
-http://listaccess.me:8880/pizza/1234/7156
-#EXTINF:-1,Globo News FHD H.265
-http://listaccess.me:8880/pizza/1234/22248
-#EXTINF:-1,Globo News HD
-http://listaccess.me:8880/pizza/1234/2273
-#EXTINF:-1,Globo News HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13740
-#EXTINF:-1,Globo News HD [Alter]
-http://listaccess.me:8880/pizza/1234/7391
-#EXTINF:-1,Globo Nordeste
-http://listaccess.me:8880/pizza/1234/7104
-#EXTINF:-1,Globo Nordeste [Alter 2]
-http://listaccess.me:8880/pizza/1234/13741
-#EXTINF:-1,Globo Nordeste [Alter]
-http://listaccess.me:8880/pizza/1234/7390
-#EXTINF:-1,Globo Nordeste HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13742
-#EXTINF:-1,Globo Nordeste HD [Alter]
-http://listaccess.me:8880/pizza/1234/7389
-#EXTINF:-1,Globo Nsc Tv Blumenau
-http://listaccess.me:8880/pizza/1234/26473
-#EXTINF:-1,Globo Nsc Tv Blumenau FHD
-http://listaccess.me:8880/pizza/1234/26475
-#EXTINF:-1,Globo Nsc Tv Blumenau HD
-http://listaccess.me:8880/pizza/1234/26474
-#EXTINF:-1,Globo NSC TV Chapeco
-http://listaccess.me:8880/pizza/1234/26464
-#EXTINF:-1,Globo NSC TV Chapeco FHD
-http://listaccess.me:8880/pizza/1234/26466
-#EXTINF:-1,Globo NSC TV Chapeco HD
-http://listaccess.me:8880/pizza/1234/26465
-#EXTINF:-1,Globo Nsc Tv Florianopolis
-http://listaccess.me:8880/pizza/1234/7388
-#EXTINF:-1,Globo Nsc Tv Florianopolis HD
-http://listaccess.me:8880/pizza/1234/7387
-#EXTINF:-1,Globo Nsc Tv JoinVille
-http://listaccess.me:8880/pizza/1234/26470
-#EXTINF:-1,Globo Nsc Tv JoinVille
-http://listaccess.me:8880/pizza/1234/20373
-#EXTINF:-1,Globo Nsc Tv JoinVille FHD
-http://listaccess.me:8880/pizza/1234/26472
-#EXTINF:-1,Globo Nsc Tv JoinVille HD
-http://listaccess.me:8880/pizza/1234/26471
-#EXTINF:-1,Globo Rbs Tv Caxias do Sul
-http://listaccess.me:8880/pizza/1234/26491
-#EXTINF:-1,Globo Rbs Tv Caxias do Sul FHD
-http://listaccess.me:8880/pizza/1234/26493
-#EXTINF:-1,Globo Rbs Tv Caxias do Sul HD
-http://listaccess.me:8880/pizza/1234/26492
-#EXTINF:-1,Globo Rbs Tv Pelotas
-http://listaccess.me:8880/pizza/1234/26488
-#EXTINF:-1,Globo Rbs Tv Pelotas FHD
-http://listaccess.me:8880/pizza/1234/26490
-#EXTINF:-1,Globo Rbs Tv Pelotas HD
-http://listaccess.me:8880/pizza/1234/26489
-#EXTINF:-1,Globo RBS TV POA FHD H.265
-http://listaccess.me:8880/pizza/1234/22247
-#EXTINF:-1,Globo Rbs Tv Porto Alegre
-http://listaccess.me:8880/pizza/1234/7386
-#EXTINF:-1,Globo Rbs Tv Porto Alegre [Alter 2]
-http://listaccess.me:8880/pizza/1234/13745
-#EXTINF:-1,Globo Rbs Tv Porto Alegre HD
-http://listaccess.me:8880/pizza/1234/7385
-#EXTINF:-1,Globo Rbs Tv Porto Alegre HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13746
-#EXTINF:-1,Globo RJ
-http://listaccess.me:8880/pizza/1234/2278
-#EXTINF:-1,Globo RJ [Alter 2]
-http://listaccess.me:8880/pizza/1234/13427
-#EXTINF:-1,Globo RJ [Alter]
-http://listaccess.me:8880/pizza/1234/7384
-#EXTINF:-1,Globo RJ FHD
-http://listaccess.me:8880/pizza/1234/7184
-#EXTINF:-1,Globo RJ FHD H.265
-http://listaccess.me:8880/pizza/1234/22246
-#EXTINF:-1,Globo RJ HD
-http://listaccess.me:8880/pizza/1234/2277
-#EXTINF:-1,Globo RJ HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13428
-#EXTINF:-1,Globo RJ HD [Alter]
-http://listaccess.me:8880/pizza/1234/7383
-#EXTINF:-1,Globo Rpc Curitiba
-http://listaccess.me:8880/pizza/1234/11666
-#EXTINF:-1,Globo Rpc Curitiba [Alter 2]
-http://listaccess.me:8880/pizza/1234/13747
-#EXTINF:-1,Globo Rpc Curitiba [Alter]
-http://listaccess.me:8880/pizza/1234/7382
-#EXTINF:-1,Globo RPC Curitiba FHD
-http://listaccess.me:8880/pizza/1234/7137
-#EXTINF:-1,Globo Rpc Curitiba HD
-http://listaccess.me:8880/pizza/1234/7381
-#EXTINF:-1,Globo Rpc Curitiba HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13748
-#EXTINF:-1,Globo RPC Foz do Iguacu
-http://listaccess.me:8880/pizza/1234/26461
-#EXTINF:-1,Globo RPC Foz do Iguacu HD
-http://listaccess.me:8880/pizza/1234/26462
-#EXTINF:-1,Globo Sorocaba
-http://listaccess.me:8880/pizza/1234/2138
-#EXTINF:-1,Globo Sorocaba [Alter 2]
-http://listaccess.me:8880/pizza/1234/13756
-#EXTINF:-1,Globo Sorocaba [Alter]
-http://listaccess.me:8880/pizza/1234/7371
-#EXTINF:-1,Globo Sorocaba HD [Alter]
-http://listaccess.me:8880/pizza/1234/26397
-#EXTINF:-1,Globo SP
-http://listaccess.me:8880/pizza/1234/2276
-#EXTINF:-1,Globo SP [Alter 2]
-http://listaccess.me:8880/pizza/1234/13426
-#EXTINF:-1,Globo SP [Alter]
-http://listaccess.me:8880/pizza/1234/7380
-#EXTINF:-1,Globo SP FHD
-http://listaccess.me:8880/pizza/1234/7183
-#EXTINF:-1,Globo SP FHD H.265
-http://listaccess.me:8880/pizza/1234/22245
-#EXTINF:-1,Globo SP HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13632
-#EXTINF:-1,Globo SP HD [Alter]
-http://listaccess.me:8880/pizza/1234/7379
-#EXTINF:-1,Globo TV Anhanguera [Alter 2]
-http://listaccess.me:8880/pizza/1234/13749
-#EXTINF:-1,Globo TV Anhanguera [Alter]
-http://listaccess.me:8880/pizza/1234/7378
-#EXTINF:-1,Globo TV Anhanguera HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13750
-#EXTINF:-1,Globo TV Anhanguera HD [Alter]
-http://listaccess.me:8880/pizza/1234/7377
-#EXTINF:-1,Globo TV Clube Teresina
-http://listaccess.me:8880/pizza/1234/26458
-#EXTINF:-1,Globo TV Clube Teresina FHD
-http://listaccess.me:8880/pizza/1234/26460
-#EXTINF:-1,Globo TV Clube Teresina HD
-http://listaccess.me:8880/pizza/1234/26459
-#EXTINF:-1,Globo TV Gazeta Alagoas
-http://listaccess.me:8880/pizza/1234/26467
-#EXTINF:-1,Globo TV Gazeta Alagoas FHD
-http://listaccess.me:8880/pizza/1234/26469
-#EXTINF:-1,Globo TV Gazeta Alagoas HD
-http://listaccess.me:8880/pizza/1234/26468
-#EXTINF:-1,Globo TV Gazeta Sul ES FHD
-http://listaccess.me:8880/pizza/1234/16205
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-http://listaccess.me:8880/pizza/1234/16204
-#EXTINF:-1,Globo TV Gazeta Vitoria 
-http://listaccess.me:8880/pizza/1234/26455
-#EXTINF:-1,Globo TV Gazeta Vitoria FHD
-http://listaccess.me:8880/pizza/1234/26457
-#EXTINF:-1,Globo TV Gazeta Vitoria HD
-http://listaccess.me:8880/pizza/1234/26456
-#EXTINF:-1,Globo Tv Rio Sul
-http://listaccess.me:8880/pizza/1234/26476
-#EXTINF:-1,Globo Tv Rio Sul
-http://listaccess.me:8880/pizza/1234/20379
-#EXTINF:-1,Globo Tv Rio Sul FHD
-http://listaccess.me:8880/pizza/1234/26479
-#EXTINF:-1,Globo Tv Rio Sul HD
-http://listaccess.me:8880/pizza/1234/26477
-#EXTINF:-1,Globo Tv Santa Cruz
-http://listaccess.me:8880/pizza/1234/20397
-#EXTINF:-1,Globo TV Sergipe
-http://listaccess.me:8880/pizza/1234/13782
-#EXTINF:-1,Globo TV Sergipe FHD
-http://listaccess.me:8880/pizza/1234/13781
-#EXTINF:-1,Globo TV Sergipe HD
-http://listaccess.me:8880/pizza/1234/13780
-#EXTINF:-1,Globo TV Tem S.J. do Rio Preto
-http://listaccess.me:8880/pizza/1234/7372
-#EXTINF:-1,Globo TV Tem S.J. do Rio Preto HD
-http://listaccess.me:8880/pizza/1234/7373
-#EXTINF:-1,Globo TV Tribuna Santos
-http://listaccess.me:8880/pizza/1234/16533
-#EXTINF:-1,Globo TV Vanguarda
-http://listaccess.me:8880/pizza/1234/11668
-#EXTINF:-1,Globo TV Vanguarda [Alter]
-http://listaccess.me:8880/pizza/1234/10455
-#EXTINF:-1,Globo Tv Vanguarda HD
-http://listaccess.me:8880/pizza/1234/26396
-#EXTINF:-1,Globo TV Verdes mares [Alter]
-http://listaccess.me:8880/pizza/1234/8673
-#EXTINF:-1,Globo TV Verdes Mares HD [Alter]
-http://listaccess.me:8880/pizza/1234/26395
-#EXTINF:-1,Gloob
-http://listaccess.me:8880/pizza/1234/2272
-#EXTINF:-1,Gloob [Alter]
-http://listaccess.me:8880/pizza/1234/7370
-#EXTINF:-1,Gloob FHD
-http://listaccess.me:8880/pizza/1234/7155
-#EXTINF:-1,Gloob HD
-http://listaccess.me:8880/pizza/1234/2142
-#EXTINF:-1,Gloob HD [Alter]
-http://listaccess.me:8880/pizza/1234/7369
-#EXTINF:-1,GNT
-http://listaccess.me:8880/pizza/1234/2271
-#EXTINF:-1,GNT [Alter 2]
-http://listaccess.me:8880/pizza/1234/13769
-#EXTINF:-1,GNT [Alter]
-http://listaccess.me:8880/pizza/1234/7366
+http://lista.digitalgroup.me:80/Cristina/1234/2386
+#EXTINF:-1,GLOBO ACRE HD
+http://lista.digitalgroup.me:80/Cristina/1234/49721
+#EXTINF:-1,GLOBO ACRE SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/49720
+#EXTINF:-1,GLOBO ACRE SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/49722
+#EXTINF:-1,GLOBO ACRE SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/49723
+#EXTINF:-1,GLOBO ACRE SD+
+http://lista.digitalgroup.me:80/Cristina/1234/49724
+#EXTINF:-1,GLOBO AMAPÁ HD
+http://lista.digitalgroup.me:80/Cristina/1234/49729
+#EXTINF:-1,GLOBO AMAPÁ SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/49725
+#EXTINF:-1,GLOBO AMAPÁ SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/49726
+#EXTINF:-1,GLOBO AMAPÁ SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/49727
+#EXTINF:-1,GLOBO AMAPÁ SD+
+http://lista.digitalgroup.me:80/Cristina/1234/49728
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.digitalgroup.me:80/Cristina/1234/17121
+#EXTINF:-1,GLOBO BRASILIA HD+
+http://lista.digitalgroup.me:80/Cristina/1234/21804
+#EXTINF:-1,GLOBO BRASILIA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38664
+#EXTINF:-1,GLOBO BRASILIA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38665
+#EXTINF:-1,GLOBO BRASILIA SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38666
+#EXTINF:-1,GLOBO BRASILIA SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/2512
+#EXTINF:-1,GLOBO BRASILIA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22363
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://lista.digitalgroup.me:80/Cristina/1234/17962
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://lista.digitalgroup.me:80/Cristina/1234/48809
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://lista.digitalgroup.me:80/Cristina/1234/48800
+#EXTINF:-1,GLOBO MG HD
+http://lista.digitalgroup.me:80/Cristina/1234/17129
+#EXTINF:-1,GLOBO MG HD+
+http://lista.digitalgroup.me:80/Cristina/1234/21803
+#EXTINF:-1,GLOBO MG SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38654
+#EXTINF:-1,GLOBO MG SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38655
+#EXTINF:-1,GLOBO MG SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38656
+#EXTINF:-1,GLOBO MG SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/2412
+#EXTINF:-1,GLOBO MG SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22367
+#EXTINF:-1,GLOBO NEWS HD
+http://lista.digitalgroup.me:80/Cristina/1234/5085
+#EXTINF:-1,GLOBO NEWS SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38716
+#EXTINF:-1,GLOBO NEWS SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38715
+#EXTINF:-1,GLOBO NEWS SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38714
+#EXTINF:-1,GLOBO NEWS SD+
+http://lista.digitalgroup.me:80/Cristina/1234/23980
+#EXTINF:-1,GLOBO NORDESTE HD
+http://lista.digitalgroup.me:80/Cristina/1234/17130
+#EXTINF:-1,GLOBO NORDESTE SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38667
+#EXTINF:-1,GLOBO NORDESTE SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38668
+#EXTINF:-1,GLOBO NORDESTE SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38669
+#EXTINF:-1,GLOBO NORDESTE SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/15405
+#EXTINF:-1,GLOBO NORDESTE SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22371
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://lista.digitalgroup.me:80/Cristina/1234/38452
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38670
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38671
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/9580
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/40436
+#EXTINF:-1,GLOBO REDE AMAZONICA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38451
+#EXTINF:-1,GLOBO RJ HD
+http://lista.digitalgroup.me:80/Cristina/1234/1207
+#EXTINF:-1,GLOBO RJ HD+
+http://lista.digitalgroup.me:80/Cristina/1234/21801
+#EXTINF:-1,GLOBO RJ SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38661
+#EXTINF:-1,GLOBO RJ SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38662
+#EXTINF:-1,GLOBO RJ SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38663
+#EXTINF:-1,GLOBO RJ SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/2508
+#EXTINF:-1,GLOBO RJ SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22209
+#EXTINF:-1,GLOBO RORAIMA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/49730
+#EXTINF:-1,GLOBO RORAIMA SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/49731
+#EXTINF:-1,GLOBO RORAIMA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/49732
+#EXTINF:-1,GLOBO SP HD
+http://lista.digitalgroup.me:80/Cristina/1234/17122
+#EXTINF:-1,GLOBO SP HD+
+http://lista.digitalgroup.me:80/Cristina/1234/21800
+#EXTINF:-1,GLOBO SP SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38657
+#EXTINF:-1,GLOBO SP SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38658
+#EXTINF:-1,GLOBO SP SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38659
+#EXTINF:-1,GLOBO SP SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/1024
+#EXTINF:-1,GLOBO SP SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22359
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://lista.digitalgroup.me:80/Cristina/1234/49719
+#EXTINF:-1,GLOBO TV ANHANGUERA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/49716
+#EXTINF:-1,GLOBO TV ANHANGUERA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/49717
+#EXTINF:-1,GLOBO TV ANHANGUERA SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/2511
+#EXTINF:-1,GLOBO TV ANHANGUERA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/49718
+#EXTINF:-1,GLOBO TV RONDÔNIA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/49715
+#EXTINF:-1,GLOBO TV RONDÔNIA SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/49714
+#EXTINF:-1,GLOBO TV RONDÔNIA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/49713
+#EXTINF:-1,GLOOB HD
+http://lista.digitalgroup.me:80/Cristina/1234/5086
+#EXTINF:-1,GLOOB SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38719
+#EXTINF:-1,GLOOB SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38718
+#EXTINF:-1,GLOOB SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38717
+#EXTINF:-1,GLOOB SD+
+http://lista.digitalgroup.me:80/Cristina/1234/28406
+#EXTINF:-1,GLOOBINHO HD
+http://lista.digitalgroup.me:80/Cristina/1234/17136
+#EXTINF:-1,GLOOBINHO SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38723
+#EXTINF:-1,GLOOBINHO SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38724
+#EXTINF:-1,GLOOBINHO SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38725
+#EXTINF:-1,GLOOBINHO SD+
+http://lista.digitalgroup.me:80/Cristina/1234/23976
 #EXTINF:-1,GNT HD
-http://listaccess.me:8880/pizza/1234/2270
-#EXTINF:-1,GNT HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13770
-#EXTINF:-1,GNT HD [Alter]
-http://listaccess.me:8880/pizza/1234/7365
-#EXTINF:-1,Gospel Cartoon
-http://listaccess.me:8880/pizza/1234/11095
-#EXTINF:-1,Guia Futebol FHD
-http://listaccess.me:8880/pizza/1234/26449
+http://lista.digitalgroup.me:80/Cristina/1234/2466
+#EXTINF:-1,GNT SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38752
+#EXTINF:-1,GNT SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38751
+#EXTINF:-1,GNT SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38750
+#EXTINF:-1,GNT SD+
+http://lista.digitalgroup.me:80/Cristina/1234/24290
 #EXTINF:-1,H2
-http://listaccess.me:8880/pizza/1234/2269
-#EXTINF:-1,H2 [Alter 2]
-http://listaccess.me:8880/pizza/1234/13767
-#EXTINF:-1,H2 [Alter]
-http://listaccess.me:8880/pizza/1234/7364
-#EXTINF:-1,H2 FHD H.265
-http://listaccess.me:8880/pizza/1234/22211
+http://lista.digitalgroup.me:80/Cristina/1234/2486
 #EXTINF:-1,H2 HD
-http://listaccess.me:8880/pizza/1234/2268
-#EXTINF:-1,H2 HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13768
-#EXTINF:-1,H2 HD [Alter]
-http://listaccess.me:8880/pizza/1234/7363
+http://lista.digitalgroup.me:80/Cristina/1234/1021
 #EXTINF:-1,HBO
-http://listaccess.me:8880/pizza/1234/2267
-#EXTINF:-1,HBO [Alter 2]
-http://listaccess.me:8880/pizza/1234/13670
-#EXTINF:-1,HBO [Alter]
-http://listaccess.me:8880/pizza/1234/7362
+http://lista.digitalgroup.me:80/Cristina/1234/1020
 #EXTINF:-1,HBO 2
-http://listaccess.me:8880/pizza/1234/2266
-#EXTINF:-1,HBO 2 [Alter 2]
-http://listaccess.me:8880/pizza/1234/13672
-#EXTINF:-1,HBO 2 [Alter]
-http://listaccess.me:8880/pizza/1234/7361
-#EXTINF:-1,HBO 2 FHD
-http://listaccess.me:8880/pizza/1234/7182
-#EXTINF:-1,HBO 2 FHD H.265
-http://listaccess.me:8880/pizza/1234/22244
-#EXTINF:-1,HBO 2 HD
-http://listaccess.me:8880/pizza/1234/2265
-#EXTINF:-1,HBO 2 HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13673
-#EXTINF:-1,HBO 2 HD [Alter]
-http://listaccess.me:8880/pizza/1234/7360
-#EXTINF:-1,HBO Family
-http://listaccess.me:8880/pizza/1234/2264
-#EXTINF:-1,HBO Family [Alter 2]
-http://listaccess.me:8880/pizza/1234/13674
-#EXTINF:-1,HBO Family [Alter]
-http://listaccess.me:8880/pizza/1234/7359
-#EXTINF:-1,HBO Family FHD H.265
-http://listaccess.me:8880/pizza/1234/22243
-#EXTINF:-1,HBO Family HD
-http://listaccess.me:8880/pizza/1234/2263
-#EXTINF:-1,HBO Family HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13675
-#EXTINF:-1,HBO Family HD [Alter]
-http://listaccess.me:8880/pizza/1234/7358
-#EXTINF:-1,HBO FHD
-http://listaccess.me:8880/pizza/1234/7181
-#EXTINF:-1,HBO FHD H.265
-http://listaccess.me:8880/pizza/1234/22242
+http://lista.digitalgroup.me:80/Cristina/1234/2489
+#EXTINF:-1,HBO FAMILY
+http://lista.digitalgroup.me:80/Cristina/1234/1016
+#EXTINF:-1,HBO FAMILY HD
+http://lista.digitalgroup.me:80/Cristina/1234/2392
 #EXTINF:-1,HBO HD
-http://listaccess.me:8880/pizza/1234/2262
-#EXTINF:-1,HBO HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13671
-#EXTINF:-1,HBO HD [Alter]
-http://listaccess.me:8880/pizza/1234/7357
-#EXTINF:-1,HBO Plus
-http://listaccess.me:8880/pizza/1234/2261
-#EXTINF:-1,HBO Plus [Alter 2]
-http://listaccess.me:8880/pizza/1234/13676
-#EXTINF:-1,HBO Plus [Alter]
-http://listaccess.me:8880/pizza/1234/7356
-#EXTINF:-1,HBO Plus FHD H.265
-http://listaccess.me:8880/pizza/1234/22241
-#EXTINF:-1,HBO Plus HD
-http://listaccess.me:8880/pizza/1234/2259
-#EXTINF:-1,HBO Plus HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13677
-#EXTINF:-1,HBO Plus HD [Alter]
-http://listaccess.me:8880/pizza/1234/7354
-#EXTINF:-1,HBO Signature
-http://listaccess.me:8880/pizza/1234/2258
-#EXTINF:-1,HBO Signature [Alter 2]
-http://listaccess.me:8880/pizza/1234/13679
-#EXTINF:-1,HBO Signature [Alter]
-http://listaccess.me:8880/pizza/1234/7353
-#EXTINF:-1,HBO Signature FHD H.265
-http://listaccess.me:8880/pizza/1234/22240
-#EXTINF:-1,HBO Signature HD
-http://listaccess.me:8880/pizza/1234/2257
-#EXTINF:-1,HBO Signature HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13680
-#EXTINF:-1,HBO Signature HD [Alter]
-http://listaccess.me:8880/pizza/1234/7352
-#EXTINF:-1,He-man 24H
-http://listaccess.me:8880/pizza/1234/11609
-#EXTINF:-1,Hora de Aventura 24H
-http://listaccess.me:8880/pizza/1234/8999
-#EXTINF:-1,I-SAT
-http://listaccess.me:8880/pizza/1234/2255
-#EXTINF:-1,ID - Investigacao Discovery
-http://listaccess.me:8880/pizza/1234/2254
-#EXTINF:-1,ID - Investigação Discovery HD
-http://listaccess.me:8880/pizza/1234/2253
-#EXTINF:-1,Ideal TV
-http://listaccess.me:8880/pizza/1234/7108
-#EXTINF:-1,Inter TV Cabugi
-http://listaccess.me:8880/pizza/1234/7106
-#EXTINF:-1,Investigacao Discovery [Alter]
-http://listaccess.me:8880/pizza/1234/7349
-#EXTINF:-1,Investigação Discovery FHD H.265
-http://listaccess.me:8880/pizza/1234/22239
-#EXTINF:-1,Jambo e Ruivao 24H
-http://listaccess.me:8880/pizza/1234/12941
-#EXTINF:-1,Jaspion 24H
-http://listaccess.me:8880/pizza/1234/11607
-#EXTINF:-1,Jovens Titans 24H
-http://listaccess.me:8880/pizza/1234/8856
-#EXTINF:-1,Kenan e Kel 24H
-http://listaccess.me:8880/pizza/1234/7200
-#EXTINF:-1,Lifetime
-http://listaccess.me:8880/pizza/1234/2252
-#EXTINF:-1,Lifetime [Alter]
-http://listaccess.me:8880/pizza/1234/7347
-#EXTINF:-1,Lifetime FHD H.265
-http://listaccess.me:8880/pizza/1234/22238
-#EXTINF:-1,Lifetime HD
-http://listaccess.me:8880/pizza/1234/2141
-#EXTINF:-1,Lifetime HD [Alter]
-http://listaccess.me:8880/pizza/1234/7346
-#EXTINF:-1,Liga da Justiça 24H
-http://listaccess.me:8880/pizza/1234/11720
-#EXTINF:-1,Luluzinha 24H
-http://listaccess.me:8880/pizza/1234/7210
-#EXTINF:-1,Mais Globosat
-http://listaccess.me:8880/pizza/1234/2251
-#EXTINF:-1,Mais Globosat [Alter]
-http://listaccess.me:8880/pizza/1234/7345
-#EXTINF:-1,Mais Globosat HD
-http://listaccess.me:8880/pizza/1234/2127
-#EXTINF:-1,Mais Globosat HD [Alter]
-http://listaccess.me:8880/pizza/1234/7344
-#EXTINF:-1,Manda Chuva 24H
-http://listaccess.me:8880/pizza/1234/13370
-#EXTINF:-1,Marvel 24H
-http://listaccess.me:8880/pizza/1234/12687
-#EXTINF:-1,Masha e o Urso 24H
-http://listaccess.me:8880/pizza/1234/3827
+http://lista.digitalgroup.me:80/Cristina/1234/1209
+#EXTINF:-1,HBO SIGNATURE
+http://lista.digitalgroup.me:80/Cristina/1234/2488
+#EXTINF:-1,HBO SIGNATURE HD
+http://lista.digitalgroup.me:80/Cristina/1234/1013
+#EXTINF:-1,INVESTIGACAO DISCOVERY
+http://lista.digitalgroup.me:80/Cristina/1234/1011
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD
+http://lista.digitalgroup.me:80/Cristina/1234/2469
+#EXTINF:-1,LIFETIME
+http://lista.digitalgroup.me:80/Cristina/1234/2492
+#EXTINF:-1,LIFETIME HD
+http://lista.digitalgroup.me:80/Cristina/1234/5087
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://lista.digitalgroup.me:80/Cristina/1234/5088
+#EXTINF:-1,MAIS GLOBOSAT SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38749
+#EXTINF:-1,MAIS GLOBOSAT SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38748
+#EXTINF:-1,MAIS GLOBOSAT SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38747
+#EXTINF:-1,MAIS GLOBOSAT SD+
+http://lista.digitalgroup.me:80/Cristina/1234/28398
 #EXTINF:-1,MAX
-http://listaccess.me:8880/pizza/1234/2250
-#EXTINF:-1,MAX [Alter]
-http://listaccess.me:8880/pizza/1234/7343
-#EXTINF:-1,MAX FHD H.265
-http://listaccess.me:8880/pizza/1234/22237
-#EXTINF:-1,Max HD
-http://listaccess.me:8880/pizza/1234/7091
-#EXTINF:-1,MAX HD [Alter]
-http://listaccess.me:8880/pizza/1234/7342
-#EXTINF:-1,MAX Prime
-http://listaccess.me:8880/pizza/1234/2249
-#EXTINF:-1,MAX Prime [Alter]
-http://listaccess.me:8880/pizza/1234/7341
-#EXTINF:-1,MAX Prime FHD H.265
-http://listaccess.me:8880/pizza/1234/22236
-#EXTINF:-1,Max Prime HD
-http://listaccess.me:8880/pizza/1234/7092
-#EXTINF:-1,Max Prime HD [Alter]
-http://listaccess.me:8880/pizza/1234/7339
+http://lista.digitalgroup.me:80/Cristina/1234/1007
+#EXTINF:-1,MAX HD
+http://lista.digitalgroup.me:80/Cristina/1234/5089
+#EXTINF:-1,MAX PRIME
+http://lista.digitalgroup.me:80/Cristina/1234/1006
+#EXTINF:-1,MAX PRIME HD
+http://lista.digitalgroup.me:80/Cristina/1234/5090
 #EXTINF:-1,MAX UP
-http://listaccess.me:8880/pizza/1234/2247
-#EXTINF:-1,MAX UP [Alter]
-http://listaccess.me:8880/pizza/1234/7338
-#EXTINF:-1,MAX UP FHD H.265
-http://listaccess.me:8880/pizza/1234/22235
-#EXTINF:-1,Max UP HD
-http://listaccess.me:8880/pizza/1234/7093
-#EXTINF:-1,MAX UP HD [Alter]
-http://listaccess.me:8880/pizza/1234/7337
-#EXTINF:-1,Megapix
-http://listaccess.me:8880/pizza/1234/2246
-#EXTINF:-1,Megapix [Alter 2]
-http://listaccess.me:8880/pizza/1234/13719
-#EXTINF:-1,Megapix [Alter]
-http://listaccess.me:8880/pizza/1234/7336
-#EXTINF:-1,Megapix 4K
-http://listaccess.me:8880/pizza/1234/26414
-#EXTINF:-1,Megapix FHD H.265
-http://listaccess.me:8880/pizza/1234/22234
-#EXTINF:-1,Megapix HD
-http://listaccess.me:8880/pizza/1234/2245
-#EXTINF:-1,Megapix HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/13720
-#EXTINF:-1,Megapix HD [Alter]
-http://listaccess.me:8880/pizza/1234/7335
-#EXTINF:-1,Meu Amigãozão 24H
-http://listaccess.me:8880/pizza/1234/3830
-#EXTINF:-1,Mickey e Donald 24H
-http://listaccess.me:8880/pizza/1234/7209
-#EXTINF:-1,Miraculous LadyBug 24H
-http://listaccess.me:8880/pizza/1234/24140
-#EXTINF:-1,Mr. Bean 24H
-http://listaccess.me:8880/pizza/1234/9592
-#EXTINF:-1,MTV
-http://listaccess.me:8880/pizza/1234/2244
-#EXTINF:-1,MTV [Alter]
-http://listaccess.me:8880/pizza/1234/7334
-#EXTINF:-1,MTV FHD H.265
-http://listaccess.me:8880/pizza/1234/22233
+http://lista.digitalgroup.me:80/Cristina/1234/1005
+#EXTINF:-1,MAX UP HD
+http://lista.digitalgroup.me:80/Cristina/1234/5091
 #EXTINF:-1,MTV HD
-http://listaccess.me:8880/pizza/1234/2140
-#EXTINF:-1,MTV HD [Alter]
-http://listaccess.me:8880/pizza/1234/7333
-#EXTINF:-1,Multishow
-http://listaccess.me:8880/pizza/1234/2243
-#EXTINF:-1,Multishow [Alter 2]
-http://listaccess.me:8880/pizza/1234/14020
-#EXTINF:-1,Multishow [Alter]
-http://listaccess.me:8880/pizza/1234/7332
-#EXTINF:-1,Multishow 4K
-http://listaccess.me:8880/pizza/1234/26412
-#EXTINF:-1,Multishow FHD H.265
-http://listaccess.me:8880/pizza/1234/22232
-#EXTINF:-1,Multishow HD
-http://listaccess.me:8880/pizza/1234/2242
-#EXTINF:-1,Multishow HD [Alter 2]
-http://listaccess.me:8880/pizza/1234/14021
-#EXTINF:-1,Multishow HD [Alter]
-http://listaccess.me:8880/pizza/1234/7331
-#EXTINF:-1,Muppets Babies 24H
-http://listaccess.me:8880/pizza/1234/13077
-#EXTINF:-1,Music Box Brasil [Alter]
-http://listaccess.me:8880/pizza/1234/7330
-#EXTINF:-1,Music Box Brazil
-http://listaccess.me:8880/pizza/1234/2241
-#EXTINF:-1,Nat Geo 4K
-http://listaccess.me:8880/pizza/1234/26416
-#EXTINF:-1,Nat Geo Wild FHD
-http://listaccess.me:8880/pizza/1234/7143
-#EXTINF:-1,Natgeo FHD H.265
-http://listaccess.me:8880/pizza/1234/22231
-#EXTINF:-1,NatGeo Kids
-http://listaccess.me:8880/pizza/1234/2240
-#EXTINF:-1,NatGeo Kids [Alter]
-http://listaccess.me:8880/pizza/1234/7326
-#EXTINF:-1,Natgeo Kids FHD H.265
-http://listaccess.me:8880/pizza/1234/22230
-#EXTINF:-1,NatGeo Kids HD
-http://listaccess.me:8880/pizza/1234/2126
-#EXTINF:-1,NatGeo Kids HD [Alter]
-http://listaccess.me:8880/pizza/1234/7325
-#EXTINF:-1,NatGeo Wild
-http://listaccess.me:8880/pizza/1234/2239
-#EXTINF:-1,NatGeo Wild [Alter]
-http://listaccess.me:8880/pizza/1234/7323
-#EXTINF:-1,Natgeo Wild FHD H.265
-http://listaccess.me:8880/pizza/1234/22229
-#EXTINF:-1,NatGeoWild HD
-http://listaccess.me:8880/pizza/1234/2238
-#EXTINF:-1,NatGeoWild HD [Alter]
-http://listaccess.me:8880/pizza/1234/7324
-#EXTINF:-1,National Geographic
-http://listaccess.me:8880/pizza/1234/2237
-#EXTINF:-1,National Geographic [Alter]
-http://listaccess.me:8880/pizza/1234/7328
-#EXTINF:-1,National Geographic HD [Alter]
-http://listaccess.me:8880/pizza/1234/7327
-#EXTINF:-1,NBR
-http://listaccess.me:8880/pizza/1234/2235
-#EXTINF:-1,NBR [Alter]
-http://listaccess.me:8880/pizza/1234/7322
+http://lista.digitalgroup.me:80/Cristina/1234/5092
+#EXTINF:-1,MULTISHOW HD
+http://lista.digitalgroup.me:80/Cristina/1234/2385
+#EXTINF:-1,MULTISHOW SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38731
+#EXTINF:-1,MULTISHOW SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38730
+#EXTINF:-1,MULTISHOW SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38729
+#EXTINF:-1,MULTISHOW SD+
+http://lista.digitalgroup.me:80/Cristina/1234/24286
+#EXTINF:-1,NATGEO KIDS
+http://lista.digitalgroup.me:80/Cristina/1234/11965
+#EXTINF:-1,NATGEO KIDS HD
+http://lista.digitalgroup.me:80/Cristina/1234/11996
+#EXTINF:-1,NATGEO WILD
+http://lista.digitalgroup.me:80/Cristina/1234/995
+#EXTINF:-1,NATGEO WILD HD
+http://lista.digitalgroup.me:80/Cristina/1234/994
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+http://lista.digitalgroup.me:80/Cristina/1234/991
 #EXTINF:-1,NHK
-http://listaccess.me:8880/pizza/1234/2234
-#EXTINF:-1,Nick FHD H.265
-http://listaccess.me:8880/pizza/1234/22228
-#EXTINF:-1,Nick Jr
-http://listaccess.me:8880/pizza/1234/2233
-#EXTINF:-1,Nick Jr [Alter]
-http://listaccess.me:8880/pizza/1234/7321
-#EXTINF:-1,NICK JR FHD
-http://listaccess.me:8880/pizza/1234/7142
-#EXTINF:-1,Nick Jr FHD H.265
-http://listaccess.me:8880/pizza/1234/22227
-#EXTINF:-1,Nick Jr HD
-http://listaccess.me:8880/pizza/1234/2145
-#EXTINF:-1,Nick Jr HD [Alter]
-http://listaccess.me:8880/pizza/1234/7320
-#EXTINF:-1,Nickelodeon
-http://listaccess.me:8880/pizza/1234/2232
-#EXTINF:-1,Nickelodeon [Alter]
-http://listaccess.me:8880/pizza/1234/7319
-#EXTINF:-1,Nickelodeon FHD
-http://listaccess.me:8880/pizza/1234/7141
-#EXTINF:-1,Nickelodeon HD
-http://listaccess.me:8880/pizza/1234/2125
-#EXTINF:-1,NovoTempo
-http://listaccess.me:8880/pizza/1234/2231
-#EXTINF:-1,O Incrível Mundo de Gumball 24H
-http://listaccess.me:8880/pizza/1234/7600
-#EXTINF:-1,OFF
-http://listaccess.me:8880/pizza/1234/2230
-#EXTINF:-1,OFF [Alter]
-http://listaccess.me:8880/pizza/1234/7317
+http://lista.digitalgroup.me:80/Cristina/1234/2495
+#EXTINF:-1,NICK
+http://lista.digitalgroup.me:80/Cristina/1234/1206
+#EXTINF:-1,NICK HD
+http://lista.digitalgroup.me:80/Cristina/1234/5093
+#EXTINF:-1,NICK JR
+http://lista.digitalgroup.me:80/Cristina/1234/986
+#EXTINF:-1,NICK JR HD
+http://lista.digitalgroup.me:80/Cristina/1234/16210
 #EXTINF:-1,OFF HD
-http://listaccess.me:8880/pizza/1234/2229
-#EXTINF:-1,OFF HD [Alter]
-http://listaccess.me:8880/pizza/1234/7316
+http://lista.digitalgroup.me:80/Cristina/1234/2471
+#EXTINF:-1,OFF SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38728
+#EXTINF:-1,OFF SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38727
+#EXTINF:-1,OFF SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38726
+#EXTINF:-1,OFF SD+
+http://lista.digitalgroup.me:80/Cristina/1234/28420
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://lista.digitalgroup.me:80/Cristina/1234/980
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://lista.digitalgroup.me:80/Cristina/1234/2472
+#EXTINF:-1,PREMIERE 2 HD
+http://lista.digitalgroup.me:80/Cristina/1234/1213
+#EXTINF:-1,PREMIERE 2 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38788
+#EXTINF:-1,PREMIERE 2 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38787
+#EXTINF:-1,PREMIERE 2 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38786
+#EXTINF:-1,PREMIERE 2 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/25254
+#EXTINF:-1,PREMIERE 3 HD
+http://lista.digitalgroup.me:80/Cristina/1234/1214
+#EXTINF:-1,PREMIERE 3 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38791
+#EXTINF:-1,PREMIERE 3 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38790
+#EXTINF:-1,PREMIERE 3 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38789
+#EXTINF:-1,PREMIERE 3 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/25238
+#EXTINF:-1,PREMIERE 4 HD
+http://lista.digitalgroup.me:80/Cristina/1234/1215
+#EXTINF:-1,PREMIERE 4 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38792
+#EXTINF:-1,PREMIERE 4 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38793
+#EXTINF:-1,PREMIERE 4 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38794
+#EXTINF:-1,PREMIERE 4 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/25250
+#EXTINF:-1,PREMIERE 5 HD
+http://lista.digitalgroup.me:80/Cristina/1234/1216
+#EXTINF:-1,PREMIERE 5 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38797
+#EXTINF:-1,PREMIERE 5 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38796
+#EXTINF:-1,PREMIERE 5 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38795
+#EXTINF:-1,PREMIERE 5 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/25242
+#EXTINF:-1,PREMIERE 6 HD
+http://lista.digitalgroup.me:80/Cristina/1234/16211
+#EXTINF:-1,PREMIERE 6 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38800
+#EXTINF:-1,PREMIERE 6 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38799
+#EXTINF:-1,PREMIERE 6 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38798
+#EXTINF:-1,PREMIERE 6 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/25757
+#EXTINF:-1,PREMIERE 7 HD
+http://lista.digitalgroup.me:80/Cristina/1234/16213
+#EXTINF:-1,PREMIERE 7 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38803
+#EXTINF:-1,PREMIERE 7 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38802
+#EXTINF:-1,PREMIERE 7 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38801
+#EXTINF:-1,PREMIERE 7 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/30379
+#EXTINF:-1,PREMIERE 8 HD
+http://lista.digitalgroup.me:80/Cristina/1234/38359
+#EXTINF:-1,PREMIERE 8 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/41343
+#EXTINF:-1,PREMIERE 8 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/41344
+#EXTINF:-1,PREMIERE 8 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/41345
+#EXTINF:-1,PREMIERE 8 SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/972
+#EXTINF:-1,PREMIERE 8 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38358
+#EXTINF:-1,PREMIERE 9 HD
+http://lista.digitalgroup.me:80/Cristina/1234/41353
+#EXTINF:-1,PREMIERE 9 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/41348
+#EXTINF:-1,PREMIERE 9 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/41349
+#EXTINF:-1,PREMIERE 9 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/41350
+#EXTINF:-1,PREMIERE 9 SD 4
+http://lista.digitalgroup.me:80/Cristina/1234/971
+#EXTINF:-1,PREMIERE 9 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/41351
+#EXTINF:-1,PREMIERE CLUBES HD
+http://lista.digitalgroup.me:80/Cristina/1234/1714
+#EXTINF:-1,PREMIERE CLUBES SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38672
+#EXTINF:-1,PREMIERE CLUBES SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38673
+#EXTINF:-1,PREMIERE CLUBES SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38674
+#EXTINF:-1,PREMIERE CLUBES SD+
+http://lista.digitalgroup.me:80/Cristina/1234/25246
+#EXTINF:-1,PRIME BOX BRASIL
+http://lista.digitalgroup.me:80/Cristina/1234/969
+#EXTINF:-1,RECORD BA HD
+http://lista.digitalgroup.me:80/Cristina/1234/29367
+#EXTINF:-1,RECORD BA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38836
+#EXTINF:-1,RECORD BA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/29366
+#EXTINF:-1,RECORD BA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38431
+#EXTINF:-1,RECORD DF HD
+http://lista.digitalgroup.me:80/Cristina/1234/29364
+#EXTINF:-1,RECORD DF SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38780
+#EXTINF:-1,RECORD DF SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/29365
+#EXTINF:-1,RECORD DF SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38418
+#EXTINF:-1,RECORD GO HD
+http://lista.digitalgroup.me:80/Cristina/1234/47529
+#EXTINF:-1,RECORD GO SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/47532
+#EXTINF:-1,RECORD GO SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/47531
+#EXTINF:-1,RECORD GO SD+
+http://lista.digitalgroup.me:80/Cristina/1234/47530
+#EXTINF:-1,RECORD MG HD
+http://lista.digitalgroup.me:80/Cristina/1234/29369
+#EXTINF:-1,RECORD MG SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38782
+#EXTINF:-1,RECORD MG SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/29368
+#EXTINF:-1,RECORD MG SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38430
+#EXTINF:-1,RECORD NEWS HD
+http://lista.digitalgroup.me:80/Cristina/1234/2400
+#EXTINF:-1,RECORD NEWS SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38784
+#EXTINF:-1,RECORD NEWS SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/966
+#EXTINF:-1,RECORD NEWS SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38443
+#EXTINF:-1,RECORD PA HD
+http://lista.digitalgroup.me:80/Cristina/1234/47555
+#EXTINF:-1,RECORD PA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/47553
+#EXTINF:-1,RECORD PA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/47552
+#EXTINF:-1,RECORD PA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/47554
+#EXTINF:-1,RECORD RJ HD
+http://lista.digitalgroup.me:80/Cristina/1234/29371
+#EXTINF:-1,RECORD RJ SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38767
+#EXTINF:-1,RECORD RJ SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/29370
+#EXTINF:-1,RECORD RJ SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38419
+#EXTINF:-1,RECORD RS HD
+http://lista.digitalgroup.me:80/Cristina/1234/29373
+#EXTINF:-1,RECORD RS SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38838
+#EXTINF:-1,RECORD RS SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/29372
+#EXTINF:-1,RECORD RS SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38433
+#EXTINF:-1,RECORD SP HD
+http://lista.digitalgroup.me:80/Cristina/1234/1210
+#EXTINF:-1,RECORD SP SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38765
+#EXTINF:-1,RECORD SP SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/1710
+#EXTINF:-1,RECORD SP SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38429
+#EXTINF:-1,REDE TV
+http://lista.digitalgroup.me:80/Cristina/1234/963
+#EXTINF:-1,REDE VIDA
+http://lista.digitalgroup.me:80/Cristina/1234/2499
+#EXTINF:-1,REDE VIDA HD
+http://lista.digitalgroup.me:80/Cristina/1234/52247
+#EXTINF:-1,SBT DIFUSORA
+http://lista.digitalgroup.me:80/Cristina/1234/37793
+#EXTINF:-1,SBT HD
+http://lista.digitalgroup.me:80/Cristina/1234/1208
+#EXTINF:-1,SBT HD+
+http://lista.digitalgroup.me:80/Cristina/1234/38919
+#EXTINF:-1,SBT SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38920
+#EXTINF:-1,SBT SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38921
+#EXTINF:-1,SBT SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/955
+#EXTINF:-1,SBT SD+
+http://lista.digitalgroup.me:80/Cristina/1234/38450
+#EXTINF:-1,SBT TV CIDADE VERDE
+http://lista.digitalgroup.me:80/Cristina/1234/37796
+#EXTINF:-1,SBT TV JORNAL
+http://lista.digitalgroup.me:80/Cristina/1234/37795
+#EXTINF:-1,SBT TV SERRA DOURADA
+http://lista.digitalgroup.me:80/Cristina/1234/37843
+#EXTINF:-1,SBT TV SERRA DOURADA HD
+http://lista.digitalgroup.me:80/Cristina/1234/37842
+#EXTINF:-1,SONY
+http://lista.digitalgroup.me:80/Cristina/1234/1096
+#EXTINF:-1,SONY HD
+http://lista.digitalgroup.me:80/Cristina/1234/2409
+#EXTINF:-1,SPACE
+http://lista.digitalgroup.me:80/Cristina/1234/2501
+#EXTINF:-1,SPACE HD
+http://lista.digitalgroup.me:80/Cristina/1234/1327
+#EXTINF:-1,SPORTV 1 HD
+http://lista.digitalgroup.me:80/Cristina/1234/1203
+#EXTINF:-1,SPORTV 1 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/47528
+#EXTINF:-1,SPORTV 1 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38706
+#EXTINF:-1,SPORTV 1 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38707
+#EXTINF:-1,SPORTV 1 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/47527
+#EXTINF:-1,SPORTV 2 HD
+http://lista.digitalgroup.me:80/Cristina/1234/2401
+#EXTINF:-1,SPORTV 2 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38710
+#EXTINF:-1,SPORTV 2 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38709
+#EXTINF:-1,SPORTV 2 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38708
+#EXTINF:-1,SPORTV 2 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22450
+#EXTINF:-1,SPORTV 3 HD
+http://lista.digitalgroup.me:80/Cristina/1234/2402
+#EXTINF:-1,SPORTV 3 SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38713
+#EXTINF:-1,SPORTV 3 SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38712
+#EXTINF:-1,SPORTV 3 SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38711
+#EXTINF:-1,SPORTV 3 SD+
+http://lista.digitalgroup.me:80/Cristina/1234/22454
+#EXTINF:-1,STUDIO UNIVERSAL
+http://lista.digitalgroup.me:80/Cristina/1234/2384
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://lista.digitalgroup.me:80/Cristina/1234/5094
+#EXTINF:-1,SYFY
+http://lista.digitalgroup.me:80/Cristina/1234/939
+#EXTINF:-1,SYFY HD
+http://lista.digitalgroup.me:80/Cristina/1234/18087
+#EXTINF:-1,TBS
+http://lista.digitalgroup.me:80/Cristina/1234/937
+#EXTINF:-1,TBS HD
+http://lista.digitalgroup.me:80/Cristina/1234/2473
+#EXTINF:-1,TC CULT
+http://lista.digitalgroup.me:80/Cristina/1234/933
+#EXTINF:-1,TC CULT HD
+http://lista.digitalgroup.me:80/Cristina/1234/5096
+#EXTINF:-1,TC FUN
+http://lista.digitalgroup.me:80/Cristina/1234/931
+#EXTINF:-1,TC FUN HD
+http://lista.digitalgroup.me:80/Cristina/1234/932
+#EXTINF:-1,TC PIPOCA
+http://lista.digitalgroup.me:80/Cristina/1234/929
+#EXTINF:-1,TC PIPOCA HD
+http://lista.digitalgroup.me:80/Cristina/1234/930
+#EXTINF:-1,TC TOUCH
+http://lista.digitalgroup.me:80/Cristina/1234/926
+#EXTINF:-1,TC TOUCH HD
+http://lista.digitalgroup.me:80/Cristina/1234/927
+#EXTINF:-1,TCM
+http://lista.digitalgroup.me:80/Cristina/1234/52252
+#EXTINF:-1,TCM HD
+http://lista.digitalgroup.me:80/Cristina/1234/52253
+#EXTINF:-1,THE HISTORY CHANNEL
+http://lista.digitalgroup.me:80/Cristina/1234/923
+#EXTINF:-1,THE HISTORY CHANNEL HD
+http://lista.digitalgroup.me:80/Cristina/1234/2468
+#EXTINF:-1,TLC
+http://lista.digitalgroup.me:80/Cristina/1234/922
+#EXTINF:-1,TLC HD
+http://lista.digitalgroup.me:80/Cristina/1234/5097
+#EXTINF:-1,TNT
+http://lista.digitalgroup.me:80/Cristina/1234/921
+#EXTINF:-1,TNT HD
+http://lista.digitalgroup.me:80/Cristina/1234/2383
+#EXTINF:-1,TNT SERIES
+http://lista.digitalgroup.me:80/Cristina/1234/1204
+#EXTINF:-1,TNT SERIES HD
+http://lista.digitalgroup.me:80/Cristina/1234/2474
+#EXTINF:-1,TOONCAST
+http://lista.digitalgroup.me:80/Cristina/1234/50244
+#EXTINF:-1,TOONCAST HD
+http://lista.digitalgroup.me:80/Cristina/1234/52250
+#EXTINF:-1,TV EVANGELIZAR
+http://lista.digitalgroup.me:80/Cristina/1234/11974
+#EXTINF:-1,TV MUNDIAL
+http://lista.digitalgroup.me:80/Cristina/1234/11971
+#EXTINF:-1,TV RA TIM BUM
+http://lista.digitalgroup.me:80/Cristina/1234/52248
+#EXTINF:-1,TV RA TIM BUM HD
+http://lista.digitalgroup.me:80/Cristina/1234/52249
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://lista.digitalgroup.me:80/Cristina/1234/940
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://lista.digitalgroup.me:80/Cristina/1234/2475
+#EXTINF:-1,VH1 MEGA HITS
+http://lista.digitalgroup.me:80/Cristina/1234/898
+#EXTINF:-1,VH1 MEGA HITS HD
+http://lista.digitalgroup.me:80/Cristina/1234/50194
+#EXTINF:-1,VIVA HD
+http://lista.digitalgroup.me:80/Cristina/1234/2476
+#EXTINF:-1,VIVA SD 1
+http://lista.digitalgroup.me:80/Cristina/1234/38722
+#EXTINF:-1,VIVA SD 2
+http://lista.digitalgroup.me:80/Cristina/1234/38721
+#EXTINF:-1,VIVA SD 3
+http://lista.digitalgroup.me:80/Cristina/1234/38720
+#EXTINF:-1,VIVA SD+
+http://lista.digitalgroup.me:80/Cristina/1234/23984
+#EXTINF:-1,WARNER CHANNEL
+http://lista.digitalgroup.me:80/Cristina/1234/896
+#EXTINF:-1,WARNER CHANNEL HD
+http://lista.digitalgroup.me:80/Cristina/1234/2478
+#EXTINF:-1,WOOHOO
+http://lista.digitalgroup.me:80/Cristina/1234/894
+#EXTINF:-1,WOOHOO HD
+http://lista.digitalgroup.me:80/Cristina/1234/16214
