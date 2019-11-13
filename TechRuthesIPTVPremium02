@@ -1,30 +1,41 @@
 #EXTM3U8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/42960.m3u8
+http://mytvip.xyz/live/112233/112233/63087.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD² | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63079.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/42961.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/42966.m3u8
+http://mytvip.xyz/live/112233/112233/63086.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/42967.m3u8
+http://mytvip.xyz/live/112233/112233/63099.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF HD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/68874.m3u8
 #EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band FHD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43340.m3u8
+http://mytvip.xyz/live/112233/112233/63396.m3u8
 #EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43297.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record FHD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43331.m3u8
+http://mytvip.xyz/live/112233/112233/63387.m3u8
+#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD² | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63388.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record HD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43178.m3u8
-#EXTINF:-1 tvg-ID="foxpremium1" tvg-name="Fox Premium 1" group-title="Filmes e Séries",Fox Premium 1 HD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/54199.m3u8
-#EXTINF:-1 tvg-ID="foxpremium2" tvg-name="Fox Premium 2" group-title="Filmes e Séries",Fox Premium 2 HD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/54197.m3u8
-#EXTINF:-1 tvg-ID="tnt" tvg-name="tnt" group-title="Filmes e Séries",TNT FHD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43350.m3u8
-#EXTINF:-1 tvg-ID="tnt" tvg-name="tnt" group-title="Filmes e Séries",TNT FHD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43145.m3u8
-#EXTINF:-1 tvg-ID="tnt" tvg-name="tnt" group-title="Filmes e Séries",Warner Channel FHD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43344.m3u8
-#EXTINF:-1 tvg-ID="tnt" tvg-name="tnt" group-title="Filmes e Séries",Warner Channel HD | TechRuthes.com
-http://assistaiptvplay.com/live/5516997705368/997705368/43122.m3u8
-
+http://mytvip.xyz/live/112233/112233/62797.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT SP HD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/62770.m3u8
+#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT RJ HD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/62775.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News FHD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63125.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News FHD² | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63124.m3u8
+#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63123.m3u8
+#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/62811.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News FHD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63386.m3u8
+#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News HD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63383.m3u8
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E FHD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63430.m3u8
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E FHD² | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63431.m3u8
+#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E HD | TechRuthes.com
+http://mytvip.xyz/live/112233/112233/63426.m3u8
