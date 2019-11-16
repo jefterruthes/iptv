@@ -1,93 +1,29 @@
 #EXTM3U8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10891
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10892
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10246
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10893
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/30110
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/22232
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10447
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10446
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10437
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/23299
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",RedeTV | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10441
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News FHD" group-title="Notícias",Globo News HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/22710
-#EXTINF:-1 tvg-ID="recordnews" tvg-name="Record News HD" group-title="Notícias",Record News HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10444
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News FHD" group-title="Notícias",Band News HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10190
-#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10644
-#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/22166
-#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10200
-#EXTINF:-1 tvg-ID="arte1" tvg-name="Arte 1" group-title="Variedades e Músicas",Arte 1 FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/22208
-#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10212
-#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10287
-#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10288
-#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10361
-#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10362
-#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10393
-#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10337
-#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10339
-#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10342
-#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV" group-title="Variedades e Músicas",MTV FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10343
-#EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10179
-#EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10180
-#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10518
-#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10519
-#EXTINF:-1 tvg-ID="h2" tvg-name="H2 HD" group-title="Documentários",H2 HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10390
-#EXTINF:-1 tvg-ID="h2" tvg-name="H2" group-title="Documentários",H2 FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10392
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10202
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10203
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel FHD" group-title="Documentários",Discovery Channel FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10152
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel HD" group-title="Documentários",Discovery Channel HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10153
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10140
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10142
-#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater HD" group-title="Documentários",Discovery Theater HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10137
-#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater" group-title="Documentários",Discovery Theater FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10139
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo HD" group-title="Documentários",Discovery Turbo HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10134
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo" group-title="Documentários",Discovery Turbo FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10135
-#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World HD" group-title="Documentários",Discovery World HD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10132
-#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World" group-title="Documentários",Discovery World FHD | TechRuthes.com
-http://tv.minhalista.vip:80/kinho3670/698mol/10133
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere" group-title="Esportes",Premiere Clubes FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43031.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43038.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43037.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43050.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43036.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43038.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43035.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43046.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43034.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43044.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43033.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43042.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43032.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43040.m3u8
