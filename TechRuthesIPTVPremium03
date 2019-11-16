@@ -1,29 +1,29 @@
 #EXTM3U8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/42960.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/42961.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/42966.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/42967.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF FHD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/42930.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo DF HD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/42985.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band FHD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/43340.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/43297.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record SP FHD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/43331.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record SP HD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/43178.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record RJ FHD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/43317.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record RJ HD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/43113.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT SP FHD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/43330.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT SP HD | TechRuthes.com
-http://assistaiptvplay.com/live/Diana/Diana/54039.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere" group-title="Esportes",Premiere Clubes FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43031.m3u8
+#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43038.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43037.m3u8
+#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43050.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43036.m3u8
+#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43038.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43035.m3u8
+#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43046.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43034.m3u8
+#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43044.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43033.m3u8
+#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43042.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 FHD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43032.m3u8
+#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 HD | TechRuthes.com
+http://assistaiptvplay.com/live/Diana/Diana/43040.m3u8
