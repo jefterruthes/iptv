@@ -1,37 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40808.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40808.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40807.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40807.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_a7b22162102de8b91e19052b52649939270a506f/playlist.m3u8
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40804.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40804.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/axn_cb7a1d77_462e995ec732daffe41303377a6f408539790f70/playlist.m3u8
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40728.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40728.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_22e5d5fc132e0c21d88f59a9833f1d922157dfca/playlist.m3u8
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40792.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40792.m3u8
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/cinemax720p_49117359_41e503014243f57e1e805b472e4d0a61259799e6.m3u8
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD | TechRuthes.com
 http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40772.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40772.m3u8
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD | TechRuthes.com
 http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40771.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40771.m3u8
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40687.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40687.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_f7364a044319489d2b249b0747614aa48dab2052/playlist.m3u8
 #EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40686.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40686.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium2_2456caf1_7a4ced305334d82b5231627d2d0e3c3f8c627725.m3u8
