@@ -1,37 +1,793 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40808.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40808.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40807.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40807.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40804.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40804.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40728.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40728.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40792.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40792.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40772.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40772.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40771.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40771.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40687.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40687.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40686.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40686.m3u8
+#EXTINF:-1,A&E FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/1
+#EXTINF:-1,A&E HD
+http://lindaflor.net:8080/francivaldo1717/6606/2
+#EXTINF:-1,A&E SD
+http://lindaflor.net:8080/francivaldo1717/6606/3
+#EXTINF:-1,AMC FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/4
+#EXTINF:-1,AMC HD
+http://lindaflor.net:8080/francivaldo1717/6606/5
+#EXTINF:-1,AMC SD
+http://lindaflor.net:8080/francivaldo1717/6606/6
+#EXTINF:-1,Animal Planet FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/7
+#EXTINF:-1,Animal Planet HD
+http://lindaflor.net:8080/francivaldo1717/6606/8
+#EXTINF:-1,Animal Planet SD
+http://lindaflor.net:8080/francivaldo1717/6606/9
+#EXTINF:-1,AXN FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/10
+#EXTINF:-1,AXN HD
+http://lindaflor.net:8080/francivaldo1717/6606/11
+#EXTINF:-1,AXN SD
+http://lindaflor.net:8080/francivaldo1717/6606/12
+#EXTINF:-1,Baby TV SD
+http://lindaflor.net:8080/francivaldo1717/6606/13
+#EXTINF:-1,Band Brasilia HD
+http://lindaflor.net:8080/francivaldo1717/6606/161
+#EXTINF:-1,Band Campinas HD
+http://lindaflor.net:8080/francivaldo1717/6606/162
+#EXTINF:-1,Band News FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/229
+#EXTINF:-1,Band RJ HD
+http://lindaflor.net:8080/francivaldo1717/6606/163
+#EXTINF:-1,Band RS HD
+http://lindaflor.net:8080/francivaldo1717/6606/164
+#EXTINF:-1,Band Sergipe HD
+http://lindaflor.net:8080/francivaldo1717/6606/165
+#EXTINF:-1,Band SP HD
+http://lindaflor.net:8080/francivaldo1717/6606/166
+#EXTINF:-1,Band Sports HD
+http://lindaflor.net:8080/francivaldo1717/6606/18
+#EXTINF:-1,Band Sports SD
+http://lindaflor.net:8080/francivaldo1717/6606/19
+#EXTINF:-1,Band TV Goiania FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/308
+#EXTINF:-1,Band TV Taroba HD
+http://lindaflor.net:8080/francivaldo1717/6606/226
+#EXTINF:-1,Band Bahia SD
+http://lindaflor.net:8080/francivaldo1717/6606/14
+#EXTINF:-1,Band News SD
+http://lindaflor.net:8080/francivaldo1717/6606/16
+#EXTINF:-1,Band SD
+http://lindaflor.net:8080/francivaldo1717/6606/15
+#EXTINF:-1,Band TV Goiania HD
+http://lindaflor.net:8080/francivaldo1717/6606/392
+#EXTINF:-1,BIS FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/20
+#EXTINF:-1,BIS HD
+http://lindaflor.net:8080/francivaldo1717/6606/21
+#EXTINF:-1,BIS SD
+http://lindaflor.net:8080/francivaldo1717/6606/22
+#EXTINF:-1,Boomerang FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/23
+#EXTINF:-1,Boomerang SD
+http://lindaflor.net:8080/francivaldo1717/6606/24
+#EXTINF:-1,Canal Brasil FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/26
+#EXTINF:-1,Canal Brasil SD
+http://lindaflor.net:8080/francivaldo1717/6606/25
+#EXTINF:-1,Canal do Boi SD
+http://lindaflor.net:8080/francivaldo1717/6606/27
+#EXTINF:-1,Canal Sony FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/28
+#EXTINF:-1,Canal Sony HD
+http://lindaflor.net:8080/francivaldo1717/6606/29
+#EXTINF:-1,Canal Sony SD
+http://lindaflor.net:8080/francivaldo1717/6606/30
+#EXTINF:-1,Cancao Nova SD
+http://lindaflor.net:8080/francivaldo1717/6606/31
+#EXTINF:-1,Cartoon Network FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/32
+#EXTINF:-1,Cartoon Network HD
+http://lindaflor.net:8080/francivaldo1717/6606/33
+#EXTINF:-1,Cartoon Network SD
+http://lindaflor.net:8080/francivaldo1717/6606/34
+#EXTINF:-1,Cinemax FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/230
+#EXTINF:-1,Cinemax HD
+http://lindaflor.net:8080/francivaldo1717/6606/314
+#EXTINF:-1,Cinemax SD
+http://lindaflor.net:8080/francivaldo1717/6606/35
+#EXTINF:-1,Combate FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/231
+#EXTINF:-1,Combate HD
+http://lindaflor.net:8080/francivaldo1717/6606/315
+#EXTINF:-1,Combate SD
+http://lindaflor.net:8080/francivaldo1717/6606/36
+#EXTINF:-1,Comedy Central FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/232
+#EXTINF:-1,Comedy Central HD
+http://lindaflor.net:8080/francivaldo1717/6606/316
+#EXTINF:-1,Comedy Central SD
+http://lindaflor.net:8080/francivaldo1717/6606/37
+#EXTINF:-1,Curta! SD
+http://lindaflor.net:8080/francivaldo1717/6606/38
+#EXTINF:-1,DAZN 01 HD
+http://lindaflor.net:8080/francivaldo1717/6606/167
+#EXTINF:-1,DAZN 02 HD
+http://lindaflor.net:8080/francivaldo1717/6606/168
+#EXTINF:-1,DAZN 03 HD
+http://lindaflor.net:8080/francivaldo1717/6606/169
+#EXTINF:-1,DAZN 04 HD
+http://lindaflor.net:8080/francivaldo1717/6606/170
+#EXTINF:-1,Discovery Channel FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/233
+#EXTINF:-1,Discovery Channel HD
+http://lindaflor.net:8080/francivaldo1717/6606/317
+#EXTINF:-1,Discovery Channel SD
+http://lindaflor.net:8080/francivaldo1717/6606/39
+#EXTINF:-1,Discovery Home & Health FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/235
+#EXTINF:-1,Discovery Home & Health HD
+http://lindaflor.net:8080/francivaldo1717/6606/319
+#EXTINF:-1,Discovery Home & Health SD
+http://lindaflor.net:8080/francivaldo1717/6606/40
+#EXTINF:-1,Discovery Kids FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/236
+#EXTINF:-1,Discovery Kids HD
+http://lindaflor.net:8080/francivaldo1717/6606/320
+#EXTINF:-1,Discovery Kids SD
+http://lindaflor.net:8080/francivaldo1717/6606/41
+#EXTINF:-1,Discovery Science FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/237
+#EXTINF:-1,Discovery Science HD
+http://lindaflor.net:8080/francivaldo1717/6606/321
+#EXTINF:-1,Discovery Theater FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/238
+#EXTINF:-1,Discovery Theater HD
+http://lindaflor.net:8080/francivaldo1717/6606/322
+#EXTINF:-1,Discovery Turbo FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/239
+#EXTINF:-1,Discovery Turbo HD
+http://lindaflor.net:8080/francivaldo1717/6606/323
+#EXTINF:-1,Discovery Turbo SD
+http://lindaflor.net:8080/francivaldo1717/6606/42
+#EXTINF:-1,Discovery World FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/240
+#EXTINF:-1,Discovery World HD
+http://lindaflor.net:8080/francivaldo1717/6606/324
+#EXTINF:-1,Disney Channel FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/241
+#EXTINF:-1,Disney Channel HD
+http://lindaflor.net:8080/francivaldo1717/6606/325
+#EXTINF:-1,Disney Channel SD
+http://lindaflor.net:8080/francivaldo1717/6606/43
+#EXTINF:-1,Disney Junior FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/242
+#EXTINF:-1,Disney Junior HD
+http://lindaflor.net:8080/francivaldo1717/6606/326
+#EXTINF:-1,Disney Junior SD
+http://lindaflor.net:8080/francivaldo1717/6606/44
+#EXTINF:-1,Disney XD SD
+http://lindaflor.net:8080/francivaldo1717/6606/45
+#EXTINF:-1,E! FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/243
+#EXTINF:-1,E! HD
+http://lindaflor.net:8080/francivaldo1717/6606/327
+#EXTINF:-1,E! SD
+http://lindaflor.net:8080/francivaldo1717/6606/46
+#EXTINF:-1,Ei Plus HD
+http://lindaflor.net:8080/francivaldo1717/6606/175
+#EXTINF:-1,EiMax Jogos01
+http://lindaflor.net:8080/francivaldo1717/6606/171
+#EXTINF:-1,EiMax Jogos02
+http://lindaflor.net:8080/francivaldo1717/6606/172
+#EXTINF:-1,EiMax Jogos03
+http://lindaflor.net:8080/francivaldo1717/6606/173
+#EXTINF:-1,EiMax Jogos04
+http://lindaflor.net:8080/francivaldo1717/6606/174
+#EXTINF:-1,ESPN 2 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/246
+#EXTINF:-1,ESPN 2 HD
+http://lindaflor.net:8080/francivaldo1717/6606/328
+#EXTINF:-1,ESPN 2 SD
+http://lindaflor.net:8080/francivaldo1717/6606/51
+#EXTINF:-1,ESPN Brasil FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/247
+#EXTINF:-1,ESPN Brasil HD
+http://lindaflor.net:8080/francivaldo1717/6606/329
+#EXTINF:-1,ESPN Brasil SD
+http://lindaflor.net:8080/francivaldo1717/6606/52
+#EXTINF:-1,ESPN Extra FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/244
+#EXTINF:-1,ESPN Extra HD
+http://lindaflor.net:8080/francivaldo1717/6606/331
+#EXTINF:-1,ESPN FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/245
+#EXTINF:-1,ESPN HD
+http://lindaflor.net:8080/francivaldo1717/6606/330
+#EXTINF:-1,ESPN SD
+http://lindaflor.net:8080/francivaldo1717/6606/50
+#EXTINF:-1,Band Sports FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/17
+#EXTINF:-1,HBO Family HD
+http://lindaflor.net:8080/francivaldo1717/6606/345
+#EXTINF:-1,Film & Arts SD
+http://lindaflor.net:8080/francivaldo1717/6606/53
+#EXTINF:-1,Fish TV FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/248
+#EXTINF:-1,Fish TV SD
+http://lindaflor.net:8080/francivaldo1717/6606/54
+#EXTINF:-1,Food Network FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/249
+#EXTINF:-1,Food Network HD
+http://lindaflor.net:8080/francivaldo1717/6606/332
+#EXTINF:-1,Food Network SD
+http://lindaflor.net:8080/francivaldo1717/6606/55
+#EXTINF:-1,Fox FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/250
+#EXTINF:-1,Fox HD
+http://lindaflor.net:8080/francivaldo1717/6606/333
+#EXTINF:-1,Fox Life HD
+http://lindaflor.net:8080/francivaldo1717/6606/334
+#EXTINF:-1,Fox Life SD
+http://lindaflor.net:8080/francivaldo1717/6606/57
+#EXTINF:-1,Fox Premium 1 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/251
+#EXTINF:-1,Fox Premium 1 HD
+http://lindaflor.net:8080/francivaldo1717/6606/335
+#EXTINF:-1,Fox Premium 2 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/252
+#EXTINF:-1,Fox Premium 2 HD
+http://lindaflor.net:8080/francivaldo1717/6606/336
+#EXTINF:-1,Fox SD
+http://lindaflor.net:8080/francivaldo1717/6606/56
+#EXTINF:-1,Fox Sports 2
+http://lindaflor.net:8080/francivaldo1717/6606/59
+#EXTINF:-1,Fox Sports 2 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/254
+#EXTINF:-1,Fox Sports 2 HD
+http://lindaflor.net:8080/francivaldo1717/6606/337
+#EXTINF:-1,Fox Sports FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/253
+#EXTINF:-1,Fox Sports HD
+http://lindaflor.net:8080/francivaldo1717/6606/338
+#EXTINF:-1,Fox Sports SD
+http://lindaflor.net:8080/francivaldo1717/6606/58
+#EXTINF:-1,Futura SD
+http://lindaflor.net:8080/francivaldo1717/6606/60
+#EXTINF:-1,FX FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/255
+#EXTINF:-1,FX HD
+http://lindaflor.net:8080/francivaldo1717/6606/339
+#EXTINF:-1,FX SD
+http://lindaflor.net:8080/francivaldo1717/6606/61
+#EXTINF:-1,Gazeta SP HD
+http://lindaflor.net:8080/francivaldo1717/6606/178
+#EXTINF:-1,Globo  RPC Parana HD
+http://lindaflor.net:8080/francivaldo1717/6606/225
+#EXTINF:-1,Globo Brasilia HD
+http://lindaflor.net:8080/francivaldo1717/6606/179
+#EXTINF:-1,Globo Brasilia SD
+http://lindaflor.net:8080/francivaldo1717/6606/62
+#EXTINF:-1,Globo EPTV Campinas SD
+http://lindaflor.net:8080/francivaldo1717/6606/48
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://lindaflor.net:8080/francivaldo1717/6606/49
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://lindaflor.net:8080/francivaldo1717/6606/47
+#EXTINF:-1,Globo Gazeta SUL ES
+http://lindaflor.net:8080/francivaldo1717/6606/180
+#EXTINF:-1,Globo Gazeta SUL ES. FHD
+http://lindaflor.net:8080/francivaldo1717/6606/181
+#EXTINF:-1,Globo Gazeta SUL ES. HD
+http://lindaflor.net:8080/francivaldo1717/6606/182
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://lindaflor.net:8080/francivaldo1717/6606/77
+#EXTINF:-1,Globo Internacional HD
+http://lindaflor.net:8080/francivaldo1717/6606/183
+#EXTINF:-1,Globo Minas HD
+http://lindaflor.net:8080/francivaldo1717/6606/223
+#EXTINF:-1,Globo Minas SD
+http://lindaflor.net:8080/francivaldo1717/6606/63
+#EXTINF:-1,Globo News FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/256
+#EXTINF:-1,Globo News HD
+http://lindaflor.net:8080/francivaldo1717/6606/340
+#EXTINF:-1,Globo News SD
+http://lindaflor.net:8080/francivaldo1717/6606/64
+#EXTINF:-1,Globo Nordeste SD
+http://lindaflor.net:8080/francivaldo1717/6606/65
+#EXTINF:-1,Globo NSC TV Santa Catarina HD
+http://lindaflor.net:8080/francivaldo1717/6606/219
+#EXTINF:-1,Globo RBS HD
+http://lindaflor.net:8080/francivaldo1717/6606/188
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://lindaflor.net:8080/francivaldo1717/6606/108
+#EXTINF:-1,Globo Rede Amazonica Manaus
+http://lindaflor.net:8080/francivaldo1717/6606/111
+#EXTINF:-1,Globo RJ HD
+http://lindaflor.net:8080/francivaldo1717/6606/184
+#EXTINF:-1,Globo RJ SD
+http://lindaflor.net:8080/francivaldo1717/6606/66
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://lindaflor.net:8080/francivaldo1717/6606/115
+#EXTINF:-1,Globo Sergipe HD
+http://lindaflor.net:8080/francivaldo1717/6606/185
+#EXTINF:-1,Globo SP HD
+http://lindaflor.net:8080/francivaldo1717/6606/186
+#EXTINF:-1,Globo SP SD
+http://lindaflor.net:8080/francivaldo1717/6606/67
+#EXTINF:-1,Globo TV Anhaguera FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/307
+#EXTINF:-1,Globo TV Anhaguera HD
+http://lindaflor.net:8080/francivaldo1717/6606/391
+#EXTINF:-1,Globo TV Anhanguera Goiania SD
+http://lindaflor.net:8080/francivaldo1717/6606/138
+#EXTINF:-1,Globo TV Bahia SD
+http://lindaflor.net:8080/francivaldo1717/6606/140
+#EXTINF:-1,Globo TV Centro America Cuiaba SD
+http://lindaflor.net:8080/francivaldo1717/6606/142
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://lindaflor.net:8080/francivaldo1717/6606/145
+#EXTINF:-1,Globo TV Morena Ponta Pora HD
+http://lindaflor.net:8080/francivaldo1717/6606/208
+#EXTINF:-1,Globo TV Santa Cruz TV Bahia HD
+http://lindaflor.net:8080/francivaldo1717/6606/210
+#EXTINF:-1,Globo TV Subae bahia HD
+http://lindaflor.net:8080/francivaldo1717/6606/211
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://lindaflor.net:8080/francivaldo1717/6606/148
+#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto SD
+http://lindaflor.net:8080/francivaldo1717/6606/149
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://lindaflor.net:8080/francivaldo1717/6606/150
+#EXTINF:-1,Globo TV Tribuna ES
+http://lindaflor.net:8080/francivaldo1717/6606/212
+#EXTINF:-1,Globo TV Tribuna ES FHD
+http://lindaflor.net:8080/francivaldo1717/6606/213
+#EXTINF:-1,Globo TV Tribuna ES HD
+http://lindaflor.net:8080/francivaldo1717/6606/214
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://lindaflor.net:8080/francivaldo1717/6606/151
+#EXTINF:-1,Globo TV Vanguarda dos Campos SD
+http://lindaflor.net:8080/francivaldo1717/6606/152
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://lindaflor.net:8080/francivaldo1717/6606/153
+#EXTINF:-1,Globo TV Vitoria ES
+http://lindaflor.net:8080/francivaldo1717/6606/215
+#EXTINF:-1,Globo TV Vitoria ES FHD
+http://lindaflor.net:8080/francivaldo1717/6606/216
+#EXTINF:-1,Globo TV Vitoria ES HD
+http://lindaflor.net:8080/francivaldo1717/6606/217
+#EXTINF:-1,Gloob FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/257
+#EXTINF:-1,Gloob HD
+http://lindaflor.net:8080/francivaldo1717/6606/342
+#EXTINF:-1,Gloob SD
+http://lindaflor.net:8080/francivaldo1717/6606/68
+#EXTINF:-1,GNT FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/258
+#EXTINF:-1,GNT HD
+http://lindaflor.net:8080/francivaldo1717/6606/343
+#EXTINF:-1,GNT SD
+http://lindaflor.net:8080/francivaldo1717/6606/69
+#EXTINF:-1,Record TV Goiania HD
+http://lindaflor.net:8080/francivaldo1717/6606/373
+#EXTINF:-1,H2 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/265
+#EXTINF:-1,H2 HD
+http://lindaflor.net:8080/francivaldo1717/6606/349
+#EXTINF:-1,H2 SD
+http://lindaflor.net:8080/francivaldo1717/6606/75
+#EXTINF:-1,HBO 2 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/263
+#EXTINF:-1,HBO 2 HD
+http://lindaflor.net:8080/francivaldo1717/6606/344
+#EXTINF:-1,HBO 2 SD
+http://lindaflor.net:8080/francivaldo1717/6606/74
+#EXTINF:-1,HBO Familly FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/259
+#EXTINF:-1,HBO Family SD
+http://lindaflor.net:8080/francivaldo1717/6606/71
+#EXTINF:-1,HBO FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/260
+#EXTINF:-1,HBO HD
+http://lindaflor.net:8080/francivaldo1717/6606/346
+#EXTINF:-1,HBO Plus FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/261
+#EXTINF:-1,HBO Plus HD
+http://lindaflor.net:8080/francivaldo1717/6606/347
+#EXTINF:-1,HBO Plus SD
+http://lindaflor.net:8080/francivaldo1717/6606/72
+#EXTINF:-1,HBO SD
+http://lindaflor.net:8080/francivaldo1717/6606/70
+#EXTINF:-1,HBO Signature FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/262
+#EXTINF:-1,HBO Signature HD
+http://lindaflor.net:8080/francivaldo1717/6606/348
+#EXTINF:-1,HBO Signature SD
+http://lindaflor.net:8080/francivaldo1717/6606/73
+#EXTINF:-1,HGTV FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/234
+#EXTINF:-1,HGTV HD
+http://lindaflor.net:8080/francivaldo1717/6606/318
+#EXTINF:-1,History Channel FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/264
+#EXTINF:-1,History Channel HD
+http://lindaflor.net:8080/francivaldo1717/6606/350
+#EXTINF:-1,History Channel SD
+http://lindaflor.net:8080/francivaldo1717/6606/159
+#EXTINF:-1,ID - Investigation Discovery HD
+http://lindaflor.net:8080/francivaldo1717/6606/351
+#EXTINF:-1,ID - Investigacao Discovery SD
+http://lindaflor.net:8080/francivaldo1717/6606/76
+#EXTINF:-1,ID - Investigation Discovery FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/266
+#EXTINF:-1,Lifetime FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/267
+#EXTINF:-1,Lifetime HD
+http://lindaflor.net:8080/francivaldo1717/6606/352
+#EXTINF:-1,Lifetime SD
+http://lindaflor.net:8080/francivaldo1717/6606/78
+#EXTINF:-1,Mais Globosat FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/268
+#EXTINF:-1,Mais Globosat HD
+http://lindaflor.net:8080/francivaldo1717/6606/341
+#EXTINF:-1,Mais Globosat SD
+http://lindaflor.net:8080/francivaldo1717/6606/79
+#EXTINF:-1,Max FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/269
+#EXTINF:-1,Max HD
+http://lindaflor.net:8080/francivaldo1717/6606/353
+#EXTINF:-1,Max Prime FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/270
+#EXTINF:-1,Max Prime HD
+http://lindaflor.net:8080/francivaldo1717/6606/354
+#EXTINF:-1,Max Prime SD
+http://lindaflor.net:8080/francivaldo1717/6606/81
+#EXTINF:-1,Max SD
+http://lindaflor.net:8080/francivaldo1717/6606/80
+#EXTINF:-1,Max UP FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/271
+#EXTINF:-1,Max UP HD
+http://lindaflor.net:8080/francivaldo1717/6606/355
+#EXTINF:-1,Max UP SD
+http://lindaflor.net:8080/francivaldo1717/6606/82
+#EXTINF:-1,Megapix FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/272
+#EXTINF:-1,Megapix HD
+http://lindaflor.net:8080/francivaldo1717/6606/356
+#EXTINF:-1,Megapix SD
+http://lindaflor.net:8080/francivaldo1717/6606/83
+#EXTINF:-1,MTV FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/273
+#EXTINF:-1,MTV HD
+http://lindaflor.net:8080/francivaldo1717/6606/357
+#EXTINF:-1,MTV SD
+http://lindaflor.net:8080/francivaldo1717/6606/84
+#EXTINF:-1,Multishow FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/274
+#EXTINF:-1,Multishow HD
+http://lindaflor.net:8080/francivaldo1717/6606/358
+#EXTINF:-1,Multishow SD
+http://lindaflor.net:8080/francivaldo1717/6606/85
+#EXTINF:-1,Music Box Brazil HD
+http://lindaflor.net:8080/francivaldo1717/6606/87
+#EXTINF:-1,Music Box Brazil SD
+http://lindaflor.net:8080/francivaldo1717/6606/86
+#EXTINF:-1,NatGeo Kids FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/277
+#EXTINF:-1,NatGeo Kids HD
+http://lindaflor.net:8080/francivaldo1717/6606/360
+#EXTINF:-1,NatGeo Kids SD
+http://lindaflor.net:8080/francivaldo1717/6606/88
+#EXTINF:-1,NatGeo Wild FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/276
+#EXTINF:-1,NatGeo Wild HD
+http://lindaflor.net:8080/francivaldo1717/6606/361
+#EXTINF:-1,NatGeo Wild SD
+http://lindaflor.net:8080/francivaldo1717/6606/89
+#EXTINF:-1,National Geographic FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/275
+#EXTINF:-1,National Geographic HD
+http://lindaflor.net:8080/francivaldo1717/6606/359
+#EXTINF:-1,National Geographic SD
+http://lindaflor.net:8080/francivaldo1717/6606/90
+#EXTINF:-1,NHK SD
+http://lindaflor.net:8080/francivaldo1717/6606/91
+#EXTINF:-1,Nick Jr. FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/279
+#EXTINF:-1,Nick Jr. HD
+http://lindaflor.net:8080/francivaldo1717/6606/363
+#EXTINF:-1,Nick Jr. SD
+http://lindaflor.net:8080/francivaldo1717/6606/92
+#EXTINF:-1,Nickelodeon FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/278
+#EXTINF:-1,Nickelodeon HD
+http://lindaflor.net:8080/francivaldo1717/6606/362
+#EXTINF:-1,Nickelodeon SD
+http://lindaflor.net:8080/francivaldo1717/6606/93
+#EXTINF:-1,OFF FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/280
+#EXTINF:-1,OFF HD
+http://lindaflor.net:8080/francivaldo1717/6606/364
+#EXTINF:-1,OFF SD
+http://lindaflor.net:8080/francivaldo1717/6606/94
+#EXTINF:-1,Paramount Channel FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/281
+#EXTINF:-1,Paramount Channel SD
+http://lindaflor.net:8080/francivaldo1717/6606/95
+#EXTINF:-1,Paramount HD
+http://lindaflor.net:8080/francivaldo1717/6606/365
+#EXTINF:-1,Play TV SD
+http://lindaflor.net:8080/francivaldo1717/6606/96
+#EXTINF:-1,Playkids
+http://lindaflor.net:8080/francivaldo1717/6606/187
+#EXTINF:-1,Polishop TV SD
+http://lindaflor.net:8080/francivaldo1717/6606/97
+#EXTINF:-1,Premiere 2 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/283
+#EXTINF:-1,Premiere 2 HD
+http://lindaflor.net:8080/francivaldo1717/6606/366
+#EXTINF:-1,Premiere 2 SD
+http://lindaflor.net:8080/francivaldo1717/6606/98
+#EXTINF:-1,Premiere 3 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/284
+#EXTINF:-1,Premiere 3 HD
+http://lindaflor.net:8080/francivaldo1717/6606/367
+#EXTINF:-1,Premiere 3 SD
+http://lindaflor.net:8080/francivaldo1717/6606/99
+#EXTINF:-1,Premiere 4 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/285
+#EXTINF:-1,Premiere 4 HD
+http://lindaflor.net:8080/francivaldo1717/6606/368
+#EXTINF:-1,Premiere 4 SD
+http://lindaflor.net:8080/francivaldo1717/6606/100
+#EXTINF:-1,Premiere 5 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/286
+#EXTINF:-1,Premiere 5 HD
+http://lindaflor.net:8080/francivaldo1717/6606/369
+#EXTINF:-1,Premiere 5 SD
+http://lindaflor.net:8080/francivaldo1717/6606/101
+#EXTINF:-1,Premiere 6 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/287
+#EXTINF:-1,Premiere 6 HD
+http://lindaflor.net:8080/francivaldo1717/6606/370
+#EXTINF:-1,Premiere 6 SD
+http://lindaflor.net:8080/francivaldo1717/6606/102
+#EXTINF:-1,Premiere 7 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/288
+#EXTINF:-1,Premiere 7 HD
+http://lindaflor.net:8080/francivaldo1717/6606/371
+#EXTINF:-1,Premiere 7 SD
+http://lindaflor.net:8080/francivaldo1717/6606/103
+#EXTINF:-1,Premiere 8 SD
+http://lindaflor.net:8080/francivaldo1717/6606/104
+#EXTINF:-1,Premiere 9 SD
+http://lindaflor.net:8080/francivaldo1717/6606/105
+#EXTINF:-1,Premiere Clubes FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/282
+#EXTINF:-1,Premiere Clubes HD
+http://lindaflor.net:8080/francivaldo1717/6606/372
+#EXTINF:-1,Premiere Clubes SD
+http://lindaflor.net:8080/francivaldo1717/6606/106
+#EXTINF:-1,Prime Box Brazil SD
+http://lindaflor.net:8080/francivaldo1717/6606/107
+#EXTINF:-1,Record Brasilia HD
+http://lindaflor.net:8080/francivaldo1717/6606/189
+#EXTINF:-1,Record News ES
+http://lindaflor.net:8080/francivaldo1717/6606/190
+#EXTINF:-1,Record News ES FHD
+http://lindaflor.net:8080/francivaldo1717/6606/191
+#EXTINF:-1,Record News ES HD
+http://lindaflor.net:8080/francivaldo1717/6606/192
+#EXTINF:-1,Record News SC HD
+http://lindaflor.net:8080/francivaldo1717/6606/222
+#EXTINF:-1,Record News SD
+http://lindaflor.net:8080/francivaldo1717/6606/109
+#EXTINF:-1,Record RJ HD
+http://lindaflor.net:8080/francivaldo1717/6606/200
+#EXTINF:-1,Record RS HD
+http://lindaflor.net:8080/francivaldo1717/6606/193
+#EXTINF:-1,Record Sao Jose Rio Preto HD
+http://lindaflor.net:8080/francivaldo1717/6606/194
+#EXTINF:-1,Record Sergipe HD
+http://lindaflor.net:8080/francivaldo1717/6606/195
+#EXTINF:-1,Record SP HD
+http://lindaflor.net:8080/francivaldo1717/6606/196
+#EXTINF:-1,Record TV belem HD
+http://lindaflor.net:8080/francivaldo1717/6606/197
+#EXTINF:-1,Record TV Cabralia HD Bahia
+http://lindaflor.net:8080/francivaldo1717/6606/207
+#EXTINF:-1,Record TV Goiania FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/289
+#EXTINF:-1,Record TV Litoral HD Santos
+http://lindaflor.net:8080/francivaldo1717/6606/198
+#EXTINF:-1,Record TV Minas HD
+http://lindaflor.net:8080/francivaldo1717/6606/199
+#EXTINF:-1,Record TV Parana HD
+http://lindaflor.net:8080/francivaldo1717/6606/228
+#EXTINF:-1,Record TV Paranaíba HD
+http://lindaflor.net:8080/francivaldo1717/6606/209
+#EXTINF:-1,Record TV Santa Catarina HD
+http://lindaflor.net:8080/francivaldo1717/6606/220
+#EXTINF:-1,Record TV SD
+http://lindaflor.net:8080/francivaldo1717/6606/110
+#EXTINF:-1,Record TVB Campinas HD
+http://lindaflor.net:8080/francivaldo1717/6606/218
+#EXTINF:-1,Rede Brasil SD
+http://lindaflor.net:8080/francivaldo1717/6606/112
+#EXTINF:-1,Rede TV FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/290
+#EXTINF:-1,Rede TV HD
+http://lindaflor.net:8080/francivaldo1717/6606/374
+#EXTINF:-1,Rede TV SD
+http://lindaflor.net:8080/francivaldo1717/6606/113
+#EXTINF:-1,Rede Vida SD
+http://lindaflor.net:8080/francivaldo1717/6606/114
+#EXTINF:-1,SBT Brasilia HD
+http://lindaflor.net:8080/francivaldo1717/6606/201
+#EXTINF:-1,SBT Parana HD
+http://lindaflor.net:8080/francivaldo1717/6606/227
+#EXTINF:-1,SBT RJ HD
+http://lindaflor.net:8080/francivaldo1717/6606/202
+#EXTINF:-1,SBT RS HD
+http://lindaflor.net:8080/francivaldo1717/6606/203
+#EXTINF:-1,SBT Santa Catarina HD
+http://lindaflor.net:8080/francivaldo1717/6606/221
+#EXTINF:-1,SBT SD
+http://lindaflor.net:8080/francivaldo1717/6606/116
+#EXTINF:-1,SBT Sergipe HD
+http://lindaflor.net:8080/francivaldo1717/6606/204
+#EXTINF:-1,SBT SP HD
+http://lindaflor.net:8080/francivaldo1717/6606/205
+#EXTINF:-1,SBT TV Alterosa HD
+http://lindaflor.net:8080/francivaldo1717/6606/224
+#EXTINF:-1,SBT TV Aratu HD Bahia
+http://lindaflor.net:8080/francivaldo1717/6606/206
+#EXTINF:-1,SBT TV Serra Dourada FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/309
+#EXTINF:-1,SBT TV Serra Dourada HD
+http://lindaflor.net:8080/francivaldo1717/6606/394
+#EXTINF:-1,Space FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/291
+#EXTINF:-1,Space HD
+http://lindaflor.net:8080/francivaldo1717/6606/375
+#EXTINF:-1,Space SD
+http://lindaflor.net:8080/francivaldo1717/6606/117
+#EXTINF:-1,SporTV 2 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/292
+#EXTINF:-1,SporTV 2 HD
+http://lindaflor.net:8080/francivaldo1717/6606/376
+#EXTINF:-1,SporTV 2 SD
+http://lindaflor.net:8080/francivaldo1717/6606/119
+#EXTINF:-1,SporTV 3 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/293
+#EXTINF:-1,SporTV 3 HD
+http://lindaflor.net:8080/francivaldo1717/6606/377
+#EXTINF:-1,SporTV 3 SD
+http://lindaflor.net:8080/francivaldo1717/6606/120
+#EXTINF:-1,SporTV FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/294
+#EXTINF:-1,SporTV HD
+http://lindaflor.net:8080/francivaldo1717/6606/378
+#EXTINF:-1,SporTV SD
+http://lindaflor.net:8080/francivaldo1717/6606/118
+#EXTINF:-1,Studio Universal FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/295
+#EXTINF:-1,Studio Universal HD
+http://lindaflor.net:8080/francivaldo1717/6606/379
+#EXTINF:-1,Studio Universal SD
+http://lindaflor.net:8080/francivaldo1717/6606/121
+#EXTINF:-1,Syfy FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/296
+#EXTINF:-1,Syfy HD
+http://lindaflor.net:8080/francivaldo1717/6606/380
+#EXTINF:-1,Syfy SD
+http://lindaflor.net:8080/francivaldo1717/6606/122
+#EXTINF:-1,TBS FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/297
+#EXTINF:-1,TBS HD
+http://lindaflor.net:8080/francivaldo1717/6606/381
+#EXTINF:-1,TBS SD
+http://lindaflor.net:8080/francivaldo1717/6606/123
+#EXTINF:-1,TCM SD
+http://lindaflor.net:8080/francivaldo1717/6606/124
+#EXTINF:-1,Telecine Action FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/298
+#EXTINF:-1,Telecine Action HD
+http://lindaflor.net:8080/francivaldo1717/6606/382
+#EXTINF:-1,Telecine Action SD
+http://lindaflor.net:8080/francivaldo1717/6606/125
+#EXTINF:-1,Telecine Cult FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/299
+#EXTINF:-1,Telecine Cult HD
+http://lindaflor.net:8080/francivaldo1717/6606/383
+#EXTINF:-1,Telecine Cult SD
+http://lindaflor.net:8080/francivaldo1717/6606/126
+#EXTINF:-1,Telecine Fun FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/300
+#EXTINF:-1,Telecine Fun HD
+http://lindaflor.net:8080/francivaldo1717/6606/384
+#EXTINF:-1,Telecine Fun SD
+http://lindaflor.net:8080/francivaldo1717/6606/127
+#EXTINF:-1,Telecine Pipoca FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/301
+#EXTINF:-1,Telecine Pipoca HD
+http://lindaflor.net:8080/francivaldo1717/6606/385
+#EXTINF:-1,Telecine Pipoca SD
+http://lindaflor.net:8080/francivaldo1717/6606/128
+#EXTINF:-1,Telecine Premium FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/302
+#EXTINF:-1,Telecine Premium HD
+http://lindaflor.net:8080/francivaldo1717/6606/386
+#EXTINF:-1,Telecine Premium SD
+http://lindaflor.net:8080/francivaldo1717/6606/129
+#EXTINF:-1,Telecine Touch FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/303
+#EXTINF:-1,Telecine Touch HD
+http://lindaflor.net:8080/francivaldo1717/6606/387
+#EXTINF:-1,Telecine Touch SD
+http://lindaflor.net:8080/francivaldo1717/6606/130
+#EXTINF:-1,Terra Viva SD
+http://lindaflor.net:8080/francivaldo1717/6606/131
+#EXTINF:-1,TLC FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/304
+#EXTINF:-1,TLC HD
+http://lindaflor.net:8080/francivaldo1717/6606/388
+#EXTINF:-1,TLC SD
+http://lindaflor.net:8080/francivaldo1717/6606/132
+#EXTINF:-1,TNT FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/305
+#EXTINF:-1,TNT HD
+http://lindaflor.net:8080/francivaldo1717/6606/389
+#EXTINF:-1,TNT SD
+http://lindaflor.net:8080/francivaldo1717/6606/133
+#EXTINF:-1,TNT Series FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/306
+#EXTINF:-1,TNT Series HD
+http://lindaflor.net:8080/francivaldo1717/6606/390
+#EXTINF:-1,TNT Series SD
+http://lindaflor.net:8080/francivaldo1717/6606/134
+#EXTINF:-1,Tooncast SD
+http://lindaflor.net:8080/francivaldo1717/6606/135
+#EXTINF:-1,TruTV HD
+http://lindaflor.net:8080/francivaldo1717/6606/137
+#EXTINF:-1,TruTV SD
+http://lindaflor.net:8080/francivaldo1717/6606/136
+#EXTINF:-1,TV Aparecida SD
+http://lindaflor.net:8080/francivaldo1717/6606/139
+#EXTINF:-1,TV Camara SD
+http://lindaflor.net:8080/francivaldo1717/6606/141
+#EXTINF:-1,TV Cultura SD
+http://lindaflor.net:8080/francivaldo1717/6606/143
+#EXTINF:-1,TV Justica SD
+http://lindaflor.net:8080/francivaldo1717/6606/144
+#EXTINF:-1,TV Ra Tim Bum HD
+http://lindaflor.net:8080/francivaldo1717/6606/393
+#EXTINF:-1,TV Ra tim bum SD
+http://lindaflor.net:8080/francivaldo1717/6606/146
+#EXTINF:-1,TV Senado SD
+http://lindaflor.net:8080/francivaldo1717/6606/147
+#EXTINF:-1,Universal Channel TV FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/310
+#EXTINF:-1,Universal Channel TV HD
+http://lindaflor.net:8080/francivaldo1717/6606/395
+#EXTINF:-1,Universal Channel TV SD
+http://lindaflor.net:8080/francivaldo1717/6606/160
+#EXTINF:-1,VH1 FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/311
+#EXTINF:-1,VH1 HD
+http://lindaflor.net:8080/francivaldo1717/6606/396
+#EXTINF:-1,VH1 Megahits SD
+http://lindaflor.net:8080/francivaldo1717/6606/154
+#EXTINF:-1,Viva HD
+http://lindaflor.net:8080/francivaldo1717/6606/397
+#EXTINF:-1,Viva SD
+http://lindaflor.net:8080/francivaldo1717/6606/155
+#EXTINF:-1,Warner Channel FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/312
+#EXTINF:-1,Warner Channel HD
+http://lindaflor.net:8080/francivaldo1717/6606/398
+#EXTINF:-1,Warner Channel SD
+http://lindaflor.net:8080/francivaldo1717/6606/156
+#EXTINF:-1,Woohoo FHD H.265
+http://lindaflor.net:8080/francivaldo1717/6606/313
+#EXTINF:-1,Woohoo SD
+http://lindaflor.net:8080/francivaldo1717/6606/157
+#EXTINF:-1,Zoomoo SD
+http://lindaflor.net:8080/francivaldo1717/6606/158
