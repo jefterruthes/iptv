@@ -1,29 +1,37 @@
-#EXTM3U8
-#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere" group-title="Esportes",Premiere Clubes FHD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43031.m3u8
-#EXTINF:-1 tvg-ID="premiereclubes" tvg-name="Premiere Clubes" group-title="Esportes",Premiere Clubes HD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43038.m3u8
-#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 FHD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43037.m3u8
-#EXTINF:-1 tvg-ID="premiere2" tvg-name="Premiere" group-title="Esportes",Premiere 2 HD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43050.m3u8
-#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 FHD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43036.m3u8
-#EXTINF:-1 tvg-ID="premiere3" tvg-name="Premiere" group-title="Esportes",Premiere 3 HD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43038.m3u8
-#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 FHD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43035.m3u8
-#EXTINF:-1 tvg-ID="premiere4" tvg-name="Premiere" group-title="Esportes",Premiere 4 HD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43046.m3u8
-#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 FHD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43034.m3u8
-#EXTINF:-1 tvg-ID="premiere5" tvg-name="Premiere" group-title="Esportes",Premiere 5 HD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43044.m3u8
-#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 FHD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43033.m3u8
-#EXTINF:-1 tvg-ID="premiere6" tvg-name="Premiere" group-title="Esportes",Premiere 6 HD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43042.m3u8
-#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 FHD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43032.m3u8
-#EXTINF:-1 tvg-ID="premiere7" tvg-name="Premiere" group-title="Esportes",Premiere 7 HD | TechRuthes.com
-http://assistaiptvplay.com/live/erick/erick/43040.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40808.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40808.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40807.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40807.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40804.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40804.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40728.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40728.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40792.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40792.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40772.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40772.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40771.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40771.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40687.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40687.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40686.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40686.m3u8
