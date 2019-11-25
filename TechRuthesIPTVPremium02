@@ -1,329 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E FHD
-http://assistaiptvplay.com/live/erick/erick/43409.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E FHD
-http://assistaiptvplay.com/live/erick/erick/75258.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E HD
-http://assistaiptvplay.com/live/erick/erick/43308.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E HD
-http://assistaiptvplay.com/live/erick/erick/75259.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E SD
-http://assistaiptvplay.com/live/erick/erick/43309.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="CANAIS: FILMES E SÉRIES",A&E SD
-http://assistaiptvplay.com/live/erick/erick/54235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="CANAIS: ESPORTES",ALL SPORTS HD
-http://assistaiptvplay.com/live/erick/erick/37244.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC FHD
-http://assistaiptvplay.com/live/erick/erick/43408.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC HD
-http://assistaiptvplay.com/live/erick/erick/43306.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC SD
-http://assistaiptvplay.com/live/erick/erick/43307.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="CANAIS: FILMES E SÉRIES",AMC SD
-http://assistaiptvplay.com/live/erick/erick/54234.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET FHD
-http://assistaiptvplay.com/live/erick/erick/43407.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET HD
-http://assistaiptvplay.com/live/erick/erick/43304.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET HD
-http://assistaiptvplay.com/live/erick/erick/54233.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: CULTURA",ANIMAL PLANET SD
-http://assistaiptvplay.com/live/erick/erick/43305.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE 1 FHD
-http://assistaiptvplay.com/live/erick/erick/43406.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE 1 HD
-http://assistaiptvplay.com/live/erick/erick/43302.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE 1 SD
-http://assistaiptvplay.com/live/erick/erick/43303.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE1 FHD
-http://assistaiptvplay.com/live/erick/erick/75487.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: CULTURA",ARTE1 HD
-http://assistaiptvplay.com/live/erick/erick/75485.m3u8
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/2000px-Arte_1_logo.svg.png" group-title="CANAIS: VARIEDADES",ARTE1 SD
-http://assistaiptvplay.com/live/erick/erick/54232.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 SD²" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png" group-title="CANAIS: ABERTOS",ARTE1 SD²
-http://assistaiptvplay.com/live/erick/erick/75486.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS: FILMES E SÉRIES",AXN FHD
-http://assistaiptvplay.com/live/erick/erick/43405.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS: FILMES E SÉRIES",AXN HD
-http://assistaiptvplay.com/live/erick/erick/43300.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/axnb.png" group-title="CANAIS: FILMES E SÉRIES",AXN SD
-http://assistaiptvplay.com/live/erick/erick/43301.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://assistaiptvplay.com:80/images/DKMYgcfUqLDJlYcTVqiu12Ku9RJezhmK.png" group-title="CANAIS: FILMES E SÉRIES",AXN SD
-http://assistaiptvplay.com/live/erick/erick/54231.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV HD
-http://assistaiptvplay.com/live/erick/erick/75371.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV SD
-http://assistaiptvplay.com/live/erick/erick/43299.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV SD
-http://assistaiptvplay.com/live/erick/erick/54124.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIL",BABY TV SD²
-http://assistaiptvplay.com/live/erick/erick/75372.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS FHD
-http://assistaiptvplay.com/live/erick/erick/43404.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS FHD
-http://assistaiptvplay.com/live/erick/erick/75234.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS HD
-http://assistaiptvplay.com/live/erick/erick/43295.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS SD
-http://assistaiptvplay.com/live/erick/erick/43296.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS SD
-http://assistaiptvplay.com/live/erick/erick/54230.m3u8
-#EXTINF:-1 tvg-id="Band SP" tvg-name="BAND SO FHD³" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SO FHD³
-http://assistaiptvplay.com/live/erick/erick/75458.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP FHD" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP FHD
-http://assistaiptvplay.com/live/erick/erick/43340.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP FHD" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP FHD
-http://assistaiptvplay.com/live/erick/erick/54062.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP FHD ³" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP FHD ³
-http://assistaiptvplay.com/live/erick/erick/75459.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP FHD²" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP FHD²
-http://assistaiptvplay.com/live/erick/erick/75457.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP HD" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP HD
-http://assistaiptvplay.com/live/erick/erick/43297.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP HD" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP HD
-http://assistaiptvplay.com/live/erick/erick/54061.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP HD²" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP HD²
-http://assistaiptvplay.com/live/erick/erick/75460.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP SD" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP SD
-http://assistaiptvplay.com/live/erick/erick/43298.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP SD" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP SD
-http://assistaiptvplay.com/live/erick/erick/54060.m3u8
-#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-name="BAND SP SD²" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: ABERTOS",BAND SP SD²
-http://assistaiptvplay.com/live/erick/erick/75456.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS FHD
-http://assistaiptvplay.com/live/erick/erick/43018.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS FHD
-http://assistaiptvplay.com/live/erick/erick/75236.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS HD
-http://assistaiptvplay.com/live/erick/erick/43019.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS HD
-http://assistaiptvplay.com/live/erick/erick/75235.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS SD
-http://assistaiptvplay.com/live/erick/erick/43020.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png" group-title="CANAIS: ESPORTES",BAND SPORTS SD
-http://assistaiptvplay.com/live/erick/erick/54076.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS FHD
-http://assistaiptvplay.com/live/erick/erick/43339.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS FHD
-http://assistaiptvplay.com/live/erick/erick/75318.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS HD
-http://assistaiptvplay.com/live/erick/erick/43293.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS HD
-http://assistaiptvplay.com/live/erick/erick/54229.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS SD
-http://assistaiptvplay.com/live/erick/erick/43294.m3u8
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="CANAIS: MÚSICAS E SHOWS",BIS SD
-http://assistaiptvplay.com/live/erick/erick/54228.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS: INFANTIL",BOOMERANG FHD
-http://assistaiptvplay.com/live/erick/erick/43403.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS: INFANTIL",BOOMERANG HD
-http://assistaiptvplay.com/live/erick/erick/43290.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS: INFANTIL",BOOMERANG SD
-http://assistaiptvplay.com/live/erick/erick/43291.m3u8
-#EXTINF:-1 tvg-id="BR-Boomerang" tvg-name="BOOMERANG SD" tvg-logo="" group-title="CANAIS: INFANTIL",BOOMERANG SD
-http://assistaiptvplay.com/live/erick/erick/54123.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL FHD
-http://assistaiptvplay.com/live/erick/erick/43322.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL HD
-http://assistaiptvplay.com/live/erick/erick/43288.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL HD
-http://assistaiptvplay.com/live/erick/erick/75317.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL HD²
-http://assistaiptvplay.com/live/erick/erick/54227.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL SD
-http://assistaiptvplay.com/live/erick/erick/43289.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="CANAIS: VARIEDADES",CANAL BRASIL SD
-http://assistaiptvplay.com/live/erick/erick/54226.m3u8
-#EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://www.gutoassessoria.com.br/wp-content/uploads/2018/04/Canal-doboi_logo.svg.png" group-title="CANAIS: ABERTOS",CANAL DO BOI SD
-http://assistaiptvplay.com/live/erick/erick/43096.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF FHD
-http://assistaiptvplay.com/live/erick/erick/43360.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF HD
-http://assistaiptvplay.com/live/erick/erick/42999.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF HD
-http://assistaiptvplay.com/live/erick/erick/54071.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF SD
-http://assistaiptvplay.com/live/erick/erick/43000.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS: ESPORTES",CANAL OFF SD
-http://assistaiptvplay.com/live/erick/erick/54070.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY FHD
-http://assistaiptvplay.com/live/erick/erick/43402.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY FHD
-http://assistaiptvplay.com/live/erick/erick/75321.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY HD
-http://assistaiptvplay.com/live/erick/erick/43286.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY HD
-http://assistaiptvplay.com/live/erick/erick/75322.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD LEG" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: LEGENDADOS",CANAL SONY HD LEG
-http://assistaiptvplay.com/live/erick/erick/43055.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY SD
-http://assistaiptvplay.com/live/erick/erick/43287.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: FILMES E SÉRIES",CANAL SONY SD
-http://assistaiptvplay.com/live/erick/erick/54225.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD LEG" tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="CANAIS: LEGENDADOS",CANAL SONY SD LEG
-http://assistaiptvplay.com/live/erick/erick/43054.m3u8
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="CANAIS: RELIGIOSOS",CANÇÃO NOVA FHD
-http://assistaiptvplay.com/live/erick/erick/43285.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS: INFANTIL",CARTOON NETWORK FHD
-http://assistaiptvplay.com/live/erick/erick/43401.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="CANAIS: INFANTIL",CARTOON NETWORK FHD
-http://assistaiptvplay.com/live/erick/erick/54122.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS: INFANTIL",CARTOON NETWORK HD
-http://assistaiptvplay.com/live/erick/erick/43283.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/CN_Nood_Toonix_logo.png" group-title="CANAIS: INFANTIL",CARTOON NETWORK SD
-http://assistaiptvplay.com/live/erick/erick/43284.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX FHD
-http://assistaiptvplay.com/live/erick/erick/43400.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX FHD
-http://assistaiptvplay.com/live/erick/erick/75319.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX HD
-http://assistaiptvplay.com/live/erick/erick/43281.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX HD
-http://assistaiptvplay.com/live/erick/erick/75320.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX SD
-http://assistaiptvplay.com/live/erick/erick/43282.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX SD
-http://assistaiptvplay.com/live/erick/erick/54224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLIPs TRACE TOCA" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png" group-title="CANAIS: MÚSICAS E SHOWS",CLIPs TRACE TOCA
-http://assistaiptvplay.com/live/erick/erick/75287.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE FHD
-http://assistaiptvplay.com/live/erick/erick/43017.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE FHD
-http://assistaiptvplay.com/live/erick/erick/75242.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE HD
-http://assistaiptvplay.com/live/erick/erick/43015.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE HD
-http://assistaiptvplay.com/live/erick/erick/53935.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE SD
-http://assistaiptvplay.com/live/erick/erick/43016.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://4.bp.blogspot.com/-hbWEtGU55Fw/V0inw_TyJhI/AAAAAAAAAZc/63iVrdxit5kDDQ9tHfEnSFJGp_8X3nvngCK4B/s1600/CombateLogo.png" group-title="CANAIS: ESPORTES",COMBATE SD
-http://assistaiptvplay.com/live/erick/erick/53934.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL FHD
-http://assistaiptvplay.com/live/erick/erick/43399.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
-http://assistaiptvplay.com/live/erick/erick/43279.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL SD
-http://assistaiptvplay.com/live/erick/erick/43280.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL SD
-http://assistaiptvplay.com/live/erick/erick/54217.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! FHD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! FHD
-http://assistaiptvplay.com/live/erick/erick/43398.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! HD
-http://assistaiptvplay.com/live/erick/erick/43277.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD
-http://assistaiptvplay.com/live/erick/erick/43278.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD
-http://assistaiptvplay.com/live/erick/erick/75326.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD
-http://assistaiptvplay.com/live/erick/erick/54216.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="CURTA! SD²" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS: CULTURA",CURTA! SD²
-http://assistaiptvplay.com/live/erick/erick/75325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-13-at-13.39.35.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN FHD
-http://assistaiptvplay.com/live/erick/erick/53959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-13-at-13.39.35.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN SD
-http://assistaiptvplay.com/live/erick/erick/53958.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL FHD
-http://assistaiptvplay.com/live/erick/erick/43338.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL FHD²
-http://assistaiptvplay.com/live/erick/erick/54214.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/43275.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/75327.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL SD
-http://assistaiptvplay.com/live/erick/erick/43276.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://branded.asia/wp-content/uploads/2016/09/DSC-D-HERO-GLOBE-LRG-pos-4c_102014-01.png" group-title="CANAIS: CULTURA",DISCOVERY CHANNEL SD²
-http://assistaiptvplay.com/live/erick/erick/54213.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH FHD
-http://assistaiptvplay.com/live/erick/erick/43396.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH FHD
-http://assistaiptvplay.com/live/erick/erick/75232.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH HD
-http://assistaiptvplay.com/live/erick/erick/43271.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH SD
-http://assistaiptvplay.com/live/erick/erick/43272.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CANAIS: CULTURA",DISCOVERY HOME & HEALTH SD
-http://assistaiptvplay.com/live/erick/erick/54212.m3u8
-#EXTINF:-1 tvg-id="Discoverykidshd.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://banner2.kisspng.com/20180714/lyo/kisspng-discovery-kids-television-channel-discovery-channe-discovery-logo-5b49e5b9957cf1.1012446215315695936123.jpg" group-title="CANAIS: INFANTIL",DISCOVERY KIDS FHD
-http://assistaiptvplay.com/live/erick/erick/43395.m3u8
-#EXTINF:-1 tvg-id="Discoverykidshd.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://banner2.kisspng.com/20180714/lyo/kisspng-discovery-kids-television-channel-discovery-channe-discovery-logo-5b49e5b9957cf1.1012446215315695936123.jpg" group-title="CANAIS: INFANTIL",DISCOVERY KIDS HD
-http://assistaiptvplay.com/live/erick/erick/43269.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png" group-title="CANAIS: INFANTIL",DISCOVERY KIDS SD
-http://assistaiptvplay.com/live/erick/erick/43270.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="" group-title="CANAIS: INFANTIL",DISCOVERY KIDS SD
-http://assistaiptvplay.com/live/erick/erick/54121.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE FHD
-http://assistaiptvplay.com/live/erick/erick/43394.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE HD
-http://assistaiptvplay.com/live/erick/erick/43267.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE SD
-http://assistaiptvplay.com/live/erick/erick/43268.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CANAIS: CULTURA",DISCOVERY SCIENCE SD
-http://assistaiptvplay.com/live/erick/erick/54209.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER FHD
-http://assistaiptvplay.com/live/erick/erick/43393.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER HD
-http://assistaiptvplay.com/live/erick/erick/43265.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER HD
-http://assistaiptvplay.com/live/erick/erick/54208.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY THEATER SD
-http://assistaiptvplay.com/live/erick/erick/43266.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="" group-title="CANAIS: CULTURA",DISCOVERY TURBO FHD
-http://assistaiptvplay.com/live/erick/erick/43392.m3u8
-#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="" group-title="CANAIS: CULTURA",DISCOVERY TURBO FHD
-http://assistaiptvplay.com/live/erick/erick/54211.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="CANAIS: CULTURA",DISCOVERY TURBO HD
-http://assistaiptvplay.com/live/erick/erick/43263.m3u8
-#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/discovery_turbo_N.png" group-title="CANAIS: CULTURA",DISCOVERY TURBO SD
-http://assistaiptvplay.com/live/erick/erick/43264.m3u8
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD  HD
-http://assistaiptvplay.com/live/erick/erick/43261.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD FHD
-http://assistaiptvplay.com/live/erick/erick/43391.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD HD
-http://assistaiptvplay.com/live/erick/erick/54207.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CANAIS: CULTURA",DISCOVERY WORLD SD
-http://assistaiptvplay.com/live/erick/erick/43262.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i0.wp.com/boasnoticias.pt/wp-content/uploads/2016/11/Logo-Disney-Channel.png?ssl=1" group-title="CANAIS: INFANTIL",DISNEY CHANNEL FHD
-http://assistaiptvplay.com/live/erick/erick/43337.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i0.wp.com/boasnoticias.pt/wp-content/uploads/2016/11/Logo-Disney-Channel.png?ssl=1" group-title="CANAIS: INFANTIL",DISNEY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/43259.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY CHANNEL HD
-http://assistaiptvplay.com/live/erick/erick/54120.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISNEY CHANNEL HD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY CHANNEL HD²
-http://assistaiptvplay.com/live/erick/erick/54119.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i0.wp.com/boasnoticias.pt/wp-content/uploads/2016/11/Logo-Disney-Channel.png?ssl=1" group-title="CANAIS: INFANTIL",DISNEY CHANNEL SD
-http://assistaiptvplay.com/live/erick/erick/43260.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISNEY CHANNEL SD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY CHANNEL SD²
-http://assistaiptvplay.com/live/erick/erick/54118.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR FHD
-http://assistaiptvplay.com/live/erick/erick/43342.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR FHD
-http://assistaiptvplay.com/live/erick/erick/54117.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR HD
-http://assistaiptvplay.com/live/erick/erick/43119.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD²" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR HD²
-http://assistaiptvplay.com/live/erick/erick/54116.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR SD
-http://assistaiptvplay.com/live/erick/erick/43258.m3u8
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD²" tvg-logo="https://img.pngio.com/disney-junior-naturecat-wikia-fandom-powered-by-wikia-disney-junior-png-1500_1125.png" group-title="CANAIS: INFANTIL",DISNEY JUNIOR SD²
-http://assistaiptvplay.com/live/erick/erick/54115.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD FHD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY XD FHD²
-http://assistaiptvplay.com/live/erick/erick/54113.m3u8
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="CANAIS: INFANTIL",DISNEY XD SD
-http://assistaiptvplay.com/live/erick/erick/43257.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD ²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY XD SD ²
-http://assistaiptvplay.com/live/erick/erick/54114.m3u8
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD²" tvg-logo="" group-title="CANAIS: INFANTIL",DISNEY XD SD²
-http://assistaiptvplay.com/live/erick/erick/54112.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://luxurytransportation.is/wp-content/uploads/2014/03/feasdf.png" group-title="CANAIS: VARIEDADES",E! FHD
-http://assistaiptvplay.com/live/erick/erick/43390.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://luxurytransportation.is/wp-content/uploads/2014/03/feasdf.png" group-title="CANAIS: VARIEDADES",E! HD
-http://assistaiptvplay.com/live/erick/erick/43255.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://raspberrymag.com/wp-content/uploads/2016/12/E_Logo.svg_.png" group-title="CANAIS: VARIEDADES",E! HD
-http://assistaiptvplay.com/live/erick/erick/43256.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/50px-E%21_logo_2012.png" group-title="CANAIS: VARIEDADES",E! SD
-http://assistaiptvplay.com/live/erick/erick/54206.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="EI PLUS HD" tvg-logo="https://4.bp.blogspot.com/-TDkI2D1naI0/VbEUHXVojeI/AAAAAAAAbLQ/2IGpLsXNgC4/s1600/esporte-interativo-novo-logo.png" group-title="CANAIS: ESPORTES",EI PLUS HD
-http://assistaiptvplay.com/live/erick/erick/43013.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40808.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40808.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40807.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40807.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40804.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40804.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40728.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40728.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40792.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40792.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40772.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40772.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40771.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40771.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40687.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40687.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD | TechRuthes.com
+http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40686.m3u8
+#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD² | TechRuthes.com
+http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40686.m3u8
