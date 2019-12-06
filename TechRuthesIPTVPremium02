@@ -1,25 +1,9 @@
-#EXTM3U8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/62855.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/37361.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/62857.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/36968.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band HD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/63232.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record HD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/36947.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT SP HD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/61970.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT RJ HD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/56897.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News FHD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/62840.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News FHD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/62797.m3u8
-#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E FHD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/62889.m3u8
-#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E HD | TechRuthes.com
-http://tv.minhalista.me/live/4021/4021/63257.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://iv.pe/te2" group-title="Filmes e Séries",A&E FHD
+http://csrv.me:80/live/4fWn7vUK/f5b4312b/2025.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
+http://csrv.me:80/live/4fWn7vUK/f5b4312b/1906.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://iv.pe/M0T" group-title="Canais | Filmes e Séries",AMC FHD
+http://csrv.me:80/live/4fWn7vUK/f5b4312b/2024.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
+http://csrv.me:80/live/4fWn7vUK/f5b4312b/1904.m3u8
