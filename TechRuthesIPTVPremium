@@ -1,7 +1,105 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://csrv.me:80/live/4fWn7vUK/f5b4312b/1613.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://csrv.me:80/live/4fWn7vUK/f5b4312b/1614.m3u8
-#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History FHD | TechRuthes.com
-http://csrv.me:80/live/4fWn7vUK/f5b4312b/25442.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://iv.pe/te2" group-title="Filmes e Séries",A&E FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25400.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://iv.pe/xsU" group-title="Filmes e Séries",A&E HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1906.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://iv.pe/M0T" group-title="Filmes e Séries",AMC FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/2024.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://iv.pe/vSY" group-title="Filmes e Séries",AMC HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1904.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://iv.pe/tTP" group-title="Documentários",Animal Planet FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25472.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://iv.pe/XYZ" group-title="Documentários",Animal Planet HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1902.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="http://iv.pe/AUT" group-title="Documentários",Arte 1 FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25471.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="http://iv.pe/xC0" group-title="Documentários",Arte 1 HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1900.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://iv.pe/wLB" group-title="Canais",AXN FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25470.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1898.m3u8
+#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-logo="http://iv.pe/xkY" group-title="Canais",Band SP FHD 
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25398.m3u8
+#EXTINF:-1 tvg-id="Bandsaopaulo.br" tvg-logo="http://iv.pe/ayO" group-title="Canais | Abertos",Band SP HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1895.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://iv.pe/Xph" group-title="Canais",BandNews FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25469.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://iv.pe/WYh" group-title="Canais | Notícias",BandNews HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1893.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="http://iv.pe/c4T" group-title="Canais",BandSports FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25468.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="http://iv.pe/8hZ" group-title="Canais | Esportes",BandSports HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1891.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://iv.pe/hYK" group-title="Canais",Bis FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25467.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://iv.pe/IKy" group-title="Canais | Variedades",Bis HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1889.m3u8
+#EXTINF:-1 tvg-id="BR-Boomerang" tvg-logo="http://iv.pe/bIc" group-title="Canais",Boomerang FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25466.m3u8
+#EXTINF:-1 tvg-id="BR-Boomerang" tvg-logo="http://iv.pe/Rq9" group-title="Canais | Infantis",Boomerang HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1886.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/eGq" group-title="Canais",Canal Sony FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25464.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/8yz" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1882.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://iv.pe/Ra4" group-title="Canais",Cartoon Network FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25463.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1879.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/U19" group-title="Canais",Cinemax FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25462.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/pUK" group-title="Canais | Filmes e Séries",Cinemax HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1877.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://iv.pe/FXA" group-title="Canais",Combate FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25461.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://iv.pe/sEQ" group-title="Canais | Esportes",Combate HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1875.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://iv.pe/vNO" group-title="Canais",Comedy Central FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25460.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://iv.pe/ohU" group-title="Canais | Variedades",Comedy Central HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1873.m3u8
+#EXTINF:-1 tvg-id="Curta!.br" tvg-logo="http://iv.pe/pXY" group-title="Documentários",Curta FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/2013.m3u8
+#EXTINF:-1 tvg-id="Curta!.br" tvg-logo="http://iv.pe/Brb" group-title="Documentários",Curta HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1871.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://iv.pe/Lpz" group-title="Documentários",Discovery Channel FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25362.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://iv.pe/gSH" group-title="Documentários",Discovery Channel HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1869.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://iv.pe/hk2" group-title="Documentários",Discovery H&H FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25396.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://iv.pe/SGu" group-title="Documentários",Discovery H&H HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1865.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://iv.pe/NlG" group-title="Documentários",Discovery HGTV FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25397.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://iv.pe/W7B" group-title="Documentários",Discovery HGTV HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1867.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="http://iv.pe/I3R" group-title="Infantis",Discovery Kids FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25395.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="http://iv.pe/Nrt" group-title="Infantis",Discovery Kids HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1863.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://iv.pe/kmL" group-title="Documentários",Discovery Science FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25394.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://iv.pe/gpH" group-title="Documentários",Discovery Science HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1861.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://iv.pe/rzD" group-title="Documentários",Discovery Theater FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25393.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://iv.pe/BUp" group-title="Documentários",Discovery Theater HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1859.m3u8
+#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-logo="http://iv.pe/7O2" group-title="Documentários",Discovery Turbo FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25392.m3u8
+#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-logo="http://iv.pe/hHi" group-title="Documentários",Discovery Turbo HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1857.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://iv.pe/7Ob" group-title="Documentários",Discovery World FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25391.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://iv.pe/jPu" group-title="Documentários",Discovery World HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1855.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://iv.pe/Gsp" group-title="Infantis",Disney Channel FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25390.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://iv.pe/xlD" group-title="Infantis",Disney Channel HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1853.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-logo="http://iv.pe/jZd" group-title="Infantis",Disney Jr FHD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/25389.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-logo="http://iv.pe/rMC" group-title="Infantis",Disney Jr HD
+http://p.clubsrv.me/live/4fWn7vUK/f5b4312b/1678.m3u8
