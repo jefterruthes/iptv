@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP FHD | TechRuthes.com
-http://elitex.me:8880/988214771t/988214771s/6283
+http://csrv.me:80/live/4fWn7vUK/f5b4312b/1613.m3u8
 #EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP HD | TechRuthes.com
-http://elitex.me:8880/988214771t/988214771s/2821
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ FHD | TechRuthes.com
-http://elitex.me:8880/988214771t/988214771s/5789
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ HD | TechRuthes.com
-http://elitex.me:8880/988214771t/988214771s/345
+http://csrv.me:80/live/4fWn7vUK/f5b4312b/1614.m3u8
 #EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History FHD | TechRuthes.com
-http://elitex.me:8880/988214771t/988214771s/5762
+http://csrv.me:80/live/4fWn7vUK/f5b4312b/25442.m3u8
