@@ -1,37 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40808.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="A&E" group-title="Filmes e Séries",A&E HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40808.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40807.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="AMC" group-title="Filmes e Séries",AMC HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40807.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40804.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="ANX" group-title="Filmes e Séries",AXN HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40804.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40728.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CANAL SONY" group-title="Filmes e Séries",CANAL SONY HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40728.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40792.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="CINE MAX" group-title="Filmes e Séries",CINE MAX HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40792.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40772.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40772.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40771.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX LIFE HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40771.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40687.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 1 HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40687.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD | TechRuthes.com
-http://cdn.ontvhdbr.co/live/orlando2019/orlando2019/40686.m3u8
-#EXTINF:-1 tvg-ID="techruthes" tvg-name="FOX" group-title="Filmes e Séries",FOX PREMIUM 2 HD² | TechRuthes.com
-http://cdn.ontvhdbr.co:8880/live/orlando2019/orlando2019/40686.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/irL" group-title="Reality Show",A Fazenda HD
+http://csrv.tv/live/cc1cu/ntEnV/29879.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rU0" group-title="Filmes e Séries",A&E FHD
+http://csrv.tv/live/cc1cu/ntEnV/25400.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
+http://csrv.tv/live/cc1cu/ntEnV/1906.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/L8f" group-title="Canais | H265",AMC FHD [H265]
+http://csrv.tv/live/cc1cu/ntEnV/25399.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
+http://csrv.tv/live/cc1cu/ntEnV/1904.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/tTP" group-title="Canais | H265",Animal Planet FHD [H265]
+http://csrv.tv/live/cc1cu/ntEnV/25472.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/XYZ" group-title="Canais | Documentários",Animal Planet HD
+http://csrv.tv/live/cc1cu/ntEnV/1902.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/AUT" group-title="Canais | H265",Arte 1 FHD [H265]
+http://csrv.tv/live/cc1cu/ntEnV/25471.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xC0" group-title="Canais | Documentários",Arte 1 HD
+http://csrv.tv/live/cc1cu/ntEnV/1900.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/wLB" group-title="Canais | H265",AXN FHD [H265]
+http://csrv.tv/live/cc1cu/ntEnV/25470.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
+http://csrv.tv/live/cc1cu/ntEnV/1898.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xkY" group-title="Canais | H265",Band SP FHD [H265]
+http://csrv.tv/live/cc1cu/ntEnV/25398.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ayO" group-title="Canais | Abertos",Band SP HD
+http://csrv.tv/live/cc1cu/ntEnV/1895.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Xph" group-title="Canais | H265",BandNews FHD [H265]
+http://csrv.tv/live/cc1cu/ntEnV/25469.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/WYh" group-title="Canais | Notícias",BandNews HD
+http://csrv.tv/live/cc1cu/ntEnV/1893.m3u8
