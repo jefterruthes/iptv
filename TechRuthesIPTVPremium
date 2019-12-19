@@ -1,49 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo SP | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel01/25380.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo RJ | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel01/25381.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band SP | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1953.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="record" group-title="Canais Abertos",Record SP | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1932.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1931.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/25449.m3u8
-#EXTINF:-1 tvg-ID="bandnews" tvg-name="Band News HD" group-title="Notícias",Band News | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/2020.m3u8
-#EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/25400.m3u8
-#EXTINF:-1 tvg-ID="gnt" tvg-name="GNT" group-title="Variedades e Músicas",GNT | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/25379.m3u8
-#EXTINF:-1 tvg-ID="food" tvg-name="Food Network" group-title="Variedades e Músicas",Food Network | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/25456.m3u8
-#EXTINF:-1 tvg-ID="lifetime" tvg-name="Lifetime" group-title="Variedades e Músicas",Lifetime | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1987.m3u8
-#EXTINF:-1 tvg-ID="viva" tvg-name="Viva" group-title="Variedades e Músicas",Viva | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/25402.m3u8
-#EXTINF:-1 tvg-ID="multishow" tvg-name="Multishow" group-title="Variedades e Músicas",Multishow | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/25375.m3u8
-#EXTINF:-1 tvg-ID="mtv" tvg-name="MTV FHD" group-title="Variedades e Músicas",MTV | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1982.m3u8
-#EXTINF:-1 tvg-ID="bis" tvg-name="BIS" group-title="Variedades e Músicas",BIS | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1952.m3u8
-#EXTINF:-1 tvg-ID="history" tvg-name="History HD" group-title="Documentários",History Channel | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1989.m3u8
-#EXTINF:-1 tvg-ID="h2" tvg-name="H2 HD" group-title="Documentários",H2 | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1993.m3u8
-#EXTINF:-1 tvg-ID="animalplanet" tvg-name="Animal Planet HD" group-title="Documentários",Animal Planet | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/2023.m3u8
-#EXTINF:-1 tvg-ID="discoverychannel" tvg-name="Discovery Channel" group-title="Documentários",Discovery Channel | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1950.m3u8
-#EXTINF:-1 tvg-ID="discoveryscience" tvg-name="Discovery Science HD" group-title="Documentários",Discovery Science | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/2009.m3u8
-#EXTINF:-1 tvg-ID="discoverytheater" tvg-name="Discovery Theater HD" group-title="Documentários",Discovery Theater | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/2008.m3u8
-#EXTINF:-1 tvg-ID="discoveryturbo" tvg-name="Discovery Turbo HD" group-title="Documentários",Discovery Turbo | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/2007.m3u8
-#EXTINF:-1 tvg-ID="discoveryworld" tvg-name="Discovery World HD" group-title="Documentários",Discovery World | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/2006.m3u8
-#EXTINF:-1 tvg-ID="natgeowild" tvg-name="Natgeo Wild HD" group-title="Documentários",Natgeo Wild | TechRuthes.com
-http://p.clubsrv.me/live/jcantel/cantel0/1976.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Canais | Variedades",A&E FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2025.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
+http://p.clubsrv.me/live/jcantel/cantel01/1906.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/LHo" group-title="Canais | Variedades",A&E SD
+http://p.clubsrv.me/live/jcantel/cantel01/1907.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Canais | Filmes e Séries",AMC FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2024.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
+http://p.clubsrv.me/live/jcantel/cantel01/1904.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ACu" group-title="Canais | Filmes e Séries",AMC SD
+http://p.clubsrv.me/live/jcantel/cantel01/1905.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Canais | Documentários",Animal Planet FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2023.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/XYZ" group-title="Canais | Documentários",Animal Planet HD
+http://p.clubsrv.me/live/jcantel/cantel01/1902.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/gv4" group-title="Canais | Documentários",Animal Planet SD
+http://p.clubsrv.me/live/jcantel/cantel01/1903.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1 FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2022.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xC0" group-title="Canais | Documentários",Arte 1 HD
+http://p.clubsrv.me/live/jcantel/cantel01/1900.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/hCx" group-title="Canais | Documentários",Arte 1 SD
+http://p.clubsrv.me/live/jcantel/cantel01/1901.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="Canais | Filmes e Séries",AXN FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2021.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
+http://p.clubsrv.me/live/jcantel/cantel01/1898.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Dcw" group-title="Canais | Filmes e Séries",AXN SD
+http://p.clubsrv.me/live/jcantel/cantel01/1899.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/BhC" group-title="Canais | Infantis",Baby TV SD
+http://p.clubsrv.me/live/jcantel/cantel01/1897.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="Canais | Abertos",Band SP FHD
+http://p.clubsrv.me/live/jcantel/cantel01/1953.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ayO" group-title="Canais | Abertos",Band SP HD
+http://p.clubsrv.me/live/jcantel/cantel01/1895.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/A6P" group-title="Canais | Abertos",Band SP SD
+http://p.clubsrv.me/live/jcantel/cantel01/1896.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2020.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/WYh" group-title="Canais | Notícias",BandNews HD
+http://p.clubsrv.me/live/jcantel/cantel01/1893.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/vnS" group-title="Canais | Notícias",BandNews SD
+http://p.clubsrv.me/live/jcantel/cantel01/1894.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2019.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/8hZ" group-title="Canais | Esportes",BandSports HD
+http://p.clubsrv.me/live/jcantel/cantel01/1891.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/kRo" group-title="Canais | Esportes",BandSports SD
+http://p.clubsrv.me/live/jcantel/cantel01/1892.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Canais | Variedades",Bis FHD
+http://p.clubsrv.me/live/jcantel/cantel01/1952.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/IKy" group-title="Canais | Variedades",Bis HD
+http://p.clubsrv.me/live/jcantel/cantel01/1889.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Uaq" group-title="Canais | Variedades",Bis SD
+http://p.clubsrv.me/live/jcantel/cantel01/1890.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Canais | Infantis",Boomerang FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2018.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Rq9" group-title="Canais | Infantis",Boomerang HD
+http://p.clubsrv.me/live/jcantel/cantel01/1886.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Ym6" group-title="Canais | Infantis",Boomerang SD
+http://p.clubsrv.me/live/jcantel/cantel01/1887.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="Canais | Filmes e Séries",Canal Sony FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2017.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://p.clubsrv.me/live/jcantel/cantel01/1882.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/vKM" group-title="Canais | Filmes e Séries",Canal Sony SD
+http://p.clubsrv.me/live/jcantel/cantel01/1883.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Canais | Infantis",Cartoon Network FHD
+http://p.clubsrv.me/live/jcantel/cantel01/2016.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network HD
+http://p.clubsrv.me/live/jcantel/cantel01/1879.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/1Pk" group-title="Canais | Infantis",Cartoon Network SD
+http://p.clubsrv.me/live/jcantel/cantel01/1880.m3u8
