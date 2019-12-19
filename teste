@@ -1,5 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Canais | Variedades",A&E FHD
-http://csrv.tv:80/live/jcantel/cantel01/2025.m3u8
+http://csrv.tv:80/YXHM4/66bn2/2025
 #EXTINF:-1 tvg-logo="http://iv.pe/rU0" group-title="Canais | H265",A&E FHD [H265]
-http://csrv.tv:80/live/jcantel/cantel01/25400.m3u8
+http://csrv.tv:80/YXHM4/66bn2/25400
+#EXTINF:-1 tvg-logo="http://iv.pe/NKc" group-title="Canais | Alternativos",A&E FHD [H265] [Alter]
+http://csrv.tv:80/YXHM4/66bn2/29484
+#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
+http://csrv.tv:80/YXHM4/66bn2/1906
+#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title="Canais | Alternativos",A&E HD [Alter]
+http://csrv.tv:80/YXHM4/66bn2/2402
+#EXTINF:-1 tvg-logo="http://iv.pe/LHo" group-title="Canais | Variedades",A&E SD
+http://csrv.tv:80/YXHM4/66bn2/1907
+#EXTINF:-1 tvg-logo="http://iv.pe/Se2" group-title="Canais | Alternativos",A&E SD [Alter]
+http://csrv.tv:80/YXHM4/66bn2/2215
+#EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Canais | Filmes e Séries",AMC FHD
+http://csrv.tv:80/YXHM4/66bn2/2024
+#EXTINF:-1 tvg-logo="http://iv.pe/L8f" group-title="Canais | H265",AMC FHD [H265]
+http://csrv.tv:80/YXHM4/66bn2/25399
