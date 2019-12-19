@@ -1,75 +1,75 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Canais | Variedades",A&E FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2025.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2025.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E HD
-http://p.clubsrv.me/live/jcantel/cantel01/1906.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1906.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/LHo" group-title="Canais | Variedades",A&E SD
-http://p.clubsrv.me/live/jcantel/cantel01/1907.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1907.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Canais | Filmes e Séries",AMC FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2024.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2024.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
-http://p.clubsrv.me/live/jcantel/cantel01/1904.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1904.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/ACu" group-title="Canais | Filmes e Séries",AMC SD
-http://p.clubsrv.me/live/jcantel/cantel01/1905.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1905.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Canais | Documentários",Animal Planet FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2023.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2023.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/XYZ" group-title="Canais | Documentários",Animal Planet HD
-http://p.clubsrv.me/live/jcantel/cantel01/1902.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1902.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/gv4" group-title="Canais | Documentários",Animal Planet SD
-http://p.clubsrv.me/live/jcantel/cantel01/1903.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1903.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1 FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2022.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2022.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/xC0" group-title="Canais | Documentários",Arte 1 HD
-http://p.clubsrv.me/live/jcantel/cantel01/1900.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1900.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/hCx" group-title="Canais | Documentários",Arte 1 SD
-http://p.clubsrv.me/live/jcantel/cantel01/1901.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1901.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="Canais | Filmes e Séries",AXN FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2021.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2021.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
-http://p.clubsrv.me/live/jcantel/cantel01/1898.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1898.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Dcw" group-title="Canais | Filmes e Séries",AXN SD
-http://p.clubsrv.me/live/jcantel/cantel01/1899.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1899.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/BhC" group-title="Canais | Infantis",Baby TV SD
-http://p.clubsrv.me/live/jcantel/cantel01/1897.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1897.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="Canais | Abertos",Band SP FHD
-http://p.clubsrv.me/live/jcantel/cantel01/1953.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1953.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/ayO" group-title="Canais | Abertos",Band SP HD
-http://p.clubsrv.me/live/jcantel/cantel01/1895.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1895.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/A6P" group-title="Canais | Abertos",Band SP SD
-http://p.clubsrv.me/live/jcantel/cantel01/1896.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1896.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2020.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2020.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/WYh" group-title="Canais | Notícias",BandNews HD
-http://p.clubsrv.me/live/jcantel/cantel01/1893.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1893.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/vnS" group-title="Canais | Notícias",BandNews SD
-http://p.clubsrv.me/live/jcantel/cantel01/1894.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1894.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2019.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2019.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/8hZ" group-title="Canais | Esportes",BandSports HD
-http://p.clubsrv.me/live/jcantel/cantel01/1891.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1891.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/kRo" group-title="Canais | Esportes",BandSports SD
-http://p.clubsrv.me/live/jcantel/cantel01/1892.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1892.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Canais | Variedades",Bis FHD
-http://p.clubsrv.me/live/jcantel/cantel01/1952.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1952.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/IKy" group-title="Canais | Variedades",Bis HD
-http://p.clubsrv.me/live/jcantel/cantel01/1889.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1889.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Uaq" group-title="Canais | Variedades",Bis SD
-http://p.clubsrv.me/live/jcantel/cantel01/1890.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1890.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Canais | Infantis",Boomerang FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2018.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2018.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Rq9" group-title="Canais | Infantis",Boomerang HD
-http://p.clubsrv.me/live/jcantel/cantel01/1886.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1886.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Ym6" group-title="Canais | Infantis",Boomerang SD
-http://p.clubsrv.me/live/jcantel/cantel01/1887.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1887.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="Canais | Filmes e Séries",Canal Sony FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2017.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2017.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Canais | Filmes e Séries",Canal Sony HD
-http://p.clubsrv.me/live/jcantel/cantel01/1882.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1882.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/vKM" group-title="Canais | Filmes e Séries",Canal Sony SD
-http://p.clubsrv.me/live/jcantel/cantel01/1883.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1883.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Canais | Infantis",Cartoon Network FHD
-http://p.clubsrv.me/live/jcantel/cantel01/2016.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/2016.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network HD
-http://p.clubsrv.me/live/jcantel/cantel01/1879.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1879.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/1Pk" group-title="Canais | Infantis",Cartoon Network SD
-http://p.clubsrv.me/live/jcantel/cantel01/1880.m3u8
+http://csrv.tv:80/live/jcantel/cantel01/1880.m3u8
