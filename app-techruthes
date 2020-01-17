@@ -1,19 +1,27 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
-http://us.server.kkilo.live/aovivo/FHD_AE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="AMC FHD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC FHD
-http://us.server.kkilo.live/aovivo/FHD_AMC/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="AXN FHD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN FHD
-http://us.server.kkilo.live/aovivo/FHD_AXN/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet FHD
-http://us.server.kkilo.live/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="Arte 1 HD" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade e Musica",Arte 1 HD
-http://us.server.kkilo.live/aovivo/HD_ARTE1/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB
-http://us.server.kkilo.live/aovivo/SD_BBB/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="BBB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB HD
-http://us.server.kkilo.live/aovivo/HD_BBB/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="BIS FHD" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS FHD
-http://us.server.kkilo.live/aovivo/FHD_BIS/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1 type="stream" tvg-id="Baby TV FHD" tvg-logo="https://i.ibb.co/yfscShb/babytv.png" group-title="Infantil",Baby TV FHD
-http://us.server.kkilo.live/aovivo/FHD_BABY_TV/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD H.265" tvg-logo="http://img.cs10.tv/382.png" group-title="FILMES E SERIES",A&E FHD H.265
+http://lindaflor.net:8080/RTTBCE/duLCvM/1
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://img.cs10.tv/382.png" group-title="FILMES E SERIES",A&E HD
+http://lindaflor.net:8080/RTTBCE/duLCvM/2
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD" tvg-logo="http://img.cs10.tv/382.png" group-title="FILMES E SERIES",A&E SD
+http://lindaflor.net:8080/RTTBCE/duLCvM/3
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD H.265" tvg-logo="http://img.cs10.tv/391.png" group-title="FILMES E SERIES",AMC FHD H.265
+http://lindaflor.net:8080/RTTBCE/duLCvM/4
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.cs10.tv/391.png" group-title="FILMES E SERIES",AMC HD
+http://lindaflor.net:8080/RTTBCE/duLCvM/5
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://img.cs10.tv/391.png" group-title="FILMES E SERIES",AMC SD
+http://lindaflor.net:8080/RTTBCE/duLCvM/6
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD H.265" tvg-logo="http://img.cs10.tv/474.png" group-title="DOCUMENTARIOS",Animal Planet FHD H.265
+http://lindaflor.net:8080/RTTBCE/duLCvM/7
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://img.cs10.tv/474.png" group-title="DOCUMENTARIOS",Animal Planet HD
+http://lindaflor.net:8080/RTTBCE/duLCvM/8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="http://img.cs10.tv/474.png" group-title="DOCUMENTARIOS",Animal Planet SD
+http://lindaflor.net:8080/RTTBCE/duLCvM/9
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD H.265" tvg-logo="http://img.cs10.tv/397.png" group-title="FILMES E SERIES",AXN FHD H.265
+http://lindaflor.net:8080/RTTBCE/duLCvM/10
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.cs10.tv/397.png" group-title="FILMES E SERIES",AXN HD
+http://lindaflor.net:8080/RTTBCE/duLCvM/11
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="http://img.cs10.tv/397.png" group-title="FILMES E SERIES",AXN SD
+http://lindaflor.net:8080/RTTBCE/duLCvM/12
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV SD" tvg-logo="http://img.cs10.tv/546.png" group-title="INFANTIL",Baby TV SD
+http://lindaflor.net:8080/RTTBCE/duLCvM/13
