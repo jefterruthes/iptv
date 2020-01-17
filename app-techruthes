@@ -1,9 +1,8 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Variedades",A&E FHD
+#EXTINF:-1 tvg-logo="https://img.miptv.ws/A&E_HD.png" group-title="Variedades",A&E FHD
 http://p.clubsrv.me/live/jcantel/cantel03/2025.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Variedades",A&E HD
+#EXTINF:-1 tvg-logo="https://img.miptv.ws/A&E_HD.png" group-title="Variedades",A&E HD
 http://p.clubsrv.me/live/jcantel/cantel03/1906.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/LHo" group-title="Variedades",A&E SD
+#EXTINF:-1 tvg-logo="https://img.miptv.ws/A&E_HD.png" group-title="Variedades",A&E SD
 http://p.clubsrv.me/live/jcantel/cantel03/1907.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="FILMESESERIES",AMC FHD
 http://p.clubsrv.me/live/jcantel/cantel03/2024.m3u8
