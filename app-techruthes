@@ -1,22 +1,15 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang FHD
-http://198.255.23.18:2095/streams/127_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/GLD" group-title="Telecine",Telecine Pipoca HD
-http://198.255.23.18:2095/streams/207_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/bt3" group-title="SporTV",SporTV HD
-http://198.255.23.18:2095/streams/53_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="Abertos",SBT HD
-http://198.255.23.18:2095/streams/37_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/Wbr" group-title="Documentários",NatGeo Wild HD
-http://198.255.23.18:2095/streams/127_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/RN7" group-title="Globo",Globo SP HD
-http://198.255.23.18:2095/streams/25_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/n8v" group-title="ESPN",ESPN 2 HD
-http://p.clubsrv.me/live/qQeyC/rFW1H/1846.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Infantis",Cartoon Network HD
-http://198.255.23.18:2095/streams/128_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Filmes e Séries",AMC HD
-http://198.255.23.18:2095/streams/158_.m3u8
-#EXTINF:-1 tvg-logo="logos/sportv.png" group-title="ESPORTES",SPORTV 1
-http://csrv.club:80/jcantel/cantel03/1928
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
+http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
+http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD
+http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="A&E HD [Alter]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD [Alter]
+http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
+http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="AMC FHD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC FHD
+http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC HD
+http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
