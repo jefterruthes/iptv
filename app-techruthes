@@ -1,127 +1,19 @@
 #EXTM3U
-#EXTINF:-1,GLOBO RJ HD
-http://us13.server.kudaalpha.com/HD_GLOBO_RJ/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,GLOBO RJ SD
-http://ge2.server.kzulu.live/SD_GLOBO_RJ/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,BAND HD
-http://ge.server.kuniform.live/HD_BAND/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,BAND SD
-http://ge.server.kyankee.live/SD_BAND/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,FOX SPORTS HD
-http://us12.server.kklima.xyz/HD_FOX_SPORTS_1/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,FOX SPORTS SD
-http://fr.server.kpapa.live/SD_FOX_SPORTS/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 2 HD
-http://us14.server.kp2hotel.xyz/HD_PFC_2/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 2 SD
-http://us14.server.kp2lima.xyz/SD_PFC_2/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 3 HD
-http://us14.server.kp2india.xyz/HD_PFC_3_ALTER/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 3 SD
-http://us14.server.kp2hotel.xyz/SD_PFC_3/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 4 HD
-http://us14.server.kp2golf.xyz/HD_PFC_4/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 4 SD
-http://us14.server.kp2india.xyz/SD_PFC_4/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 5 HD
-http://us14.server.kp2lima.xyz/FHD_PFC_5/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 6 HD
-http://us14.server.kpfoxtrot.xyz/HD_PFC_6/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 6 SD
-http://us14.server.kp2india.xyz/SD_PFC_6/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 7 HD
-http://us14.server.kp2kilo.xyz/HD_PFC_7/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE 8 SD
-http://us14.server.kp2india.xyz/SD_PFC_8/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE CLUBE HD
-http://us14.server.kp2india.xyz/HD_PFC_CLUBES/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,PREMIERE CLUBE SD
-http://us14.server.kpfoxtrot.xyz/SD_PFC_CLUBES/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,SPORTV HD
-http://us14.server.kp2kilo.xyz/HD_SPORTV_1/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,SPORTV SD
-http://us12.server.kkdelta.xyz/SD_SPORTV_1/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,SPORTV 2 HD
-http://us14.server.kpbravo.xyz/HD_SPORTV_2/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,SPORTV 2 SD
-http://us11.server.kgolf.store/SD_SPORTV_2/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,SPORTV 3 HD
-http://us14.server.kp2lima.xyz/HD_SPORTV_3/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,SPORTV 3 SD
-http://us11.server.kgolf.store/SD_SPORTV_3/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,COMBATE HD
-http://us14.server.kpbravo.xyz/HD_COMBATE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,COMBATE SD
-http://us14.server.kp2hotel.xyz/SD_COMBATE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,ESPN HD
-http://pl.server.kbravo.xyz/HD_ESPN/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,ESPN SD
-http://us11.server.kfoxtrot.store/SD_ESPN/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,ESPN BRASIL HD
-http://us12.server.kkalfa.xyz/HD_ESPN_BRASIL/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,ESPN BRASIL SD
-http://us11.server.kfoxtrot.store/SD_ESPN_BRASIL/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,FOX HD
-http://us11.server.koscar.live/HD_FOX/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,FOX SD
-http://us11.server.kgolf.store/SD_FOX/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE ACTION HD
-http://pl.server.kbravo.xyz/HD_TC_ACTION/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE ACTION SD
-http://pl.server.kecho.xyz/SD_TC_ACTION/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE FUN HD
-http://pl.server.kkfoxtrot.xyz/HD_TC_FUN/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE FUN SD
-http://us13.server.kkyankee.xyz/SD_TC_FUN/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE PIPOCA HD
-http://us13.server.kkyankee.xyz/HD_TC_PIPOCA/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE PIPOCA SD
-http://us13.server.kkyankee.xyz/SD_TC_PIPOCA/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE PREMIUM HD
-http://us11.server.kromeo.live/HD_TC_PREMIUM/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE PREMIUM SD
-http://us12.server.kklima.xyz/SD_TC_PREMIUM/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE TOUCH HD
-http://us12.server.kkvictor.xyz/HD_TC_TOUCH/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,TELECINE TOUCH SD
-http://us11.server.kgolf.store/SD_TC_TOUCH/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,WARNER HD
-http://us12.server.kkdelta.xyz/HD_WARNER/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,WARNER SD
-http://us11.server.kgolf.store/FHD_WARNER/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HBO 2 HD
-http://ge.server.kwhiskey.live/HD_HBO_2/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HBO 2 SD
-http://us13.server.kudaalpha.com/SD_HBO_2/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640d
-#EXTINF:-1,HBO FAMILY HD
-http://pl.server.kcharlie.xyz/HD_HBO_FAMILY/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HBO FAMILY SD
-http://us11.server.koscar.live/SD_HBO_FAMILY/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HBO PLUS HD
-http://ge2.server.kzulu.live/HD_HBO_PLUS/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HBO PLUS SD
-http://us13.server.kkyankee.xyz/SD_HBO_PLUS/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HBO SINGNATURE HD
-http://us13.server.kkx-ray.xyz/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HBO SINGNATURE SD
-http://us4.server.kkilo.xyz/SD_HBO_SINGNATURE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,MEGAPIX HD
-http://pl.server.kcharlie.xyz/HD_MEGAPIX/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,MEGAPIX SD
-http://ge.server.kwhiskey.live/SD_MEGAPIX/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HISTORY HD
-http://us12.server.kkalfa.xyz/HD_HISTORY/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,HISTORY SD
-http://eu.server.kudaplay.com/SD_HISTORY/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,DICOVERY TURBO HD
-http://pl.server.kbravo.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,DISCOVERY TURBO SD
-http://ge.server.kvictor.live/SD_DISCOVERY_TURBO/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,CARTOON NETWORK HD
-http://pl.server.kbravo.xyz/HD_CARTOON_NETWORK/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,CARTOON NETWORK SD
-http://pl.server.kbravo.xyz/SD_CARTOON_NETWORK/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,DISNEY XD HD
-http://us12.server.kklima.xyz/HD_DISNEY_XD/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
-#EXTINF:-1,DISNEY XD SD
-http://us12.server.kkcharlie.xyz/SD_DISNEY_XD/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
+http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="AMC FHD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC FHD
+http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="AXN FHD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN FHD
+http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet FHD
+http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="Arte 1 HD" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade e Musica",Arte 1 HD
+http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB
+http://lb.kstream.org/aovivo/SD_BBB/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="BBB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB HD
+http://lb.kstream.org/aovivo/HD_BBB/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="BIS FHD" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS FHD
+http://lb.kstream.org/aovivo/FHD_BIS/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
+#EXTINF:-1 type="stream" tvg-id="Baby TV FHD" tvg-logo="https://i.ibb.co/yfscShb/babytv.png" group-title="Infantil",Baby TV FHD
+http://lb.kstream.org/aovivo/FHD_BABY_TV/video.m3u8?token=9cd2e564fe76c7b864d0dcc39e03e640
