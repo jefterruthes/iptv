@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang FHD
-http://198.255.23.18:2095/streams/127_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/GLD" group-title="Telecine",Telecine Pipoca HD
-http://198.255.23.18:2095/streams/207_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/bt3" group-title="SporTV",SporTV HD
-http://198.255.23.18:2095/streams/53_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="Abertos",SBT HD
-http://198.255.23.18:2095/streams/37_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/Wbr" group-title="Documentários",NatGeo Wild HD
-http://198.255.23.18:2095/streams/127_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/RN7" group-title="Globo",Globo SP HD
-http://198.255.23.18:2095/streams/25_.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/n8v" group-title="ESPN",ESPN 2 HD
-http://p.clubsrv.me/live/qQeyC/rFW1H/1846.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Infantis",Cartoon Network HD
-http://198.255.23.18:2095/streams/128_.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Variedades",A&E FHD
+http://p.clubsrv.me/live/jcantel/cantel03/2025.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Variedades",A&E HD
+http://p.clubsrv.me/live/jcantel/cantel03/1906.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/LHo" group-title="Variedades",A&E SD
+http://p.clubsrv.me/live/jcantel/cantel03/1907.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Filmes e Séries",AMC FHD
+http://p.clubsrv.me/live/jcantel/cantel03/2024.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Filmes e Séries",AMC HD
-http://198.255.23.18:2095/streams/158_.m3u8
+http://p.clubsrv.me/live/jcantel/cantel03/1904.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ACu" group-title="Filmes e Séries",AMC SD
+http://p.clubsrv.me/live/jcantel/cantel03/1905.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Documentários",Animal Planet FHD
+http://p.clubsrv.me/live/jcantel/cantel03/2023.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/XYZ" group-title="Documentários",Animal Planet HD
+http://p.clubsrv.me/live/jcantel/cantel03/1902.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/gv4" group-title="Documentários",Animal Planet SD
+http://p.clubsrv.me/live/jcantel/cantel03/1903.m3u8
