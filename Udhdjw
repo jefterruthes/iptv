@@ -1,29 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil [CAM001] HD
-http://psrv.io/live//WdmaGWiG/baseurl.me/27861.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18858.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Variedades",A&E FHD [H265]
-http://psrv.io/live//WdmaGWiG/baseurl.me/22213.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18738.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18739.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Al Jazeera
-http://psrv.io/live//WdmaGWiG/baseurl.me/28158.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC FHD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18857.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://psrv.io/live//WdmaGWiG/baseurl.me/22212.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18736.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18737.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18856.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/aPp" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://psrv.io/live//WdmaGWiG/baseurl.me/22211.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18734.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
-http://psrv.io/live//WdmaGWiG/baseurl.me/18735.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
+http://list.deeplist.nl/live/jef95729/95729/1120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
+http://list.deeplist.nl/live/blo66647/66647/52645.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
+http://list.deeplist.nl/live/blo66647/66647/5078.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
+http://list.deeplist.nl/live/blo66647/66647/9609.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
+http://list.deeplist.nl/live/blo66647/66647/52646.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
+http://list.deeplist.nl/live/blo66647/66647/15406.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
+http://list.deeplist.nl/live/blo66647/66647/1719.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
+http://list.deeplist.nl/live/blo66647/66647/52581.m3u8
+#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA
+http://list.deeplist.nl/live/blo66647/66647/916.m3u8
