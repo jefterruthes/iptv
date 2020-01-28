@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil
-http://a.srvbr.me:8080/live/teste9087/teste9087/4203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil
-http://a.srvbr.me/live/teste9087/teste9087/4203.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
+http://list.deeplist.nl/live/blo66647/66647/1120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
+http://list.deeplist.nl/live/blo66647/66647/52645.m3u8
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
+http://list.deeplist.nl/live/blo66647/66647/5078.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
+http://list.deeplist.nl/live/blo66647/66647/9609.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
+http://list.deeplist.nl/live/blo66647/66647/52646.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
+http://list.deeplist.nl/live/blo66647/66647/15406.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
+http://list.deeplist.nl/live/blo66647/66647/1719.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
+http://list.deeplist.nl/live/blo66647/66647/52581.m3u8
+#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA
+http://list.deeplist.nl/live/blo66647/66647/916.m3u8
+#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA HD" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA HD
+http://list.deeplist.nl/live/blo66647/66647/20831.m3u8
