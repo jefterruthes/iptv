@@ -1066,11 +1066,7 @@ http://play.starbr.top/live/lui84571/lui19259/52623.m3u8
 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA HD
 http://play.starbr.top/live/lui84571/lui19259/930.m3u8
 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM
-http://play.starbr.top/live/lui84571/lui19259/52591.m3u8
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM FULL HD
-http://play.starbr.top/live/lui84571/lui19259/52624.m3u8
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM HD
-http://play.starbr.top/live/lui84571/lui19259/52590.m3u8
+https://origin.canaismax.com/live/telecinepremiumhd/video.m3u8?md5=bn1JKn38j3WOEuGGt9seow&expires=1580253330
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH
 http://play.starbr.top/live/lui84571/lui19259/926.m3u8
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH HD
