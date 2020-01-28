@@ -1,19 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://list.deeplist.nl/live/jef95729/95729/1120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
-http://list.deeplist.nl/live/blo66647/66647/52645.m3u8
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
-http://list.deeplist.nl/live/blo66647/66647/5078.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
-http://list.deeplist.nl/live/blo66647/66647/9609.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FULL HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC FULL HD
-http://list.deeplist.nl/live/blo66647/66647/52646.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
-http://list.deeplist.nl/live/blo66647/66647/15406.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
-http://list.deeplist.nl/live/blo66647/66647/1719.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
-http://list.deeplist.nl/live/blo66647/66647/52581.m3u8
-#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA
-http://list.deeplist.nl/live/blo66647/66647/916.m3u8
+#EXTINF:-1 tvg-ID="noepg.pt" tvg-name="BBB 2020" tvg-logo="http://img.brgo.xyz/img/bbb1hd.png" group-title="Filmes e Séries",BBB 2020
+http://a.srvbr.me:8880/live/macuxi01/macuxi01/11923.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A Fazenda 11" tvg-logo="http://img.miptv.ws/A_Fazenda.png" group-title="Filmes e Séries",A Fazenda 11
+http://a.srvbr.me:8880/live/macuxi01/macuxi01/984.m3u8
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E
+http://a.srvbr.me:8880/live/macuxi01/macuxi01/898.m3u8
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E HD
+http://a.srvbr.me:8880/live/macuxi01/macuxi01/4203.m3u8
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E [PLUS]" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E [PLUS]
+http://a.srvbr.me:8880/live/macuxi01/macuxi01/4167.m3u8
