@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Variedades",A&E | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2025
-#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title="Alternativos",A&E HD [Alter]
+#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title="Alternativos",A&E HD
 http://csrv.club:80/jrcantel/JRcantel/2402
 #EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Filmes e Séries",AMC | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2024
@@ -41,7 +41,7 @@ http://csrv.club:80/jrcantel/JRcantel/33438
 http://csrv.club:80/jrcantel/JRcantel/29879
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1952
-#EXTINF:-1 tvg-logo="http://iv.pe/t4z" group-title="H265",Boa Vontade TV | TechRuthes.com [H265]
+#EXTINF:-1 tvg-logo="http://iv.pe/t4z" group-title="H265",Boa Vontade TV | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/25363
 #EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2018
@@ -103,7 +103,7 @@ http://csrv.club:80/jrcantel/JRcantel/2007
 http://csrv.club:80/jrcantel/JRcantel/1949
 #EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Infantis",Disney Jr | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1955
-#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="H265",Disney XD | TechRuthes.com [H265]
+#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="H265",Disney XD | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/25361
 #EXTINF:-1 tvg-logo="http://iv.pe/od8" group-title="Variedades",DogTV | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/30554
