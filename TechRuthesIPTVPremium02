@@ -1,17 +1,133 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.miptv.ws/A&E_HD.png" group-title="FILMES E SERIES",A&E
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/33439.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/TechRuthesAMC" group-title="FILMES E SERIES",AMC
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/31549.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/TechRuthesLogoAnimalPlanet" group-title="DOCUMENTÁRIOS",Animal Planet
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/33438.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="DOCUMENTÁRIOS",Arte 1
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/40078.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="FILMES E SERIES",AXN
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/33436.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="ABERTOS",Band
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/33435.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="Notícias",BandNews
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/33434.m3u8
-#EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="ESPORTES",BandSports
-http://iptv-line.com:6969/live/brendamelo.00951/SZUiUgDo/33433.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Variedades",A&E | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2025
+#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title="Alternativos",A&E HD [Alter]
+http://csrv.club:80/jrcantel/JRcantel/2402
+#EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Filmes e Séries",AMC | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2024
+#EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Documentários",Animal Planet | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2023
+#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="Documentários",Arte 1 | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2022
+#EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="Filmes e Séries",AXN | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2021
+#EXTINF:-1 tvg-logo="http://iv.pe/BhC" group-title="Infantis",Baby TV SD
+http://csrv.club:80/jrcantel/JRcantel/1897
+#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="Abertos",Band SP | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1953
+#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="Notícias",BandNews | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2020
+#EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="Esportes",BandSports | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2019
+#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="BBB",BBB Cam 1 - Acompanhe a Casa HD
+http://csrv.club:80/jrcantel/JRcantel/33430
+#EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="BBB",BBB Cam 2 - Jardim HD
+http://csrv.club:80/jrcantel/JRcantel/33431
+#EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="BBB",BBB Cam 3 - Cozinha HD
+http://csrv.club:80/jrcantel/JRcantel/33432
+#EXTINF:-1 tvg-logo="http://iv.pe/F05" group-title="BBB",BBB Cam 4 - Quarto Villa HD
+http://csrv.club:80/jrcantel/JRcantel/33433
+#EXTINF:-1 tvg-logo="http://iv.pe/ofA" group-title="BBB",BBB Cam 5 - Quarto HD
+http://csrv.club:80/jrcantel/JRcantel/33434
+#EXTINF:-1 tvg-logo="http://iv.pe/ynW" group-title="BBB",BBB Cam 6 - Piscina HD
+http://csrv.club:80/jrcantel/JRcantel/33435
+#EXTINF:-1 tvg-logo="http://iv.pe/uKY" group-title="BBB",BBB Cam 7 - Cozinha VIP HD
+http://csrv.club:80/jrcantel/JRcantel/33436
+#EXTINF:-1 tvg-logo="http://iv.pe/zPe" group-title="BBB",BBB Cam 8 - Confessionario HD
+http://csrv.club:80/jrcantel/JRcantel/33437
+#EXTINF:-1 tvg-logo="http://iv.pe/QqN" group-title="BBB",BBB Cam 9 - Quarto Céu HD
+http://csrv.club:80/jrcantel/JRcantel/33438
+#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="BBB",BBB Mosaico HD
+http://csrv.club:80/jrcantel/JRcantel/29879
+#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1952
+#EXTINF:-1 tvg-logo="http://iv.pe/t4z" group-title="H265",Boa Vontade TV | TechRuthes.com [H265]
+http://csrv.club:80/jrcantel/JRcantel/25363
+#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2018
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense 1 HD
+http://csrv.club:80/jrcantel/JRcantel/33567
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 1 HD
+http://csrv.club:80/jrcantel/JRcantel/33869
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 2 HD
+http://csrv.club:80/jrcantel/JRcantel/33870
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 3 HD
+http://csrv.club:80/jrcantel/JRcantel/33871
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 4 HD
+http://csrv.club:80/jrcantel/JRcantel/33872
+#EXTINF:-1 tvg-logo="http://iv.pe/NND" group-title="Filmes e Séries",Canal Brasil | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1920
+#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="Filmes e Séries",Canal Sony | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2017
+#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Infantis",Cartoon Network | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2016
+#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="Filmes e Séries",Cinemax | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2015
+#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Esportes",Combate | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1951
+#EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title="Variedades",Comedy Central | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2014
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 1 HD
+http://csrv.club:80/jrcantel/JRcantel/33873
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 2 HD
+http://csrv.club:80/jrcantel/JRcantel/33874
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 3 HD
+http://csrv.club:80/jrcantel/JRcantel/33875
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 4 HD
+http://csrv.club:80/jrcantel/JRcantel/33876
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 5 HD
+http://csrv.club:80/jrcantel/JRcantel/33975
+#EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="Documentários",Curta | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2013
+#EXTINF:-1 tvg-logo="http://iv.pe/7TG" group-title="Esportes",DAZN 1 HD
+http://csrv.club:80/jrcantel/JRcantel/1642
+#EXTINF:-1 tvg-logo="http://iv.pe/vQb" group-title="Esportes",DAZN 2 HD
+http://csrv.club:80/jrcantel/JRcantel/1641
+#EXTINF:-1 tvg-logo="http://iv.pe/2JP" group-title="Esportes",DAZN 3 HD
+http://csrv.club:80/jrcantel/JRcantel/1640
+#EXTINF:-1 tvg-logo="http://iv.pe/pK5" group-title="Documentários",Discovery Channel | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1950
+#EXTINF:-1 tvg-logo="http://iv.pe/N8F" group-title="Variedades",Discovery H&H | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2011
+#EXTINF:-1 tvg-logo="http://iv.pe/MIw" group-title="Documentários",Discovery HGTV | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2012
+#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Infantis",Discovery Kids | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2010
+#EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title="Documentários",Discovery Science | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2009
+#EXTINF:-1 tvg-logo="http://iv.pe/aD9" group-title="Documentários",Discovery Theater | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2008
+#EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title="Variedades",Discovery Turbo | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2007
+#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Infantis",Disney Channel | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1949
+#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Infantis",Disney Jr | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1955
+#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="H265",Disney XD | TechRuthes.com [H265]
+http://csrv.club:80/jrcantel/JRcantel/25361
+#EXTINF:-1 tvg-logo="http://iv.pe/od8" group-title="Variedades",DogTV | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/30554
+#EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="Variedades",E! | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2005
+#EXTINF:-1 tvg-logo="http://iv.pe/C3v" group-title="Esportes",EI Plus 1 HD
+http://csrv.club:80/jrcantel/JRcantel/29887
+#EXTINF:-1 tvg-logo="http://iv.pe/sej" group-title="Esportes",EI Plus 2 HD
+http://csrv.club:80/jrcantel/JRcantel/29886
+#EXTINF:-1 tvg-logo="http://iv.pe/8K0" group-title="Esportes",EI Plus 3 HD
+http://csrv.club:80/jrcantel/JRcantel/29885
+#EXTINF:-1 tvg-logo="http://iv.pe/psU" group-title="Esportes",EI Plus 4 HD
+http://csrv.club:80/jrcantel/JRcantel/29884
+#EXTINF:-1 tvg-logo="http://iv.pe/QrH" group-title="Esportes",EI Plus 5 HD
+http://csrv.club:80/jrcantel/JRcantel/29883
+#EXTINF:-1 tvg-logo="http://iv.pe/ZJX" group-title="Esportes",EI Plus 6 HD
+http://csrv.club:80/jrcantel/JRcantel/29882
+#EXTINF:-1 tvg-logo="http://iv.pe/iqo" group-title="Esportes",Ei Plus HD
+http://csrv.club:80/jrcantel/JRcantel/1645
+#EXTINF:-1 tvg-logo="http://iv.pe/R5h" group-title="Esportes",Ei Plus SD
+http://csrv.club:80/jrcantel/JRcantel/1644
+#EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="ESPN",ESPN 2 | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/2004
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPN",ESPN Brasil | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1948
+#EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPN",ESPN | TechRuthes.com
+http://csrv.club:80/jrcantel/JRcantel/1947
