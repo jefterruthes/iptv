@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Variedades",A&E | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2025
-#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title="Alternativos",A&E HD
-http://csrv.club:80/jrcantel/JRcantel/2402
 #EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Filmes e Séries",AMC | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2024
 #EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Documentários",Animal Planet | TechRuthes.com
@@ -19,25 +17,25 @@ http://csrv.club:80/jrcantel/JRcantel/1953
 http://csrv.club:80/jrcantel/JRcantel/2020
 #EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="Esportes",BandSports | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2019
-#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="BBB",BBB Cam 1 - Acompanhe a Casa HD
+#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="BBB",BBB Cam 1 - Acompanhe a Casa | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33430
-#EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="BBB",BBB Cam 2 - Jardim HD
+#EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="BBB",BBB Cam 2 - Jardim | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33431
-#EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="BBB",BBB Cam 3 - Cozinha HD
+#EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="BBB",BBB Cam 3 - Cozinha | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33432
-#EXTINF:-1 tvg-logo="http://iv.pe/F05" group-title="BBB",BBB Cam 4 - Quarto Villa HD
+#EXTINF:-1 tvg-logo="http://iv.pe/F05" group-title="BBB",BBB Cam 4 - Quarto Villa | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33433
-#EXTINF:-1 tvg-logo="http://iv.pe/ofA" group-title="BBB",BBB Cam 5 - Quarto HD
+#EXTINF:-1 tvg-logo="http://iv.pe/ofA" group-title="BBB",BBB Cam 5 - Quarto | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33434
-#EXTINF:-1 tvg-logo="http://iv.pe/ynW" group-title="BBB",BBB Cam 6 - Piscina HD
+#EXTINF:-1 tvg-logo="http://iv.pe/ynW" group-title="BBB",BBB Cam 6 - Piscina | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33435
-#EXTINF:-1 tvg-logo="http://iv.pe/uKY" group-title="BBB",BBB Cam 7 - Cozinha VIP HD
+#EXTINF:-1 tvg-logo="http://iv.pe/uKY" group-title="BBB",BBB Cam 7 - Cozinha VIP | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33436
-#EXTINF:-1 tvg-logo="http://iv.pe/zPe" group-title="BBB",BBB Cam 8 - Confessionario HD
+#EXTINF:-1 tvg-logo="http://iv.pe/zPe" group-title="BBB",BBB Cam 8 - Confessionario | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33437
-#EXTINF:-1 tvg-logo="http://iv.pe/QqN" group-title="BBB",BBB Cam 9 - Quarto Céu HD
+#EXTINF:-1 tvg-logo="http://iv.pe/QqN" group-title="BBB",BBB Cam 9 - Quarto Céu | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33438
-#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="BBB",BBB Mosaico HD
+#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="BBB",BBB Mosaico | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/29879
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1952
@@ -45,15 +43,15 @@ http://csrv.club:80/jrcantel/JRcantel/1952
 http://csrv.club:80/jrcantel/JRcantel/25363
 #EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2018
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense 1 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33567
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 1 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33869
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 2 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 2 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33870
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 3 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 3 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33871
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 4 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 4 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33872
 #EXTINF:-1 tvg-logo="http://iv.pe/NND" group-title="Filmes e Séries",Canal Brasil | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1920
@@ -67,23 +65,23 @@ http://csrv.club:80/jrcantel/JRcantel/2015
 http://csrv.club:80/jrcantel/JRcantel/1951
 #EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title="Variedades",Comedy Central | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2014
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 1 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33873
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 2 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 2 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33874
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 3 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 3 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33875
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 4 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 4 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33876
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 5 HD
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 5 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/33975
 #EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="Documentários",Curta | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2013
-#EXTINF:-1 tvg-logo="http://iv.pe/7TG" group-title="Esportes",DAZN 1 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/7TG" group-title="Esportes",DAZN 1 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1642
-#EXTINF:-1 tvg-logo="http://iv.pe/vQb" group-title="Esportes",DAZN 2 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/vQb" group-title="Esportes",DAZN 2 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1641
-#EXTINF:-1 tvg-logo="http://iv.pe/2JP" group-title="Esportes",DAZN 3 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/2JP" group-title="Esportes",DAZN 3 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1640
 #EXTINF:-1 tvg-logo="http://iv.pe/pK5" group-title="Documentários",Discovery Channel | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1950
@@ -109,19 +107,19 @@ http://csrv.club:80/jrcantel/JRcantel/25361
 http://csrv.club:80/jrcantel/JRcantel/30554
 #EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="Variedades",E! | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/2005
-#EXTINF:-1 tvg-logo="http://iv.pe/C3v" group-title="Esportes",EI Plus 1 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/C3v" group-title="Esportes",EI Plus 1 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/29887
-#EXTINF:-1 tvg-logo="http://iv.pe/sej" group-title="Esportes",EI Plus 2 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/sej" group-title="Esportes",EI Plus 2 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/29886
-#EXTINF:-1 tvg-logo="http://iv.pe/8K0" group-title="Esportes",EI Plus 3 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/8K0" group-title="Esportes",EI Plus 3 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/29885
-#EXTINF:-1 tvg-logo="http://iv.pe/psU" group-title="Esportes",EI Plus 4 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/psU" group-title="Esportes",EI Plus 4 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/29884
-#EXTINF:-1 tvg-logo="http://iv.pe/QrH" group-title="Esportes",EI Plus 5 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/QrH" group-title="Esportes",EI Plus 5 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/29883
-#EXTINF:-1 tvg-logo="http://iv.pe/ZJX" group-title="Esportes",EI Plus 6 HD
+#EXTINF:-1 tvg-logo="http://iv.pe/ZJX" group-title="Esportes",EI Plus 6 | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/29882
-#EXTINF:-1 tvg-logo="http://iv.pe/iqo" group-title="Esportes",Ei Plus HD
+#EXTINF:-1 tvg-logo="http://iv.pe/iqo" group-title="Esportes",Ei Plus | TechRuthes.com
 http://csrv.club:80/jrcantel/JRcantel/1645
 #EXTINF:-1 tvg-logo="http://iv.pe/R5h" group-title="Esportes",Ei Plus SD
 http://csrv.club:80/jrcantel/JRcantel/1644
