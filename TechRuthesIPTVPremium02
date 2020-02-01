@@ -1,303 +1,1034 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title="Alternativos",A&E | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2402
-#EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Filmes e Séries",AMC | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2024
-#EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Documentários",Animal Planet | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2023
-#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="Documentários",Arte 1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2022
-#EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="Filmes e Séries",AXN | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2021
-#EXTINF:-1 tvg-logo="http://iv.pe/BhC" group-title="Infantis",Baby TV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1897
-#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="Abertos",Band SP | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1953
-#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="Notícias",BandNews | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2020
-#EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="Esportes",BandSports | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2019
-#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="BBB",BBB Cam 1 - BBB Acompanhe a Casa | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33430
-#EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="BBB",BBB Cam 2 - BBB Jardim | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33431
-#EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="BBB",BBB Cam 3 - BBB Cozinha | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33432
-#EXTINF:-1 tvg-logo="http://iv.pe/F05" group-title="BBB",BBB Cam 4 - BBB Quarto Villa | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33433
-#EXTINF:-1 tvg-logo="http://iv.pe/ofA" group-title="BBB",BBB Cam 5 - BBB Quarto | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33434
-#EXTINF:-1 tvg-logo="http://iv.pe/ynW" group-title="BBB",BBB Cam 6 - BBB Piscina | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33435
-#EXTINF:-1 tvg-logo="http://iv.pe/uKY" group-title="BBB",BBB Cam 7 - BBB Cozinha VIP | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33436
-#EXTINF:-1 tvg-logo="http://iv.pe/zPe" group-title="BBB",BBB Cam 8 - BBB Confessionario | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33437
-#EXTINF:-1 tvg-logo="http://iv.pe/QqN" group-title="BBB",BBB Cam 9 - BBB Quarto Céu | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33438
-#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="BBB",BBB Mosaico | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/29879
-#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1952
-#EXTINF:-1 tvg-logo="http://iv.pe/t4z" group-title="H265",Boa Vontade TV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/25363
-#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2018
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense 1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33567
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33869
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33870
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 3 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33871
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 4 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33872
-#EXTINF:-1 tvg-logo="http://iv.pe/NND" group-title="Filmes e Séries",Canal Brasil | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1920
-#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="Filmes e Séries",Canal Sony | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2017
-#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Infantis",Cartoon Network | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2016
-#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="Filmes e Séries",Cinemax | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2015
-#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Esportes",Combate | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1951
-#EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title="Variedades",Comedy Central | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2014
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33873
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33874
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 3 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33875
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 4 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33876
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 5 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33975
-#EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="Documentários",Curta | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2013
-#EXTINF:-1 tvg-logo="http://iv.pe/7TG" group-title="Esportes",DAZN 1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1642
-#EXTINF:-1 tvg-logo="http://iv.pe/vQb" group-title="Esportes",DAZN 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1641
-#EXTINF:-1 tvg-logo="http://iv.pe/2JP" group-title="Esportes",DAZN 3 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1640
-#EXTINF:-1 tvg-logo="http://iv.pe/pK5" group-title="Documentários",Discovery Channel | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1950
-#EXTINF:-1 tvg-logo="http://iv.pe/N8F" group-title="Variedades",Discovery H&H | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2011
-#EXTINF:-1 tvg-logo="http://iv.pe/MIw" group-title="Documentários",Discovery HGTV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2012
-#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Infantis",Discovery Kids | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2010
-#EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title="Documentários",Discovery Science | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2009
-#EXTINF:-1 tvg-logo="http://iv.pe/aD9" group-title="Documentários",Discovery Theater | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2008
-#EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title="Variedades",Discovery Turbo | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2007
-#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Infantis",Disney Channel | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1949
-#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Infantis",Disney Jr | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1955
-#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="H265",Disney XD | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/25361
-#EXTINF:-1 tvg-logo="http://iv.pe/od8" group-title="Variedades",DogTV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/30554
-#EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="Variedades",E! | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2005
-#EXTINF:-1 tvg-logo="http://iv.pe/C3v" group-title="Esportes",EI Plus 1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/29887
-#EXTINF:-1 tvg-logo="http://iv.pe/sej" group-title="Esportes",EI Plus 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/29886
-#EXTINF:-1 tvg-logo="http://iv.pe/8K0" group-title="Esportes",EI Plus 3 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/29885
-#EXTINF:-1 tvg-logo="http://iv.pe/psU" group-title="Esportes",EI Plus 4 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/29884
-#EXTINF:-1 tvg-logo="http://iv.pe/QrH" group-title="Esportes",EI Plus 5 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/29883
-#EXTINF:-1 tvg-logo="http://iv.pe/ZJX" group-title="Esportes",EI Plus 6 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/29882
-#EXTINF:-1 tvg-logo="http://iv.pe/iqo" group-title="Esportes",Ei Plus | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1645
-#EXTINF:-1 tvg-logo="http://iv.pe/R5h" group-title="Esportes",Ei Plus | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1644
-#EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="ESPN",ESPN 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2004
-#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPN",ESPN Brasil | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1948
-#EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPN",ESPN | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1947
-#EXTINF:-1 tvg-logo="http://iv.pe/Ws8" group-title="Variedades",Fish TV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2002
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wx99jxy.png" group-title="Esportes",FlaTV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/33986
-#EXTINF:-1 tvg-logo="http://iv.pe/xOv" group-title="Variedades",Food Network | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2001
-#EXTINF:-1 tvg-logo="http://iv.pe/x4P" group-title="Filmes e Séries",FOX | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1946
-#EXTINF:-1 tvg-logo="http://iv.pe/jDd" group-title="Variedades",FOX Life | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2000
-#EXTINF:-1 tvg-logo="http://iv.pe/SdR" group-title="Filmes e Séries",FOX Premium 1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1999
-#EXTINF:-1 tvg-logo="http://iv.pe/8PZ" group-title="Filmes e Séries",FOX Premium 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1998
-#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Esportes",FOX Sports 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1945
-#EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="Esportes",FOX Sports | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1944
-#EXTINF:-1 tvg-logo="http://iv.pe/xEJ" group-title="Abertos",Futura | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1997
-#EXTINF:-1 tvg-logo="http://iv.pe/aDs" group-title="Filmes e Séries",FX | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1996
-#EXTINF:-1 tvg-logo="http://iv.pe/5pO" group-title="Globo",Globo Brasilia | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1583
-#EXTINF:-1 tvg-logo="http://iv.pe/hng" group-title="Notícias",Globo News | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1943
-#EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="Globo",Globo RJ | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1619
-#EXTINF:-1 tvg-logo="http://iv.pe/kzK" group-title="Globo",Globo SP | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1613
-#EXTINF:-1 tvg-logo="" group-title="Esportes",GloboEsporte.com | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/28653
-#EXTINF:-1 tvg-logo="http://iv.pe/9Yr" group-title="Infantis",Gloob | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1942
-#EXTINF:-1 tvg-logo="http://iv.pe/FFX" group-title="Infantis",Gloobinho | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1995
-#EXTINF:-1 tvg-logo="http://iv.pe/NoG" group-title="Variedades",GNT | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1994
-#EXTINF:-1 tvg-logo="http://iv.pe/BwS" group-title="Documentários",H2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1993
-#EXTINF:-1 tvg-logo="http://iv.pe/Kcx" group-title="HBO",HBO 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1941
-#EXTINF:-1 tvg-logo="http://iv.pe/ZeQ" group-title="HBO",HBO Family | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1992
-#EXTINF:-1 tvg-logo="http://iv.pe/tTM" group-title="HBO",HBO | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1940
-#EXTINF:-1 tvg-logo="http://iv.pe/orv" group-title="HBO",HBO Plus | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1991
-#EXTINF:-1 tvg-logo="http://iv.pe/pOr" group-title="HBO",HBO Signature | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1990
-#EXTINF:-1 tvg-logo="http://iv.pe/eh7" group-title="Documentários",History Channel | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1989
-#EXTINF:-1 tvg-logo="http://iv.pe/Gon" group-title="Variedades",Investigation Discovery | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1988
-#EXTINF:-1 tvg-logo="http://iv.pe/Ge2" group-title="Variedades",Lifetime | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1987
-#EXTINF:-1 tvg-logo="http://iv.pe/3uB" group-title="Variedades",Mais GloboSat | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1921
-#EXTINF:-1 tvg-logo="http://iv.pe/YRV" group-title="Filmes e Séries",MAX | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1986
-#EXTINF:-1 tvg-logo="http://iv.pe/DYa" group-title="Filmes e Séries",MAX Prime | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1985
-#EXTINF:-1 tvg-logo="http://iv.pe/Q4O" group-title="Filmes e Séries",MAX Up | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1984
-#EXTINF:-1 tvg-logo="http://iv.pe/zpf" group-title="Filmes e Séries",Megapix | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1983
-#EXTINF:-1 tvg-logo="http://iv.pe/76R" group-title="Variedades",MTV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1982
-#EXTINF:-1 tvg-logo="http://iv.pe/zuf" group-title="Variedades",MTV Live | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR0951981
-#EXTINF:-1 tvg-logo="http://iv.pe/jtx" group-title="Variedades",Multishow | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1980
-#EXTINF:-1 tvg-logo="http://iv.pe/I5x" group-title="Variedades",Music Box Brasil | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1979
-#EXTINF:-1 tvg-logo="http://iv.pe/TkQ" group-title="Documentários",NatGeo | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1978
-#EXTINF:-1 tvg-logo="http://iv.pe/Seh" group-title="Infantis",NatGeo Kids | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1977
-#EXTINF:-1 tvg-logo="http://iv.pe/t8l" group-title="Documentários",NatGeo Wild | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1976
-#EXTINF:-1 tvg-logo="http://iv.pe/hrs" group-title="Infantis",Nick Jr | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1975
-#EXTINF:-1 tvg-logo="http://iv.pe/NRu" group-title="Infantis",Nickelodeon | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1974
-#EXTINF:-1 tvg-logo="http://iv.pe/KNa" group-title="Variedades",OFF | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1973
-#EXTINF:-1 tvg-logo="http://iv.pe/FqD" group-title="Filmes e Séries",Paramount Channel | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1972
-#EXTINF:-1 tvg-logo="http://iv.pe/TEB" group-title="Infantis",PlayKids | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1914
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Premiere",Premiere 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1939
-#EXTINF:-1 tvg-logo="http://iv.pe/88x" group-title="Premiere",Premiere 3 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1938
-#EXTINF:-1 tvg-logo="http://iv.pe/ACv" group-title="Premiere",Premiere 4 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1937
-#EXTINF:-1 tvg-logo="http://iv.pe/nrI" group-title="Premiere",Premiere 5 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1936
-#EXTINF:-1 tvg-logo="http://iv.pe/nvu" group-title="Premiere",Premiere 6 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1935
-#EXTINF:-1 tvg-logo="http://iv.pe/YVk" group-title="Premiere",Premiere 7 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1934
-#EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="Premiere",Premiere Clubes | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1933
-#EXTINF:-1 tvg-logo="http://iv.pe/OYM" group-title="Variedades",Prime Box Brasil | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1971
-#EXTINF:-1 tvg-logo="http://iv.pe/iRz" group-title="Notícias",Record News | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1970
-#EXTINF:-1 tvg-logo="http://iv.pe/NV8" group-title="Abertos",RecordTV RJ | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1915
-#EXTINF:-1 tvg-logo="http://iv.pe/QFa" group-title="Abertos",RecordTV SP | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1932
-#EXTINF:-1 tvg-logo="http://iv.pe/Amp" group-title="Abertos",Rede TV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1918
-#EXTINF:-1 tvg-logo="http://iv.pe/JTr" group-title="Abertos",Rede Vida | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1917
-#EXTINF:-1 tvg-logo="http://iv.pe/TxS" group-title="Abertos",SBT | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1931
-#EXTINF:-1 tvg-logo="http://iv.pe/Rm0" group-title="Filmes e Séries",Smithsonian Channel | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1909
-#EXTINF:-1 tvg-logo="http://iv.pe/Zgy" group-title="Filmes e Séries",Space | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1969
-#EXTINF:-1 tvg-logo="http://iv.pe/8xl" group-title="SporTV",SporTV 2 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1930
-#EXTINF:-1 tvg-logo="http://iv.pe/Lsk" group-title="SporTV",SporTV 3 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1929
-#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="SporTV",SporTV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1928
-#EXTINF:-1 tvg-logo="http://iv.pe/Tn0" group-title="Filmes e Séries",Studio Universal | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1968
-#EXTINF:-1 tvg-logo="http://iv.pe/4mR" group-title="Filmes e Séries",SyFy | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1967
-#EXTINF:-1 tvg-logo="http://iv.pe/a6P" group-title="Filmes e Séries",TBS | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1966
-#EXTINF:-1 tvg-logo="http://iv.pe/TcB" group-title="Filmes e Séries",TCM | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1721
-#EXTINF:-1 tvg-logo="http://iv.pe/E3y" group-title="Telecine",Telecine Action | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1927
-#EXTINF:-1 tvg-logo="http://iv.pe/6c6" group-title="Telecine",Telecine Cult | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1965
-#EXTINF:-1 tvg-logo="http://iv.pe/WiL" group-title="Telecine",Telecine Fun | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1926
-#EXTINF:-1 tvg-logo="http://iv.pe/NUS" group-title="Telecine",Telecine Pipoca | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1925
-#EXTINF:-1 tvg-logo="http://iv.pe/ewn" group-title="Telecine",Telecine Premium | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1924
-#EXTINF:-1 tvg-logo="http://iv.pe/sUe" group-title="Telecine",Telecine Touch | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1923
-#EXTINF:-1 tvg-logo="http://iv.pe/RAK" group-title="Variedades",TLC | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1964
-#EXTINF:-1 tvg-logo="http://iv.pe/dlK" group-title="Filmes e Séries",TNT | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1963
-#EXTINF:-1 tvg-logo="http://iv.pe/T8d" group-title="Filmes e Séries",TNT Series | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1962
-#EXTINF:-1 tvg-logo="http://iv.pe/vAJ" group-title="Alternativos",Tooncast | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/2316
-#EXTINF:-1 tvg-logo="http://iv.pe/ciY" group-title="Documentários",TruTV | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1961
-#EXTINF:-1 tvg-logo="http://iv.pe/rE7" group-title="Infantis",TV Ra Tim Bum | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1960
-#EXTINF:-1 tvg-logo="http://iv.pe/JTf" group-title="Filmes e Séries",Universal Channel | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1959
-#EXTINF:-1 tvg-logo="http://iv.pe/vwN" group-title="Variedades",VH1 | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1958
-#EXTINF:-1 tvg-logo="http://iv.pe/y4S" group-title="Variedades",VH1 MegaHits | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1685
-#EXTINF:-1 tvg-logo="http://iv.pe/g8Y" group-title="Variedades",Viva | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1922
-#EXTINF:-1 tvg-logo="http://iv.pe/kuW" group-title="Filmes e Séries",Warner Channel | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1957
-#EXTINF:-1 tvg-logo="http://iv.pe/bXo" group-title="Variedades",WooHoo | TechRuthes.com
-http://csrv.club:80/zeus021/raGnaR095/1956
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", A&E
+http://ntvplay.top:80/elizandra/elizandra/5306
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", A&E
+http://ntvplay.top:80/elizandra/elizandra/980
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", A&E
+http://ntvplay.top:80/elizandra/elizandra/7921
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ALL SPORTS
+http://ntvplay.top:80/elizandra/elizandra/167
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ALL SPORTS
+http://ntvplay.top:80/elizandra/elizandra/7830
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", AMC
+http://ntvplay.top:80/elizandra/elizandra/5307
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", AMC
+http://ntvplay.top:80/elizandra/elizandra/983
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", AMC
+http://ntvplay.top:80/elizandra/elizandra/7922
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", A&E
+http://ntvplay.top:80/elizandra/elizandra/7921
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ANIMAL PLANET
+http://ntvplay.top:80/elizandra/elizandra/857
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ANIMAL PLANET
+http://ntvplay.top:80/elizandra/elizandra/7802
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ARTE 1
+http://ntvplay.top:80/elizandra/elizandra/7923
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", AXN
+http://ntvplay.top:80/elizandra/elizandra/5308
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", AXN
+http://ntvplay.top:80/elizandra/elizandra/984
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", AXN
+http://ntvplay.top:80/elizandra/elizandra/7924
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BABY
+http://ntvplay.top:80/elizandra/elizandra/8023
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND BSB
+http://ntvplay.top:80/elizandra/elizandra/5433
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND CAMPINAS
+http://ntvplay.top:80/elizandra/elizandra/5434
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND CAMPINAS
+http://ntvplay.top:80/elizandra/elizandra/7778
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND
+http://ntvplay.top:80/elizandra/elizandra/298
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND
+http://ntvplay.top:80/elizandra/elizandra/7779
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND NEWS
+http://ntvplay.top:80/elizandra/elizandra/525
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND NEWS
+http://ntvplay.top:80/elizandra/elizandra/8047
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND RJ
+http://ntvplay.top:80/elizandra/elizandra/5435
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND RS
+http://ntvplay.top:80/elizandra/elizandra/5436
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND SERGIPE
+http://ntvplay.top:80/elizandra/elizandra/5437
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND SP
+http://ntvplay.top:80/elizandra/elizandra/5438
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND SP
+http://ntvplay.top:80/elizandra/elizandra/7780
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND SPORTS
+http://ntvplay.top:80/elizandra/elizandra/5352
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND SPORTS
+http://ntvplay.top:80/elizandra/elizandra/131
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BAND SPORTS
+http://ntvplay.top:80/elizandra/elizandra/7831
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BIS 1
+http://ntvplay.top:80/elizandra/elizandra/5243
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BIS
+http://ntvplay.top:80/elizandra/elizandra/8094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BOOMBERANG
+http://ntvplay.top:80/elizandra/elizandra/441
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", BOOMERANG
+http://ntvplay.top:80/elizandra/elizandra/8024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CAMPEONATO CATARINENSE ALTER
+http://ntvplay.top:80/elizandra/elizandra/18615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CANAL 26 ARGENTINA
+http://ntvplay.top:80/elizandra/elizandra/7774
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CANAL BRASIL
+http://ntvplay.top:80/elizandra/elizandra/313
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CANAL BRASIL
+http://ntvplay.top:80/elizandra/elizandra/7775
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CANAL SONY
+http://ntvplay.top:80/elizandra/elizandra/5305
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CANAL SONY
+http://ntvplay.top:80/elizandra/elizandra/960
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CARTOON
+http://ntvplay.top:80/elizandra/elizandra/438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CARTOON NETWORK
+http://ntvplay.top:80/elizandra/elizandra/5270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CARTOON NETWORK
+http://ntvplay.top:80/elizandra/elizandra/8025
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CBS NEWS
+http://ntvplay.top:80/elizandra/elizandra/8048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CINEMAX
+http://ntvplay.top:80/elizandra/elizandra/5147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CINEMAX
+http://ntvplay.top:80/elizandra/elizandra/395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", CINEMAX
+http://ntvplay.top:80/elizandra/elizandra/7999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", COMBATE
+http://ntvplay.top:80/elizandra/elizandra/5355
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", COMBATE
+http://ntvplay.top:80/elizandra/elizandra/853
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", COMBATE
+http://ntvplay.top:80/elizandra/elizandra/7832
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", COMEDY CENTRAL 1
+http://ntvplay.top:80/elizandra/elizandra/5244
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", COMEDY CENTRAL
+http://ntvplay.top:80/elizandra/elizandra/8026
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN 01
+http://ntvplay.top:80/elizandra/elizandra/5381
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN 02
+http://ntvplay.top:80/elizandra/elizandra/5382
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN 03
+http://ntvplay.top:80/elizandra/elizandra/5383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN 04
+http://ntvplay.top:80/elizandra/elizandra/5384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN 1
+http://ntvplay.top:80/elizandra/elizandra/7846
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN
+http://ntvplay.top:80/elizandra/elizandra/4959
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN
+http://ntvplay.top:80/elizandra/elizandra/165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DAZN 3
+http://ntvplay.top:80/elizandra/elizandra/7847
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/5176
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/7803
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY CIVILIZATION
+http://ntvplay.top:80/elizandra/elizandra/5177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY CIVILIZATION
+http://ntvplay.top:80/elizandra/elizandra/868
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY CIVILIZATION
+http://ntvplay.top:80/elizandra/elizandra/7804
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY H&H
+http://ntvplay.top:80/elizandra/elizandra/871
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY H&H
+http://ntvplay.top:80/elizandra/elizandra/7805
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY HOME & HEALTH
+http://ntvplay.top:80/elizandra/elizandra/5178
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY KIDS
+http://ntvplay.top:80/elizandra/elizandra/5255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY KIDS
+http://ntvplay.top:80/elizandra/elizandra/444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY KIDS
+http://ntvplay.top:80/elizandra/elizandra/8027
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY SCIENCE
+http://ntvplay.top:80/elizandra/elizandra/5179
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY SCIENCE
+http://ntvplay.top:80/elizandra/elizandra/874
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY SCIENCE
+http://ntvplay.top:80/elizandra/elizandra/7806
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY THEATER
+http://ntvplay.top:80/elizandra/elizandra/5180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY THEATER
+http://ntvplay.top:80/elizandra/elizandra/875
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY THEATER
+http://ntvplay.top:80/elizandra/elizandra/7807
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY TURBO
+http://ntvplay.top:80/elizandra/elizandra/5181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY TURBO
+http://ntvplay.top:80/elizandra/elizandra/866
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY TURBO
+http://ntvplay.top:80/elizandra/elizandra/7808
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY WORLD
+http://ntvplay.top:80/elizandra/elizandra/5182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY WORLD
+http://ntvplay.top:80/elizandra/elizandra/876
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISCOVERY WORLD
+http://ntvplay.top:80/elizandra/elizandra/7809
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/5268
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/449
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/8028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY JR
+http://ntvplay.top:80/elizandra/elizandra/452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY JR
+http://ntvplay.top:80/elizandra/elizandra/8029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY JUNIOR
+http://ntvplay.top:80/elizandra/elizandra/5269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY XD
+http://ntvplay.top:80/elizandra/elizandra/455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", DISNEY XD
+http://ntvplay.top:80/elizandra/elizandra/8030
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", E! 1
+http://ntvplay.top:80/elizandra/elizandra/5245
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", E!
+http://ntvplay.top:80/elizandra/elizandra/7833
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", EI PLUS
+http://ntvplay.top:80/elizandra/elizandra/5389
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", EI PLUS 1 3
+http://ntvplay.top:80/elizandra/elizandra/7817
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", EI PLUS
+http://ntvplay.top:80/elizandra/elizandra/7834
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN  BRASIL
+http://ntvplay.top:80/elizandra/elizandra/145
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN 2
+http://ntvplay.top:80/elizandra/elizandra/5363
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN 2
+http://ntvplay.top:80/elizandra/elizandra/150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN 2
+http://ntvplay.top:80/elizandra/elizandra/7835
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN BRASIL
+http://ntvplay.top:80/elizandra/elizandra/5364
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN BRASIL
+http://ntvplay.top:80/elizandra/elizandra/7836
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN EXTRA
+http://ntvplay.top:80/elizandra/elizandra/5366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN EXTRA
+http://ntvplay.top:80/elizandra/elizandra/152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN EXTRA
+http://ntvplay.top:80/elizandra/elizandra/7837
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN
+http://ntvplay.top:80/elizandra/elizandra/5365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN
+http://ntvplay.top:80/elizandra/elizandra/148
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ESPN
+http://ntvplay.top:80/elizandra/elizandra/7838
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOOD NETWORK 1
+http://ntvplay.top:80/elizandra/elizandra/5246
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOOD NETWORK
+http://ntvplay.top:80/elizandra/elizandra/8095
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX
+http://ntvplay.top:80/elizandra/elizandra/5301
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX
+http://ntvplay.top:80/elizandra/elizandra/7925
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX LIFE
+http://ntvplay.top:80/elizandra/elizandra/5302
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX LIFE
+http://ntvplay.top:80/elizandra/elizandra/8096
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX LIFE
+http://ntvplay.top:80/elizandra/elizandra/8097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX PREMIUM 1
+http://ntvplay.top:80/elizandra/elizandra/5303
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX PREMIUM 1
+http://ntvplay.top:80/elizandra/elizandra/7926
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX PREMIUM 2
+http://ntvplay.top:80/elizandra/elizandra/5304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX PREMIUM 2
+http://ntvplay.top:80/elizandra/elizandra/953
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX PREMIUM 2
+http://ntvplay.top:80/elizandra/elizandra/7927
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX SPORTS 2
+http://ntvplay.top:80/elizandra/elizandra/5359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX SPORTS 2
+http://ntvplay.top:80/elizandra/elizandra/126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX SPORTS 2
+http://ntvplay.top:80/elizandra/elizandra/7839
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX SPORTS
+http://ntvplay.top:80/elizandra/elizandra/5360
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX SPORTS
+http://ntvplay.top:80/elizandra/elizandra/123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FOX SPORTS
+http://ntvplay.top:80/elizandra/elizandra/7840
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FX
+http://ntvplay.top:80/elizandra/elizandra/5300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", FX
+http://ntvplay.top:80/elizandra/elizandra/7928
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GAZETA SP
+http://ntvplay.top:80/elizandra/elizandra/5465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO BRASILIA
+http://ntvplay.top:80/elizandra/elizandra/5009
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO BRASILIA
+http://ntvplay.top:80/elizandra/elizandra/245
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO BSB
+http://ntvplay.top:80/elizandra/elizandra/5124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO GAZETA SUL ES.
+http://ntvplay.top:80/elizandra/elizandra/5127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RJ 2
+http://ntvplay.top:80/elizandra/elizandra/4984
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RJ 2
+http://ntvplay.top:80/elizandra/elizandra/220
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO SP 2
+http://ntvplay.top:80/elizandra/elizandra/4995
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO SP 2
+http://ntvplay.top:80/elizandra/elizandra/231
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO INTERNACIONAL
+http://ntvplay.top:80/elizandra/elizandra/5128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO MATO GROSSO
+http://ntvplay.top:80/elizandra/elizandra/5020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO MINAS
+http://ntvplay.top:80/elizandra/elizandra/4987
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO MINAS
+http://ntvplay.top:80/elizandra/elizandra/5018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO MINAS
+http://ntvplay.top:80/elizandra/elizandra/223
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO NEWS
+http://ntvplay.top:80/elizandra/elizandra/5391
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO NEWS
+http://ntvplay.top:80/elizandra/elizandra/523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO NEWS
+http://ntvplay.top:80/elizandra/elizandra/8049
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO NSC FLORIANOPOLIS
+http://ntvplay.top:80/elizandra/elizandra/5016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RBS  2
+http://ntvplay.top:80/elizandra/elizandra/4982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RJ
+http://ntvplay.top:80/elizandra/elizandra/5129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RJ
+http://ntvplay.top:80/elizandra/elizandra/5012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RJ
+http://ntvplay.top:80/elizandra/elizandra/248
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RPC TV CURITIBA
+http://ntvplay.top:80/elizandra/elizandra/5000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO RPC TV CURITIBA
+http://ntvplay.top:80/elizandra/elizandra/236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO SERGIPE
+http://ntvplay.top:80/elizandra/elizandra/5130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO SP
+http://ntvplay.top:80/elizandra/elizandra/5131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO TV MIRANTE
+http://ntvplay.top:80/elizandra/elizandra/5022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO VERDES MARES
+http://ntvplay.top:80/elizandra/elizandra/4986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO VERDES MARES
+http://ntvplay.top:80/elizandra/elizandra/5014
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBO VERDES MARES
+http://ntvplay.top:80/elizandra/elizandra/222
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOBOSAT 1
+http://ntvplay.top:80/elizandra/elizandra/5247
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOOB
+http://ntvplay.top:80/elizandra/elizandra/5267
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOOB
+http://ntvplay.top:80/elizandra/elizandra/462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOOB
+http://ntvplay.top:80/elizandra/elizandra/8031
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GLOOBINHO
+http://ntvplay.top:80/elizandra/elizandra/8032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GNT 1
+http://ntvplay.top:80/elizandra/elizandra/5248
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", GNT
+http://ntvplay.top:80/elizandra/elizandra/8098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", H2
+http://ntvplay.top:80/elizandra/elizandra/5164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", H2
+http://ntvplay.top:80/elizandra/elizandra/7810
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO 2
+http://ntvplay.top:80/elizandra/elizandra/5137
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO 2
+http://ntvplay.top:80/elizandra/elizandra/387
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO FAMILY
+http://ntvplay.top:80/elizandra/elizandra/5138
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO FAMILY
+http://ntvplay.top:80/elizandra/elizandra/8001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO
+http://ntvplay.top:80/elizandra/elizandra/5139
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO
+http://ntvplay.top:80/elizandra/elizandra/384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO
+http://ntvplay.top:80/elizandra/elizandra/8000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO PLUS
+http://ntvplay.top:80/elizandra/elizandra/5140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO PLUS
+http://ntvplay.top:80/elizandra/elizandra/390
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO PLUS
+http://ntvplay.top:80/elizandra/elizandra/8002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO SIGNATURE
+http://ntvplay.top:80/elizandra/elizandra/5141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HBO SIGNATURE
+http://ntvplay.top:80/elizandra/elizandra/393
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HISTORY
+http://ntvplay.top:80/elizandra/elizandra/5162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HISTORY
+http://ntvplay.top:80/elizandra/elizandra/859
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", HISTORY
+http://ntvplay.top:80/elizandra/elizandra/7811
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ID DISCOVERY
+http://ntvplay.top:80/elizandra/elizandra/7812
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ID
+http://ntvplay.top:80/elizandra/elizandra/880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", INVESTIGATION DISCOVERY
+http://ntvplay.top:80/elizandra/elizandra/5166
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", LIFETIME 1
+http://ntvplay.top:80/elizandra/elizandra/5249
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", LIFETIME
+http://ntvplay.top:80/elizandra/elizandra/8099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAIS GLOBOSAT
+http://ntvplay.top:80/elizandra/elizandra/8100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAX
+http://ntvplay.top:80/elizandra/elizandra/5153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAX
+http://ntvplay.top:80/elizandra/elizandra/8003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAX PRIME
+http://ntvplay.top:80/elizandra/elizandra/5154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAX PRIME
+http://ntvplay.top:80/elizandra/elizandra/401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAX PRIME
+http://ntvplay.top:80/elizandra/elizandra/8004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAX UP
+http://ntvplay.top:80/elizandra/elizandra/5155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAX UP
+http://ntvplay.top:80/elizandra/elizandra/8005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MAXPRIME
+http://ntvplay.top:80/elizandra/elizandra/402
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MEGA PIX
+http://ntvplay.top:80/elizandra/elizandra/957
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MEGAPIX
+http://ntvplay.top:80/elizandra/elizandra/5299
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MEGAPIX
+http://ntvplay.top:80/elizandra/elizandra/7929
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MIAMI TV
+http://ntvplay.top:80/elizandra/elizandra/321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MTV 1
+http://ntvplay.top:80/elizandra/elizandra/5250
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MTV
+http://ntvplay.top:80/elizandra/elizandra/8101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MULTISHOW 1
+http://ntvplay.top:80/elizandra/elizandra/5251
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", MULTISHOW
+http://ntvplay.top:80/elizandra/elizandra/8102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NATGEO
+http://ntvplay.top:80/elizandra/elizandra/5184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NATGEO
+http://ntvplay.top:80/elizandra/elizandra/7813
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NATGEO KIDS
+http://ntvplay.top:80/elizandra/elizandra/5257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NATGEO KIDS
+http://ntvplay.top:80/elizandra/elizandra/447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NATGEO KIDS
+http://ntvplay.top:80/elizandra/elizandra/8033
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NATGEO WILD
+http://ntvplay.top:80/elizandra/elizandra/5186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NATGEO WILD
+http://ntvplay.top:80/elizandra/elizandra/7814
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NHK WORLD
+http://ntvplay.top:80/elizandra/elizandra/529
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NICK
+http://ntvplay.top:80/elizandra/elizandra/8034
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NICK JR
+http://ntvplay.top:80/elizandra/elizandra/459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NICK JR
+http://ntvplay.top:80/elizandra/elizandra/8035
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NICKELODEON
+http://ntvplay.top:80/elizandra/elizandra/5265
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NICKELODEON
+http://ntvplay.top:80/elizandra/elizandra/457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NICKELODEON
+http://ntvplay.top:80/elizandra/elizandra/8036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NICKJR
+http://ntvplay.top:80/elizandra/elizandra/5266
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", NOVO TEMPO
+http://ntvplay.top:80/elizandra/elizandra/8116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", OFF
+http://ntvplay.top:80/elizandra/elizandra/5377
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", OFF
+http://ntvplay.top:80/elizandra/elizandra/7844
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PARAMOUNT
+http://ntvplay.top:80/elizandra/elizandra/5298
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PARAMOUNT
+http://ntvplay.top:80/elizandra/elizandra/7930
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIER 1
+http://ntvplay.top:80/elizandra/elizandra/494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIER 2
+http://ntvplay.top:80/elizandra/elizandra/499
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIER 4 2
+http://ntvplay.top:80/elizandra/elizandra/501
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIER 5 2
+http://ntvplay.top:80/elizandra/elizandra/504
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIER 6 2
+http://ntvplay.top:80/elizandra/elizandra/506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 2
+http://ntvplay.top:80/elizandra/elizandra/5083
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 2
+http://ntvplay.top:80/elizandra/elizandra/8059
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 3
+http://ntvplay.top:80/elizandra/elizandra/5084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 3
+http://ntvplay.top:80/elizandra/elizandra/8060
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 4
+http://ntvplay.top:80/elizandra/elizandra/5085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 4
+http://ntvplay.top:80/elizandra/elizandra/8061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 5
+http://ntvplay.top:80/elizandra/elizandra/5086
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 5
+http://ntvplay.top:80/elizandra/elizandra/8062
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 6
+http://ntvplay.top:80/elizandra/elizandra/5087
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 6
+http://ntvplay.top:80/elizandra/elizandra/8063
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 7
+http://ntvplay.top:80/elizandra/elizandra/5088
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE 7
+http://ntvplay.top:80/elizandra/elizandra/8064
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE CLUBES
+http://ntvplay.top:80/elizandra/elizandra/5089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", PREMIERE CLUBES
+http://ntvplay.top:80/elizandra/elizandra/8065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RBS
+http://ntvplay.top:80/elizandra/elizandra/5208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD AMAZONAS
+http://ntvplay.top:80/elizandra/elizandra/311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD BA
+http://ntvplay.top:80/elizandra/elizandra/7784
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD DF
+http://ntvplay.top:80/elizandra/elizandra/7785
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD GO
+http://ntvplay.top:80/elizandra/elizandra/7786
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD  2
+http://ntvplay.top:80/elizandra/elizandra/309
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD
+http://ntvplay.top:80/elizandra/elizandra/7787
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD MG
+http://ntvplay.top:80/elizandra/elizandra/7788
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD NEWS ES
+http://ntvplay.top:80/elizandra/elizandra/5399
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD NEWS
+http://ntvplay.top:80/elizandra/elizandra/8050
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD PARANA
+http://ntvplay.top:80/elizandra/elizandra/310
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD RJ
+http://ntvplay.top:80/elizandra/elizandra/5416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD RJ
+http://ntvplay.top:80/elizandra/elizandra/7789
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD RS
+http://ntvplay.top:80/elizandra/elizandra/5409
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD RS
+http://ntvplay.top:80/elizandra/elizandra/7790
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD SAO JOSE RIO PRETO
+http://ntvplay.top:80/elizandra/elizandra/5410
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD SERGIPE
+http://ntvplay.top:80/elizandra/elizandra/5411
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD SP
+http://ntvplay.top:80/elizandra/elizandra/5412
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD SP
+http://ntvplay.top:80/elizandra/elizandra/7791
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD TV BELEM
+http://ntvplay.top:80/elizandra/elizandra/5413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD TV GOIANIA
+http://ntvplay.top:80/elizandra/elizandra/5447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD TV LITORAL  SANTOS
+http://ntvplay.top:80/elizandra/elizandra/5414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", RECORD TV MINAS
+http://ntvplay.top:80/elizandra/elizandra/5415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", REDE TV
+http://ntvplay.top:80/elizandra/elizandra/5448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", REDE TV
+http://ntvplay.top:80/elizandra/elizandra/7777
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT BSB
+http://ntvplay.top:80/elizandra/elizandra/5417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT CIDADE VERDE
+http://ntvplay.top:80/elizandra/elizandra/7781
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT
+http://ntvplay.top:80/elizandra/elizandra/7782
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT RJ
+http://ntvplay.top:80/elizandra/elizandra/5418
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT RS
+http://ntvplay.top:80/elizandra/elizandra/5419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT SERGIPE
+http://ntvplay.top:80/elizandra/elizandra/5420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT SP
+http://ntvplay.top:80/elizandra/elizandra/5421
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SBT SP2 2
+http://ntvplay.top:80/elizandra/elizandra/301
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SONY CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/7931
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPACE
+http://ntvplay.top:80/elizandra/elizandra/5297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPACE
+http://ntvplay.top:80/elizandra/elizandra/7932
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV 2
+http://ntvplay.top:80/elizandra/elizandra/5345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV 2
+http://ntvplay.top:80/elizandra/elizandra/7841
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV 3
+http://ntvplay.top:80/elizandra/elizandra/5346
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV 3
+http://ntvplay.top:80/elizandra/elizandra/7842
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV
+http://ntvplay.top:80/elizandra/elizandra/5344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV
+http://ntvplay.top:80/elizandra/elizandra/5347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV
+http://ntvplay.top:80/elizandra/elizandra/108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV 2
+http://ntvplay.top:80/elizandra/elizandra/111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV
+http://ntvplay.top:80/elizandra/elizandra/7843
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SPORTV 2
+http://ntvplay.top:80/elizandra/elizandra/114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", STUDIO UNIVERSAL
+http://ntvplay.top:80/elizandra/elizandra/5293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", STUDIO UNIVERSAL
+http://ntvplay.top:80/elizandra/elizandra/7933
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SYFY
+http://ntvplay.top:80/elizandra/elizandra/5294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SYFY
+http://ntvplay.top:80/elizandra/elizandra/969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", SYFY
+http://ntvplay.top:80/elizandra/elizandra/7934
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TBS
+http://ntvplay.top:80/elizandra/elizandra/5295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TBS
+http://ntvplay.top:80/elizandra/elizandra/975
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TBS
+http://ntvplay.top:80/elizandra/elizandra/7935
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TCM
+http://ntvplay.top:80/elizandra/elizandra/7936
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE ACTION
+http://ntvplay.top:80/elizandra/elizandra/5105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE ACTION
+http://ntvplay.top:80/elizandra/elizandra/341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE ACTION
+http://ntvplay.top:80/elizandra/elizandra/8072
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE CULT
+http://ntvplay.top:80/elizandra/elizandra/5106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE CULT
+http://ntvplay.top:80/elizandra/elizandra/353
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE CULT
+http://ntvplay.top:80/elizandra/elizandra/8073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE FUN
+http://ntvplay.top:80/elizandra/elizandra/5107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE FUN
+http://ntvplay.top:80/elizandra/elizandra/350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE FUN
+http://ntvplay.top:80/elizandra/elizandra/8074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE PIPOCA
+http://ntvplay.top:80/elizandra/elizandra/5108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE PIPOCA
+http://ntvplay.top:80/elizandra/elizandra/348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE PIPOCA
+http://ntvplay.top:80/elizandra/elizandra/8075
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE PREMIUM
+http://ntvplay.top:80/elizandra/elizandra/5109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE PREMIUM
+http://ntvplay.top:80/elizandra/elizandra/346
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE PREMIUM
+http://ntvplay.top:80/elizandra/elizandra/8076
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE TOUCH
+http://ntvplay.top:80/elizandra/elizandra/5110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE TOUCH
+http://ntvplay.top:80/elizandra/elizandra/344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TELECINE TOUCH
+http://ntvplay.top:80/elizandra/elizandra/8077
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TLC
+http://ntvplay.top:80/elizandra/elizandra/5290
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TLC
+http://ntvplay.top:80/elizandra/elizandra/978
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TLC
+http://ntvplay.top:80/elizandra/elizandra/8103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TNT
+http://ntvplay.top:80/elizandra/elizandra/5291
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TNT
+http://ntvplay.top:80/elizandra/elizandra/947
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TNT
+http://ntvplay.top:80/elizandra/elizandra/7937
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TNT SERIES
+http://ntvplay.top:80/elizandra/elizandra/5292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TNT SERIES
+http://ntvplay.top:80/elizandra/elizandra/949
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TNT SERIES
+http://ntvplay.top:80/elizandra/elizandra/7938
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TOONCAST
+http://ntvplay.top:80/elizandra/elizandra/8038
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV ANHAGUERA
+http://ntvplay.top:80/elizandra/elizandra/5444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV ARATU SBT BAHIA
+http://ntvplay.top:80/elizandra/elizandra/5422
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV CABRALIA BAHIA RECORD
+http://ntvplay.top:80/elizandra/elizandra/5423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV CARIOCA
+http://ntvplay.top:80/elizandra/elizandra/317
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV CULTURA
+http://ntvplay.top:80/elizandra/elizandra/315
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV GOIANIA BAND
+http://ntvplay.top:80/elizandra/elizandra/5445
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV GUARULHOS
+http://ntvplay.top:80/elizandra/elizandra/7776
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV MORENA PONTA PORA
+http://ntvplay.top:80/elizandra/elizandra/5424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV PAMPA RS
+http://ntvplay.top:80/elizandra/elizandra/318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV PARANAÍBA RECORD UBERLANDIA-MG
+http://ntvplay.top:80/elizandra/elizandra/5425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV RA TIM BUM
+http://ntvplay.top:80/elizandra/elizandra/5264
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV RA TIM BUM
+http://ntvplay.top:80/elizandra/elizandra/8037
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV SANTA CRUZ TV BAHIA -GLOBO
+http://ntvplay.top:80/elizandra/elizandra/5123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV SERRA DOURADA (SBT)
+http://ntvplay.top:80/elizandra/elizandra/5446
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV SUBAE(GLOBO BAHIA)
+http://ntvplay.top:80/elizandra/elizandra/5122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV TRIBUNA ES
+http://ntvplay.top:80/elizandra/elizandra/5455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV UP (FUTURA) PR 3
+http://ntvplay.top:80/elizandra/elizandra/7745
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV VITORIA ES
+http://ntvplay.top:80/elizandra/elizandra/5458
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TV VITORIA ES
+http://ntvplay.top:80/elizandra/elizandra/319
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", TVB RECORD CAMPINAS
+http://ntvplay.top:80/elizandra/elizandra/5459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", UNIVERSAL
+http://ntvplay.top:80/elizandra/elizandra/7939
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", UNIVERSAL TV
+http://ntvplay.top:80/elizandra/elizandra/5322
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", VH1 1
+http://ntvplay.top:80/elizandra/elizandra/5252
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", Viva 1
+http://ntvplay.top:80/elizandra/elizandra/5253
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", VIVA
+http://ntvplay.top:80/elizandra/elizandra/8104
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", WARNER CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/5296
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", WARNER CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/972
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", WARNER CHANNEL
+http://ntvplay.top:80/elizandra/elizandra/7940
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", WOOHOO
+http://ntvplay.top:80/elizandra/elizandra/7845
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TechRuthes.com", ZOOMOO
+http://ntvplay.top:80/elizandra/elizandra/8039
