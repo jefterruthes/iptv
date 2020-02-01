@@ -1,3 +1,205 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-id="tech" tvg-logo="https://techruthes.com/wp-content/uploads/2020/01/avatar-tech-ruthes.png" group-title="Atualização",Lista nova
-https://techruthes.com/wp-content/uploads/2020/01/aviso-atualização-iptv-fluxo.png
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Variedades",A&E | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2025
+#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title="Alternativos",A&E | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2402
+#EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Filmes e Séries",AMC | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2024
+#EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Documentários",Animal Planet | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2023
+#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="Documentários",Arte 1 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2022
+#EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="Filmes e Séries",AXN | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2021
+#EXTINF:-1 tvg-logo="http://iv.pe/BhC" group-title="Infantis",Baby TV | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1897
+#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="Abertos",Band SP | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1953
+#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="Notícias",BandNews | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2020
+#EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="Esportes",BandSports | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2019
+#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="BBB",BBB Cam 1 - Acompanhe a Casa | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33430
+#EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="BBB",BBB Cam 2 - Jardim | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33431
+#EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="BBB",BBB Cam 3 - Cozinha | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33432
+#EXTINF:-1 tvg-logo="http://iv.pe/F05" group-title="BBB",BBB Cam 4 - Quarto Villa | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33433
+#EXTINF:-1 tvg-logo="http://iv.pe/ofA" group-title="BBB",BBB Cam 5 - Quarto | TechRuthes.com
+http://csrv.club:80/zeus021/zraGnaR095/33434
+#EXTINF:-1 tvg-logo="http://iv.pe/ynW" group-title="BBB",BBB Cam 6 - Piscina | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33435
+#EXTINF:-1 tvg-logo="http://iv.pe/uKY" group-title="BBB",BBB Cam 7 - Cozinha VIP | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33436
+#EXTINF:-1 tvg-logo="http://iv.pe/zPe" group-title="BBB",BBB Cam 8 - Confessionario | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33437
+#EXTINF:-1 tvg-logo="http://iv.pe/QqN" group-title="BBB",BBB Cam 9 - Quarto Céu | TechRuthes.com
+http://csrv.club:80/zeus021/zraGnaR095/33438
+#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="BBB",BBB Mosaico | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/29879
+#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1952
+#EXTINF:-1 tvg-logo="http://iv.pe/t4z" group-title="H265",Boa Vontade TV | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/25363
+#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2018
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense 1 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33567
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 1 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33869
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 2 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33870
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 3 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33871
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Campeonato Catarinense Jogo 4 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33872
+#EXTINF:-1 tvg-logo="http://iv.pe/NND" group-title="Filmes e Séries",Canal Brasil | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1920
+#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="Filmes e Séries",Canal Sony | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2017
+#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Infantis",Cartoon Network | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2016
+#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="Filmes e Séries",Cinemax | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2015
+#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Esportes",Combate | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1951
+#EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title="Variedades",Comedy Central | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2014
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 1 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33873
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 2 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33874
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 3 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33875
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 4 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33876
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Copa do Nordeste 2020 5 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33975
+#EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="Documentários",Curta | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2013
+#EXTINF:-1 tvg-logo="http://iv.pe/7TG" group-title="Esportes",DAZN 1 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1642
+#EXTINF:-1 tvg-logo="http://iv.pe/vQb" group-title="Esportes",DAZN 2 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1641
+#EXTINF:-1 tvg-logo="http://iv.pe/2JP" group-title="Esportes",DAZN 3 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1640
+#EXTINF:-1 tvg-logo="http://iv.pe/pK5" group-title="Documentários",Discovery Channel | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1950
+#EXTINF:-1 tvg-logo="http://iv.pe/N8F" group-title="Variedades",Discovery H&H | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2011
+#EXTINF:-1 tvg-logo="http://iv.pe/MIw" group-title="Documentários",Discovery HGTV | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2012
+#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Infantis",Discovery Kids | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2010
+#EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title="Documentários",Discovery Science | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2009
+#EXTINF:-1 tvg-logo="http://iv.pe/aD9" group-title="Documentários",Discovery Theater | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2008
+#EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title="Variedades",Discovery Turbo | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2007
+#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Infantis",Disney Channel | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1949
+#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Infantis",Disney Jr | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1955
+#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="H265",Disney XD | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/25361
+#EXTINF:-1 tvg-logo="http://iv.pe/od8" group-title="Variedades",DogTV | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/30554
+#EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="Variedades",E! | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2005
+#EXTINF:-1 tvg-logo="http://iv.pe/C3v" group-title="Esportes",EI Plus 1 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/29887
+#EXTINF:-1 tvg-logo="http://iv.pe/sej" group-title="Esportes",EI Plus 2 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/29886
+#EXTINF:-1 tvg-logo="http://iv.pe/8K0" group-title="Esportes",EI Plus 3 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/29885
+#EXTINF:-1 tvg-logo="http://iv.pe/psU" group-title="Esportes",EI Plus 4 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/29884
+#EXTINF:-1 tvg-logo="http://iv.pe/QrH" group-title="Esportes",EI Plus 5 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/29883
+#EXTINF:-1 tvg-logo="http://iv.pe/ZJX" group-title="Esportes",EI Plus 6 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/29882
+#EXTINF:-1 tvg-logo="http://iv.pe/iqo" group-title="Esportes",Ei Plus | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1645
+#EXTINF:-1 tvg-logo="http://iv.pe/R5h" group-title="Esportes",Ei Plus | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1644
+#EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="ESPN",ESPN 2 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2004
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPN",ESPN Brasil | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1948
+#EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPN",ESPN | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1947
+#EXTINF:-1 tvg-logo="http://iv.pe/Ws8" group-title="Variedades",Fish TV | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2002
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wx99jxy.png" group-title="Esportes",FlaTV | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/33986
+#EXTINF:-1 tvg-logo="http://iv.pe/xOv" group-title="Variedades",Food Network | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2001
+#EXTINF:-1 tvg-logo="http://iv.pe/x4P" group-title="Filmes e Séries",FOX | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1946
+#EXTINF:-1 tvg-logo="http://iv.pe/jDd" group-title="Variedades",FOX Life | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/2000
+#EXTINF:-1 tvg-logo="http://iv.pe/SdR" group-title="Filmes e Séries",FOX Premium 1 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1999
+#EXTINF:-1 tvg-logo="http://iv.pe/8PZ" group-title="Filmes e Séries",FOX Premium 2 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1998
+#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Esportes",FOX Sports 2 | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1945
+#EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="Esportes",FOX Sports | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1944
+#EXTINF:-1 tvg-logo="http://iv.pe/xEJ" group-title="Abertos",Futura | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1997
+#EXTINF:-1 tvg-logo="http://iv.pe/aDs" group-title="Filmes e Séries",FX | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1996
+#EXTINF:-1 tvg-logo="http://iv.pe/5pO" group-title="Globo",Globo Brasilia | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1583
+#EXTINF:-1 tvg-logo="http://iv.pe/hng" group-title="Notícias",Globo News | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1943
+#EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="Globo",Globo RJ | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1619
+#EXTINF:-1 tvg-logo="http://iv.pe/kzK" group-title="Globo",Globo SP | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1613
+#EXTINF:-1 tvg-logo="" group-title="Esportes",GloboEsporte.com | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/28653
+#EXTINF:-1 tvg-logo="http://iv.pe/9Yr" group-title="Infantis",Gloob | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1942
+#EXTINF:-1 tvg-logo="http://iv.pe/FFX" group-title="Infantis",Gloobinho | TechRuthes.com
+http://csrv.club:80/zeus021/zraGnaR095/1995
+#EXTINF:-1 tvg-logo="http://iv.pe/NoG" group-title="Variedades",GNT | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1994
+#EXTINF:-1 tvg-logo="http://iv.pe/BwS" group-title="Documentários",H2 | TechRuthes.com
+http://csrv.club:80/zeus021/zraGnaR095/1993
+#EXTINF:-1 tvg-logo="http://iv.pe/Kcx" group-title="HBO",HBO 2 | TechRuthes.com
+http://csrv.club:80/zeus021/zraGnaR095/1941
+#EXTINF:-1 tvg-logo="http://iv.pe/ZeQ" group-title="HBO",HBO Family | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1992
+#EXTINF:-1 tvg-logo="http://iv.pe/tTM" group-title="HBO",HBO | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1940
+#EXTINF:-1 tvg-logo="http://iv.pe/orv" group-title="HBO",HBO Plus | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1991
+#EXTINF:-1 tvg-logo="http://iv.pe/pOr" group-title="HBO",HBO Signature | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1990
+#EXTINF:-1 tvg-logo="http://iv.pe/eh7" group-title="Documentários",History Channel | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1989
+#EXTINF:-1 tvg-logo="http://iv.pe/Gon" group-title="Variedades",Investigation Discovery | TechRuthes.com
+http://csrv.club:80/zeus021/zraGnaR095/1988
+#EXTINF:-1 tvg-logo="http://iv.pe/Ge2" group-title="Variedades",Lifetime | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1987
+#EXTINF:-1 tvg-logo="http://iv.pe/3uB" group-title="Variedades",Mais GloboSat | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1921
+#EXTINF:-1 tvg-logo="http://iv.pe/YRV" group-title="Filmes e Séries",MAX | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1986
+#EXTINF:-1 tvg-logo="http://iv.pe/DYa" group-title="Filmes e Séries",MAX Prime | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1985
+#EXTINF:-1 tvg-logo="http://iv.pe/Q4O" group-title="Filmes e Séries",MAX Up | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1984
+#EXTINF:-1 tvg-logo="http://iv.pe/zpf" group-title="Filmes e Séries",Megapix | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1983
+#EXTINF:-1 tvg-logo="http://iv.pe/76R" group-title="Variedades",MTV | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1982
+#EXTINF:-1 tvg-logo="http://iv.pe/zuf" group-title="Variedades",MTV Live | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR0951981
+#EXTINF:-1 tvg-logo="http://iv.pe/jtx" group-title="Variedades",Multishow | TechRuthes.com
+http://csrv.club:80/zeus021/raGnaR095/1980
