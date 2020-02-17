@@ -27,3 +27,33 @@ http://new.lista.red:80/live/Lucas3453/lp197114/85260.m3u8
 http://new.lista.red:80/live/Lucas3453/lp197114/79901.m3u8
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
 http://new.lista.red:80/live/Lucas3453/lp197114/85197.m3u8
+#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Filmes e Séries",Comedy Central
+http://new.lista.red:80/live/Lucas3453/lp197114/85665.m3u8
+#EXTINF:-1 type="stream" tvg-id="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png" group-title="Variedade",Curta!
+http://new.lista.red:80/live/Lucas3453/lp197114/84831.m3u8
+#EXTINF:-1 type="stream" tvg-id="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png" group-title="Variedade",Curta!
+http://new.lista.red:80/live/Lucas3453/lp197114/84832.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery" tvg-logo="http://iv.pe/SGu" group-title="Documentários",Discovery H&H
+http://new.lista.red:80/live/Lucas3453/lp197114/85410.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery" tvg-logo="http://iv.pe/SGu" group-title="Documentários",Discovery H&H
+http://new.lista.red:80/live/Lucas3453/lp197114/85412.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+http://new.lista.red:80/live/Lucas3453/lp197114/85403.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+http://new.lista.red:80/live/Lucas3453/lp197114/85405.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids
+http://new.lista.red:80/live/Lucas3453/lp197114/85262.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science
+http://new.lista.red:80/live/Lucas3453/lp197114/85419.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater
+http://new.lista.red:80/live/Lucas3453/lp197114/85416.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo
+http://new.lista.red:80/live/Lucas3453/lp197114/85423.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery World" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World
+http://new.lista.red:80/live/Lucas3453/lp197114/85428.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel
+http://new.lista.red:80/live/Lucas3453/lp197114/85266.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR
+http://new.lista.red:80/live/Lucas3453/lp197114/85271.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD
+http://new.lista.red:80/live/Lucas3453/lp197114/85274.m3u8
